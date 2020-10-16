@@ -1,0 +1,11 @@
+Origin: Tweakality's Repo
+Label: Tweakality's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Tweak your Reality, Tweakality
+
+SHA256:
+ d54d505356fef7f2e33b3bb3dbac77cd3565e720b402fca9363868a2249b856a 844 Packages.bz2

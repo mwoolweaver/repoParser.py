@@ -1,0 +1,48 @@
+Package: com.bxnto.hapticvol
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Benji Ledbetter
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.bxnto.hapticvol_1.0_iphoneos-arm.deb
+Size: 2928
+MD5sum: ad13953b65acda4e673812d8224ee515
+SHA1: 9967a5bb0866c0bf11656f9142af9f7da5df2a71
+SHA256: 47de525c090cf7f4187de9773017ea002cb54a7c5181f633a5f8a4f397584614
+Section: Tweaks
+Description: Gives you a buzz when changing the volume
+Author: Benji Ledbetter
+Name: HapticVol
+
+Package: com.bxnto.switchcolor
+Version: 1.0.2.1
+Architecture: iphoneos-arm
+Maintainer: Benji <benjiled@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common
+Filename: debs/com.bxnto.switchcolor_1.0.2.1_iphoneos-arm.deb
+Size: 17404
+MD5sum: 1f1bf834b8e4de5c469e67bc219d3a11
+SHA1: 4b2e7777034c9077db68e49431d98feff766fedf
+SHA256: 0c86dee77b09708d30bab6a040f0e2abeb2567a40d0cbcf7a0d6c73d5a7ad1ad
+Section: Tweaks
+Description: Customize all elements of the switches! Requires libsparkcolourpicker and Cephie.
+Author: Benji <benjiled@gmail.com>
+Depiction: https://bxnto.github.io/depictions/?p=com.bxnto.switchcolor
+Name: SwitchColors
+
+Package: com.bxnto.trannydock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Benji
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.bxnto.trannydock_1.0_iphoneos-arm.deb
+Size: 2756
+MD5sum: 37c29b387e7082543ffa7beaced49255
+SHA1: 3ee5e8e6ee971b5ab3568dbc7036fa5cf8a2e66f
+SHA256: 37db703ee2c1d7234f5754311804367c7be407d48b847f1947f1f2362ce689d6
+Section: Tweaks
+Description: Makes your dock fully transparent!
+Author: Benji
+Name: TrannyDock

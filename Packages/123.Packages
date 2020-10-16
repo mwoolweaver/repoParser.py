@@ -1,0 +1,87 @@
+Package: com.antique.minicc
+Version: 1.78
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.antique.minicc_1.78_iphoneos-arm.deb
+Size: 7574
+Installed-Size: 344
+MD5sum: c20c494951b27b5e9d9b78ce247bad74
+Description: Mini Control Center for iOS 10
+Name: MiniCC
+Author: Antique
+Depiction: https://antiquebeta.github.io/minicc.html
+
+Package: com.codesquad.annoyance
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: CodeSquad
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.codesquad.annoyance_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4834
+Installed-Size: 120
+MD5sum: 5271ef01b28e8725d914d311562b10a9
+Description: Brings a pop-up every time an icon is tapped. EVERY TIME.
+Name: Annoyance
+Author: The_Casle
+Depiction: https://codesquad-beta.github.io/cydia/depic/?p=com.codesquad.Annoyance
+
+Package: com.codesquad.notifyme
+Version: 0.0.2
+Section: Tweaks
+Maintainer: CodeSquad
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.codesquad.notifyme_0.0.2_iphoneos-arm.deb
+Size: 5354
+Installed-Size: 120
+MD5sum: 4ae2a568f08a54ab96aa333fb09b790c
+Description: Notifies you when restring was successful
+Name: NotifyMe
+Author: The_Casle
+Depiction: https://codesquad-beta.github.io/cydia/depic/?p=com.codesquad.NotifyMe
+
+Package: com.thecasle.ccdark
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: the casle
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.thecasle.ccdark_0.0.2-1+debug_iphoneos-arm.deb
+Size: 10742
+Installed-Size: 268
+MD5sum: 03af8c4c74fa4659334381175f955cb9
+Description: An awesome adjustable dark control center tweak
+Name: ccdark
+Author: the casle
+
+Package: com.yourcompany.searchbar
+Version: 1.3a-2+debug
+Section: Tweaks
+Maintainer: Mobile User
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.yourcompany.searchbar_1.3a-2+debug_iphoneos-arm.deb
+Size: 4908
+Installed-Size: 120
+MD5sum: 614ab84ce334ffbbe9e638c8068056fd
+Description: An awesome MobileSubstrate tweak!
+Name: SearchBar
+Author: Mobile User
+
+Package: com.yourcompany.searchbar
+Version: 1.3a-4+debug
+Section: Tweaks
+Maintainer: Mobile User
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.yourcompany.searchbar_1.3a-4+debug_iphoneos-arm.deb
+Size: 3544
+Installed-Size: 120
+MD5sum: 2f7eee1a4b4a756d5a90300164a7598d
+Description: An awesome MobileSubstrate tweak!
+Name: SearchBar
+Author: Mobile User
+

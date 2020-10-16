@@ -1,0 +1,399 @@
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.autotooth
+Name: AutoTooth
+Version: 1.0
+Description: Disable WiFi and or Bluetooth after a configured period of time, if no device has been connected to it
+Author: Tr1Fecta
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 7838
+Md5sum: 65e6b2c2eb3d3690758da83f01d3147e
+SHA256: b78c25d70e49d30b30c2b627a8a7da43bf5739e48e0e27bca3630af7185433dc
+Depiction: https://repo.tr1fecta.co/pack/autotooth
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/autotooth
+Filename: debs/autotooth_1.0.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.avplayerplus
+Name: AVPlayerPlus
+Version: 1.0
+Description: A tweak to add extra functionality to the AVPlayer in iOS, IOS 11 and up are supported.
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 1462
+Md5sum: 2483ae40f448b199f246ebb652cad927
+SHA256: 9e7b5f4f82923b65eb8468be0ddd03868e1ff8578eb2300dde6fcc68f02db56f
+Depiction: https://repo.tr1fecta.co/pack/avplayerplus
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/avplayerplus
+Filename: debs/avplayerplus_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.backrunner
+Name: BackRunner
+Version: 0.1.6
+Description: A tweak to keep apps running in foreground. Can be enabled/disabled per app in the Preferences. AppList required
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Size: 9332
+Md5sum: 74d4af1908466260285e2779795805ba
+SHA256: d2cfd938ebd2c7ba2ddf9230be2a3e52b7fd71bfd227d6be9d67a0bf40e0fa54
+Depiction: https://repo.tr1fecta.co/pack/backrunner
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/backrunner
+Filename: debs/backrunner_0.1.6.deb
+Maintainer: Tr1Fecta <tr1develop7@gmail.com>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.backrunner
+Name: BackRunner
+Version: 0.1.7
+Description: A tweak to keep apps running in foreground. Can be enabled/disabled per app in the Preferences. AppList required
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Size: 9366
+Md5sum: 4d7f46767c97be86d48aa53f98dcb8f2
+SHA256: 7df41dcaf8a725eee910d0c4e1f92cf83af6e520f51cc9fa9c6d649fbb8aed41
+Depiction: https://repo.tr1fecta.co/pack/backrunner
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/backrunner
+Filename: debs/backrunner_0.1.7.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.batterypercent13
+Name: BatteryPercent13
+Version: 1.0
+Description: A tweak to enable a hidden option from Apple to show the percentage of the battery in the status bar
+Author: Tr1Fecta
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 2328
+Md5sum: cd6afb6a5f41e9cfad30109842c2e22d
+SHA256: f8e930eb2bcddf7eb403136d1d39f09526408e0466409a51aa405944558e3cf1
+Depiction: https://repo.tr1fecta.co/pack/batterypercent13
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/batterypercent13
+Filename: debs/batterypercent13_1.0.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.weatherground.beta
+Name: WeatherGround (BETA)
+Version: 1.2-beta1
+Description: BETA VERSION of WeatherGround, Final version on Chariz Repo: https://repo.chariz.com
+Author: Tr1Fecta
+Section: Tweaks
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Size: 25230
+Md5sum: 249c3df34a534df7769034fcbd9a04b9
+SHA256: 6a6d38b116ca0ebaf14139696218144b1980a03dd283d4698fd219be824f8156
+Depiction: https://repo.tr1fecta.co/pack/beta
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/beta
+Filename: debs/beta_1.2-beta1.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/debs/com.yourepo.tr1fecta.beta.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.blocktext
+Name: BlockText
+Version: 1.0
+Description: Change the Title and Subtitle Text on the Blocked Passcode screen!
+Author: Tr1Fecta
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 6398
+Md5sum: 4f6f2224eaf8f834710023291da62d7e
+SHA256: a0b00aebcc8b00bd916c26d312ca79d52ac316f96504d6877c9a10c2e07d21da
+Depiction: https://repo.tr1fecta.co/pack/blocktext
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/blocktext
+Filename: debs/blocktext_1.0.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.blocktext
+Name: BlockText
+Version: 1.1
+Description: Change the Title and Subtitle Text on the Blocked Passcode screen!
+Author: Tr1Fecta
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 6854
+Md5sum: 54290304b48597ec4d710d8ef4baf0a5
+SHA256: fdfe48bb3ef4f06d75b8d30711d149e7a80f0a6195e024c9870bbc96dd25a390
+Depiction: https://repo.tr1fecta.co/pack/blocktext
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/blocktext
+Filename: debs/blocktext_1.1.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.bringbackdahaptics
+Name: BringBackDaHaptics
+Version: 1.0
+Description: A tweak to bring back haptic feedback when liking tweets on Twitter
+Author: Tr1Fecta
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 2818
+Md5sum: 46cab6f05638196980656402d5333e97
+SHA256: 5d36414dbbc9c3e73d4aaa040c6329944f85dbb18ded18d8e275186dabd1a42f
+Depiction: https://repo.tr1fecta.co/pack/bringbackdahaptics
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/bringbackdahaptics
+Filename: debs/bringbackdahaptics_1.0.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.bruhkeystm
+Name: BruhKeysTM
+Version: 1.0.1
+Description: BruhKeysTM, The official BruhKeys! Copyright:Cameren & Tr1Fecta
+Author: Cameren & Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 87104
+Md5sum: c0ddc89e19087b865fc4f618af77b36e
+SHA256: 334c56cddbcfbf04eb664247516b39f9dc58e8a692174679e9d5ac0981574b6b
+Depiction: https://repo.tr1fecta.co/pack/bruhkeystm
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/bruhkeystm
+Filename: debs/bruhkeystm_1.0.1.deb
+Maintainer: Cameren & Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.btdevicerenamer
+Name: BTDeviceRenamer
+Version: 1.0
+Description: Rename Bluetooth Devices easily
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 5428
+Md5sum: bc376f03320ad62c52a1b4f7c7c39c48
+SHA256: a0683b385dad129436bb4228634410f3728f2527627a1ae878abe2fbdba38444
+Depiction: https://repo.tr1fecta.co/pack/btdevicerenamer
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/btdevicerenamer
+Filename: debs/btdevicerenamer_1.0.deb
+Maintainer: Tr1Fecta <tr1develop7@gmail.com>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.calculatorwidget
+Name: CalculatorWidget
+Version: 1.0
+Description: An awesome HSWidgets extension!
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Widgets
+Depends: mobilesubstrate, com.dgh0st.hswidgets
+Size: 17268
+Md5sum: 23d7d80c9f546dee4999e621b6936e7f
+SHA256: 8069138b9e709352c04c528fac8da0ff632159fe5e3de0ac34599d04ea42d043
+Depiction: https://repo.tr1fecta.co/pack/calculatorwidget
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/calculatorwidget
+Filename: debs/calculatorwidget_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/36.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.donationwidget
+Name: DonationWidget
+Version: 1.0
+Description: An awesome HSWidgets extension!
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Widgets
+Depends: mobilesubstrate, com.dgh0st.hswidgets
+Size: 10594
+Md5sum: c44e936f4dfd7c1db6a8f4dc2493a3dd
+SHA256: 721e1e8c0300f6007a96c2257f1981559a082dbf4a307aeca6aa8d2a7df9e60c
+Depiction: https://repo.tr1fecta.co/pack/donationwidget
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/donationwidget
+Filename: debs/donationwidget_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/36.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.getdatpfp
+Name: GetDatPFP
+Version: 1.1.0
+Description: A tweak for Discord to copy someone's profile picture link by double tapping on their profile picture
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 28422
+Md5sum: e404ba0c2a88a30eb8f469662528f32a
+SHA256: b2b206067b0e5ae43c4a995948c94cdfa520fc7e4c345187232dfc80d563150c
+Depiction: https://repo.tr1fecta.co/pack/getdatpfp
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/getdatpfp
+Filename: debs/getdatpfp_1.1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.musicground
+Name: MusicGround
+Version: 0.1.5
+Description: An awesome MobileSubstrate tweak!
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Section: Tweaks
+Pre-Depends: firmware (>= 13.4)
+Depends: mobilesubstrate
+Conflicts: firmware (<= 13.3.1)
+Size: 13942
+Md5sum: 370e1702b68a9ea2ab2a85b11518a26a
+SHA256: b1b2e15556a6db6ee2c29a1872578387c6e871538c0a0864bc0bcfc422df991e
+Depiction: https://repo.tr1fecta.co/pack/musicground
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/musicground
+Filename: debs/musicground_0.1.5.deb
+Maintainer: Tr1Fecta
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.musicground
+Name: MusicGround
+Version: 0.2.6
+Description: An awesome MobileSubstrate tweak!
+Author: Tr1Fecta <tr1develop7@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 14806
+Md5sum: 36aef029f7e4136e329ad7f51763b802
+SHA256: 8e8b0f95d0a7c2822ade830896f6a5d819f4f6fbcc0f2197cda741e17cb6641a
+Depiction: https://repo.tr1fecta.co/pack/musicground
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/musicground
+Filename: debs/musicground_0.2.6.deb
+Maintainer: Tr1Fecta <tr1develop7@gmail.com>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+Installed-size: 168
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.nocallblur
+Name: NoCallBlur
+Version: 1.0.1
+Description: A tweak to remove the blur from the call background.
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 3228
+Md5sum: 58470b6cbcbb46eac1b08a53a961b72e
+SHA256: ec99e14340fffb8ce2f01ff99673e5156c927431c4368ae98454aa8dd1ddd79a
+Depiction: https://repo.tr1fecta.co/pack/nocallblur
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/nocallblur
+Filename: debs/nocallblur_1.0.1.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.nolockblur
+Name: NoLockBlur
+Version: 1.0
+Description: Removes the blur from the passcode view!
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 5738
+Md5sum: 6b0f118292224c894c516995754312a2
+SHA256: faed6acba19cd5e0527d9a468957d2de88c7cbba0e4adeecad6f5bed6ec1e0e5
+Depiction: https://repo.tr1fecta.co/pack/nolockblur
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/nolockblur
+Filename: debs/nolockblur_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.nomorelabels
+Name: NoMoreLabels
+Version: 1.0
+Description: A tweak to remove apps and folder name labels
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 2314
+Md5sum: 111cac36b3104833631b6e04c55cf8ee
+SHA256: bfd6b0d8d33202cac63bc87cdb7f75770a3470d6ba2cae95d03901b3c4666e40
+Depiction: https://repo.tr1fecta.co/pack/nomorelabels
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/nomorelabels
+Filename: debs/nomorelabels_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.photoswidget
+Name: PhotosWidget
+Version: 1.0
+Description: An awesome HSWidgets Photos widget!
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Widgets
+Depends: mobilesubstrate, com.dgh0st.hswidgets
+Size: 15190
+Md5sum: 9f04922077e7b725e2ba05dc1f52fdef
+SHA256: 115bb0434ad730852607019e62a7241d902926bdcaac37b5f4bc2c8f1e8cb2d3
+Depiction: https://repo.tr1fecta.co/pack/photoswidget
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/photoswidget
+Filename: debs/photoswidget_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/36.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.sirilight
+Name: SiriLight
+Version: 1.0
+Description: A tweak to hide Siri's dark blur!
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 2866
+Md5sum: ab67814da5c0ac46d0f096a2e3f4e07b
+SHA256: aec9f5c46e98e8cd410fa09b192a28754a5efbff7741e6aa856a4a7146db35db
+Depiction: https://repo.tr1fecta.co/pack/sirilight
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/sirilight
+Filename: debs/sirilight_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+
+Priority: standard
+Architecture: iphoneos-arm
+Package: com.tr1fecta.transparentdock
+Name: TransparentDock
+Version: 1.0
+Description: A tweak to make the background of the dock transparent
+Author: Tr1Fecta <tr1fecta@pm.me>
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 2306
+Md5sum: f2002bb87d212345cee48af3fce3a699
+SHA256: 8d8c85f36c1bf75c887c158fc7f92f46fb27c5eab028b37a3a7cd8688ec99867
+Depiction: https://repo.tr1fecta.co/pack/transparentdock
+SileoDepiction: https://repo.tr1fecta.co/sileo/depiction/transparentdock
+Filename: debs/transparentdock_1.0.deb
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://www.yourepo.com/images/sections/users/33.png
+

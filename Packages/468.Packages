@@ -1,0 +1,33 @@
+Package: wallpaperloader
+Version: 1.0.1-b3
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/wallpaperloader_1.0.1-b3_iphoneos-arm.deb
+Size: 11094
+MD5sum: eb74728de872138c286ac8255c19d9a0
+SHA1: cbb5a2a6b6cf45e8dec7b857e0544c6112ef2272
+SHA256: 1d157511b39786ab39c1b0107c2d6b41dd6f9723eb1a860fc07a9470975e2bf9
+Section: Tweaks
+Description: Add more default wallpapers!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/?p=wallpaperloader
+Name: WallpaperLoader
+Sileodepiction: https://skitty.xyz/repo/depictions/?s=wallpaperloader
+
+Package: xyz.skitty.sewallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Depends: wallpaperloader
+Filename: debs/xyz.skitty.sewallpapers_1.0_iphoneos-arm.deb
+Size: 47145504
+MD5sum: 48dc53370b6e98cb0ff2a084fd9124ab
+SHA1: b554ce98f10049e2be089eab82dd1ab6ec30bc92
+SHA256: 4d8403a815612297bd5442b55917959f45f5c8166e233b4dd9d322a78d0cec87
+Section: Wallpaper
+Description: The iPhone SE 2020 wallpapers.
+Author: Skitty
+Name: iPhone SE Wallpapers
+

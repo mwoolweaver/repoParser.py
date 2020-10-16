@@ -1,0 +1,47 @@
+Package: com.synnyg.floatydock
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.chpwn.iconsupport, com.muirey03.iconsupportfix | firmware (<< 13.0), applist, org.thebigboss.libcolorpicker
+Filename: ./debs/FloatyDock2.0.6.deb
+Size: 98644
+MD5sum: 63590a4e21bca170032ad9a78b263f46
+SHA1: ed46afe7ecea633191f38ada7b14dd6c9e12d441
+SHA256: 3ac01dff1598a9105341ad1237d1274ba62e2685400c11dea1f4bbd6f8f1c6d4
+Section: Tweaks
+Description: iPad dock power, for all !
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: https://synnygr.dev/repo/floatydock.php
+Name: FloatyDock
+
+Package: com.synnyg.testdeb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/testDeb.deb
+Size: 23562
+MD5sum: c725a2d7a906a006e08606cad4ba3d0f
+SHA1: 8036c89c7cda4ec10398cb0acf82646a79abae6b
+SHA256: a7a51b2755090e0252d2338a8cf38f7ad8cac0fc94d2d461e020ddde669e1cf2
+Section: Tweaks
+Description: Deb for testing Installer feature!
+Author: SynnyG <synnyg.devjb@gmail.com>
+Name: TestDeb
+
+Package: com.synnyg.upsidedown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/UpsideDown1.0.deb
+Size: 5550
+MD5sum: b8cb2028eb81d917c04b59479c90d2c5
+SHA1: d87b7c2211eba50376b6055a1e9765b3e4006fee
+SHA256: 28d6a46959126680424b002a37ec22096081a762890d122b88c38b6686b08084
+Section: Tweaks
+Description: Invert your volume buttons in landscape left
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: https://synnygr.dev/repo/upsidedown.php
+Name: UpsideDown
+

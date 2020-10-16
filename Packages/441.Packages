@@ -1,0 +1,137 @@
+Package: com.rudi.dockcolour
+Version: 1.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly
+Installed-Size: 248
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: com.rudi.nodockblur
+Filename: deb/com.rudi.dockcolour_1.0.2-1+debug_iphoneos-arm.deb
+Size: 8220
+MD5sum: bad514e9785a651cba436678be2fed6f
+SHA1: 3c7e567416b3a6ea2d101de4fcec5d0c1870c1e7
+SHA256: 7034a8912e6b888bb6ebb8c28d5e7d331272b55700955d022f1b2279f5d85b8d
+Section: Tweaks
+Description: Change the colour of the dock
+Author: Rudi Kelly
+Name: DockColour
+Depiction: https://rudikelly.github.io/repo/depictions/?p=com.rudi.dockcolour
+
+Package: com.rudi.dockcustomizer
+Version: 1.3-2+debug
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly
+Installed-Size: 212
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: com.rudi.nodockblur, com.rudi.dockcolor
+Filename: deb/com.rudi.dockcustomizer_1.3-2+debug_iphoneos-arm.deb
+Size: 8984
+MD5sum: b52c702395cd0d47f18fcbcf3a050778
+SHA1: bfabf81b3bd0b9165b2d867297fd84af0164b30d
+SHA256: d462c23ccc3790893aa1c514b38139aa3bf7f9c1550a4e487a47fea8cf5d65af
+Section: Tweaks
+Description: Customize the stock dock
+Author: Rudi Kelly
+Name: DockCustomizer
+
+Package: com.rudi.hideiconlabels
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: deb/com.rudi.hideiconlabels_1.0_iphoneos-arm.deb
+Size: 1938
+MD5sum: 5919743e46b545652a9b7cd519d74c10
+SHA1: 07f3c5eb9b5e34f92a8608ebb31e7be9fdcc05cc
+SHA256: b477937a38176fb711e51b45622cb2210860b7bab623b2b2a66f2bcfe0cd46b9
+Section: Tweaks
+Description: Hide icon labels on SpringBoard
+Author: Rudi Kelly
+Name: HideIconLabels
+Depiction: https://rudikelly.github.io/repo/depictions/?p=com.rudi.hideiconlabels
+
+Package: com.rudi.nodockblur
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: deb/com.rudi.nodockblur_1.0_iphoneos-arm.deb
+Size: 2756
+MD5sum: 8e7e74d8d0c3e7cd03b8528a6bf2dc79
+SHA1: 7fdfeceec8a4be86b7674a961233b210ccf71427
+SHA256: a1d1e5e1e3bce4b7a97661f036cd3d707958ea0bc5438cdbe738e80ee0290207
+Section: Tweaks
+Description: Hide the ugly dock blur
+Author: Rudi Kelly
+Name: NoDockBlur
+Depiction: https://rudikelly.github.io/repo/depictions/?p=com.rudi.nodockblur
+
+Package: com.rudi.noforceswitcher
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly <rudikellyy@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: deb/com.rudi.noforceswitcher_1.0_iphoneos-arm.deb
+Size: 2546
+MD5sum: 53fc319e2bb94796fe66c6075bf2d038
+SHA1: 8390fde3f884655b15bffa244801596d08b55afa
+SHA256: 3eb0ea01dc13e25499ddefb335551f0c88861286e4dabd3f918888e3ad21c612
+Section: Tweaks
+Description: Disabel the force touch gesture to bring up the app switcher
+Author: Rudi Kelly <rudikellyy@gmail.com>
+Name: NoForceSwitcher
+Depiction: https://rudikelly.github.io/repo/depictions/?p=com.rudi.noforceswitcher
+
+Package: com.rudi.rounddock
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly
+Installed-Size: 200
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.rudi.dockcustomizer, com.rudi.dockcolour
+Filename: deb/com.rudi.rounddock_1.2_iphoneos-arm.deb
+Size: 5650
+MD5sum: d25e90714fcc4305cd653944dcd5c710
+SHA1: c3aae8e80e844f2cc7ec453f5292e0dd4e9316d3
+SHA256: aa6bcf5de0fa794f490b2c05535cd1301ee38173c184b44cc27a3e64f07f1fab
+Section: Tweaks
+Description: Give the dock cool rounded corners
+Author: Rudi Kelly
+Name: RoundDock
+Depiction: https://rudikelly.github.io/repo/depictions/?p=com.rudi.rounddock
+
+Package: com.rudi.scadblock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly <rudikellyy@gmail.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: deb/com.rudi.scadblock_1.0_iphoneos-arm.deb
+Size: 2284
+MD5sum: 30c962e16d14b4fc51e9e85cedc1e053
+SHA1: c5269f6d8f8d4f4d28c200fa53db410208d2dbe7
+SHA256: 92d60b7ae4a5eae4ee60ef1aed964bdc2c1a2565cefc5b9c355e4bb880a37008
+Section: Tweaks
+Description: Blocks annoying SoundCloud ads and disables tracking
+Author: Rudi Kelly <rudikellyy@gmail.com>
+Name: SCAdBlock
+Depiction: https://rudikelly.github.io/repo/depictions/?p=com.rudi.scadblock
+
+Package: com.rudi.snapviews
+Version: 1.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Rudi Kelly <rudikellyy@gmail.com>
+Installed-Size: 244
+Depends: mobilesubstrate, preferenceloader
+Filename: deb/com.rudi.snapviews_1.2-1+debug_iphoneos-arm.deb
+Size: 21132
+MD5sum: 546747402b81fa2bff3bdd5b751172fa
+SHA1: da4fd9610e6cf1a43f0c87df91796f60f1286d91
+SHA256: 7b09c9f80ed9b31683c42709092156cb217f80a988c468b2021d1bdc319a6a5a
+Section: Tweaks
+Description: Multiply you story views on Snapchat
+Author: Rudi Kelly <rudikellyy@gmail.com>
+Name: SnapViews
+Depiction: https://rudikelly.github.io/repo/depictions/?p=com.rudi.snapviews

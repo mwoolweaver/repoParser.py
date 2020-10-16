@@ -1,0 +1,8 @@
+Origin: WhyIsItReal's Repo
+Label: WhyIsItReal's Repo
+Suite: stable
+Version: 0.1
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: WhyIsItReal's repo, with a few of my tweaks. Supports Cydia, Zebra, and Sileo.

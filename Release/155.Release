@@ -1,0 +1,8 @@
+Origin: Degrager
+Label: Degrager's Offcial Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Want a tweak or theme made by Degrager? Get it here

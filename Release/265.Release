@@ -1,0 +1,12 @@
+Origin: KodeyCodesStuff
+Label: KodeyCodesStuff
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks Made By Kodey
+
+SHA256:
+ 91637cc37ed19a1789bd9129c5b1aa9d8462f254e1f89e5e29bddc01f8c1202b 1046 Packages.bz2
+ 390d013f0ab1e9b1b3d01fd66d86b3a38ce62206c58d8c6507ec1090347c5d85 948 Packages.xz

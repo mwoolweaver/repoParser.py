@@ -1,0 +1,14 @@
+Package: com.sarimkhan.sksmartdate
+Version: 0.0.1-1
+Section: Addons (NotificationCenter)
+Maintainer: Sarim Khan
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, com.chpwn.weeloader
+Architecture: iphoneos-arm
+Filename: .//com.sarimkhan.sksmartdate_0.0.1-1_iphoneos-arm.deb
+Size: 7448
+Installed-Size: 32
+MD5sum: 96e2565bfc5f0e2743968b15c4224752
+Description: A Date widget for the notification center!
+Name: skSmartdate
+Author: Sarim Khan
+

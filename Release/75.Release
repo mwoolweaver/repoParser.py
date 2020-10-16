@@ -1,0 +1,8 @@
+Origin: Chewmieser's Repo
+Label: ChewRepo
+Suite: stable
+Version: 1.0
+Codename: crepo
+Architecture: iphoneos-arm
+Components: main
+Description: Chewmieser's development (mostly) repo. Packages here are potentially unstable.

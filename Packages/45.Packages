@@ -1,0 +1,35 @@
+Package: io.github.agentepsilon.hidedocklabels10
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: AgentEpsilon
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/io.github.agentepsilon.hidedocklabels10_0.0.1-7+debug_iphoneos-arm.deb
+Size: 3498
+MD5sum: a5f7cdcc3ff18c896fc1535fd08035d5
+SHA1: 99e6cced5af66dfb99d26066d376dc08fa749f5d
+SHA256: 7c017e77eb8193d4e4d879b0d33bef4a618375f52a03e769b6c02c150d865337
+Section: Tweaks
+Description: Hide Dock Icon Labels on iOS 10
+Author: AgentEpsilon
+Name: HideDockLabels10
+
+Package: io.github.agentepsilon.ionhollow
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: AgentEpsilon
+Depends: com.tweakingsdev.lithiumion
+Filename: Files/IonHollow.deb
+Size: 1430
+MD5sum: 327b92049ddc522e01bb22e1289d7653
+SHA1: 13bec03593241daa94be22b5592f710c35704dd9
+SHA256: d3ca6e76808aecffcc0fc596dec184070372f4d9436e463370af95079a7faf41
+Section: Themes_(Lithium_Ion)
+Description: Lithium Ion theme
+ A battery theme inspired by the default iOS battery.
+ Extends the fill to the edges of the battery.
+ I just wanted this for myself, but if you like it let me know!
+ Screenshots can be found at https://imgur.com/gallery/8vnrU
+Author: AgentEpsilon
+Name: Ion Hollow
+

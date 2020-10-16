@@ -1,0 +1,9 @@
+Origin: Tinyapps官方源
+Label: Tinyapps官方源
+Suite: stable
+Version: 1.0
+Codename: Tinyapps.cn
+Support: tinyapps@qq.com
+Architectures: iphoneos-arm
+Components: main
+Description: Fake GPS Pro, 360虚拟定位， 361一键新机 唯一官方源。 官方微信公众号：tinyapps  邮箱: tinyapps@qq.com

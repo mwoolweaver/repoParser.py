@@ -1,0 +1,119 @@
+Package: com.burritoz.aperio
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: burrit0z
+Installed-Size: 1384
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, applist, ws.hbang.common (>= 1.14)
+Filename: debs/com.burritoz.aperio_1.2.0_iphoneos-arm.deb
+Size: 256154
+MD5sum: 85779a1294d1166fa2834b11f156942c
+SHA1: 9cc66c8659ec13f4fffd7111c0177d3ee6ae2a95
+SHA256: 73b9bb554ff6258618a969f13855e6001d4befece26c9c552c0ef29ee1ce0bdd
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: burrit0z
+Depiction: https://repo.dynastic.co/depiction/332748437059534848/
+Icon: https://repo.dynastic.co/data/static/version/338673963532025856/338673963720769536?size=180
+Name: Aperio
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/332748437059534848/
+
+Package: com.burritoz.audiomessagebegone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: burrit0z
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.burritoz.audiomessagebegone_1.0_iphoneos-arm.deb
+Size: 3782
+MD5sum: eb9f1b208e87ff07ef0af4c3d608a883
+SHA1: e6b51a63162bcef3254c3d292170876ed00c378f
+SHA256: 82dc164524b8709575933d8974a8c9e53aa581e601521d07380bf34defbfae96
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: burrit0z
+Name: AudioMessageBeGone
+
+Package: com.burritoz.buzztime
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: burrit0z
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: debs/com.burritoz.buzztime_1.0_iphoneos-arm.deb
+Size: 62772
+MD5sum: 68cbd4c3d2497a6a46dacc69b0dce1d2
+SHA1: 741dedb80435365251e05ff92eadfb92503b2907
+SHA256: 0109e1c395b8088d1df888a0a2428a1638b8b7041f066fa546d0d3f088ef1685
+Section: Tweaks
+Description: Ever wanted to check the time, but either (a) don't have a watch, or (b) are in a situation where it would be socially awkward to do so? Don't worry, here's a solution! You can have your phone tell you the time by vibrating! iPhone 7 and Up. A long vibration means a value of 5 for the current digit, and a shorter one means 1. Add them up in your head, then you have a digit of the time. (It goes through all of them, though, duh.)
+Author: burrit0z
+Name: BuzzTime
+
+Package: com.burritoz.dockify
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: burrit0z
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Conflicts: com.burritoz.testing
+Filename: debs/com.burritoz.dockify_1.2.2_iphoneos-arm.deb
+Size: 14418
+MD5sum: 6cfd6b725e2ebbb3c830be1d18cf81a7
+SHA1: 35ec2a5c42cc1ee13bf06c10a4a462baced55e48
+SHA256: c2cfa6836960c1f1277503ef6c5d75fc2efeb3427533c761b7bfaf30b495f815
+Section: Tweaks
+Description: A very noice tweak to configure the dock a bit more... Lightweight and effective!
+Author: burrit0z
+Name: Dockify
+
+Package: com.burritoz.kai
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: burrit0z
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Filename: debs/com.burritoz.kai_1.3.1_iphoneos-arm.deb
+Size: 297434
+MD5sum: 5835829c85d5ae8b2344486b331bc037
+SHA1: 1adb5742c3c64af82e0239ee8934dcf27ca4a84d
+SHA256: f00db949d92aaf374b57061d455e9a6619c3b6cf04cf8eae8b1bf0b0055b759d
+Section: Tweaks
+Description: Device battery indicators on your lock screen!
+Author: burrit0z
+Name: Kai
+Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
+Depiction: https://repo.chariz.com/package/com.burritoz.kai/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.kai/depiction.json
+
+Package: com.burritoz.veloxrounder
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: burrit0z
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.burritoz.veloxrounder_1.0.0_iphoneos-arm.deb
+Size: 2540
+MD5sum: 6e6184fe09caa77df4ff76d18533921f
+SHA1: 400a36c1694b6216c7d58a6ea04fd657c8d30af7
+SHA256: 7a86a979e761603b643b842a7f112c04b47bcb12d269bd8f0f7c926003589aea
+Section: Tweaks
+Description: Rounded corners for Velox Widgets!
+Author: burrit0z
+Name: VeloxRounder
+
+Package: xyz.burritoz.thomz.multiplalite
+Version: 1.1.1~lite5
+Architecture: iphoneos-arm
+Maintainer: Thomz and burrit0z
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta
+Filename: debs/xyz.burritoz.thomz.multiplalite_1.1.1~lite5_iphoneos-arm.deb
+Size: 1124778
+MD5sum: 4e305932917fe0d53142bea4b6138b54
+SHA1: da04872c00c04e201851b8a42e4ef455c3b24f01
+SHA256: 93cee7e7c25b0494d3abc3366fdd8d7bd298446be8653719ace0899b122e5816
+Section: Tweaks
+Description: Power to your Dock
+Author: Thomz and burrit0z
+Icon: file:///Library/PreferenceBundles/MultiplaPrefs.bundle/icon@2x.png
+Name: Multipla Lite
+

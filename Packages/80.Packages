@@ -1,0 +1,137 @@
+Package: com.artikus.IcyInstaller3
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Filename: ./debs/Icy.deb
+Size: 361196
+MD5sum: 5c07455274233fbd0798ab0fb3e0d004
+SHA1: ae746808cd994a52e1ddca66fe58b4f05924584a
+SHA256: 167ba4e230fca068245be414781e7c7b3885ef3cda5c2f68a2757398e985b728
+Section: Applications
+Description: Icy is a lightweight DPKG-based package manager for iOS.
+Author: ArtikusHG
+Name: Icy
+
+Package: com.artikus.fullscreencc
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.artikus.fullscreencc_1.0.0_iphoneos-arm.deb
+Size: 5096
+MD5sum: e854b89f23686c604db1b499f31b9676
+SHA1: c1580305d953f6f06d8d8003ebfb62d2cffd29d2
+SHA256: 45399f43837b188ff2ad8a883c6f770b206687f0aa5a161bac066ebec2b88afc
+Section: Tweaks
+Description: Fullscreen control center for iOS 7 - 9.
+Author: ArtikusHG
+Name: FullscreenCC
+
+Package: com.artikus.iconbundles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 216
+Depends: winterboard
+Conflicts: com.codethemed.iconbundles
+Replaces: com.codethemed.iconbundles
+Provides: com.codethemed.iconbundles
+Filename: ./debs/com.artikus.iconbundles_1.0_iphoneos-arm.deb
+Size: 13212
+MD5sum: b1ab61fae66afbe951c7044f57ccc08c
+SHA1: 32f7f95b30d3ee71f4133e285b10bb78670e4c14
+SHA256: e9a43b99bb10d281ee1acb9ff25abf2308e055b3f6c3696bd88fb66f3cc19177
+Section: Tweaks
+Description: IconBundles fork with support for newer theme formats and a few external options.
+Author: ArtikusHG
+Name: IconBundles
+
+Package: com.artikus.neonboard
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 448
+Depends: mobilesubstrate
+Conflicts: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard
+Replaces: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
+Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
+Filename: ./debs/com.artikus.neonboard_2.0.0_iphoneos-arm.deb
+Size: 74578
+MD5sum: 3d8b480654fddf22038a49ba1a13ab52
+SHA1: ddf95fa3c02b2893336e3a69a1cf0a53b5b09eee
+SHA256: 83bf5d23cf30606921c7f13e597c873edca28efde2dd6e032bde7630623cffa2
+Section: Tweaks
+Description: A small and unfinished theming engine I made as an experiment.
+Author: ArtikusHG
+Name: NeonBoard
+
+Package: com.artikus.neonboard-lite
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 1052
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: com.artikus.neonboard, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Replaces: com.artikus.neonboard, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Provides: com.artikus.neonboard, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Filename: ./debs/com.artikus.neonboard-lite_1.3.4_iphoneos-arm.deb
+Size: 133218
+MD5sum: 627d94159e031e784f5c912c9ffc8f31
+SHA1: 4959b91f9f5b3a0d7ad06854f6461b9c42550b7c
+SHA256: 4078e5a3997bb1a3ecdac450c07e32b675336f4d747b26d3398c3195e9d880a9
+Section: Tweaks
+Description: A lightweight simple theming engine for iOS 7 - 13.
+Author: ArtikusHG
+Name: NeonBoard Lite
+
+Package: com.artikus.preferenceloader
+Version: 1.0.14
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 460
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Provides: preferenceloader (= 2.2.5)
+Filename: ./debs/com.artikus.preferenceloader_1.0.14_iphoneos-arm.deb
+Size: 35062
+MD5sum: 05a8364eb0b1a1917f5e48099a04ea16
+SHA1: db9247c633adc649bce22669ff2072b3e57cfbfd
+SHA256: 3d6a86573f006bc774d3a4131c1988bdac56a013af49e4122c7bf678366a07cb
+Section: Tweaks
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Author: ArtikusHG
+Name: PreferenceLoader
+
+Package: com.artikus.unitether
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Depends: mobilesubstrate, coreutils, coreutils-bin
+Filename: ./debs/UniTether.deb
+Size: 43690
+MD5sum: 265a926b8e0acc41294c6e7cc8dea968
+SHA1: 0d0d0c1a3a6a49b39830321bf063feb5986a4d9d
+SHA256: 15558e3f4dbb9a1284f276ff58a1dd4052306bce68f658ed2e295ca4b647fcff
+Section: Tweaks
+Description: A semi-untether? Maybe...
+Author: ArtikusHG
+Name: UniTether
+
+Package: com.artikus.valentine
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.artikus.valentine_1.1_iphoneos-arm.deb
+Size: 10578
+MD5sum: a43416ba8ce04f08302ba0475ab2a2b8
+SHA1: 5caeb15aa127cb19e9041e3ebd7a75dd5402a6e4
+SHA256: 343d8d74a1f57cebda76a01dbab7a796e234f0686797743689f5775e2029b6b8
+Section: Tweaks
+Description: iOS 14 Calendar app icon for iOS 7 - 13.
+Author: ArtikusHG
+Name: Valentine
+

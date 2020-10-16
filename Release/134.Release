@@ -1,0 +1,13 @@
+Origin: Alex Beals
+Label: Alex Beals
+Suite: stable
+Version: 1.0
+Codename: mobile
+Architectures: iphoneos-arm
+Components: main
+Description: Repository of Alex Beals
+
+MD5Sum:
+07502eb14f43396f3a9ab4c5a1a6611b 7645 Packages
+4d4b3cd5ed6d47c2856c8b9f2c3fca8a 2416 Packages.gz
+084ff01e797a19dc4f9a5b086e18ce59 2542 Packages.bz2

@@ -1,0 +1,2337 @@
+Package: com.junesiphone.lockplus10free
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Filename: ./deb/LPlus10free.deb
+Size: 12080616
+MD5sum: 5bc0bed8be28be6df2d93cdba0faec26
+SHA1: 0c973cf83b2a0bc6df342c81c74883640c9a874e
+SHA256: 15b5744110fcde17c83eaa826365166a7b297a19efec1549685024c465a7357c
+Section: Tweaks (LockHTML)
+Description: Dude, you gotta see this
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/LockPlus10Free/index.php
+Name: LockPlus10 Free
+Depends: mobilesubstrate
+
+Package: com.CL.IS2.iwidgets
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.CL.IS2.iwidgets.deb
+Size: 843036
+MD5sum: 8018eac203e907def6c0920278f350fd
+SHA1: 4cb565b13973786a97afcbbf7f659030fa68a88d
+SHA256: acf67f905b686cc5c55cc632ed72c51e65e1761f864b5c87a1aaa5862b643d53
+Section: Widgets (InfoStats2)
+Description: 3 InfoStats2 iWidgets  from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLIS2iWidgets/index.php
+Name: CL iWidgets (IS2)
+
+Package: com.CL.widgetpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.CL.widgetpack.deb
+Size: 1721486
+MD5sum: 838dcde11bf39f4e8429fe3d302c1322
+SHA1: 0abfa6088f564ad55773d214f4d83736825443c7
+SHA256: e247e1935a7a1b26fd3fc26579f71f5224184084af7087cbbf4bdd94dba5df39
+Section: Widgets
+Description: 5 iWidgets  and 2 SB from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLpack4/index.php
+Name: CL Widget Pack 4
+
+Package: com.Dacal.animatedsbhtml
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Dacal.animatedsbhtml.deb
+Size: 70145110
+MD5sum: 73596daad446465bbf2145f560445e0e
+SHA1: 2b0b24c2ef71d4266d570e21a4ef928ff5143ca0
+SHA256: 08cb5f6860d9c1f7edf331d0b3e8738340f2c79cbaa46d11afed3c591d2ed861
+Section: Widgets (SBHTML)
+Description: Awesome Animated Weather SB.
+Author: Dacal <dacal@infonie.fr>
+Depiction: https://rko1195.com/cydia/Depictions/Dacal_SBHTML/Depiction.php
+Name: Dacal's Anim_Only SBHTML
+
+Package: com.Dacal.circleweatherls
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Dacal.circleweatherls.deb
+Size: 65999094
+MD5sum: e49c79de397b41e4ae3e57575cf36029
+SHA1: b8ca21b021c3d1d5df4c3eb372261ea40a7847d7
+SHA256: 216ae9854bd0a897774b05435a287605a4aea12a279aca80180f30f5cf37427d
+Section: Widgets
+Description: Awesome Animated Weather LS.
+Author: Dacal <info@rko1195.com>
+Depiction: https://rko1195.com/cydia/Depictions/Dacal_Circle/Depiction.php
+Name: Dacal's Circleweather LS
+
+Package: com.Dacal.widgetweatherls
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Dacal.widgetweatherls.deb
+Size: 70428594
+MD5sum: 286e3bc0ca4d2a0c1565f3f8779df4fc
+SHA1: 01f1ec95ed8a56935fefd46d452d222c0947d282
+SHA256: e2629f7220e4b36e45e95cbdf84990ed975ee61b2ed2abd88eb44302ddd145be
+Section: Widgets
+Description: Awesome Animated Weather LS.
+Author: Dacal <info@rko1195.com>
+Depiction: https://rko1195.com/cydia/Depictions/Dacal/Depiction.php
+Name: Dacal's WidgetWeather LS
+
+Package: com.Essenza12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Essenza12.deb
+Size: 6966734
+MD5sum: 58a54231723b99da03d904259ae94aa0
+SHA1: 80a3202b0ffbf30032070f21e19ddd8114e27eb4
+SHA256: 8d074331e5ceff68a571681687fbfaeb7ae1a9481e8ed05b2b6999e0a5165470
+Section: Widgets
+Description: Essenza iWidget 12 by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Essenza12/index.php
+Name: Essenza iWidget 12
+
+Package: com.Essenza13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Essenza13.deb
+Size: 6515644
+MD5sum: 0763cdfec7bdc137d155ec0dccf1b17d
+SHA1: ae8818d270e85e8ae8edea18df839c53354d4b31
+SHA256: 68af56bf55602ff394e36addcb96acbdd525423b4c8d3290e1eb92c6c4557941
+Section: Widgets
+Description: Essenza iWidget 12 by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Essenza13/index.php
+Name: Essenza iWidget 13
+
+Package: com.Essenza14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Essenza14.deb
+Size: 1403652
+MD5sum: 386b43e1aab33a78b4864dbf3885b29c
+SHA1: 7970ee39c6f6459a76b84399b82e954cde8a7b4e
+SHA256: d20b87c608feaac4a48453f163c66a5094a7f0393c526990e0db8e30322155bc
+Section: Widgets
+Description: Essenza iWidget 14 by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Essenza14/index.php
+Name: Essenza iWidget 14
+
+Package: com.Kempii.widgetpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Kempii.widgetpack.deb
+Size: 1517728
+MD5sum: 73606de63c67951f044f4e55d8f8e5c1
+SHA1: 2e5c88ccffec61bb5ac9504e8b1594f50bb9b25d
+SHA256: 75bdcf84324c3c68570312957950d63ebc64642654d0429ee59e7ad847414d7b
+Section: Widgets (iWidgets)
+Description: 5 iWidgets  and 1 SB from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/KempiiWidget/index.php
+Name: Kempii Widget Pack
+
+Package: com.Liaalioo.IS2.iwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.IS2.iwidget.deb
+Size: 16998806
+MD5sum: 67af355519374318f4d5df08426346e0
+SHA1: 45bc750038ff0236746f5768d07673f995e59c24
+SHA256: 4715619a81af646e7401243f45edd26586090fcc3115e6559bc5fd72606e8653
+Section: Widgets (InfoStats2)
+Description: 1 InfoStats2 iWidget  from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/LiaIS2iWidgt/index.php
+Name: InfoStats2 iWidget (143)
+
+Package: com.Liaalioo.iwidgetpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.iwidgetpack.deb
+Size: 1058884
+MD5sum: 6474fcff18941b728cb11aac700d3f2a
+SHA1: bb43ca00c0342d60195c97fa38c70d08c80266f7
+SHA256: cb52f8441c79d790ad61af8a56df539851d17e52bf60d5f56ca91caae98b2470
+Section: Widgets (iWidgets)
+Description: A pack of 6 iWidgets  from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLiWPack/index.php
+Name: CL iWidget Pack
+
+Package: com.Liaalioo.iwidgetpack2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.iwidgetpack2.deb
+Size: 836774
+MD5sum: 3a6ebbdd5f0ec942e0cda67bb1cf8f79
+SHA1: a62a1c15373b78e8a5f137eb30840a0b76b6c653
+SHA256: 0af24fff24bed62f65c00f382e8f57a2e752049defe57e5229627e6f9f2b9015
+Section: Widgets (iWidgets)
+Description: A pack of 4 iWidgets  from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLiWPack2/index.php
+Name: CL iWidget Pack 2
+
+Package: com.Liaalioo.iwidgetpack3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.iwidgetpack3.deb
+Size: 188700
+MD5sum: d416cf55bfa709d39f16c5e17ca49b10
+SHA1: 58bbca513a86a8aa322ef0d4b0d681aa797d3262
+SHA256: c7b97a65c844ded63b6206b0337814a3b1016e8b75c23e24873835661d11f150
+Section: Widgets (iWidgets)
+Description: 3 iWidgets  from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLiWPack3/index.php
+Name: CL iWidget Pack 3
+
+Package: com.Liaalioo.lockscreenpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.lockscreenpack.deb
+Size: 14120182
+MD5sum: 6f990678f96eb0c216e6545a960af5ad
+SHA1: d7bd8f8655fcfc069271c47175ba594a50cc4d96
+SHA256: 5daf8c2410a689bce21e7da6cba01b08d0aa60b9b6ded7e0d25e279d526ee92f
+Section: Widgets
+Description: A pack of 10 LS widgets from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLLSPack/index.php
+Name: CL LS Pack
+
+Package: com.Liaalioo.lockscreenpack2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.lockscreenpack2.deb
+Size: 1145992
+MD5sum: b08a7eb7bb5e26b126e5864719db4118
+SHA1: 55481eb78a8f0abe7d300e399648d8d1056d0411
+SHA256: 4fe0417a9d35ac83558bf1c73f3b622a6046f7bd9279529f29584e7c994b2ab2
+Section: Widgets
+Description: A pack of 6 LS widgets from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLLSPack2/index.php
+Name: CL LS Pack 2
+
+Package: com.Liaalioo.lockscreenpack3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.lockscreenpack3.deb
+Size: 192588
+MD5sum: baf41879c2b87e473910f880d0aca303
+SHA1: 11b65875b2a8df06c2a5e5ba81722b2c3c5246a0
+SHA256: 9cc395e8ff0c36b239e8937abcade4c8968ad95b3fb15cb3a760a3aa90d54202
+Section: Widgets
+Description: A pack of 3 LS widgets from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLLSPack3/index.php
+Name: CL LS Pack 3
+
+Package: com.Liaalioo.sbhtmlpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.sbhtmlpack.deb
+Size: 10328566
+MD5sum: 848c7ede618f557c3b24461fca1f34bb
+SHA1: c2e33ca929ce1e79c8c7d7a01b4560178d0e6da5
+SHA256: abac929fc1dcadb6c011749b56b5e7ab11c8b4ea92e811d2cf7f5af926f2e7d0
+Section: Widgets (SBHTML)
+Description: A pack of 8 SB widgets from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLSBPack/index.php
+Name: CL SB Pack
+
+Package: com.Liaalioo.sbhtmlpack2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Liaalioo.sbhtmlpack2.deb
+Size: 171546
+MD5sum: f3a942b7f7adcedb45be31a06be3270b
+SHA1: 389b8b8acc2dbf5659119dd915ca4d3c166d3369
+SHA256: 0882e01bf1dcb61ab86dc85674f4c63843406d63a31b2271055dd0d1af20ca44
+Section: Widgets (SBHTML)
+Description: A pack of 3 SB widgets from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLSBPack2/index.php
+Name: CL SB Pack 2
+
+Package: com.Pois0nls.08
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.Pois0nls.08.deb
+Size: 4585608
+MD5sum: 22a75c0c712c49e7d7282de88c318f5f
+SHA1: 38f9b68bc2096f038977b59b72b562b5d8242007
+SHA256: 05b582920a4d87c7da05ba0f943f5fcd2aa80bc9383822639255f86d8264b52e
+Section: Widgets (InfoStats2)
+Description: LS widget by Pois0nDF for infostats 2.
+Author: Pois0nDF <yofatpapa@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Pois0nLS08/index.php
+Name: Pois0n LS.08
+
+Package: com.RK95.erza2forecastww
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.RK95.erza2forecastww.deb
+Size: 10546712
+MD5sum: ed9ebc4a175fb782ec09ebca07af8eb8
+SHA1: d92ebbe358f0f18820ab6175018c0b5f9624c774
+SHA256: 61c288f5647c9444d38a59402c8b7478563ff2c7255020473b893c721c990a8d
+Section: Widgets
+Description: This is a Ezra2 widget weather  iwidget  with touch to slide out forecast. You need iWidgets tweak and Widget Weather tweak 2 to run this. If you need anything email me. Thanks hope you like, John
+Author: RKO1195 <allenwaid@aol.com>
+Name: Ezra2_forecast WW
+Sponsor: RKO1195 http://rko1195.com
+
+Package: com.RK95.sstouchls
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.RK95.sstouchls.deb
+Size: 38312300
+MD5sum: b0ffe4abd2b30719e64d913521de42a6
+SHA1: 4f39ca3a1ae5c82ac8f96ecd114ef8dd7deee941
+SHA256: 08708391cc048f347ed75fd8a5073eed33a48897a34932b29a00a76e438f8116
+Section: Widgets (LockScreen)
+Description: SS Touch Animated Weather LS.
+Author: RKO1195 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/RK95_SS_LS/Depiction.php
+Name: RK95 SS Touch LS
+
+Package: com.V2.5wallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.V2.5wallpapers.deb
+Size: 9471302
+MD5sum: 6dcca4ad71cd0036ea3e9483713d1c11
+SHA1: 580f7535c857c6ba80af82e3516d208e9a9f12a9
+SHA256: 84bd020532d1907233756c153394baab89eaa30fc2a5403d60c99d1d15a8a59d
+Section: Wallpaper
+Description: iPhone 5 Wallpapers for Virtual 2 ( LOOK IN var/mobile/DOCUMENTS FOLDER FOR WALLS )
+Author: JedEye81 <bareknucklegraphics757@gmail.com>
+Name: iPhone 5 Wallpapers
+
+Package: com.V2.6pluswallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.V2.6pluswallpapers.deb
+Size: 22596316
+MD5sum: 013bde22b1a9030b41d8bffc8df966bf
+SHA1: 4b9550141cbc5db1018a7c4010d3d5ba6b684f0c
+SHA256: e36a4b5670760adc8d0bcbd0893f1c0695a254dd5005d5ca6c9cbfc85f993133
+Section: Wallpaper
+Description: iPhone 6 Plus Wallpapers for Virtual 2 ( LOOK IN var/mobile/ DOCUMENTS FOLDER FOR WALLS )
+Author: JedEye81 <bareknucklegraphics757@gmail.com>
+Name: iPhone 6 Plus Walls
+
+Package: com.V2.6wallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.V2.6wallpapers.deb
+Size: 13484718
+MD5sum: 313714407cab6fee08879e3cb1612e13
+SHA1: 925fb6f16159aa4a5463f915a54bdaa2aa13aeb8
+SHA256: 75cb59c4cda28ff7d7bf22355cda4f37e2ba255ca2b722874919efbf1149d983
+Section: Wallpaper
+Description: iPhone 6 Wallpapers for Virtual 2 (LOOK IN var/mobile/ DOCUMENTS FOLDER FOR WALLS )
+Author: JedEye81 <bareknucklegraphics757@gmail.com>
+Name: iPhone 6 Wallpapers
+
+Package: com.V2.ipadwallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.V2.ipadwallpapers.deb
+Size: 28433268
+MD5sum: acadf2f211c64a6c5535bc16cfcef5fa
+SHA1: d87289e7fa6ce77ddc4a3fc81ea5b89ffe651fd8
+SHA256: 7a19f209eae84beb5597d94500b14950620fd2c952dc1b92fdce19962ecc4550
+Section: Wallpaper
+Description: iPad Wallpapers for Virtual 2 ( LOOK IN var/mobile/ DOCUMENTS FOLDER FOR WALLS )
+Author: JedEye81 <bareknucklegraphics757@gmail.com>
+Name: iPad Wallpapers
+
+Package: com.V2.whitedock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.V2.whitedock.deb
+Size: 48056
+MD5sum: 0d7c76e47c4d38fad7b2b2e439fec2d4
+SHA1: 256a72cf8b0e2b4ac867e24851ff2020426d291e
+SHA256: 4a95543a55260a0fef4c15967b58636588fc4a7710018a213c5c9b5f3e075afa
+Section: Themes
+Description: Custom made white dock for V2 works on all devices iPad included. made by @StudioProz.
+Author: StudioProz <info@rko1195.com>
+Name: Custom white Dock
+
+Package: com.ah8cleanicono
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.ah8cleanicono.deb
+Size: 220890
+MD5sum: eba3fa0f0f5e06ee810ea226a538b0ba
+SHA1: 7861af664c69835ed798f7529bcee4573b99bb57
+SHA256: bea8f0a58eef29d09c1383c24ba37a0306babe3a49fd173c6c63e0424724ad4e
+Section: Themes
+Description: AH8 Clean IconOmatic  modd by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/AH8_Clean/depiction.html
+Name: Attair57 AH8 Clean
+
+Package: com.ah8iconodock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.ah8iconodock.deb
+Size: 276374
+MD5sum: c91c3c437711037f2a7273b23541eac8
+SHA1: 09c00ec05f48fc7ab5f782444a66172ee77ec654
+SHA256: 54d776adf25e870fdfdf2d905d43084d5570e8e618e54df27d5df60e9a000527
+Section: Themes
+Description: AH8 IconOmatic & Dock  by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/AH8_iconO/depiction.html
+Name: Attair57 AH8 IconO & Dock
+
+Package: com.ah8rainbowiwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.ah8rainbowiwidget.deb
+Size: 5209628
+MD5sum: 8f79c42a701838152867b169683fc587
+SHA1: b881503b0fcf3f717e485c7852f1e80943c6251a
+SHA256: 44e6446b17f3053616e3243d43001eac3b386fec4bbc1c1e25dc5fc491690ff3
+Section: Widgets
+Description: AH8 Rainbow iWidget Modd from Att57.
+Author: Attair57  <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/AH8_iWidget/depiction.html
+Name: AH8 Rainbow iWidget
+
+Package: com.ah8redlights
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.ah8redlights.deb
+Size: 1349118
+MD5sum: 37a19bfea8b9f9fd98a1e837cb42356a
+SHA1: 93330a81748a28145f3f6743b2671847b061ecd9
+SHA256: e233fb47f17e290407b5598b37af7b453b8cabb3b11a6722ef2b1270a5bf13a0
+Section: Themes
+Description: AH8 IconOmatic & Dock modd by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/AH8_Redlights/depiction.html
+Name: Attair57 AH8 Redlight
+
+Package: com.att57.customdocks
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57.customdocks.deb
+Size: 31203428
+MD5sum: d0034821ee8599a665ff8e71923525b7
+SHA1: 062a56d46ef4c612665381067692238195056dcf
+SHA256: b13e083237846a68c22f1541fceaaf36b475b849a80c0eb22a44383bc19e16e6
+Section: Themes
+Description: 6 Custom made Docks from Attair57, Works with all iPhones and iPads.
+Author: Attair57 <attair57@live.fr>
+Depiction: http://rko1195.com/cydia/Depictions/Attair57_CuDocks/Depiction.html
+Name: Attair57 Custom Docks
+
+Package: com.att57.iconodockafresco
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57.iconodockafresco.deb
+Size: 174830
+MD5sum: 1bb1a4e7870a71720e5228df3bb995e6
+SHA1: 2e407f4758a6cde946f1a2b07679e6cce7127e4d
+SHA256: 88f4eec78239cdee0b642f2682744d1c1b6eb9f960d71ee8035a6765d4b328cb
+Section: Themes
+Description: Afresco IconOmatic and Dock MODD from Attair57
+Author: Attair57 <attair57@live.fr>
+Depiction: http://rko1195.com/cydia/Depictions/Attair57_Modd/Depiction.html
+Name: Attair57 IconO & Dock
+
+Package: com.att57.iconodockvirtual2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57.iconodockvirtual2.deb
+Size: 9630148
+MD5sum: ef806e4e246634f9ac3662f205564677
+SHA1: 9ed7533e600f4a7b11988cf96262d957fcd8a5d9
+SHA256: 66e8809d03eeab180a70da0142481d648e78cd8b5621c0c42d0100275dc64ba7
+Section: Themes
+Description: Virtual 2 IconOmatic and Dock MODD from Attair57
+Author: Attair57 <attair57@live.fr>
+Depiction: http://rko1195.com/cydia/Depictions/Attair57_Modd2/Depiction.html
+Name: Attair57 IconOmatic & Dock
+
+Package: com.att57aepack3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57aepack3.deb
+Size: 580592
+MD5sum: c3d0b8fadc1516444c82fbd71c9148a6
+SHA1: c5cb33d08a2a8c355cd13deb00ac04f578e176c2
+SHA256: 543c5a87a2606b42a130d97b081cc5c3bb346fa6b6454472db80b47d6ed83d37
+Section: Themes
+Description: 6 AnemoneEffects pack by Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/AEpack3/depiction.php
+Name: Att57 AE Pack 3
+
+Package: com.att57aepack4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57aepack4.deb
+Size: 596006
+MD5sum: 804ea971ab903ef84006b4124bb5551c
+SHA1: 4adadf2a5fb7e94efa1464ba79021b6769d0bd9f
+SHA256: 45577d3c5f0e0da15fd1f37d46a297138306c0d9f575d5d2a3279094c9e92178
+Section: Themes (AnemoneEffects )
+Description: 8 AnemoneEffects  by @Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Att57pack4/index.php
+Name: Attair57  AE Pack 4
+
+Package: com.att57anemonepack
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57anemonepack.deb
+Size: 1945418
+MD5sum: e960584cc73798c31e5382b9bda56cc6
+SHA1: 3d0d5529b386c02ac78035077aeb95d05a5777ec
+SHA256: 68a86ac3940fd351eb487df7baabd0edd615052e2b0308425fc9df8a5ef0ec03
+Section: Themes
+Description: 11 AnemoneEffects pack by Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Anemonepack/depiction.php
+Name: Att57 AnemoneEffects pack
+
+Package: com.att57anemonepack2
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57anemonepack2.deb
+Size: 504610
+MD5sum: ccf3e140dee4fb9151a7dd460e8b3b8a
+SHA1: 4a97f642afcda141550a3ae3fe93cf69d2c04c53
+SHA256: 4bfa31dd91adab0d493455301c37ff6f07ebd7a38a4c48049bf2753fe3044b33
+Section: Themes
+Description: 5 AnemoneEffects pack 2 by @Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Anemonepack2/depiction.php
+Name: Att57 AnemoneEffects pack2
+
+Package: com.att57bordericono
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57bordericono.deb
+Size: 218946
+MD5sum: d0adb99725e54246a845ce0a5c16c57d
+SHA1: 29839c5aba6e4d89a7d5bc2afb2310f5582d2902
+SHA256: daffb579a9c3e53eb22eafceaee55934e9cb550150feff2b563735ee920c15ef
+Section: Themes
+Description: Syndrome border IconOmatic by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/SyndromeborderIcono/depiction.html
+Name: Att57 border IconOmatic
+
+Package: com.att57bordericono2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57bordericono2.deb
+Size: 223316
+MD5sum: de0ce80d300d71b7c58e3f32b5a68821
+SHA1: 2983b536d234ac211b7c0e4a882e43b357a6ca50
+SHA256: ffe2d96707310025c67e6b0aecd87875d15467d7ab408a245ad960956fe39c28
+Section: Themes
+Description: Syndrome Alt border IconOmatic by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/SyndromeborderIcono2/depiction.html
+Name: Att57 Syndrome IconOmatic 2
+
+Package: com.att57borealiconos
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57borealiconos.deb
+Size: 521456
+MD5sum: 6f08ba5318435de5c0a0a92089092712
+SHA1: bb96e9ca19baa295d3ecfcf39c7babf5ae9acc16
+SHA256: 5ee3e529c362aacae1119b65afe796480ddc51e938832b6e772c7f05d8b52e11
+Section: Themes
+Description: 2 Boreal IconOmatic's by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/Borealicono/depiction.html
+Name: Att57 Boreal IconOmatic's
+
+Package: com.att57centerae
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57centerae.deb
+Size: 198912
+MD5sum: b24545e294aa93c3ea8091021b0b8580
+SHA1: 91d5ffa28db5b8643160cb6a42c7db3e109e0bf9
+SHA256: 7bc2fde3f7e7f520da47f0f71e9e3daaf23f713fa4f166a755a558accf4f64b2
+Section: Themes
+Description: 1 AnemoneEffect for Rein by @Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Att57CenterAE/depiction.php
+Name: Att57 Anemone Center E
+
+Package: com.att57dockfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57dockfix.deb
+Size: 990
+MD5sum: 086e2259b7b85424f118faa4053ceefa
+SHA1: 9de9513e9696723444b0fbab0bf0f9d58f79314e
+SHA256: c953c1651b1f4fed322f4bd9cee466d738ac0fd662d810c023a76fcfe4414681
+Section: Themes
+Description: Dock fix for Anemone by @Attair57. Select above all docks "Only" if your having trouble with them.
+Author: Attair57 <Attair57@gmail.com>
+Name: Dock Fix  (Anemone)
+
+Package: com.att57docks
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57docks.deb
+Size: 1959994
+MD5sum: 4a09c3b7e84271db8167ca6828a1d094
+SHA1: 12ab953e859572ee0016cd3bfa6da37ed5b48e39
+SHA256: e27c0b322320e76b692795c58e78cbf0b81c36481a66f0407ec5f4fc042b09d0
+Section: Themes
+Description: Three clean Transparent Docks for iPhone only.
+Author: Attair57 <attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Docks/depiction.php
+Name: Att57 Trans Docks
+
+Package: com.att57docks4
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57docks4.deb
+Size: 32882660
+MD5sum: f7f994a5ed2ee0bbd743c58387c7192b
+SHA1: 3fa9d0474cc7dd782429dabe2415c1edab00590c
+SHA256: 95adf8f6f51f1f20c925fdff2dbf80d1449f086fa409027f27a15609be04464f
+Section: Themes
+Description: 4 New Docks  by @Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Att57docks4/index.php
+Name: Attair57  New Docks
+
+Package: com.att57faceframe
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57faceframe.deb
+Size: 109772
+MD5sum: fed8f2add4c6c63447cc736376382533
+SHA1: 01aa0734d8fe41c1ca4cea11e437021c77195290
+SHA256: b3029a9dbac70107b745becba6f2e96964c717e0c7ca398933d4c18df67069bf
+Section: Themes
+Description: 1 awesome AnemoneEffect  by Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Att57faceframe/depiction.php
+Name: Att57 Frame AE
+
+Package: com.att57folder
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57folder.deb
+Size: 34618
+MD5sum: b0cd70f0c0512e832eaaa1a650e6f46f
+SHA1: 8efd0e5426129606168d7788bee80bc0782ca1cd
+SHA256: 7cdc3c5dcc72be11a0d468fb90156cc0ac97934413872935dc44d1df47f61497
+Section: Themes
+Description: AnemoneEffects folder.
+Author: Attair57 <attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Folders/depiction.php
+Name: Att57 Folder BG
+
+Package: com.att57layouts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57layouts.deb
+Size: 1112
+MD5sum: eb9257593a6ca5757a2b4695c34f30c9
+SHA1: 8d5efcbcc1253eef3eae652912c7dc611f235c6d
+SHA256: dca069bafe4fd820bfef8b2597727ec8d95be0655f72c1a3f17121cdebc9ed9c
+Section: Addons (Iconoclasm)
+Description: Two Iconoclasm layouts for iPhone 6 only, one 3x5 and one 4x5 layout. Will add more layouts later.
+Author: Attair57 <attair57@gmail.com>
+Name: Att57 Iconoclasm layouts
+
+Package: com.att57lights
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57lights.deb
+Size: 192504
+MD5sum: fc6406ad3c7d4ee5b9ee876ec1cf1190
+SHA1: 3a1aff5ef4a1fbc2ec9f309da5ccf26d4164cba2
+SHA256: bb74c828a0aca15e43793d7ab6c66d37f34aa50058bcfbf350fbf06277d982ac
+Section: Themes
+Description: 1 AnemoneEffect by @Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Att57LightsAE/depiction.php
+Name: Att57 Anemone Lights
+
+Package: com.att57rectangle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57rectangle.deb
+Size: 442130
+MD5sum: fc3c5d0e2159fc3fb10bdd4cf55e8745
+SHA1: 729e82b4be22a47895fca2a025aeeec508942ad6
+SHA256: 2417e187c177807432117eb4a91eb5d82a48fe9447c6b246b24a697bde2c3f19
+Section: Themes
+Description: 5 Rectangle shape AnemoneEffects pack by Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/RectangleShape/depiction.php
+Name: Rectangle shape AE pack
+
+Package: com.att57reinbowiwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57reinbowiwidget.deb
+Size: 6587506
+MD5sum: 9fa0c8c7bdfcecdde60afff8449c04ca
+SHA1: 675904bca14bbd64b7d3edab04ad367221312e72
+SHA256: a7a856a1a0fd627b04f26859f60f635632fbc1ae7f5af9d3762d9b19f7c15f4a
+Section: Widgets
+Description: 1 iWidget mod by @Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Att57ReinBowWidget/depiction.php
+Name: Att57 ReinBow iWidget
+
+Package: com.att57reinframe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57reinframe.deb
+Size: 124544
+MD5sum: dfaa1d783924dface1f3c193b191cca6
+SHA1: 4b3726d675038ca178b74861351de4b41b44c149
+SHA256: bc8826d2abb7898f9de9aec807841f18414d153315d598942aa96651558ad918
+Section: Themes
+Description: 1 Rein AnemoneEffect  by Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia//Depictions/Att57Reinframe/depiction.php
+Name: Att57 Rein Frame AE
+
+Package: com.att57simpleios
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57simpleios.deb
+Size: 97292
+MD5sum: 5fb805e3f75556dcd81200b9d26b26b4
+SHA1: d4a45b0489753fa704e1469d15d29d6e85c63420
+SHA256: f3db430c571694b176940ca770494fe793aa951e33127693ce03f2e96de2b37b
+Section: Themes
+Description: SimpleiOS IconOmatic 2 by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/SimpleiOSiconO2/depiction.html
+Name: Att57  SimpleiOS IconO 2
+
+Package: com.att57syndrome
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57syndrome.deb
+Size: 906288
+MD5sum: dbe6eecf1a946a7d8b5a02c828f292fc
+SHA1: d574e4164458eb929a30a9157900dd60ef7f05a4
+SHA256: 2ad37177a8d434ff90ec1f5c2c4eb48f87cda56c9c8fe6f84c002812bdf7b329
+Section: Themes
+Description: Syndrome IconOmatic and Dock modd by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/Att57_Syndrome/depiction.html
+Name: Att57_Syndrome Modd
+
+Package: com.att57tdocks
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57tdocks.deb
+Size: 271144
+MD5sum: c90ccb18fd886f2a2504468ad7198630
+SHA1: f0d40afe9023e7133dedf6045f9fcced55b5b92c
+SHA256: c47890021f16e5af695dfef7ef08ddcae04804d9f31a3056842e638a9f639268
+Section: Themes
+Description: 5 Custom Docks by @Attair57.
+Author: Attair57 <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Att57TDocks/index.php
+Name: Att57 T Docks
+
+Package: com.att57terciosetuptheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.att57terciosetuptheme.deb
+Size: 2805642
+MD5sum: e01774b92a970205367c6c3868c7dce1
+SHA1: 2d109b9f74ada6708936044a0b197f513af5ca35
+SHA256: 29559e6300118edd093a5122ed765d4a966543c70fdbd28ce95feea22d1b89ef
+Section: Themes
+Description: Tercio Modd by Attair57.
+Author: Attair57  <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/Att57_Tercio/depiction.html
+Name: Att57_Tercio Modd
+
+Package: com.attair3iconomatic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.attair3iconomatic.deb
+Size: 56292
+MD5sum: 1d00be59eaf2988b3188f7771b1c0cda
+SHA1: bf221f3e8f43c9ea0b060e5bcd1257ff6606eaf5
+SHA256: f8bf139ccc863df446ad48c5a0189a0f5d785ccddb787410554c67d2f3d38f5c
+Section: Themes
+Description: Alt IconOmatic modd by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/Attair_alt_iconOmatic/depiction.html
+Name: Attair57 Alt IconOmatic
+
+Package: com.attairmarabouiconomatic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.attairmarabouiconomatic.deb
+Size: 24024
+MD5sum: b4509938d5cc8b1cbd4ef6232c7b59c4
+SHA1: facfba36f9bca64a75068dda0c6a4fa3f767a980
+SHA256: 7461f1219253bacb0e24b342d56ddf87a8a404bc3d38f8cb241986737bbefcfd
+Section: Themes
+Description: Marabou IconOmatic modd by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/Att57_Marabou2/depiction.html
+Name: Attair57 Marabou2 IconOmatic
+
+Package: com.aura3iwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.aura3iwidget.deb
+Size: 2598418
+MD5sum: 4f822d66aa729ea45d1662bd1e773829
+SHA1: 35fc495dcfa00e51ee329b50e664d022be2f13f0
+SHA256: 4e648d6c1b8a6e70628a0941790975b9eb7676300893de18e285eabbc184f657
+Section: Widgets
+Description: Aura 3 iWidget by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Aura3/index.php
+Name: Aura 3 iWidget
+
+Package: com.aura4iwidgetstatusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.aura4iwidgetstatusbar.deb
+Size: 5212284
+MD5sum: ff7c9218858921cafacc8009c97979eb
+SHA1: 415183492adeeb268823e586034156f68774e21c
+SHA256: b47ba64f61c1fbd9940819c497a1504e0e5c28d240a9e9cba71609288a5ac92f
+Section: Widgets
+Description: 2 iWidgets| Aura 4 and StatusBar 2 iWidgets by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Aura4/index.php
+Name: Aura 4 iWidget & Statusbar
+
+Package: com.b7uen1ght.theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.b7uen1ghttheme.deb
+Size: 14749368
+MD5sum: 8bb1ba267d078a977092f821a5c9fa59
+SHA1: 260ecccb31a3caead7e661524ec7871353c72427
+SHA256: 34e89c3f941211b0a52d710011d8235fa77176c82f0633da074a150f6b93b700
+Section: Themes
+Description: Beautiful Black and Blue glymph theme.
+Author: Tugayboz <tugayboz@yahoo.de>
+Depiction: https://rko1195.com/cydia/Depictions/B7ueN1ghttheme/index.php
+Name: B7ueN1ght Theme
+
+Package: com.boots.sbhtml1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.boots.sbhtml1.deb
+Size: 4414144
+MD5sum: 12d977a2fd64def7ed6f6e24490f8fe1
+SHA1: bdc7e0ecb6c70eb9ff40ecdc19e40c65e9b9c6d8
+SHA256: 5c4ae0fd8129c5a4fb695cacad3e3c4ee6d904f1fa333f7eb8b651bf0405bec4
+Section: Widgets
+Description: 1 Simple SBHTML mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: https://rko1195.com/cydia/Depictions/BootsSBHTML1/index.php
+Name: boots sbhtml 1
+
+Package: com.boots.sbhtml2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.boots.sbhtml2.deb
+Size: 4247276
+MD5sum: 075d8f9d400ec88246a04da9713f7445
+SHA1: b7592a4a63a00893fadd736b633f2891d1603680
+SHA256: 209e4f4e1f0e147107fa94e6feb53c07bf13d8a0481eab46d1df995d4cb746f4
+Section: Widgets
+Description: 1 Simple SBHTML mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: https://rko1195.com/cydia/Depictions/BootsSBHTML2/index.php
+Name: boots sbhtml 2
+
+Package: com.boots.sbhtml3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.boots.sbhtml3.deb
+Size: 4929290
+MD5sum: a5cdcbc3ef383d7fe64935b783757286
+SHA1: 19d5dd6493bc858beba629d60456154efe493c65
+SHA256: 246d65959124ef1122034f050808ec3732696b6e20ee363e88c171e08b2941ff
+Section: Widgets
+Description: 1 Simple SBHTML mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: https://rko1195.com/cydia/Depictions/BootsSBHTML3/index.php
+Name: boots sbhtml 3
+
+Package: com.boots.sbhtml4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.boots.sbhtml4.deb
+Size: 7821402
+MD5sum: 6a1c2f7ea74c0901dae6d3ef93fa08b2
+SHA1: 1e9234a5715aab1de15949b51a144660c339490b
+SHA256: 9346dac382ef1bef0b4a8402c1680128bb21bb04e2134b4b2e35ce31f7378602
+Section: Widgets
+Description: 1 Simple SBHTML mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: https://rko1195.com/cydia/Depictions/BootsSBHTML4/index.php
+Name: boots sbhtml 4
+
+Package: com.boots.sbhtml5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.boots.sbhtml5.deb
+Size: 10833410
+MD5sum: ed3c7b4a6b808964da6d5e009a51292a
+SHA1: a977a69c8d2c41b79430fe3ab0fea9b41ac1dff6
+SHA256: 44e33dae128f74e75e5f4e97d139af8c94edbf46e9638d4dbf336374ad7709a6
+Section: Widgets
+Description: 1 Simple SBHTML mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: https://rko1195.com/cydia/Depictions/BootsSBHTML5/index.php
+Name: boots sbhtml 5
+
+Package: com.bootsSB6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsSB6.deb
+Size: 21847094
+MD5sum: 941a8d90eff08fbfeafa474b6f8dc796
+SHA1: 91d66e84ef7f5f1edcb943c094fceee8b673b2f4
+SHA256: b195ebf74ed9cb50d7ce1f2253a330cabb81712bbcb42d044329095b9ef49958
+Section: Widgets
+Description: 1 simple SB mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/BootsSB6/index.php
+Name: boots SBHTML
+
+Package: com.bootsiwidget1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsiwidget1.deb
+Size: 4414312
+MD5sum: 824cbc4efb4e115ee4008dc0fd488f3f
+SHA1: 418e0c2739967b795e1289886d2f100e94cabf87
+SHA256: 4cac71707d1363618262ec9462b0c0d4f839fcf0208ddb4e0fc66d6eb523ee2e
+Section: Widgets
+Description: 1 simple iWidget mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Bootsiwidget1/index.php
+Name: boots iWidget 1
+
+Package: com.bootsiwidget2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsiwidget2.deb
+Size: 4247516
+MD5sum: 054c8558d8385ae25b7e68b735e476e3
+SHA1: 0fe70cb57deebae5bd70ae4380b221db70762c8f
+SHA256: fcd83c54d657c23661aa688e855e3ec065e549233abb76e25613b0a48c6bf228
+Section: Widgets
+Description: 1 simple iWidget mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Bootsiwidget2/index.php
+Name: boots iWidget 2
+
+Package: com.bootsiwidget3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsiwidget3.deb
+Size: 4922760
+MD5sum: d1eea5a4014e7e07b7a3f566f6adf383
+SHA1: 8a9563b3e752e47ed5bce3adaca814ace72ceea2
+SHA256: e607349b59a90b5340d2a7b3705b7460317623f1cf97d7e3c87df37dcad5f252
+Section: Widgets
+Description: 1 simple iWidget mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Bootsiwidget3/index.php
+Name: boots iWidget 3
+
+Package: com.bootsiwidget4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsiwidget4.deb
+Size: 7059106
+MD5sum: 407bf62f8720610b247b67d87f8af829
+SHA1: 1c80f96a987578200a41c9721ffe7f709289923b
+SHA256: 3bb4135bb4dd8891d0c547f7c9900465a251d4330768d234d3c1ff6773920850
+Section: Widgets
+Description: 1 simple iWidget mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Bootsiwidget4/index.php
+Name: boots iWidget 4
+
+Package: com.bootsiwidget5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsiwidget5.deb
+Size: 10827018
+MD5sum: 60b1307fa4fbac572cf83014ff7bd83a
+SHA1: a6ad568840b4762eafdb0d7630ece74793f1671e
+SHA256: 0a175bc03af8350a77373027acd5f90bf0c29f743227d8eda11c4748921ab0fc
+Section: Widgets
+Description: 1 simple iWidget mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Bootsiwidget5/index.php
+Name: boots iWidget 5
+
+Package: com.bootsiwidget6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsiwidget6.deb
+Size: 150158
+MD5sum: c7dc2eda775d1d481de54138d7a73c43
+SHA1: 0a7861ddd59e79888d68a27dc88ccae128686cd0
+SHA256: f2c0deeb8bc62cfe834bfac25ad5b7d16c59ca6964a5389171a270e35eec6176
+Section: Widgets (iWidgets)
+Description: 1 simple iWidget mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Bootsiwidget6/index.php
+Name: Boots iWidget 6
+
+Package: com.bootsls1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls1.deb
+Size: 19850340
+MD5sum: 6bbdc50b60c237f39372c95649ff9d99
+SHA1: 3e38145c57bd56a361b74248603f03514644bd20
+SHA256: 18f094428b34ca3966acd6785169a9172348b4edfec46b8743f55b903230300c
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots1/index.php
+Name: boots Simple LS 1
+
+Package: com.bootsls11
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls11.deb
+Size: 21850016
+MD5sum: 04d939f7b3ac274ecabb6a1a555c4619
+SHA1: 348859e90d498806262bdd349cb1b97999cf72d1
+SHA256: 653cb81c1eb83c87c53dbf6c14a9bcb2f0c17815085713c2eb36016eafd87c91
+Section: Widgets
+Description: 1 Simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots11/index.php
+Name: boots LS 11
+
+Package: com.bootsls12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls12.deb
+Size: 20813722
+MD5sum: c8ec87913088437c6c453f3be832f8d8
+SHA1: 5a2575917acc9f84992174a25049f23417a0e94a
+SHA256: 96502b0607ceb82b21413982efa13f6a685b1944fa2fc2b377ce5802df9990fe
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots12/index.php
+Name: boots LS 12
+
+Package: com.bootsls13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls13.deb
+Size: 19165590
+MD5sum: 9126a2c75c129911f8b5f0628f1c67d6
+SHA1: 8ffdef0b8fb8bd9ccfbd1f2ab5db85da7a738ea8
+SHA256: 614f012b48f7913c188c5027a27c5cf374a74c3c6744e897e883e16cf6085c99
+Section: Widgets
+Description: LS widget by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots13/index.php
+Name: boots LS 13
+
+Package: com.bootsls14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls14.deb
+Size: 19290492
+MD5sum: 8cdb0796738d2912431ad66aacec965b
+SHA1: 76dab04b771f07fcc501bf55b7a12f855c8b838a
+SHA256: 681cca814ad86e394da358faed382f192626fefcbf5604a178fe0c66daa59b89
+Section: Widgets
+Description: LS widget by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots14/index.php
+Name: boots LS 14
+
+Package: com.bootsls15
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls15.deb
+Size: 19323804
+MD5sum: 0c529024785cc59c4d35259b393e71ff
+SHA1: 04307a92f9b4a5a6e5c7e7e10aeaf7715ddcd33d
+SHA256: 3bee175665a376bd0f0a891f7d496c28971d829d640c70065d522d3bab3886e6
+Section: Widgets
+Description: Black or White LS widget by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots15/index.php
+Name: boots LS 15
+
+Package: com.bootsls16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls16.deb
+Size: 150080
+MD5sum: 6ce1e70f32f6bb84658d649b4ba99670
+SHA1: 23b6d50f8bbcca3e1d57e854319739ab4fa34019
+SHA256: 6bcd3e573db84514cbb5e870abb75cd701a943c9c4ac0dad389311a2d92d89be
+Section: Widgets (LockScreen)
+Description: Black or White style LS widget by @boots.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots16/index.php
+Name: boots LS 16
+
+Package: com.bootsls2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls2.deb
+Size: 16928382
+MD5sum: b524cbb231a5c9a3e920123722766da2
+SHA1: 50b2e4cddac50616955f171a6c649dedf0a90832
+SHA256: 287b6e553e958fe69ee4723f10d85148b72a5130ef4736c45189f29087f2f943
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots2/index.php
+Name: boots Simple LS 2
+
+Package: com.bootsls3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls3.deb
+Size: 17157726
+MD5sum: 0d7b484003c8b1be699ddfa9f535454e
+SHA1: a81913c7c8172da0e629adc267fb4c4087c75598
+SHA256: d4bd9b15d9b04a4335af5f8d8d7780f05ad8c39900dd6e814f346f42023ee479
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots3/index.php
+Name: boots Simple LS 3
+
+Package: com.bootsls4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls4.deb
+Size: 17144122
+MD5sum: c4fefe4ffb2ac9f773d1b9cbb5a3b4a3
+SHA1: f12e06e7a05a379a24c229fb4473fca5d3185bbf
+SHA256: 1b5ea25476629e10bb7c0f3416040c7b9280a6e2ee8c69c22179b9d311ab267b
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots4/index.php
+Name: boots Simple LS 4
+
+Package: com.bootsls5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls5.deb
+Size: 20017358
+MD5sum: 73fab4dfbda6ea22d05ee94f88f360ac
+SHA1: 1a317aad51fe307e7abd84319d4987a88127d94f
+SHA256: 7d286a1f231741b68016df2efe1cefcd3f04fe952367f4aca510c1adeda32450
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots5/index.php
+Name: boots Simple LS 5
+
+Package: com.bootsls6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls6.deb
+Size: 16895146
+MD5sum: dd7a7efc6f1e6b7980ee0814701535f0
+SHA1: f0920047ef799211130c64497912bb9f6ad00f33
+SHA256: 5309c7177e95bcfabc2b7d977a48c19147b178aca4d106cfda58ffb616432f14
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots6/index.php
+Name: boots Simple LS 6
+
+Package: com.bootsls7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls7.deb
+Size: 18645706
+MD5sum: 0e2ac5ebcbf5bc39da50cb6ea47a30da
+SHA1: 75acec32c181bb3bf4d296eca99f0405f2b48294
+SHA256: 1cdeb02c7bdf327fb4c58da60a25b839a35c5ebbce2206247ac2a904785b0f3e
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots7/index.php
+Name: boots Simple LS 7
+
+Package: com.bootsls8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls8.deb
+Size: 14626240
+MD5sum: e8fe6416a6b4f3b69a8c914f3f683c04
+SHA1: f5e2ab651496125e450257f68bd6f39a64a8ed94
+SHA256: eb6a717d9809ae62bcbe788d560fa3566ed92c718d89925d9c80d265977469c5
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots8/index.php
+Name: boots Simple LS 8
+
+Package: com.bootsls9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.bootsls9.deb
+Size: 17053508
+MD5sum: 493700a15e51010296e8b9be08937dc5
+SHA1: 8eb5b717eaf446238dac2602916bc7e81ac3cd55
+SHA256: f67781f9ff697a0d5b555f442507720b624d42c5c05c5f21820d9f2c2428c70d
+Section: Widgets
+Description: 1 simple LS mod by @boots for WW 3.
+Author: @boots <chvylvr@icloud.com>
+Depiction: http://rko1195.com/cydia/Depictions/Boots9/index.php
+Name: boots Simple LS 9
+
+Package: com.borealdocks
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.borealdocks.deb
+Size: 3584780
+MD5sum: 66c60e367da01fb7094fb704616a3887
+SHA1: 98f1ef0ddcc3e9eef45528c985b7a1372475229c
+SHA256: 5ea498e1c196cac25268d1c47068cc46335643182d5f6cc44612cb9ce104cd8c
+Section: Themes
+Description: 3 Boreal Dock's  by Attair57.
+Author: Attair57 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/Borealdocks/depiction.html
+Name: Attair57 Boreal Dock's
+
+Package: com.calendarweather
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.calendarweather.deb
+Size: 6299228
+MD5sum: ed31f4daf1586eee02bbb1c1342ac701
+SHA1: 1c970c4a2e7162f4b9a09674ced814350133c13b
+SHA256: 39c2e10988867a430db8007fbadea876f96b5b534743a2112e797f30ab62c254
+Section: Widgets
+Description: WW2 Cal & Weather iWidget by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Calendariwidget/index.php
+Name: WW2 Cal & Weather iWidget
+
+Package: com.chevyios7iwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.chevyios7iwidget.deb
+Size: 89568334
+MD5sum: e6defd1087cea5d63116c9b34b219b38
+SHA1: ddf44942ad36cdd65794a4983a46f19f8fd20dd4
+SHA256: 97a27df65b68e8e8616ef9ab6a4f2aa793b226972a8cb1a10289cd5140b4e5bb
+Section: Widgets
+Description: This is a cool iWidget from Chevymusclecar.
+Author: ChevyMuscleCar <chevymusclecar@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Chevy_iWidget/Depiction.html
+Name: iOS7_UniAW6.4 iWidget
+
+Package: com.circlewwls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.circlewwls.deb
+Size: 29808346
+MD5sum: e1c59220138875dd7cacb754e15e367f
+SHA1: 6145f2ce724adf8b6d9b0738a4b09b8e5ba0efed
+SHA256: 830a2cda3841df6f2f0018f18837a583b670e123a7140e067d79134f02841513
+Section: Widgets (LockScreen)
+Description: 1 clean circle ww 3 lockscreen.
+Author: Simon <x98car@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CircleWWLS/index.php
+Name: Circle WW LS
+
+Package: com.circlewwls2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.circlewwls2.deb
+Size: 29807058
+MD5sum: 1f992235ab5ff91b99cf36da7f2a9a6b
+SHA1: e558dc73840bf8aa0eb6abfc5ba91bb25d774065
+SHA256: 63029ae0d498fd0ca2f34d383d7153b9af0d3a2f6f2fc36cd3d34d7dbf822bf8
+Section: Widgets (LockScreen)
+Description: Gyroscope enabled Widget Weather 3 based Lockscreen widget.
+Author: Simon <x98car@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CircleWWLS2/index.php
+Name: Gyroscope WW LS
+
+Package: com.cl.iwidgetpack8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.cl.iwidgetpack8.deb
+Size: 3679832
+MD5sum: b866ee2e615b71cc26e7c11ea9dc76e8
+SHA1: 3116aff0b5216b3f3e42b52dbaa43c7c22b50319
+SHA256: 8ec32b362192031dd876f4dc64cb3b679941a24f8fcb3621bc29daf374d92bef
+Section: Widgets
+Description: 7 iWidgets and 4 SB Widgets in this pack from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/iWidgetpack8/index.php
+Name: CL iWidget and SB Pack 8
+
+Package: com.cl.lockscreenpack7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.cl.lockscreenpack7.deb
+Size: 891448
+MD5sum: 537b09f3b58e1b935818a6eb0b1a598b
+SHA1: 94be6829423f8f6118f753bf086e6513f6c1d843
+SHA256: 5b5e9c150d0269e128e3fc515fb1062172e9d6ce6533f7046420519b1d4a4401
+Section: Widgets
+Description: 7 LockScreen Widgets in this pack from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Lockscreenpack7/index.php
+Name: CL LockScreen Pack 7
+
+Package: com.cl.widgetpack5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.cl.widgetpack5.deb
+Size: 5652566
+MD5sum: 2cbcd317fb2a6e315d20ca510332a009
+SHA1: 9451335c37c8d3a6cf51dafb5845f0634fdc355e
+SHA256: 336dbfea9e26d093819ed8421b3d46911747aba59538980cbbb09417aa715d50
+Section: Widgets
+Description: 10 iWidgets  and 5 SB from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLpack5/index.php
+Name: CL Widget Pack 5
+
+Package: com.cl.widgetpack6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.cl.widgetpack6.deb
+Size: 4461324
+MD5sum: 3d09d1441c70c06fcc9125581be04888
+SHA1: f8517f3e09bdbc301f87149d929fe7c0a0281c82
+SHA256: 55a29d94169ffd1d11ddacd8f2be49a2c2402f99854027935e77fb41fdbb54d7
+Section: Widgets
+Description: 5 iWidgets, 4 LockScreens and 2 SB Widgets from Liaalioo.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/CLpack6/index.php
+Name: CL Widget Pack 6
+
+Package: com.compacticons6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: boots <chvylvr6910@yahoo.com>
+Filename: ./deb/com.compacticons6.deb
+Size: 371896
+MD5sum: 85ffec5b3f9ee7574824022847ae981d
+SHA1: 1e249fc4abc492677dcb50253a09d0e80aa82017
+SHA256: ccdbf5ef41c80676295a5f9511496fe900288c6461bd62ed081b3c7ecbc548d3
+Section: Themes
+Description: small glyphs made with a thick line.
+Author: tatosXL <chvylvr6910@yahoo.com>
+Depiction: http://rko1195.com/cydia/Depictions/Compacticons6/depiction.php
+Name: Compacticons 5/6/6s icons
+
+Package: com.compacticons6plus
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: boots <chvylvr6910@yahoo.com>
+Filename: ./deb/com.compacticons6plus.deb
+Size: 850240
+MD5sum: 10eba539b04481a0dffd996495647752
+SHA1: 8d294727a66621e4ec821bb3d3b37ac00e180925
+SHA256: 29bca318516647beb38ce66cf9473b304fe811dbb44f59c4bbceca869d3c821a
+Section: Themes
+Description: small glyphs made with a thick line.
+Author: tatosXL <chvylvr6910@yahoo.com>
+Depiction: http://rko1195.com/cydia/Depictions/Compacticons6plus/depiction.php
+Name: Compacticons 6Plus icons
+
+Package: com.countdowniwidget
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.countdowniwidget.deb
+Size: 1764242
+MD5sum: 10381eb52f8e7a4aac4d050e01ed18e7
+SHA1: b1f4fe7eb1c405ebcffbda0fba22102e1fd22f2c
+SHA256: f8aaeb16856f73b3c0f74ea51fe9f8f0de731d25034c8ddd502317ec407f54a1
+Section: Widgets
+Description: This will allow you to keep a daily countdown to a desired date, with user defined background, font style, font colour and text. HUGE thanks to Sk37cH for designing the backgrounds for this iWidget!!
+Author: Marty McFly <gmdon@rogers.com>
+Depiction: http://rko1195.com/cydia/Depictions/Depiction_Marty/Depiction.html
+Name: McFly Countdown iWidget
+Sponsor: RKO1195 <http://www.RKO1195.com>
+
+Package: com.diamondanimatedls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.diamondanimatedls.deb
+Size: 30890490
+MD5sum: 5f852ce6c7a55a481a802e82a1ca34fa
+SHA1: 87a40bfe0f67dddb95fc4f2ceefa1ebad63d1634
+SHA256: 9fdb180bba6638fc09d308d3de0950cabbc72eeb7221bdc0208f8bd14e839b64
+Section: Widgets (LockScreen)
+Description: Diamond Animated Widget Weather 3 based Lockscreen widget.
+Author: Simon <x98car@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/DiamondanimatedLS/index.php
+Name: Animated Dimond  LS
+
+Package: com.diamondwwls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.diamondwwls.deb
+Size: 30884544
+MD5sum: b79acaa91923bf81d52da89f28b4d037
+SHA1: dedb9ad6cb548f45a99dba83bf50b157e0302e46
+SHA256: 8ca02da32a2695390e24dd375861489ed07f0771c0cf06be815e3d2a692a2c80
+Section: Widgets (LockScreen)
+Description: Diamond Widget Weather 3 based Lockscreen widget by Simon.
+Author: Simon <x98car@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/DiamondWWLS/index.php
+Name: Dimond  WW LS
+
+Package: com.dubs.clockslider
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.dubs.clockslider.deb
+Size: 6561288
+MD5sum: fbb2f24df4e06e6fa207f1d36b076d0d
+SHA1: 7643b3e783bd024e19a37801c02d5fac0a1c6a42
+SHA256: 7a8e17995e738e0d6e30d2b781aa9864cae009ee9b48f9a5882a824290eb48af
+Section: Widgets
+Description: WW2 Clock Slider iWidget by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/ClockSlider/index.php
+Name: Clock Slider iWidget
+
+Package: com.dubserenity1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.dubserenity1.deb
+Size: 2684054
+MD5sum: a17c3c379b09c3b1658ad474ffcd75cb
+SHA1: 72a136209e940f72eee8874d8d8009513d4c9183
+SHA256: 20ad2734b8b5b4da1e12e848e485e5e9393d932e2173c295e62dce161f3d67a7
+Section: Widgets
+Description: Serenity iWidget by Dubs.
+Author: Dubs <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Serenitywidget/index.php
+Name: Serenity iWidget 1
+
+Package: com.dubsg4iwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.dubsg4iwidget.deb
+Size: 1031780
+MD5sum: 89a43635fec332cb028df4f38e546cc5
+SHA1: 91c6092642fe31eebde5417e8eeba6966078287f
+SHA256: f88492d3d9eb78f88f190661f7e6832c19f3e789fcdbb10d43d270da841f064b
+Section: Widgets
+Description: G4 iWidget by Dubs.
+Author: Dubs <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/G4iWidget/index.php
+Name: G4 iWidget
+
+Package: com.dubspbf3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.dubspbf3.deb
+Size: 65609922
+MD5sum: 0faea71dcc48b6f1e78d37626aca6c0f
+SHA1: 5153dbb5139310ff0cf26c37f044d75c73e9bd95
+SHA256: e1a1a272cd9d899826eb69513eba93e1ea6f2a63f445764ca9769d9e5491e82c
+Section: Widgets
+Description: iWidget PBF3 with UniAW7.1 by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/PBF3dubs/index.php
+Name: PBF3 with UniAW7.1
+
+Package: com.dubspbf4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.dubspbf4.deb
+Size: 11563514
+MD5sum: 387674c4f4953e904f188cf508e708eb
+SHA1: ad676f529429422b8030ad766b35118acb3f471b
+SHA256: 006d7ecab13e38ea56c7c0c864e3d26d5cc9daabb7bfb845663f40b6fe5d7bcc
+Section: Widgets
+Description: iWidget WW2 PBF4  by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/PBF4dubs/index.php
+Name: WW2 dubs iWidget PBF4
+
+Package: com.dubsvalentinesday
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.dubsvalentinesday.deb
+Size: 1013624
+MD5sum: 610a919e50f6b672f9f621c06ddbaedd
+SHA1: 738e07bf87ae71b3c933bca00355c10fa19a1fa3
+SHA256: b621a44c62bb1f304485c6664c2dbd2451334a335de5c2d67050304261f4fcf5
+Section: Widgets
+Description: Just a fun Valentines day iWidget by @Dubailive1.
+Author: Dubs <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Valentines/index.php
+Name: Valentines iWidget
+
+Package: com.eltheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.eltheme.deb
+Size: 27245682
+MD5sum: aca4e2e5daba345a3a4e03710e8a6341
+SHA1: 3f39af799d71f2df5101f67671baaf6c9de053d3
+SHA256: bec297c289407ddbde3ac599d932df596acd606cfef06b90eaec1f6145e0b9b0
+Section: Themes
+Description: customized picture background theme.
+Author: Liaalioo <liaaliooo@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/eLtheme/depiction.php
+Name: eL Theme
+
+Package: com.essenza15
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.essenza15.deb
+Size: 1559178
+MD5sum: 879c4fde483f68f9fad092fbb4b82a1b
+SHA1: 69a3e69c4c1d62da40981fbc9e1ad542119f1350
+SHA256: a2b0af33944aef2028ffb2c5907e285c8d095080aab13b74c37fbb108e9a9f77
+Section: Widgets
+Description: Essenza iWidget 15 by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Essenza15/index.php
+Name: Essenza iWidget 15
+
+Package: com.fadedtheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.fadedtheme.deb
+Size: 23507526
+MD5sum: f5f5494ce30551c93180e777d6702b67
+SHA1: 4b4c7d5cb56cb953f72719d175d2f1a3498fe679
+SHA256: 88501bc710b065b8d32943a426547fffe847b844897abbdef3a2429b225d4fe8
+Section: Themes
+Description: Faded landscape background with glyphs, a iOS theme .
+Author: Kicks Rocks <hbrogden82@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Fadedtheme/index.php
+Name: Faded Theme
+
+Package: com.hoenir.fenrirtheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.hoenir.fenrirtheme.deb
+Size: 14535584
+MD5sum: 4f9d098634ff2e16e87476dd263c0b18
+SHA1: 00de1cb3441cb8e2e750c121a4f20dbed4476fd7
+SHA256: e925a2153bc8953ce501625fb1054179ec88d97eba9fd365852e67b902ab9031
+Section: Themes
+Description: A classic theme by Hoenir that everyone likes!
+Author: Hoenir <Hello@Liam.sucks>
+Depiction: https://rko1195.com/cydia/Depictions/Fenrir/index.php
+Name: Fenrir Theme
+
+Package: com.hoenir.kvasirtheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.hoenir.kvasirtheme.deb
+Size: 10437256
+MD5sum: 74c9a7929f508a441d973a5518bee680
+SHA1: 2545dc44f84a71b419217d83fd1ffb655ae48dd4
+SHA256: d3f2aa4cc2403cb5ca63458d396ffe5b1e65360441dd34975c72918d70c461be
+Section: Themes
+Description: A classic theme by Hoenir that everyone likes!
+Author: Hoenir <Hello@Liam.sucks>
+Depiction: https://rko1195.com/cydia/Depictions/Kvasir/index.php
+Name: Kvasir  Theme
+
+Package: com.hoenir.lucytheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.hoenir.lucytheme.deb
+Size: 1220004
+MD5sum: 025193298fcc327488af3389943cf8af
+SHA1: c7a4775221c73aab2583c435d4692e58955c4b8a
+SHA256: db5262c3dcc725b4d4501fd87d475bac1aca4cfcf96a3bbfb5c32fec90024282
+Section: Themes
+Description: A classic theme by Hoenir that everyone likes!
+Author: Hoenir <Hello@Liam.sucks>
+Depiction: https://rko1195.com/cydia/Depictions/Lucy/index.php
+Name: Lucy Theme
+
+Package: com.hoenir.nannatheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.hoenir.nannatheme.deb
+Size: 246880
+MD5sum: dc11b2c42df4ecd37c45e80e9e90b3fd
+SHA1: 0936f4f22a2c54fdcead44a8df926e6f05183d98
+SHA256: e64f92e66e77211506c4fe66d8e9c2744753e1efe5694e5df2bab0cea626a5ca
+Section: Themes
+Description: A classic theme by Hoenir that everyone likes!
+Author: Hoenir <Hello@Liam.sucks>
+Depiction: https://rko1195.com/cydia/Depictions/Nanna/index.php
+Name: Nanna Theme
+
+Package: com.hoenir.odintheme
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.hoenir.odintheme.deb
+Size: 3489050
+MD5sum: e451edf5c78011499104afd746863de8
+SHA1: fcaa6d1d75cd03b2ac0bebb3f6df27fc4ace0ef6
+SHA256: 5637aa3df263fb2e8a278410f3f58a2d8dfdfa729be66d2042cd8d65b6cd7bdf
+Section: Themes
+Description: A classic theme by Hoenir that everyone likes!
+Author: Hoenir <Hello@Liam.sucks>
+Depiction: https://rko1195.com/cydia/Depictions/Odin/index.php
+Name: Odin Theme
+
+Package: com.iconoclasmlayouts
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.iconoclasmlayouts.deb
+Size: 1662
+MD5sum: 0f4b66ad9fb6b130e7ff83ee10ce1245
+SHA1: 3c1503f98fcf00bd41b44cb93b29e20087715b5f
+SHA256: b37632427ba7a48c659c3c4560c93b48153ec57d34d2b5f1228607b3cbfad428
+Section: Addons (Iconoclasm)
+Description: Ten Iconoclasm layouts for iPhone 6s Plus and 7 Plus devices only. made by OrangeFreddie.
+Author: OrangeFreddie <Orangefreddie@gmail.com>
+Name: Iconoclasm layouts (10)
+
+Package: com.iwidgetaura1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.iwidgetaura1.deb
+Size: 3103692
+MD5sum: 9f3d759cd616f59dd9cf8ab47c0124e0
+SHA1: 992e20b94197e9643e19bd0ee1ab3538656f3fea
+SHA256: 3c2692d8b2efb3ff99211355c9477b1380a211b7997d4598bff6d2a3e8ad2ac8
+Section: Widgets
+Description: Aura1 iWidget by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Aura1/index.php
+Name: Aura1 iWidget
+
+Package: com.iwidgetstatusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.iwidgetstatusbar.deb
+Size: 1339316
+MD5sum: 6882a99b1c043eb3745f422026089fc0
+SHA1: c90740f03f79a56b08b26b555f31edc53aba5a04
+SHA256: 6271388b459f7ac76c51480cf457b75acfab55ff9fee41d39f50b76649c7deeb
+Section: Widgets
+Description: Statusbar Aura1 iWidget by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Statusbar/index.php
+Name: Statusbar iWidget
+
+Package: com.kempiitheme
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.kempiitheme_1.4.deb
+Size: 16387048
+MD5sum: eb76f54f7262ae9162bfb77a8b1b0ae8
+SHA1: c5b6097a84e8e08984c2491a5782bfa03872f4fa
+SHA256: 04627faa4e4c88eaac453d17acf55fcba69667baeb45059e1c885b68b4a11ab0
+Section: Themes
+Description: A colorful iPhone theme for Anemone by @Sn0wd3n.
+Author: @Sn0wd3n <imillslane@yahoo.com>
+Depiction: https://rko1195.com/cydia/Depictions/Kempii/index.php
+Name: Kempii Theme
+
+Package: com.kicksdopeiwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.kicksdopeiwidget.deb
+Size: 785678
+MD5sum: 2577f7560d6e60dc73749fbbedf53fd9
+SHA1: 7ca2aee99cc9d9e63c633e88961189de3b0c9f66
+SHA256: fa6acfad2f6c9fdc43075605f792c88bdceb6a99b6085f0df515b1e8ae07e9fa
+Section: Widgets
+Description: 1 simple Dope iWidget.
+Author: Kicks Rocks <heatherbrogden82@yahoo.com>
+Depiction: http://rko1195.com/cydia/Depictions/KicksDopeWidget/depiction.php
+Name: KicksDope iWidget
+
+Package: com.klantingtheme
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.klantingtheme.deb
+Size: 16202664
+MD5sum: 070a47640a6f5f9adac7de88ce048758
+SHA1: ce532f014772a910f69c221c63c31dc16ba7b4e1
+SHA256: 5c44ceab6ac890078198f4b8bec1fe7e5c40023850a3497eb2f6c280d7a500d3
+Section: Themes
+Description: Free ported theme from Android.
+Author: Andrie Gunawan <Attair57@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Klanting/depiction.php
+Name: Klanting Theme (Anemone)
+
+Package: com.musiciwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.musiciwidget.deb
+Size: 2694486
+MD5sum: 581aa333af2c0d7df72cbbd878505cd6
+SHA1: 9484d4220b2938b692af8878170ba32fd06c4802
+SHA256: 254ccf9f626e4cc3f94b3d31af32ae631ab0e2d36e3384db3eeae2e2361246b2
+Section: Widgets
+Description: Music player Aura 2 iWidget by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Aura2Music/index.php
+Name: Aura 2 iWidget (Music player)
+
+Package: com.paradigmshift10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.paradigmshift10.deb
+Size: 36200344
+MD5sum: 93119bd36d5adf9a0a904bcacc0f5abe
+SHA1: 61571ab0bffc2eca39b6aeecdbbf88bb2b6b647f
+SHA256: a1f7524db87391963e07b8a10f9afad6100f1079ae25557c92655f51fdacafc0
+Section: Themes
+Description: A paradigm shift to what all other themes resembled.
+Author: ChevyMuscleCar <chevymusclecar@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/ParadigmShift10/index.php
+Name: Paradigm Shift 10 Theme
+
+Package: com.phantomtheme
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.phantomtheme.deb
+Size: 9142502
+MD5sum: 99f6bac70b6592b9bc36857a69fe30cf
+SHA1: a7ac4bb688b1624d0a421701d22a3eb0a3f7d40c
+SHA256: 23f978fb872772515b860705d8ef01dd4f5474ee06592885811e4d9019c96bdd
+Section: Themes
+Description: iPhone theme for Anemone and winterboard.
+Author: @Sn0wd3n <imillslane@yahoo.com>
+Depiction: https://rko1195.com/cydia/Depictions/Phantom/depiction.php
+Name: Phantom Theme
+
+Package: com.pocdocks
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.pocdocks.deb
+Size: 2460602
+MD5sum: 00573db707b3f570eb8fabcf7e06f338
+SHA1: 22b62b1b08d62afae112ae0075b97823c0bb459b
+SHA256: bff7159d37d99cf9724357c7490c56489105bfbcc184cc5b72e941b4d07c80a0
+Section: Themes
+Description: 3 Dock's by StudioProz
+Author: StudioProz <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/StudioProzdocks/depiction.html
+Name: StudioProz Boreal Dock's
+
+Package: com.poison.iwidget14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.poison.iwidget14.deb
+Size: 1809940
+MD5sum: 2f510a43e0e6fb1f27c4215321234b6f
+SHA1: 4bf54933db0856831c514e2d15988260a71a7161
+SHA256: 7310ff4bc3231d80cfe7c83ab9599c7d233d5372321c15fb047ed21ee2ba7934
+Section: Widgets (InfoStats2)
+Description: iWidget 14 from Pois0nDF.
+Author: @Pois0nDF <yofatpapa@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Pois0n14/index.php
+Name: P.iWidget 14
+
+Package: com.poison.iwidget15
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.poison.iwidget15.deb
+Size: 1390926
+MD5sum: 30bb3f03375e6d9c8b1e84a6c6f6a869
+SHA1: a9f7dec951727111f4050d7c78cd7c26154e7fac
+SHA256: 4fb77e8801f3e1d5ec39fd5ae1032c9053173397236b50609f4233705842bee1
+Section: Widgets (InfoStats2)
+Description: iWidget 15 from Pois0nDF.
+Author: @Pois0nDF <yofatpapa@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Pois0n15/index.php
+Name: P.iWidget 15
+
+Package: com.poison.iwidget16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.poison.iwidget16.deb
+Size: 1340184
+MD5sum: a45ffee865c74bb44bb9a8ef1261555b
+SHA1: c2d951fe91268c39f1b656462ddd8d8641b5ba21
+SHA256: f568a7ccb5efde25a43ad38afc7e98cbc5faa7a866d08a92c411c5e85a11dde5
+Section: Widgets (InfoStats2)
+Description: iWidget 16 from Pois0nDF.
+Author: @Pois0nDF <yofatpapa@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Pois0n16/index.php
+Name: P.iWidget 16
+
+Package: com.poison.iwidget17
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.poison.iwidget17.deb
+Size: 1423332
+MD5sum: a845b24297cfcd77b43cb7511910da12
+SHA1: 20fb6c1f89b710c719533755020e34325a4daac6
+SHA256: 0e6541f19b8c6a44d0fe545a5087dd08c3e613d68b4f6edc9357752ea818422c
+Section: Widgets (InfoStats2)
+Description: InfoStats2 iWidget 17 from Pois0nDF.
+Author: @Pois0nDF <yofatpapa@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Pois0n17/index.php
+Name: P.iWidget 17
+
+Package: com.poison.iwidget24
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.poison.iwidget24.deb
+Size: 325998
+MD5sum: 0cad5acdaeec0d7656f5e3390a067cc9
+SHA1: abec8a685f7dccfeca44a257c5b0c8e9ba5d389a
+SHA256: 4f271e74a6756e67d5a3464b1289bd8c1f105ad324eb971525eeec4a85264be7
+Section: Widgets (iWidgets)
+Description: simple iWidget 24 from Pois0nDF.
+Author: Pois0nDF <yofatpapa@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Pois0n24/index.php
+Name: P.iWidget 24
+
+Package: com.poisonls18
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.poisonls18.deb
+Size: 472118
+MD5sum: b64257859165f0a46c97859f69f8f154
+SHA1: fa764982dce3643140251fbe3b41b546fc3ba4c1
+SHA256: 1c91d07834755fe7308211260430b44a2a6b31a5da1abb29bb2869fb527bec36
+Section: Widgets (InfoStats2)
+Description: simple LS 18 from Pois0nDF.
+Author: Pois0nDF <yofatpapa@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Pois0n18/index.php
+Name: P. LS 18
+
+Package: com.rko1195.access
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: John Waid <info@rko1195.com>
+Filename: ./deb/com.rko1195.access.deb
+Size: 4063662
+MD5sum: 67114508bef7e6131e4b0614a36943fb
+SHA1: 273acdc9316d014626a175d9188e085f8b9239ca
+SHA256: 9c5dcd738e92e26df51f3fe19f559c039342447aabf897ce667dc59498ac60e9
+Section: App
+Description: Application portal for all products available on rko1195.com. Only supports 8.4 to 10.2
+Author: John Waid <info@rko1195.com>
+Depiction: https://rko1195.com/cydia/Depictions/AccessApp/index.php
+Name: Access App
+Depends: uikittools
+Priority: optional
+Dev: Matt Clarke <matt@incendo.ws>
+Tag: purpose::app, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Applications/RKO1195Access.app/AppIcon60x60@3x.png
+Chown -R _installd: _installd /Applications/RKO1195Access.app/
+
+Package: com.rko1195.access
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: John Waid <info@rko1195.com>
+Filename: ./deb/com.rko1195.access_1.2.1-1.deb
+Size: 4321432
+MD5sum: bc6694be0e15cfb4421ec7fc2695de54
+SHA1: a271b5d5ec20b43c53b0c4aff4505bdcbcd72945
+SHA256: ccbc8a94f6bd7cbb4bfda9c41671da63bed5fcf4ad43ead3fefdc51ca3bd1536
+Section: App
+Description: Application portal for all products available on rko1195.com  Supports 8.3 to 10.3
+Author: John Waid <info@rko1195.com>
+Depiction: https://rko1195.com/cydia/Depictions/AccessApp/index.php
+Name: Access App
+Depends: uikittools
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/RKO1195Access.app/AppIcon60x60@3x.png
+Chown -R _installd: _installd /Applications/RKO1195Access.app/
+
+Package: com.serenity2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.serenity2.deb
+Size: 3231814
+MD5sum: 9c26b91d87e6690c699a75a5b24b4f30
+SHA1: 15c86253084ad16e9b412672fd14ba99fe9cf5fa
+SHA256: 06f5ce0bf92f01bd8b00bc704a8c285cf1a2eac1034112e613d87a3b387564ca
+Section: Widgets
+Description: Serenity iWidget 2 by Dubs.
+Author: Dubailive <dubailive1@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Serenitywidget2/index.php
+Name: Serenity iWidget (2)
+
+Package: com.simpleios
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.simpleios.deb
+Size: 1566186
+MD5sum: afb92970cfb6d2eebc4e9703cb2a02d0
+SHA1: 792ae157ef66ece07346cf9202d537e16e42d003
+SHA256: 7194f1d4d5c0a4108bd0f7c72627227f75704523ed03e807a186162a827bcf91
+Section: Themes
+Description: a simple theme.
+Author: KiksRocks <heatherbrogden82@yahoo.com>
+Depiction: http://rko1195.com/cydia/Depictions/SimpleiOS/depiction.html
+Name: SimpleiOS Theme
+
+Package: com.simpleioslabels
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.simpleioslabels.deb
+Size: 531304
+MD5sum: 95781f89f14bd4a6dab6035cde2e8078
+SHA1: c2e7362b2b808f7ad1df2173038017abb74686af
+SHA256: 20243ac2d6d350cbe932ef17723e5bdba41ad0c57767419e5b18965a9c27d12b
+Section: Themes
+Description: a simple labels theme.
+Author: KiksRocks <heatherbrogden82@yahoo.com>
+Depiction: http://rko1195.com/cydia/Depictions/SimpleiOS_labels/depiction.html
+Name: SimpleiOS Labels theme
+
+Package: com.simplelsmod6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <repo@rko1195.com>
+Filename: ./deb/com.simplelsmod6.deb
+Size: 15522982
+MD5sum: 8d19720de570ae999a6dc0bd3b2b6391
+SHA1: a3149034e0581bb9ce587aa7b8391ef5ca9e9b94
+SHA256: fe3291dddff2aadd4426deca5a48583021295a1a5626a312676eb66c427e3b47
+Section: Widgets
+Description: Simple widget weather 3 Lockscreen mod from X98car.
+Author: Simon <x98car@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Simonmod6LS/index.php
+Name: Simple LS Mod 6
+
+Package: com.starwarsfree
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.starwarsfree.deb
+Size: 6275148
+MD5sum: 223d96fdda1b338302abca161b2c796c
+SHA1: 994ef6bbdaa9bb178ede84695ee3b2cd284518ad
+SHA256: be4dc69815b0f280d07c81a7553b1ef3e465d763878cb14262497c9090066c21
+Section: Themes
+Description: Free Star Wars mod for Rein theme.
+Author: JedEye81 <bareknucklegraphics757@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/StarWars/depiction.php
+Name: Star Wars Theme
+
+Package: com.straystaganemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.straystaganemone.deb
+Size: 2417866
+MD5sum: d599858befb6b25e9ff7dabeb001a39b
+SHA1: 3ada72d4ba5024cf0a4899d9e9868b6c79623cb2
+SHA256: 99b632aaac182595f8b11f96521e311d0a0e49a80b3a4344a7051888493c4432
+Section: Themes
+Description: For Anemone only version.
+Author: @Sn0wd3n <imillslane@yahoo.com>
+Depiction: http://rko1195.com/cydia/Depictions/StrayStagAE/depiction.php
+Name: Stray Stag Theme
+
+Package: com.straystagwb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.straystagwb.deb
+Size: 4809896
+MD5sum: 6ad3001222274d62f378cf537c3fe089
+SHA1: 6e736f0bc5e28197cc2de2c7303e498347dbec5c
+SHA256: 19084f4042332bda4148e9e31754f0fcfb773a6ea35d076a8a990fbf139deef9
+Section: Themes
+Description: For Winterboard only version.
+Author: @Sn0wd3n <imillslane@yahoo.com>
+Depiction: http://rko1195.com/cydia/Depictions/StrayStagWB/depiction.php
+Name: Stray Stag Theme
+
+Package: com.vcreamtheme
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.vcreamtheme.deb
+Size: 4409966
+MD5sum: 7d54b3980d606d6b255ca6a11aa42f95
+SHA1: 1baecac10fb7cf7402abebe17a6b56780affde05
+SHA256: 0e03bf052aa72c70333b94c0fb2a2f1172759e6db8a1c2e5d195227aab2bcc2e
+Section: Themes
+Description: V2 Cream is a white concept with the detail of V2.
+Author: JedEye81 <bareknucklegraphics757@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Cream/depiction.php
+Name: Virtual 2 Cream Theme
+
+Package: com.virtual2
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.virtual2.deb
+Size: 73871462
+MD5sum: d2c3b636eecc20c33f24c1cfeea40ac3
+SHA1: b6f6251462dbe4028d3475926b0e3e408f8cacc1
+SHA256: 96e00423acf80114e50db4b0d8a9aedf19cc95c856318bf38848348702d143fc
+Section: Themes
+Description: High detailed icons, iOS9
+Author: JedEye81 <jedimindclips@hotmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/Virtual2/depiction.php
+Name: Virtual 2 Theme
+
+Package: com.virtualicono
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.virtualicono.deb
+Size: 39656
+MD5sum: 4be8aaa332090a56a21cb9be406ce229
+SHA1: 425ab95251d5d6fa18460e7bda0b4c2067632f25
+SHA256: db7d98e88884f5deb1006dec69b246bad02683c25b173d99cfd85a499c9b0c14
+Section: Themes
+Description: V2 IconOmatic for Winterboard only.
+Author: JedEye81 <jedimindclips@hotmail.com>
+Name: Virtual 2 WB IconOmatic
+
+Package: com.ww2.simpleiwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.ww2.simpleiwidget.deb
+Size: 3599554
+MD5sum: 275832bed91a6f45b256e88a4923d2cf
+SHA1: 8bd08ea867734b4f95b4426227df3bc86cf057fa
+SHA256: 2739f28da237a4dad8476599474aef71f4e5ec3dc42d9615acd3966f7cde2003
+Section: Widgets
+Description: 1 iWidget mod by @mef3579.
+Author: @mef3579 <igor.sandman357@gmail.com>
+Depiction: http://rko1195.com/cydia/Depictions/WW2SimpleWidget/depiction.php
+Name: WW2 Simple iWidget
+
+Package: com.ww2basewidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.ww2basewidget.deb
+Size: 3232244
+MD5sum: 941fed03da9e33be144638ad2a598c3e
+SHA1: 509d329e0c7c3d147f7dfc6573c5d0a8fe65f401
+SHA256: be8c8fde24a2a87e131982fcc6a1b12032f1fac2ec34ac52c8e0cc1239c8c163
+Section: Widgets
+Description: WW 2 Simple base widget.
+Author: Ian Nicholl <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/WW2Base/index.php
+Name: WW2 Simple Base
+
+Package: com.ww2iwidgetrko1195
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.ww2iwidgetrko1195.deb
+Size: 13705220
+MD5sum: 08077c1d5076dd0c86f15fbcd59a2b96
+SHA1: 770a3bcb8faac013d71ee4f92d2e45d14a6fd7dc
+SHA256: e4976bf38955d7c1d93f4fdc02735690f22ceabc68d7becf4a1610fe300959ff
+Section: Widgets (iWidget)
+Description: Simple Widget Weather 2 iWidget with touch to show info.
+Author: RKO1195 <info@rko1195.com>
+Depiction: http://rko1195.com/cydia/Depictions/RKO_iWidget/depiction.php
+Name: WW2 iWidget RKO1195
+
+Package: com.zoobhoyiwidgets
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.zoobhoyiwidgets.deb
+Size: 2347944
+MD5sum: 90df1d1d914ba14ce5d5776091c52239
+SHA1: d636e2e254fd9950abb3da80ae720dac3124f10e
+SHA256: 87a282869bebf03a451f5b02ababf3aee73573c66964c0b1b051859ee28ddc29
+Section: Widgets
+Description: iWidgets for Zoobhoy 9.
+Author: Zoobhoy Team <Pjdevlin@y7mail.com>
+Depiction: https://rko1195.com/cydia/Depictions/iWidgets/depiction.php
+Name: Redux iWidgets
+
+Package: com.zoobhoymidnight
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.zoobhoymidnight.deb
+Size: 4978878
+MD5sum: 20c2b6b8c5a2b36b8978180bdb4bce18
+SHA1: bdda080736f9bc0a0d52bc6160830df9d0fd4b47
+SHA256: 5932d3db444920927312d01c822baa6c8e7caff8432006921200a22cafd65bfc
+Section: Themes
+Description: Zoobhoy Redux Midnight iOS9 theme.
+Author: Paulebh0y  <Pjdevlin@y7mail.com>
+Depiction: https://rko1195.com/cydia/Depictions/ZB9midnight/depiction.php
+Name: Zoobhoy Midnight Theme
+
+Package: com.zoobhoyneue
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.zoobhoyneue.deb
+Size: 9174994
+MD5sum: b462a504df89cdb7f1ef5ea7786fb5da
+SHA1: 8f6fe112e290474d3f733f266c216265df9b9e41
+SHA256: 603394103fb0c01b5505bdb795d41d6259eaa414176f66c936d9f7162991d936
+Section: Themes
+Description: Zoobhoy Redux iOS9 theme.
+Author: Paulebh0y <Pjdevlin@y7mail.com>
+Depiction: https://rko1195.com/cydia/Depictions/ZB9neue/depiction.php
+Name: Zoobhoy Neue Theme
+
+Package: com.zoobhoyredux
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/com.zoobhoyredux.deb
+Size: 75296658
+MD5sum: e6191fc4371f2ab846d60caa388ea2d5
+SHA1: ec73e8f40d06f5c80bf756f64924d76912ae6d12
+SHA256: 86b2c95df5a841b6dc36cb91cb786bcb53d6a3beb91510e94c50d49049b165e4
+Section: Themes
+Description: Zoobhoy Redux iOS9 theme.
+Author: Paulebh0y  <Pjdevlin@y7mail.com>
+Depiction: https://rko1195.com/cydia/Depictions/ZB9/depiction.php
+Name: Zoobhoy Redux Theme
+
+Package: com.kempiitheme
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/kempiitheme.deb
+Size: 8808152
+MD5sum: 641b0c0156a7de446195c0690878dc7f
+SHA1: 8ec44d4051454c45919f95d71486b8c8e6b17bab
+SHA256: 9fe76fff236eafde941cb8562025e4132ba31f8a9b31a7715d303ddad0d0bb73
+Section: Themes
+Description: A colorful iPhone theme for Anemone by @Sn0wd3n.
+Author: @Sn0wd3n <imillslane@yahoo.com>
+Depiction: https://rko1195.com/cydia/Depictions/Kempii/index.php
+Name: Kempii Theme
+
+Package: com.rko1195.bobbymoviebox
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/rko1195.bobbymoviebox_3.1.1.deb
+Size: 8413688
+MD5sum: fdcd859d60796c30b7de71a1b7f2cdc3
+SHA1: 8c879420d32f6bd2189dc430b8a51b9fb1bf047c
+SHA256: 02457e7af46be50f6a69d5bc94a2b54ca83be86da71013df24722ae1b0b841a6
+Section: App
+Description: Bobby Movie Box is a prominent media application for all your movie needs.
+Author: Bobby Movie Team <bkidshd@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/BobbyMovie/index.php
+Name: Bobby MovieBox App
+Depends: uikittools
+Priority: optional
+Tag: purpose::app, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Applications/BobbyMovie.app/AppIcon60x60@2x.png
+Chown -R _installd: _installd /Applications/BobbyMovie.app/
+
+Package: com.rko1195.bobbymusic
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/rko1195.bobbymusic.deb
+Size: 14903982
+MD5sum: 6479ab45aa3a83b5d6a20ae14813619b
+SHA1: a23d0163880d9b302daa4549b9b138fe8304b3a5
+SHA256: 84925e3626d3f3bec975f509a989186e97e82729fa35681269c19e91565a8fe6
+Section: App
+Description: Bobby Music is a prominent media application for all your music needs.
+Author: Bobby Movie Team <bkidshd@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/BobbyMusic/index.php
+Name: Bobby Music App
+Depends: uikittools
+Tag: purpose::app, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Applications/BobbyMusic.app/AppIcon60x60@3x.png
+Chown -R _installd: _installd /Applications/BobbyMusic.app/
+
+Package: com.silence.theme
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: RKO1195 <info@rko1195.com>
+Filename: ./deb/silence.theme_0.2.deb
+Size: 32247544
+MD5sum: 27fa243d20a6e73492f7e0ea93338b35
+SHA1: cb720640435688b436fd6e2c14f7b4fe91fb766c
+SHA256: 4696646fbb58877e734d265257b7d7287e63c2ff1c1ab111319ee7941280a30f
+Section: Themes
+Description: A simple style of icons with signatures.
+Author: Aleks86 <alekshazerd@gmail.com>
+Depiction: https://rko1195.com/cydia/Depictions/Silencetheme/index.php
+Name: Silence Theme
+

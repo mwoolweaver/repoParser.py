@@ -1,0 +1,8 @@
+Origin: IPG's Cydia Repo
+Label: IPG's Repo
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: InvoxiPlayGames' Cydia Repo

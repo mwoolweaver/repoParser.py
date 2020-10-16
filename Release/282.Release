@@ -1,0 +1,8 @@
+Origin: LuMartti's Repo
+Label: Official LuMartti's Public Repo
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: LuMartti's Public Repo

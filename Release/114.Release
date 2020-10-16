@@ -1,0 +1,12 @@
+Origin: cemck
+Label: cemck
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iOS tweaks and stuff
+
+SHA256:
+ f32efb8e2bd80e96e52995731e9dea8c6d3435329235d22df1e7bb05aee80210 799 Packages.bz2
+ 42beba4844e5ffb8c2c49c4eae483249c1838fb360b1fc8e874d25d0ffcd500d 744 Packages.xz

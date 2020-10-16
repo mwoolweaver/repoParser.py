@@ -1,0 +1,80 @@
+Package: com.jerrytian.shortlook.plugin.contact-photo.qq
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Jianan Tian
+Installed-Size: 152
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Filename: ./debs/com.jerrytian.shortlook.plugin.contact-photo.qq_1.0.2_iphoneos-arm.deb
+Size: 6280
+MD5sum: e023898013ee1a1e0d88172fe0c687b6
+SHA1: 946c636a2ea04694dde1bfbfb13b08371fcbe00b
+SHA256: d6e34d8c37c8645770b2f9f8ffd5699574adbe99d7e5abcb8dfa5facd5bb96da
+Section: Tweaks (ShortLook)
+Description: Show QQ/TIM users' profile pictures in ShortLook when you receive a QQ/TIM notification!
+Author: Jianan Tian
+Name: QQ Profile Pictures for ShortLook
+
+Package: com.jerrytian.shortlook.plugin.contact-photo.wechat
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Jianan Tian
+Installed-Size: 152
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Filename: ./debs/com.jerrytian.shortlook.plugin.contact-photo.wechat_1.0.3_iphoneos-arm.deb
+Size: 8854
+MD5sum: fc6f103e14dd98b8d5dcf1dbbaadd0db
+SHA1: 8d4b2fa338a7427a31408268b0766eff1dcafee2
+SHA256: 3dff05a7986857551120ad47b801ab5c54bf0db71715bd7e71509bbb5f7b60f6
+Section: Tweaks (ShortLook)
+Description: Show WeChat users' profile pictures in ShortLook when you receive a WeChat notification!
+Author: Jianan Tian
+Name: WeChat Profile Pictures for ShortLook
+
+Package: com.jerrytian.wechat.callkit
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Jianan Tian
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.jerrytian.wechat.callkit_0.0.2_iphoneos-arm.deb
+Size: 4884
+MD5sum: 0dce4c277c2eb3d254771e610d36bcd7
+SHA1: cb1cdefe502f365c7e73db2059998431c9d9e487
+SHA256: 98a748c8061debd9cf365d1e1e9db001af8de94e0488b336709eab0955f439c2
+Section: Tweaks
+Description: 打开微信的CallKit功能
+Author: Jianan Tian
+Name: WeChatCallKit
+
+Package: me.kanam.ccnc
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Kanam Tin
+Installed-Size: 160
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/me.kanam.ccnc_0.0.1_iphoneos-arm.deb
+Size: 15186
+MD5sum: 62a9d460f6d6a76fba1bdef26fec8a86
+SHA1: 22c6826ee2a655a8a1c6e7c72cc88e0a0d6940b5
+SHA256: f5102a67ceaef653fd1b3d9bb2bdbdd8d3259c27f0046dc19500e820754fc193
+Section: Control Center (Modules)
+Description: A Control Center Module to switch between noise-control modes!
+Author: Kanam Tin
+Name: CCNC
+
+Package: me.kanam.nomoreclassicapps
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jianan Tian
+Installed-Size: 156
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/me.kanam.nomoreclassicapps_0.0.1_iphoneos-arm.deb
+Size: 8848
+MD5sum: 31e685c55eb2b78fea48ef081309a46d
+SHA1: a599f4016c26636e158c49eb41bc3c5903126f2f
+SHA256: c030983dfdce98db55e7868e3727e5f7c5e20e0cc44710366f562d88a2f00d4f
+Section: Tweaks
+Description: Make all apps full screen on iPhone, make all apps support Split View and Split Over on iPad. A12(X) devices support.
+Author: Jianan Tian
+Name: NoMoreClassicApps
+

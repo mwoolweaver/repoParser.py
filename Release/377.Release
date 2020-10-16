@@ -1,0 +1,8 @@
+Origin: Chr1sDev
+Label: Chr1s' Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Full access, thanks Emily. I just go into jiggle mode...

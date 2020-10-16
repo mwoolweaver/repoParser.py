@@ -1,0 +1,92 @@
+Package: net.winneonsword.cataracs
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Depends: com.groovycarrot.groovyapi, com.matchstic.infostats
+Filename: ./Cataracs.deb
+Size: 194496
+MD5sum: d047363a2308e1ebb8df47b37bc3e7c3
+SHA1: 3728106636e8a722579c0c28eb902a7d91f0a52b
+SHA256: 016ce83c738e3d8569454c44c915d69c38ed4fd3b8cdb1f753d198f9c92cc02c
+Section: Themes
+Homepage: http://repo.winneon.moe/
+Description: Cataracs is a realtively simple lockscreen clock / widget that features a minimal clock centered on the lockscreen.
+Author: Jesse Bryan <winneonsword@gmail.com>
+Depiction: http://repo.winneon.moe/d/net.winneonsword.cataracs.html
+Name: Cataracs
+
+Package: net.winneonsword.cataracsforipad
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: ./CataracsforiPad.deb
+Size: 315996
+MD5sum: 069269e9a598420188b8e3054f9e31d8
+SHA1: 3fc92b7ec25017906c29f167fc35fb1ab19a2b70
+SHA256: 0d828aae37b19d0291ee3439d2e469bb7431079d37aeda0da0d689b7694345e6
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: Cataracs for iPad is a realtively simple lockscreen clock / widget that features a minimal clock centered on the lockscreen.
+Author: Jesse Bryan <winneonsword@gmail.com>
+Name: Cataracs for iPad
+
+Package: net.winneonsword.clockwork
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: ./Clockwork.deb
+Size: 2428
+MD5sum: 71e67d45e0e46a57885b4605ee282637
+SHA1: 836b5ce739d5f50724b5f8be10f4e2efa1c5efc7
+SHA256: 70e1d2bc99c571ddd2798493149a59dc87cf9373bcb6348103d0ac74a57bc58e
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: Clockwork is a simple lockscreen theme that is designed to fit nicely with minimal /and/ "maximal" setups. Designed for GroovyLock and LockHTML3.
+Author: Jesse Bryan <winneonsword@gmail.com>
+Name: Clockwork
+
+Package: net.winneonsword.incepted
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: ./Incepted.deb
+Size: 22878
+MD5sum: 8b3bcc5f1755f06355d6e99f57013777
+SHA1: e8b642daca463bc4971440b5d0749ef7c1f5a01d
+SHA256: 9bd739f355cc1f53faca345e5f84851621a0b498235f8549dedf3eba7efbb905
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: Incepted is a lockscreen theme that features a simple "verbal" date and time in neat bars. Designed for GroovyLock and LockHTML3.
+Author: Jesse Bryan <winneonsword@gmail.com>
+Name: Incepted
+
+Package: net.winneonsword.lcd
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: ./LCD.deb
+Size: 511720
+MD5sum: ec7016c16e4ce54c3b1f4d90c2d6666d
+SHA1: ad98cded4202e4b4db2e44db7e9b4b4ac4cb7349
+SHA256: 85e1400ccddce4299c301fa243da1c8b006b6e05206c17fa177e211c5a0e97e6
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: LCD is a LS theme that takes the lockscreen to a whole new level, adding weather and location information aswell as the time and date. To find your WOEID (used for your location), go to http://woeid.rosselliot.co.nz/ . Designed for LockHTML3 only.
+Author: Jesse Bryan <winneonsword@gmail.com>
+Name: LCD
+
+Package: net.winneonsword.slide
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: ./Slide.deb
+Size: 181956
+MD5sum: fbae5a14d57617c432502bcb688406eb
+SHA1: b47462a42b9a26c15439b343202416d4279cd327
+SHA256: d579522dbc4eeb3c75e0340df6fa0fa935bed29543ee103ea49b618575d5e347
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: Slide is a LS theme that focuses on the tiny details (quite literally), and is designed to not obscure your lockscreen, but embrace it. Designed for GroovyLock and LockHTML3.
+Author: Jesse Bryan <winneonsword@gmail.com>
+Name: Slide
+

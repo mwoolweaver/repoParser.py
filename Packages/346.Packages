@@ -1,0 +1,56 @@
+Package: com.kael.fullscreenx
+Version: 1.1
+Section: Tweaks
+Maintainer: Yerushalayim <yehudabendavid2016@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.kael.fullscreenx_1.1_iphoneos-arm.deb
+Size: 17272
+Installed-Size: 224
+MD5sum: 9263ef7c0d654f7c5601d2dbdf5f4c23
+Description: Enable FullScreen for non-supported apps on iPhone X
+Name: FullScreenX
+Author: Yerushalayim <yehudabendavid2016@gmail.com>
+
+Package: com.kael.noruinmywp
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: Yerushalayim
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.kael.noruinmywp_0.0.1.phoneos-arm.deb
+Size: 2902
+Installed-Size: 120
+MD5sum: fa2e252a853b3d4457fc9e657d91b36e
+Description: An awesome MobileSubstrate tweak!
+Name: NoRuinMyWP
+Author: Yerushalayim
+
+Package: com.kael.removethestick
+Version: 1.0
+Section: Tweaks
+Maintainer: Yerushalayim
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.kael.removethestick_1.0_iphoneos-arm.deb
+Size: 2012
+Installed-Size: 72
+MD5sum: 53577e20a42711144c697b4aa37f6960
+Description: Remove THE STICK !
+Name: RemoveTheStick
+Author: Yerushalayim
+
+Package: com.perrycucko.igotafeeling
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: Yerushalayim
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.perrycucko.igotafeeling_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3668
+Installed-Size: 152
+MD5sum: 7fed8e94e425b5aa75c7856933f42154
+Description: An awesome MobileSubstrate tweak!
+Name: iGotAFeeling
+Author: Yerushalayim
+

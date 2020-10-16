@@ -1,0 +1,216 @@
+Package: com.foggy.modernised
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Filename: ./debs/Modernised_1.0.deb
+Size: 513908
+MD5sum: 96529f46f7b9d9232a59a153e1af7c4d
+SHA1: 12f0a4a60913cb266fc6afcb4ed117c0fde081e6
+SHA256: a10d71e2fdf236ce1d9a2f6aed32420f07a360e5f7ff8d95354d6f121b65f471
+Section: Themes
+Description: A simple and minimalistic white theme!
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/files/whitensimple/
+Name: Modernised
+
+Package: com.foggy.modernised
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Depends: com.foggy.repoicons
+Filename: ./debs/Modernised_1.1.deb
+Size: 589250
+MD5sum: f1c534fdcfa3b6c87bd3dd21ca1cbe94
+SHA1: 7350c639d41051a4aac18260b8ef890328fed221
+SHA256: c09afb01133d280c02b77f3cfabd534be27dda7892f58222ee7818091065c36f
+Section: Themes
+Description: A simple and minimalistic white theme!
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.modernised
+Name: Modernised
+
+Package: com.foggy.modernised
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Depends: com.foggy.repoicons
+Filename: ./debs/Modernised_1.2.deb
+Size: 544882
+MD5sum: 51e2c464af0fbfa27c060e0705f39328
+SHA1: 4a779627d104cd692add0d02e1c22ab8a181a236
+SHA256: 8c0ac6cd7aa541ee0823d13253b9057d470fc0d3c0430dbe5e472a08fc531284
+Section: Themes
+Description: A simple and minimalistic white theme!
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.modernised
+Name: Modernised
+
+Package: com.foggy.modernised
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Depends: com.foggy.repoicons
+Filename: ./debs/Modernised_1.3.deb
+Size: 576910
+MD5sum: 5f3f7c0d9cb70e18e7dda9b77e5c9d7b
+SHA1: fb9b02a03f3245540173eea8a8f5c445430f294b
+SHA256: 048c34a52f7463a68ef22628005cfaba84dcb0489499f26ae7987102462a94c4
+Section: Themes
+Description: A simple and minimalistic white theme!
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.modernised
+Name: Modernised
+
+Package: com.foggy.cydiamodernised
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Depends: com.foggy.repoicons
+Filename: ./debs/Modernised_Cydia_1.0.deb
+Size: 57534
+MD5sum: b44aa69dbe716a8f7244353c04daccf9
+SHA1: f1414cb5182ca33272e35c070a37a17a3d3bd206
+SHA256: 772d5a8094498b09392f5068a7c713cbf507c2b02148a8b50d0f05179158d2b0
+Section: Themes
+Description: Cydia icons for the Modernised theme!
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.modernised
+Name: Modernised (Cydia)
+
+Package: com.foggy.cydiamodernised
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Depends: com.foggy.repoicons
+Filename: ./debs/Modernised_Cydia_1.1.deb
+Size: 80366
+MD5sum: 7dfdad09d0fa0b8dbd7065174927e23f
+SHA1: ef00c05a022d56dbb116153b8770f4adf6945191
+SHA256: a2b4d88953a8b45e88ab012980501bb2a9222c22127b3307290e7433f2928e17
+Section: Themes
+Description: Cydia icons for the Modernised theme!
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.cydiamodernised
+Name: Modernised (Cydia)
+
+Package: com.foggy.cydiamodernised
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Depends: com.foggy.repoicons
+Filename: ./debs/Modernised_Cydia_1.2.deb
+Size: 84686
+MD5sum: ea4a77a50864f4580d106cc31ea140b7
+SHA1: eefe6b8b06cc56f9c2ed88a6c5e4d3e11422ca05
+SHA256: e714a9d3e499235d9c60bc25c869401779d4d707b2a0a1d73a0a9bcbfbdf4fdb
+Section: Themes
+Description: Cydia icons for the Modernised theme!
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.cydiamodernised
+Name: Modernised (Cydia)
+
+Package: com.foggy.repoicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Foggy <foggyj12345@gmail.com>
+Filename: ./debs/RepoIcons_1.0.deb
+Size: 11190
+MD5sum: 1ff3f3a8f195c727f219dfc6b432ac38
+SHA1: b58a6e829c2846167d1f8f65020882fec6155128
+SHA256: 78c2c84ed671891de9caf816a5412a494be00ce0c082716b0c8f5f08c50acf15
+Section: System
+Description: Repository icons for Foggy's Repository.
+Author: Foggy <foggyj12345@gmail.com>
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.repoicons
+Name: Foggy's Repository Icons
+
+Package: com.foggy.rome
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Foggy
+Filename: ./debs/Rome_1.0.deb
+Size: 213060
+MD5sum: fce590d10945ebaf37c773f3025d18c8
+SHA1: 4cd3dc73afb6b93dbfeb35613ad0d51b21d45bc8
+SHA256: 6a5f212c0e515f89c7756042f633a21ec8666269f3ae8b618d517058825d8c4b
+Section: Themes
+Description: An updated version of the theme Rome.
+Author: Foggy
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.rome
+Name: Rome (iOS 12)
+
+Package: com.foggy.rome
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Foggy
+Filename: ./debs/Rome_1.1.deb
+Size: 252288
+MD5sum: a4ca074b47e8ac6bd7554484898fb36d
+SHA1: d2ae78f3b57412365a2c57c5aba8d0ee00f6bad9
+SHA256: 8c2ddc7b092fa71bc8b8019150b6b0dfe1165e67a28c86d251d86ca38b63d2cd
+Section: Themes
+Description: An updated version of the theme Rome.
+Author: Foggy
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.rome
+Name: Rome (iOS 12)
+
+Package: com.foggy.rome
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Foggy
+Filename: ./debs/Rome_1.2.deb
+Size: 271656
+MD5sum: 2745e4e52624e9fd03d58ad860d3d5aa
+SHA1: 1cd4f2ef22a902efbf3d2653369dd62661d173e4
+SHA256: 1004b712358b058762a555ea8891d3f407a09deb9d44f9d3ec2de80ad5d09196
+Section: Themes
+Description: An updated version of the theme Rome.
+Author: Foggy
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.rome
+Name: Rome (iOS 12)
+
+Package: com.foggy.rome
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Foggy
+Filename: ./debs/Rome_1.3.deb
+Size: 307410
+MD5sum: 58704c56e2212c695f6e7cf7a3db2741
+SHA1: 533e9cce8f32574dff120b615bcb965b3b460e6c
+SHA256: f36e66afdb2f7019629400a87db3ff88e47d5c832d61918cca455bae557d25bc
+Section: Themes
+Description: An updated version of the theme Rome.
+Author: Foggy
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.rome
+Name: Rome (iOS 12)
+
+Package: com.foggy.rome
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Foggy
+Filename: ./debs/Rome_1.4.deb
+Size: 350420
+MD5sum: a4659c8ff7ffc2b2a701384406b310f7
+SHA1: c7b4ef0fd000129493ba26a483306f94bfb8e7fb
+SHA256: 0e3de961c686d77872b7b31e263ce556cc4c77766ffdbbbbecdedd8a79119a21
+Section: Themes
+Description: An updated version of the theme Rome.
+Author: Foggy
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.rome
+Name: Rome (iOS 12)
+
+Package: com.foggy.rome
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Foggy
+Filename: ./debs/Rome_1.5.deb
+Size: 376098
+MD5sum: 2c107b69da35085658aff154090348f1
+SHA1: bd0565cb2856535467afc2d3b58bf8cd8e4e31cc
+SHA256: 4d67f4882a4f8746f47fa0eba8c3109e1f2ab6db6bb54992fbe7ff02f6901655
+Section: Themes
+Description: An updated version of the theme Rome.
+Author: Foggy
+Depiction: https://foggy-j.github.io/repo/depictions.html?com.foggy.rome
+Name: Rome (iOS 12)
+

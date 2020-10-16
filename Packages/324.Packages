@@ -1,0 +1,59 @@
+Package: com.nwhit.darkchrome
+Version: 1.1.1.6
+Architecture: iphoneos-arm
+Maintainer: Nathan Whitaker <nathan.whitaker01@gmail.com>
+Depends: firmware (>=11.0), preferenceloader
+Filename: ./pkg/com.nwhit.darkchrome.deb
+Size: 76720
+MD5sum: b495e5a70e118e080fe6de27f8ea22b0
+SHA1: 04b8f8c30998812abe4acc464721cb1c1998989d
+SHA256: f1c6568687d9f1464086876708d64a131c0e2c5e3b364f867c4cb0bdb8fbfd95
+Section: Tweaks
+Homepage: https:nathanwhit.github.io/repo
+Description: A complete dark mode for Chrome on iOS
+Author: Nathan Whitaker <nathan.whitaker01@gmail.com>
+Depiction: https://nathanwhit.github.io/repo/depiction/web/com.nwhit.darkchrome.html
+Icon: https://nathanwhit.github.io/repo/assets/com.nwhit.darkchrome/icon.png
+Moderndepiction: https://nathanwhit.github.io/repo/depiction/native/com.nwhit.darkchrome.json
+Name: DarkChrome
+Sileodepiction: https://nathanwhit.github.io/repo/depiction/native/com.nwhit.darkchrome.json
+
+Package: com.nwhit.hulugesturedisabler
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Whitaker <nathan.whitaker01@gmail.com>
+Filename: ./pkg/com.nwhit.hulugesturedisabler.deb
+Size: 5918
+MD5sum: 663593f4eb50457a88bf12ece1364b45
+SHA1: 5c613bdc481bf707a1639dc4dcad48251e01439d
+SHA256: d67d3e3dddfc6016be36a8933f891ced433c3609ab1dc2f4bbbc397710709b3c
+Section: Tweaks
+Homepage: https:nathanwhit.github.io/repo
+Description: Disables swipe to dismiss and double tap to skip gestures in the Hulu app
+Author: Nathan Whitaker <nathan.whitaker01@gmail.com>
+Depiction: https://nathanwhit.github.io/repo/depiction/web/com.nwhit.hulugesturedisabler.html
+Icon: https://nathanwhit.github.io/repo/assets/com.nwhit.hulugesturedisabler/icon.png
+Moderndepiction: https://nathanwhit.github.io/repo/depiction/native/com.nwhit.hulugesturedisabler.json
+Name: HuluGestureDisabler
+Sileodepiction: https://nathanwhit.github.io/repo/depiction/native/com.nwhit.hulugesturedisabler.json
+
+Package: com.nwhit.springfinity
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: Nathan Whitaker <nathan.whitaker01@gmail.com>
+Depends: firmware (>=11.0), preferenceloader
+Filename: ./pkg/com.nwhit.springfinity.deb
+Size: 54096
+MD5sum: 3e9d3d87bfa1d645f8c10e1783d0bce5
+SHA1: e943a2cf933ee13dce58ee7facc6f7be60b30218
+SHA256: 1552899dcfc50de804037226ca2f6d31ffb822fdcc8258b40953b0cc80436606
+Section: Tweaks
+Homepage: https:nathanwhit.github.io/repo
+Description: Infinite scrolling on your homescreen. A remake of Infiniboard for iOS 11-12
+Author: Nathan Whitaker <nathan.whitaker01@gmail.com>
+Depiction: https://nathanwhit.github.io/repo/depiction/web/com.nwhit.springfinity.html
+Icon: https://nathanwhit.github.io/repo/assets/com.nwhit.springfinity/icon.png
+Moderndepiction: https://nathanwhit.github.io/repo/depiction/native/com.nwhit.springfinity.json
+Name: Springfinity
+Sileodepiction: https://nathanwhit.github.io/repo/depiction/native/com.nwhit.springfinity.json
+

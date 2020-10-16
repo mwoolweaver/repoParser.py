@@ -1,0 +1,102 @@
+Package: com.smeds.alibi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.alibi.deb
+Size: 3345248
+MD5sum: f1c0b4a99baa39e354c4c12e1c76fcca
+SHA1: 0dc29caae64c8645c724b1d83a397431ab18e28d
+SHA256: d72682e8abeca968140c4e41da29bca5595590d1e377d6432ded09f0e32de6f5
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: True Material, for iOS.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Icon: file:///Library/Themes/Aliquid Icons.theme/Icon.png
+Name: Aliquid
+Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+
+Package: com.smeds.fleeze
+Version: 1.2-12
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.fleeze_1.0-12.deb
+Size: 1940164
+MD5sum: 3e45986e5546f035988fd4e311192b36
+SHA1: 355df400ed01e6764fb82dc07b353e554c762229
+SHA256: aeec69e5444e8f841f63057a5e0cb73728e5742c847f45dab63d06d634b2a405
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: A touch of lightness.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleeze
+Name: Fleeze
+
+Package: com.smeds.fleezedark
+Version: 1.2-12
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.fleezedark_1.0-12.deb
+Size: 11682164
+MD5sum: c114cf303f6be2f732a065fe1883a686
+SHA1: 2a005d0248a4cdeae5634fd2482c792f686170f4
+SHA256: 355e5b04275d094b459579cc6f9762d9783273bcbc78e8337dc3f1951afcf145
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: A touch of Darkness.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleezedark
+Name: Fleeze Dark
+
+Package: com.smeds.project2019
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.project2019.deb
+Size: 7201096
+MD5sum: f2921b8692df34e62900b52584079b7d
+SHA1: 2de8afb686d24a30ec64741a55d3f5d70bfe4291
+SHA256: 977ad1d520b0476f44acbeb08290af731a176efe8b9890b6aecb64d5aed596e1
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: Prepare for something new.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Icon: file:///Library/Themes/Aliquid Icons.theme/Icon.png
+Name: Aliquid
+Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+
+Package: com.smeds.project2019livewalls
+Version: 1.01.livewalls
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.project2019livewalls.deb
+Size: 6415128
+MD5sum: 714a74ba156a11791a5fb87349761523
+SHA1: acb163ed1c69922455e2e27f7105e936702ac15f
+SHA256: 3b1535b22a90d3665b1b7adc0c94370ad19a3500f96a0c7749406f05a2341fe4
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: A touch of freshness.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Icon: file:///Library/Themes/Aliquid LW.theme/Icon.png
+Name: Aliquid Live Wallpapers
+Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+
+Package: com.smeds.sidecarapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Depends: firmware (>=13.2)
+Filename: ./debs/com.smeds.sidecarapp.deb
+Size: 399376
+MD5sum: 165e336ea14e8732409e52c8910de634
+SHA1: 6411868e72d9f7b68e1734517a292fcdec0d3728
+SHA256: 2f056ab7422d3084b11f66a6021e7f360c6bcd97e4b029a0d8c9dbb6d2ba9afb
+Section: Applications
+Homepage: http://twitter.com/smeds_
+Description: Sidecar app as extracted from iPadOS
+Author: Giulio Smedile <bart172@me.com>
+Name: SidecarApp
+

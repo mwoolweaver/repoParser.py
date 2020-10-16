@@ -1,0 +1,9 @@
+Origin: Jontelang - public repo
+Label: Repo for jontelang
+Suite: Stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repo for whatever I don't know
+

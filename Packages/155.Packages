@@ -1,0 +1,145 @@
+Package: com.degrager.blink
+Version: 0.3
+Section: Themes
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//Blink.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+Size: 942978
+MD5sum: 5fbfc51ad154733285d30b2077ea5fae
+Description: My First Theme
+Name: Blink
+Author: Degrager
+
+
+Package: com.degrager.pineapplebars
+Name: PineappleBars
+Version: 1.0
+Size: 7496
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Description: Turn your bars into Pineapples!
+Maintainer: Degrager <zrileys0@gmail.com>
+Author: Degrager <zrileys0@gmail.com>
+Section: Themes
+MD5sum: d7d85c3a62ee34a74c6cc01a52b5f433
+Filename: debs//PineappleBars.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+
+Package: com.degrager.minimalls
+Name: MinimalLS 
+Version: 1.0
+Size: 3940
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Description: (Compatible with iOS 10) Simple tweak to hide Page Dots and Press To Unlock Text on the Lockscreen
+Maintainer: Degrager <zrileys0@gmail.com>
+Author: Degrager <zrileys0@gmail.com>
+Section: Tweaks
+MD5sum: f3213a4fd609adcccca6c77f2e6c29a3
+Filename: debs//MinimalLS.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
+
+Package: com.degrager.xretina
+Version: 1.0-14
+Section: Tweaks
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//xretina.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
+Size: 20148
+MD5sum: 12c4e6215f6ab568a1da2ffa459cb5a8
+Description: iPhone X Super Retina Round Screen
+Name: XRetina
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.xretina
+
+Package: com.degrager.android7
+Version: 1.0
+Section: Themes
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//nougat.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+Size: 625676
+MD5sum: a28dd9f4ff098d49c5ae4f684e77b15b
+Description: Icons Ported from Android Nougat
+Name: Android Nougat Theme
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.android7
+
+Package: com.degrager.repoicons
+Version: 1.0
+Section: Other
+Maintainer: Degrager
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//repoicons.deb
+Size: 20756
+MD5sum: 3161ee03653be1375adf08d3fb895f05
+Description: Repo Icons
+Name: Degrager's Repo Icons
+Author: Degrager
+
+Package: com.degrager.folderradii
+Version: 1.0
+Section: Tweaks
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//FolderRadii.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
+Size: 19550
+MD5sum: 7277901b6c668e24ce99b96f04f1033e
+Description: Change the Radius of Folder Icons
+Name: FolderRadii
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.folderradii
+
+Package: com.degrager.Xswitcher
+Version: 1.0
+Section: Tweaks
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//xswitcher.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
+Size: 2732
+MD5sum: 6a14e6c73f800fe98c6acda55b8bda5f
+Description: iPhone X Rounded App Switcher Corners
+Name: XSwitcher
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.Xswitcher
+
+Package: com.degrager.faceidlockglyph
+Version: 1.0
+Section: Themes
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//FaceID.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+Size: 28846
+MD5sum: 183cec1647ae5f6e2a16602e957eb290
+Description: FaceID Icon For LockGlyph/X
+Name: FaceID Icon For LockGlyph
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.faceidlockglyph
+
+Package: com.degrager.cydia11
+Version: 1.0
+Section: Themes
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons, com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: debs//Cydia11.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+Size: 28846
+MD5sum: 6c728b3f75597034a3f886ee8363547a
+Description: iOS 11 Cydia Icon made by /u/whduddn99
+Name: Cydia11
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.cydia11

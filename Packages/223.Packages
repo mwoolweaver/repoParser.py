@@ -1,0 +1,50 @@
+Package: fun.tweaks.locationfaker
+Name: Location Faker
+Depends: mobilesubstrate, preferenceloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fake your location to most apps. Coordinates can be configured in the settings app.
+Maintainer: jon
+Author: jon
+Section: Tweaks
+Filename: fun.tweaks.locationfaker/fun.tweaks.locationfaker-0.0.1-release.deb
+Size: 34570
+MD5sum: 561beab38949bb33cc28f1af9260d376
+SHA1: 16057d1bf85b9a79258d85fd9a27b22f741efcce
+SHA256: 68c633cb69bca120fcef2d7c42682ce8ef7cdafe55422dbcfeaee77b60666e24
+Sileodepiction: https://ios.tweaks.fun/fun.tweaks.locationfaker/SileoDepiction.json
+
+Package: fun.tweaks.philipsonicarehacked
+Name: Philips Sonicare Jailbreak Detection Bypass
+Architecture: iphoneos-arm
+Description: A tweak to disable jailbreak detection in Philips Sonicare toothbrush apps.
+Maintainer: notjon
+Author: notjon
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-5
+Installed-Size: 72
+Filename: fun.tweaks.philipsonicarehacked/fun.tweaks.philipsonicarehacked_0.0.1_iphoneos-arm.deb
+Size: 2548
+MD5sum: 4c46877b4e4b524abef0df4791e93681
+SHA1: f97003ed2621413a9093e0b3089a072427bd5a05
+SHA256: be663c8a9d8e4f6c729d661d9196ba604b25f151a1e2efe93ebc67978782eb72
+Sileodepiction: https://ios.tweaks.fun/fun.tweaks.philipsonicarehacked/SileoDepiction.json
+
+Package: fun.tweaks.supermariorunhacked
+Name: Super Mario Run Jailbreak Detection Bypass
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tweak to bypass Super Mario Run jailbreak detection. Please don't cheat.
+Maintainer: notjon
+Author: notjon
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 200
+Filename: fun.tweaks.supermariorunhacked/fun.tweaks.supermariorunhacked_0.0.1_iphoneos-arm.deb
+Size: 3718
+MD5sum: 3186b5f90bf6fded114c5af2487b1a97
+SHA1: 036a6bf84196eed390780928d99d5565e1bc6b65
+SHA256: 10b5e6f5e46580613daf298748901d5e76d9836ea3f75b6f3f40d8b4cfb654bd
+Sileodepiction: https://ios.tweaks.fun/fun.tweaks.supermariorunhacked/SileoDepiction.json
+

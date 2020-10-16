@@ -1,0 +1,8 @@
+Origin: Ayden Panhuyzen's Repo [Archive]
+Label: Ayden Panhuyzen's Repo [Archive]
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Archive of all Ayden Panhuyzen's legacy tweaks!

@@ -1,0 +1,6 @@
+Architectures: iphoneos-arm
+Components: main
+Description: Source officiel d'iPhonConcept
+Label: iPC
+Origin: iPhonConcept
+Version: 0.1

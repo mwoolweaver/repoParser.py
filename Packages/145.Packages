@@ -1,0 +1,64 @@
+Package: com.yadkin.redditnoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: kemmis <rafe@kemmis.info>
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: com.yadkin.redditnoads_0.0.1_iphoneos-arm.deb
+Size: 2744
+MD5sum: 0d8f278f830b9e70f5a7e34d2458b001
+SHA1: 9229061511df5f3e80dddbcc11c812bcf882d8ad
+SHA256: fa22f2b77c86c1614bb4792b74ecbda51d9015b880427b9ed44549a5cbc6065f
+Section: Tweaks
+Description: Removes "PROMOTED" posts from from the official Reddit app.
+Author: kemmis <rafe@kemmis.info>
+Name: Reddit No Ads
+
+Package: com.yadkin.redditnoads
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: kemmis <rafe@kemmis.info>
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: com.yadkin.redditnoads_0.0.2_iphoneos-arm.deb
+Size: 2744
+MD5sum: bd1d4b7bafe127208e2cd979e4dd555d
+SHA1: c575bc140f79021f8c3a8f2d9e78af2ad34f9454
+SHA256: be9f28dfedad1e761127a41590a284aa3d8efa89f1e74046fbe760a8b314c6de
+Section: Tweaks
+Description: Removes "PROMOTED" posts from from the official Reddit app.
+Author: kemmis <rafe@kemmis.info>
+Name: Reddit No Ads
+
+Package: com.yadkin.twitternoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: kemmis <rafe@kemmis.info>
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: com.yadkin.twitternoads_0.0.1_iphoneos-arm.deb
+Size: 3150
+MD5sum: 979e8025b0805bf003431dd48221d5e7
+SHA1: dd02a2b9d4adf316627b3a8c2911d179a5c17878
+SHA256: 447fe6d5a4d05ee6c58e80a44e8b2fbf08b2328744f0269a9b01cf378ef25b92
+Section: Tweaks
+Description: Removes "PROMOTED" posts from from the official Twitter app.
+Author: kemmis <rafe@kemmis.info>
+Name: Twitter No Ads
+
+Package: com.yadkin.twitternoads
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: kemmis <rafe@kemmis.info>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: com.yadkin.twitternoads_0.0.2_iphoneos-arm.deb
+Size: 4112
+MD5sum: 88758bd7b85ef90f7d129cc25327cec8
+SHA1: de4b82bbd60328a7ffced5bd98979306577f039f
+SHA256: d729949201c7c57b1d5c758a2965a2218c6052ab71fc59398e5475fd1cdec5f9
+Section: Tweaks
+Description: Removes "PROMOTED" posts from from the official Twitter app.
+Author: kemmis <rafe@kemmis.info>
+Name: Twitter No Ads
+

@@ -1,0 +1,182 @@
+Package: me.kfur.apollo
+Version: 0.0.2
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.apollo_0.0.2_iphoneos-arm.deb
+Size: 4422
+Installed-Size: 136
+MD5sum: afa92abdea4f99efcbbd779ce10f8c2e
+Description: An awesome MobileSubstrate tweak!
+Name: apollo
+Author: kfur
+
+Package: me.kfur.apollo
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.apollo_0.0.1_iphoneos-arm.deb
+Size: 3526
+Installed-Size: 72
+MD5sum: 654822867f015e6c88652d1d467e2513
+Description: Apollo for Reddit Pro features
+Name: Apollo Pro
+Author: kfur
+
+Package: me.kfur.darkkeyboard
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.darkkeyboard_0.0.1_iphoneos-arm.deb
+Size: 2156
+Installed-Size: 72
+MD5sum: 550a81fc2d5adf9d0ab47c8b265b7495
+Description: Make keyboard dark system wide
+Name: Dark Keyboard
+Author: kfur
+
+Package: me.kfur.darkkeyboard
+Version: 0.0.2
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.darkkeyboard_0.0.2_iphoneos-arm.deb
+Size: 2158
+Installed-Size: 72
+MD5sum: 390a47163392eca2aa72402ef98719b6
+Description: Make keyboard dark system wide
+Name: Dark Keyboard
+Author: kfur
+
+Package: me.kfur.documents
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.documents_0.0.1_iphoneos-arm.deb
+Size: 2942
+Installed-Size: 136
+MD5sum: 30d544da9e546d2aa4e0df5698fa1405
+Description: Unlock premium
+Name: Documents++
+Author: kfur
+
+Package: me.kfur.finescanner
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.finescanner_0.0.1_iphoneos-arm.deb
+Size: 2808
+Installed-Size: 136
+MD5sum: 1ed92871da9f5e9f56714981facfb7f0
+Description: Unlock premium
+Name: Finescanner++
+Author: kfur
+
+Package: me.kfur.hidevpn
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.hidevpn_0.0.1_iphoneos-arm.deb
+Size: 2544
+Installed-Size: 72
+MD5sum: 1ee711874b6a857b7df98d7a35696de3
+Description: Hide VPN icon from statusbar
+Name: Hide VPN Icon
+Author: kfur
+
+Package: me.kfur.lingvo
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.lingvo_0.0.1_iphoneos-arm.deb
+Size: 2920
+Installed-Size: 136
+MD5sum: a629dcf195798757712398e667938d8d
+Description: Unlock premium
+Name: Lingvo++
+Author: kfur
+
+Package: me.kfur.psdeals
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur [https://github.com/kfur]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.psdeals_0.0.1_iphoneos-arm.deb
+Size: 2810
+Installed-Size: 72
+MD5sum: 4f64431e46e0d49b7cac8a7884fc9849
+Description: PS Deals semi functional premium without ads
+Name: PS Deals++
+Author: kfur [https://github.com/kfur]
+
+Package: me.kfur.recordntorch
+Version: 1.0.0
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate, firmware (>= 10.0), gsc.camera-flash, gsc.still-camera
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.recordntorch_1.0.0_iphoneos-arm.deb
+Size: 3054
+Installed-Size: 72
+MD5sum: 18d4b200d3e3ccb3f9ba89cc960f2e90
+Description: Toggle Torch while recording video
+Name: Record 'n' Torch
+Author: PoomSmart
+
+Package: me.kfur.reverso
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.reverso_0.0.1_iphoneos-arm.deb
+Size: 2692
+Installed-Size: 104
+MD5sum: 99b6f5aa2ec76e3fe2e0ba3485c228d1
+Description: Unlock premium
+Name: Reverso++
+Author: kfur
+
+Package: me.kfur.textgrabber
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.textgrabber_0.0.1_iphoneos-arm.deb
+Size: 2834
+Installed-Size: 136
+MD5sum: 74feadb76bd132f0d076d608143d0956
+Description: Unlock premium
+Name: Textgrabber++
+Author: kfur
+
+Package: me.kfur.tg-unrestrict
+Version: 0.0.1
+Section: Tweaks
+Maintainer: kfur
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/me.kfur.tg-unrestrict_0.0.1_iphoneos-arm.deb
+Size: 2736
+Installed-Size: 136
+MD5sum: 60ffce26a2ebe56002da9bbc1b9c86be
+Description: Unrestrict bots/channels
+Name: Telegram-Unrestrict
+Author: kfur
+

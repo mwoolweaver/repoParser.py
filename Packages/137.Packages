@@ -1,0 +1,334 @@
+Package: com.eason.carplay
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.0)
+Conflicts: de.j-gessner.ccloader, com.eason.carplay
+Filename: deb/com.eason.carplay_1.1-1_iphoneos-arm.deb
+Size: 7014578
+MD5sum: 0b88d75eaf3769147b2a0ec327957f40
+SHA1: f2ccd9a2e0eace83aa0094cb0ca0e2d619f6c1a9
+SHA256: 076deb43b70cc02ee56b4d1f033b8a7ecfb99ef2c4eebb65f5edff019fe7eca5
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Let your carplay can run any app that you want!
+Depiction: http://www.easonwu.org
+Name: NGXPlay
+
+Package: com.eason.carplay.ios11
+Version: 2.0-38
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.0-38_iphoneos-arm.deb
+Size: 7315680
+MD5sum: 02298aaeeb73db85229b5f667dc49671
+SHA1: fc95d06cb6c7ebe1f827c7de7c37a7922b2af63c
+SHA256: 0dd575f043d49dea97660c02d34e4d9db7acc2af6bb3d71d4b5808f46cac4e47
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.1-1_iphoneos-arm.deb
+Size: 7317750
+MD5sum: 80aed6ba2799e7026b8d5a1684185212
+SHA1: 5ec236369ddad3cf44ffa054d8d15c644b651fa8
+SHA256: 023ec1f050056106938614d0052064bd1e7d2e1796b39bfc3ea1f369db75f8c8
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.1-10
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.1-10_iphoneos-arm.deb
+Size: 8271602
+MD5sum: 7f42bd37d275d7caba3b73b190e04782
+SHA1: eee92297b512bc499682a751d84990742105fe2a
+SHA256: 01a6629cc218d212b16603de372cb43f1127fb0d511107fe6983ec81b7f6d27c
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.1-3
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.1-3_iphoneos-arm.deb
+Size: 7317728
+MD5sum: 458b2437ec48610cdb1be3644fd01faa
+SHA1: aa6f491eef5bc4dacb6ee45bf4349c8f0e574e4d
+SHA256: 69c86e62b3ae51362a592b8bcaf1d0724586c571347c4ddcbf8ad0a64e4089b2
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.1-7
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.1-7_iphoneos-arm.deb
+Size: 7414254
+MD5sum: d7a8c9e960f30b4fa8ca00b3ead56217
+SHA1: c9651c86b50e2790bce1bbbfb029acfb2038d269
+SHA256: f0fa3b815801bb8f64d5d28c513d71a82ef4d24e5e1547621e208cbb7df12efb
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.1-8
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.1-8_iphoneos-arm.deb
+Size: 7997226
+MD5sum: 27437622138b3651932891bcf44d3780
+SHA1: d033fb80a4247393944aafe2f901c524b7505f81
+SHA256: 5a6131001497bd86a8c7072439791f5301f9426c9c3be5874395bc7287021790
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.easimulatetower
+Version: 2.11-96
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.11-96_iphoneos-arm.deb
+Size: 7739768
+MD5sum: 40d8e17d25ebd3c5789c07cb93fb9b3a
+SHA1: 49f48f5aae7304d8a846941bfbd68b1ba56d1fe9
+SHA256: 7d38f7c85cdd98ee1441632023c0557a909d6f5044f6aaa344d553689caf78e2
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-29
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-29_iphoneos-arm.deb
+Size: 9996598
+MD5sum: 8dd7d01769ad56c5ff39b166dbf86766
+SHA1: eb7dd892a3cc6e308e11ff20479babff5523274f
+SHA256: 2f2a1e4c34edf872ed8490bc022495933e184fcb50adbb3a7e52a77047f42aa7
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-31
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-31_iphoneos-arm.deb
+Size: 9983060
+MD5sum: b132aef575b4095a0bc24a11902263fa
+SHA1: 42359f9a31324a0b533b5c74f019d58eecd1db44
+SHA256: 1f6137ca2a0772ab3180bec7197d8a0557e9a6f8367d2e0ffa5b23ea4971cf39
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-32
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-32_iphoneos-arm.deb
+Size: 9980788
+MD5sum: 956f2762aaa0d1b09ff614668b66fb2c
+SHA1: 68f9f527cc8bf357cd2255774f2c20d32841b286
+SHA256: 5f27efb796410324890233223cfbe42ca16e032c276eabd67bc08f2c86031630
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-33
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-33_iphoneos-arm.deb
+Size: 9980826
+MD5sum: 467d68db97ebc8a86a677d5ce7673e8f
+SHA1: 15232933610506461be739232ff5aefae1194706
+SHA256: 5d0c39fae89e992f8e68dd8a2018f65de91cf0668ef4af9f39b228b9e70f6284
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-34
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-34_iphoneos-arm.deb
+Size: 9922422
+MD5sum: 4eb98b52d0a5cb95081d230847626231
+SHA1: 2fc6c74748fd2975de054e150e2d6a2d25a2906a
+SHA256: bdb802c1284e3454d4595820b844afe471900f985f99a99c21e05c9b32e87dd8
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-35
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-35_iphoneos-arm.deb
+Size: 9923076
+MD5sum: 96c44f975c2129d1db9fe6d4efbb9cb7
+SHA1: 5666c29f96935d15f31997f2c3a83e2ab772142c
+SHA256: 062bedf4ebb7083b1957717ae1877b0c47ff0f9ba2a0c8e123b74f4e2c9fa225
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-38
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-38_iphoneos-arm.deb
+Size: 9960040
+MD5sum: 1abb63050bf398383995c5b66182d28a
+SHA1: dad4f1c89f87f83d608184867c2ceacb696730ec
+SHA256: 852f280a544858220eae3a18fface365d4b9d470b013506173e92fa477dd2124
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-39
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-39_iphoneos-arm.deb
+Size: 9960762
+MD5sum: 96fedad9b22f28f255e7f7b879aca720
+SHA1: 9fc2221a12c4f990a253a3f1b2850927451e8da1
+SHA256: 08f3bc0c409eebc094d6f9bf2bfc7f01895723816ee68133e0c65c90b39f79d4
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-40
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-40_iphoneos-arm.deb
+Size: 9961020
+MD5sum: ef001935ce9c25f645f05e183628a131
+SHA1: ada460b48325c8e9bd85311f6cfbcd256fe6b3be
+SHA256: 43542be995e85f5dc08897057bab5bf949f88d69f60724a7fdb3a8c789a08934
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-41
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-41_iphoneos-arm.deb
+Size: 9961016
+MD5sum: 166e51fc23a513e1b95bad6aebefbe48
+SHA1: 0f6b7b864639643056283f14cfbb14517f070e02
+SHA256: 1581a2fb5bcbb8e38eecb63a7731a8ff5fe3adce79f8b580340e3686756bc646
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-42
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-42_iphoneos-arm.deb
+Size: 9961080
+MD5sum: 78b05908b5d1c78915580457f6e25ffa
+SHA1: 3fd4e2403c0ea5c24ae3f2f497f8d9267c85c5e4
+SHA256: 06ab430f7ef2f75e1c034ddd91d873e452bc76318a7b83a549a4edf574af2ad4
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.12-43
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-43_iphoneos-arm.deb
+Size: 9961032
+MD5sum: 7eea1bd87b334f82f99a3b8fa448d3ce
+SHA1: 203ca6136d3e6cb24028326fac913bb2c3385999
+SHA256: b7a3231f2835bf29c92dfcd9a307aac01e378ec384093ac8d109d3222d0873da
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+

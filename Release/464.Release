@@ -1,0 +1,7 @@
+Origin: Sirius's Repo
+Label: Digitalknightz
+Suite: stable
+Version: 0.3
+Architectures: iphoneos-arm
+Components: main
+Description: Sirius's Repo of betas

@@ -1,0 +1,15 @@
+Package: com.manolz.sugarcane
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: manolz
+Filename: ./debs/com.manolz.sugarcane.deb
+Depiction: https://manolzrepo.github.io/ios/depictions/?p=com.manolz.sugarcane
+SileoDepiction: https://manolzrepo.github.io/ios/sileo-depictions/SugarCane12/
+Size: 9330
+MD5sum: f6f47ba77f02041ca00b8f247a4a97ec
+SHA1: d2d0dc54ecde2d51f54a6bd5952c5da64297832e
+SHA256: 9aadd0bc550aca8ec1e447ef9fbd8b5e3bd221953edb37cb2ffb848daece51f6
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 12
+Author: manolz
+Name: SugarCane12

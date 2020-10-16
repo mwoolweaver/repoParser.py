@@ -1,0 +1,8 @@
+Origin: TetherMe
+Label: TetherMe Beta Repo
+Suite: stable
+Version: 0.9
+Codename: tetherme
+Architectures: iphoneos-arm
+Components: main
+Description: TetherMe Beta Repo

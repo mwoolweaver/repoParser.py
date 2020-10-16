@@ -1,0 +1,8 @@
+Origin: D7my Repo 
+Label:  D7my Repo 
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: لتعريب الادوات 

@@ -1,0 +1,8 @@
+Origin: gstpsk
+Label: gstpsk
+Suite: stable
+Version: 2.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: gstpsk's repo.

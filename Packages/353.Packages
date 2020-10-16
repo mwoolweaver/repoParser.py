@@ -1,0 +1,15 @@
+Package: com.imokhles.SpotTweaks
+Version: 0.2.rc-5
+Section: Tweaks
+Maintainer: iMokhles
+Depends: mobilesubstrate, am.theiostre.searchloader
+Architecture: iphoneos-arm
+Filename: debs//com.imokhles.SpotTweaks_0.2.rc-5_iphoneos-arm.deb
+Size: 82268
+Installed-Size: 320
+MD5sum: 587ceeabb41e0d8a5412da2120d052b9
+Description: An awesome SpotLight tweak!
+name: SpotTweaks
+author: iMokhles
+depiction: http://pixelfiredev.com/repo/depictions/?p=com.imokhles.spottweaks
+

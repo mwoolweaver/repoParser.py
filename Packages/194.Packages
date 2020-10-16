@@ -1,0 +1,16 @@
+Package: com.gstpsk.neon80s
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: gstpsk
+Depends: com.anemonetheming.anemone
+Filename: ./debs/neon80s.deb
+Size: 2209372
+MD5sum: 6fde26c02b270c19c81333c44116a425
+SHA1: 4f5b915386d73c8f5de870e26243f450840a883b
+SHA256: 0ba17a8457bda85c3f7b8903cbb5b7c478782030a9b726922eb207a157fa77ef
+Section: Themes
+Description: Rad pack ported to iOS. By an 80's lover for 80's lovers.
+Author: gstpsk
+Name: neon80s
+Depiction: ./depictions/neon80s/index.html
+SileoDepiction: gstpsk.github.io/cydia/sileo-depictions/neon80s/neon80s.js

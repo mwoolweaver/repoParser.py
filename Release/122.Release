@@ -1,0 +1,8 @@
+Origin: clawish's Repo
+Label: clawish's Repo
+Suite: stable
+Version: 0.1
+Codename: clawish
+Architectures: iphoneos-arm
+Components: main
+Description: clawish's Repo

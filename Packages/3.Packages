@@ -1,0 +1,98 @@
+Package: com.mootjeuh.IMN
+Version: 0.14-1
+Architecture: iphoneos-arm
+Maintainer: Mohamed Marbouh
+Installed-Size: 7388
+Depends: mobilesubstrate (>= 0.9.5101), syslogd (>= 1.1.0), applist (>= 1.5.9), com.chpwn.weeloader
+Conflicts: cc.tweak.libobjcipc
+Name: IMN for iOS 8
+Filename: .//downloads/com.mootjeuh.IMN_0.14-1_iphoneos-arm.deb
+Size: 1930546
+MD5sum: d1922da1ca23c00b0266174ff5b374ea
+Section: Tweaks
+Description: iOS 8 quick reply for 3rd party apps
+Icon: file:///Library/PreferenceBundles/IMNPreferences.bundle/IMNIcon@2x.png
+
+Package: com.mootjeuh.IMN.WhatsApp
+Version: 0.2-9
+Architecture: iphoneos-arm
+Maintainer: Mohamed Marbouh
+Installed-Size: 304
+Depends: com.mootjeuh.IMN (>= 0.13)
+Name: WhatsApp extension for IMN
+Filename: .//downloads/com.mootjeuh.IMN.WhatsApp_0.2-9_iphoneos-arm.deb
+Size: 61100
+MD5sum: 99b71308addf3ba7fd3bf5d5dd265190
+Section: Tweaks
+Description: iOS 8 quick reply for WhatsApp
+
+Package: com.mootjeuh.Reachability7
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: Mohamed Marbouh
+Installed-Size: 244
+Depends: mobilesubstrate, libactivator (>= 1.9.0), cc.tweak.libobjcipc
+Name: Reachability7
+Filename: .//downloads/com.mootjeuh.Reachability7_0.2-1_iphoneos-arm.deb
+Size: 39452
+MD5sum: 2181377af79e1a49c7861af63d593ea7
+Section: Tweaks
+Description: Bring iOS 8’s Reachability feature to your iOS 7 device.
+Icon: file:///Library/PreferenceBundles/Reachability.bundle/Icon@2x.png
+
+Package: com.mootjeuh.columba2
+Version: 0.0.5-1
+Architecture: iphoneos-arm
+Maintainer: Mohamed Marbouh
+Installed-Size: 5380
+Depends: mobilesubstrate, com.chpwn.weeloader
+Conflicts: com.mootjeuh.columba
+Name: Columba for iOS 9
+Filename: .//downloads/com.mootjeuh.columba2_0.0.5-1_iphoneos-arm.deb
+Size: 1939552
+MD5sum: a0806e5d50db9c12347800ee02e95561
+Section: Tweaks
+Description: biteSMS-like messaging and more for iOS 9
+Depiction: http://apt.mootjeuh.com/depictions/Columba.html
+Icon: file:///Library/Application Support/Columba/Resources.bundle/SettingsIcon@2x.png
+
+Package: com.mootjeuh.ios8-appswitcher
+Version: 0.0.3-beta-1
+Architecture: iphoneos-arm
+Maintainer: Mohamed Marbouh <mootjeuh@outlook.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Name: iOS8-AppSwitcher
+Filename: .//downloads/com.mootjeuh.ios8-appswitcher_0.0.3-beta-1_iphoneos-arm.deb
+Size: 32742
+MD5sum: 2acf113b0219e30afa7c666281beb370
+Section: Tweaks
+Description: iOS 8 app switcher clone for iOS 7
+Depiction: http://repo.mootjeuh.com/depictions/iOS8-AppSwitcher.html
+
+Package: com.mootjeuh.test
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Mohamed Marbouh
+Installed-Size: 152
+Depends: mobilesubstrate
+Name: Test Package
+Filename: .//downloads/com.mootjeuh.test_0.0.1-1_iphoneos-arm.deb
+Size: 2924
+MD5sum: 4974eacae3ac0ebb8c197cab2fdbeb41
+Section: Tweaks
+Description: Test package please ignore
+
+Package: com.mootjeuh.volume8
+Version: 0.1.2-2
+Architecture: iphoneos-arm
+Maintainer: mootjeuh
+Installed-Size: 152
+Depends: mobilesubstrate
+Name: Volume8
+Filename: .//downloads/com.mootjeuh.volume8_0.1.2-2_iphoneos-arm.deb
+Size: 39720
+MD5sum: e30950c186e691a6157ac22ac83f14cb
+Section: Tweaks
+Description: Windows 8-like volume HUD for iOS.
+

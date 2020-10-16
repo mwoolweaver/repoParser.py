@@ -1,0 +1,34 @@
+Package: me.kritanta.homepluspro
+Version: 1.2.5-finale
+Architecture: iphoneos-arm
+Maintainer: Kritanta
+Depends: mobilesubstrate
+Conflicts: me.kritanta.homeplus
+Filename: ./iphoneos/me.kritanta.homepluspro_1.2.5-finale_iphoneos-arm.deb
+Size: 1058490
+MD5sum: cdfca23cb637076f910a4af2321bdaa2
+SHA1: 31f9ac1eea6b66aae0ad3e7207ef941de5579e6d
+SHA256: 357bced1687a8de5336b851b36d12a28947748cef01504efcbd0072d85e8c5b4
+Section: Tweaks
+Description: Dynamic, live homescreen layout with an intuitive UI
+Author: Kritanta
+Depiction: https://repo.kritanta.me/depiction.html
+Installed-Size: 3416
+Name: HomePlus Pro
+
+Package: me.krit.dragon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: _kritanta
+Depends: sudo, clang, perl, bash, git, python3
+Filename: ./iphoneos/me.krit.dragon_1.0_iphoneos-arm.deb
+Size: 286490898
+MD5sum: fd6e510891b27b0bdada0c8aebb40a03
+SHA1: eac8e04534af2b1c6867d90c16014c4ce03356f6
+SHA256: 94e8eaf04de8f86755c83e01c31fc88c5802a2c18be302ad384598612d7b9124
+Section: Tweaks
+Description: dragon for iOS - Build system + toolkit
+Author: _kritanta
+Installed-Size: 1586296
+Name: dragon
+

@@ -1,0 +1,326 @@
+Package: com.cobre.blockpowerdown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Depends: mobilesubstrate
+Filename: ./debs/blockpowerdown-1.0.deb
+Size: 3548
+MD5sum: 9bb0c799e2fb9b139900189bac405c04
+SHA1: 69484f757112f850d1badc8fd3ae781761c67683
+SHA256: d5bfc74e81b763b85959099dab323bbe47fb1a29f92f3ef9f326827211feffee
+Section: Tweaks
+Description: Blocks the Power Down menu
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/blockpowerdown/
+Name: BlockPowerDown
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/BlockPowerDown.json
+
+Package: com.cobre.blockpowerdown
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Depends: mobilesubstrate
+Filename: ./debs/blockpowerdown-1.1.deb
+Size: 4056
+MD5sum: 772f804f098b2327bee34749a43b31fa
+SHA1: 51884638ea67717a05506f189258ebd84e876fb7
+SHA256: 728ac68f813057742ceb5c0a27965c23ba50aa51432e4e0493f5b7714d33ebd9
+Section: Tweaks
+Description: Blocks the Power Down menu
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/blockpowerdown/
+Name: BlockPowerDown
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/BlockPowerDown.json
+
+Package: com.cobre.kindastockwp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Depends: wallpaperloader
+Filename: ./debs/KindaStockWP.deb
+Size: 45452
+MD5sum: 96cdc2859eb383a79704716fb68e6ecb
+SHA1: 76183534aa2d1c8a8d92c60d2a6fa0154d659751
+SHA256: 141ca894314199ed936191d81931af980d13bd8be7792070ee6f52e5a052af9e
+Section: Wallpaper
+Description: KindaStock wallpapers for WallpaperLoader! Created by ConorTheDev
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/kindastockwp/
+Name: KindaStock WP
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/kindastockwp.json
+
+Package: com.cobre.limelightgreen
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Filename: ./debs/limelightgreen-1.3.deb
+Size: 996
+MD5sum: 51f26230bfe6faa2a94b056330a7c4b9
+SHA1: 37dbea6344d351bd4a573631a2dd980c284c5dba
+SHA256: 7c978492781a585338a6d1836fc0becc4a73efe7e7b42f08a1aa6512ba6117a1
+Section: Themes
+Description: Limelight, but Green!
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/limelightgreen/
+Name: LimelightGreen
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/LimelightGreen.json
+
+Package: com.cobre.limelightpink
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Filename: ./debs/limelightpink-1.3.deb
+Size: 996
+MD5sum: 6372e5af3ca8a9244393e789061a221e
+SHA1: 51b0840385364ea75417e3c3459fac497b3bc2bb
+SHA256: 06a635487278848aa2bc9c3cf775b5269c218367907e291f352f55b2f66ca41a
+Section: Themes
+Description: Limelight, but Pink!
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/limelightpink/
+Name: LimelightPink
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/LimelightPink.json
+
+Package: com.cobre.limelightpurple
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Filename: ./debs/limelightpurple-1.3.deb
+Size: 14120496
+MD5sum: 88d100a966d52621c45f09c4df2c1d0d
+SHA1: 7dd957b87e3767544fd2b46cecc976b4b04babee
+SHA256: 89f8b3b57d17222b9f515ab37b4f5b8098908f33bc100a08cdc61ddb944b4777
+Section: Themes
+Description: Limelight, but Purple!
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/limelightpurple/
+Name: LimelightPurple
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/LimelightPurple.json
+
+Package: com.cobre.limelightred
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Filename: ./debs/limelightred-1.3.deb
+Size: 8850820
+MD5sum: 0283993034f48c0bfd85fe9fef7b089b
+SHA1: 63a4dd0129e0ce37ffaa53810c162ed80c2670a4
+SHA256: f715920f7d8f2b53dc2d9f021f9cc0e741e75700530405e515c3dcf8c3aa1886
+Section: Themes
+Description: Limelight, but Red!
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/limelightred/
+Name: LimelightRed
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/LimelightRed.json
+
+Package: com.cobre.limelightyellow
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Filename: ./debs/limelightyellow-1.3.deb
+Size: 13959972
+MD5sum: 6258b9206308f1cf1db4d6641d5fbb5a
+SHA1: 6b90a8f05f9db37bbdf3caf63f64db1b7231e47b
+SHA256: a20f589986e8915d798ba0e8cb8a0424b8bb31a2f3abc7ac2e951adddf8ceea5
+Section: Themes
+Description: Limelight, but Yellow!
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/limelightyellow/
+Name: LimelightYellow
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/LimelightYellow.json
+
+Package: com.cooper.limewindows
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Filename: ./debs/limewindows-1.1.deb
+Size: 1012
+MD5sum: 7d7dbb9db73aefa4d0a8bb59796a670a
+SHA1: 9596b455e3ec9e66273390f2a49fbbd4441c0b49
+SHA256: 95dacb2f97a0de7765041eb5cf41ae5899ff5d2897aa1b14968ee3c001aba6d1
+Section: Themes
+Description: White glyphs, with a Windows 10 feel
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/limewindows/
+Name: LimeWindows
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/LimeWindows.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 104
+Depends: mobilesubstrate, com.muirey03.zenith, firmware (>=13.0)
+Filename: ./debs/zenithdark-1.0.deb
+Size: 5160
+MD5sum: 441c3267768d2aacbfcd34a9cbf7e65e
+SHA1: 7dd27691936bcbb0eabd453f80569b7b1fee0ee8
+SHA256: 2a439ddd1515a143c74dedaee27a06d4f38d8fc297d29ff7492c2c1337d5be31
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 2644
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith, firmware (>=13.0)
+Filename: ./debs/zenithdark-1.1.deb
+Size: 2324308
+MD5sum: f89777be921547a5d04c8dd1f43b5583
+SHA1: 89d0432f1f75f85805d74b6142d1a5a04a1c93f2
+SHA256: e907e71cc26ec0e1827247702e18a229f25e858c3d6dd7867dd3f7f36bf5bcfa
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 2644
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith
+Filename: ./debs/zenithdark-1.2.deb
+Size: 2324368
+MD5sum: cc19e96b27817c8906fe3c4d74a933a9
+SHA1: 1b5534dea7322f0ffeb79c7dda80a8cd9505a38c
+SHA256: 10f951432d8f1ada40b58effee1c2167c79d87775b430f9b0821deefdfa4883c
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 2588
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith, ws.hbang.common (>= 1.11)
+Filename: ./debs/zenithdark-1.3.deb
+Size: 2277680
+MD5sum: b6885f31f06d1671a10404ba57de79c0
+SHA1: 75c4f72efb05a798a0b253b9a99d575f7e1b023b
+SHA256: 4a37a196dabc14ec708f1a636a093cd65bc2e84221e691d4d520a98005bc3adf
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 2588
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith, ws.hbang.common (>= 1.11), firmware (>=13.0)
+Filename: ./debs/zenithdark-1.4.deb
+Size: 2278456
+MD5sum: d4036fad02cf438077c1cde35947c7b7
+SHA1: b0b315d96001343e1bdb37bce1425809939326aa
+SHA256: fae1cd103a38f63355c59d3d2f674de96e0260b7b3e1e2c2d6e66f02cede51ad
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 2588
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith, ws.hbang.common (>= 1.11), firmware (>=13.0)
+Filename: ./debs/zenithdark-1.4.1.deb
+Size: 2278424
+MD5sum: 014ce0d5f2688bf5e72f333870164c07
+SHA1: f6093f65d9221559df529d664389291e6065253a
+SHA256: 00222f7df9f77d689fa054d3962cd1cabedacb59929711e4ff32dcd1ebb52d83
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 4840
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith, ws.hbang.common (>= 1.11), firmware (>=13.0), com.spark.libsparkcolourpicker
+Filename: ./debs/zenithdark-1.5.deb
+Size: 2278724
+MD5sum: 3658acd67002c5d7af1b8a5e762dfd00
+SHA1: 59712e81938b29c83670b94fdc01b1ec299cdb1d
+SHA256: 07cec7a23c98f4d5adc450823e0b4e4528fed1639178e1b8fab670f9b91e9ccb
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 4840
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith, ws.hbang.common (>= 1.11), firmware (>=13.0), org.thebigboss.libcolorpicker
+Filename: ./debs/zenithdark-1.6.deb
+Size: 2279124
+MD5sum: 12cc560480277b11aad51e91cb7e91ab
+SHA1: 177671cc5662039aacfccac4fb83118a820072aa
+SHA256: f8f7e58d58625d7e94f13b2cc3ccf0bec6b9c2d0f777f4e8b42a504444901a9c
+Section: Tweaks
+Description: Changes Zeniths tabs to a dark blur
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.mac-user669.zenithdark
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Installed-Size: 4808
+Depends: mobilesubstrate, preferenceloader, com.muirey03.zenith, ws.hbang.common (>= 1.14), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/zenithdark-1.7.deb
+Size: 2279032
+MD5sum: 3c108e35fc93a00c7f34484ce2533ec2
+SHA1: 28e18e2f478030148e8fa8468db49a178d57c4e1
+SHA256: 2714aa225aa75b3d5012bebb8ba40c57243662d64db8d7424bfafea40d16c90b
+Section: Tweaks
+Description: Changes Zenith's tab color!
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://repo.cobre.dev/depictions/zenithdark/
+Name: ZenithDark
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/ZenithDark.json
+
+Package: com.nnoce.split
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.nnoce.split.deb
+Size: 356876
+MD5sum: d55b7990d5e8cf07507e66f3989f9b40
+SHA1: 5f9b32a1ac143eb4f71c18c502cb44b2c34f768e
+SHA256: 2501006a4c155bb66f05ff9756fe66235cda0a2a752f9a6af4c5431d275a7835
+Section: Widgets
+Description: A simple LS widget with a vertical bar
+Author: nnoce
+Depiction: https://repo.cobre.dev/depictions/split/
+Name: Split
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/repo/master/sileodepictions/Split.json
+

@@ -1,0 +1,244 @@
+Package: com.johnnyb186.LightsOut
+Version: 0.95
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/LightsOut.deb
+Size: 4973080
+MD5sum: ad77f554e3b65b7e063d2ea85b42464d
+SHA1: acc13a660b4a7dcfbe729c563f21de29f65dbf3e
+SHA256: dc630e878c6be8896be0b87cfc2f5bd95efb302d3cdd6bb01f79adfa5377deea
+Section: Themes
+Description: LightsOut is a beautiful theme.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/LightsOutIcon.jpg
+Name: LightsOut
+
+Package: com.johnnyb186.CircularIcons
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/CircularIcons.deb
+Size: 7088
+MD5sum: 8fcfe61ba569f57df09d92224618168c
+SHA1: 2e8006f03aeb644f591320547012380c81a46de4
+SHA256: 559c140df987b4f0c0d7fb2b92841ce78c959379ea791fd010aa7e38069e2085
+Section: Themes
+Description: CircularIcons mask.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/CircularIcons.jpg
+Name: CircularIcons Mask
+
+Package: com.johnnyb186.LightsOutWidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/LightsOutWidget.deb
+Size: 1388584
+MD5sum: ff31254a737ae53eab315bcfb267f2ad
+SHA1: 9a91c81a49734e30755251fccc2fee5effcfadee
+SHA256: 0c6c9d47fa20ce4bd5f074e695a12127c9af9f7803c419c871bcae97982e524a
+Section: Widgets
+Description: Xen HTML Widget for Lights Out Theme.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/LightsOutWidget.jpg
+Name: LightsOut Widget
+
+
+Package: com.johnnyb186.mooniwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/MooniWidget.deb
+Size: 1066012
+MD5sum: 0207623462d7676a4050bf884e2f34e0
+SHA1: 33f5eda81afd053d39d58e0c8ed60e91ba79d692
+SHA256: d3e345e076c77d07fe7260b1b23497fcb434301ba96c49bb926846ef1bfc910b
+Section: Widgets
+Description: Beautiful Moon iWidget for Xen HTML
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/MooniWidget.jpg
+Name: Moon iWidget
+
+Package: com.johnnyb186.smileyiWidget
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/SmileyiWidget.deb
+Size: 1324716
+MD5sum: a7e96bb038f7e96b9fa3a41037e9a14b
+SHA1: 5d4ff9ebbdc0d1859ecb388b396bed78f06005ea
+SHA256: 03471b74d96238da3cf3ab8ec0e35015e8b1a751d1747e0c3424210ca461ec64
+Section: Widgets
+Description: Rainbow Smiley iWidget for Xen HTML
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/SmileyiWidget.jpg
+Name: Circle Smiley iWidget
+
+Package: com.johnnyb186.diyiwidget
+Version: 1.0.1-2
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/DIYiWidget.deb
+Size: 4867800
+MD5sum: 8a541e6d1a798481468e0d93aba2a6eb
+SHA1: 09f9993b63791de8f4450fdb01ca882bfb8937d3
+SHA256: b2e417412fdf03833bdd5b77cfe1ab24e44e30fceff4dea8c85a3b415033652f
+Section: Widgets
+Description: View readme in private>var>mobile>Library>iWidgets>DIY iWidget to set your own image.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/DIYiWidget.jpg
+Name: DIY iWidget
+
+Package: com.pravin.daxel
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Pravin
+Filename: debs/Daxel.deb
+Size: 22392740
+MD5sum: d38855cc61ec684a5b5724b1fc407ed1
+SHA1: 23c522beaf155be0b21ed74fbe93173f5dee349a
+SHA256: 921c6c0b09ee6644241f2c0683dd1c5931a3973fb096846daee8795c4ae29e04
+Section: Themes
+Description: A sketchy neon theme for everyone who wants to try something new. if you like the theme please donate to <https://paypal.me/Pravine?locale.x=en_AU \> . (if its not working on cydia try Zebra)
+Author: Pravin
+Icon: https://mozart409.github.io/repo/assets/Daxelicon.png
+Name: Daxel Theme
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+
+Package: com.johnnyb186.pleasewaitrespring
+Version: 0.12
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/PleaseWaitRespring.deb
+Size: 212330
+MD5sum: 0d18017766266ce5ffc27f323bcb77cc
+SHA1: 12e4995ba7359b0204ff5080be703173f9f88373
+SHA256: 7bc4c84def88ee04104b3e241b24681b7f34b41abdc17b30837cc13d2a49940a
+Section: Themes
+Description: A Simple Respring Animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/PleaseWaitRespringIcon.jpg
+Name: Please Wait Respring
+
+Package: me.mozart409.wplusrespringlogo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mozart409
+Filename: debs/WPlusRespring.deb
+Size: 4946394
+MD5sum: 2ef62ebbc26b0ca1031d3affda6b776f
+SHA1: 0376ec6e663a4e54f380e4c9eaf5ebeea37a4462
+SHA256: 2a05e4488ac4eea6ff722b2fed45220d6853ce294c143024cc3e255591485afc
+Section: Themes
+Description: This is respring logo is glitchy and I made it on purpose, because I enjoy it more :)
+Author: Mozart409
+Icon: https://mozart409.github.io/repo/assets/CircularIcons.jpg
+Name: WPlus Respring Logo
+Homepage: https://wplus.space
+
+Package: me.mozart409.morphingwormrespring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mozart409
+Filename: debs/MorphingWormRespring.deb
+Size: 1008860
+MD5sum: 2fdb1a261b95ad0e89faab1ba8cc81de
+SHA1: c8ec1f5b4ffa520b970b5bc86eed35a53058e958
+SHA256: 4d5b1eccaaa574bed001a0fb1507d5713bccfcc335b712a2ea2e5495c6db8518
+Section: Themes
+Description: Morphing Worm
+Author: Mozart409
+Icon: https://mozart409.github.io/repo/assets/MorphingWormIcon.png
+Name: Morphing Worm Respring Logo
+Homepage: https://wplus.space
+
+Package: com.johnnyb186.pacmanrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/PacmanRespring.deb
+Size: 26270
+MD5sum: 46f73eeca7b4703c5969ca34bbcf0660
+SHA1: e77557d1f844af1a623e8527375336bd746b45b9
+SHA256: 5bc2d5c23156b6753f978f67fa88080c8c7934bbcf0d76702dbf05ce17cba6b7
+Section: Themes
+Description: A Pacman Respring Animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/PacmanRespringIcon.jpg
+Name: Pacman Respring
+
+Package: com.johnnyb186.fullscreencolorfulrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/FSColorfulRespring.deb
+Size: 38403042
+MD5sum: c4430183c81cfa5f73d90f75239654fd
+SHA1: 048ab4bb17900614b47eb33beb6203e1626062ac
+SHA256: f288055f96d622c0bb1cf78e7f0175f18adf3cdef17cbdd3e9fc259a82fb53e1
+Section: Themes
+Description: A blurred & colorful full Screen Respring Logo.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/FSColorfulRespringIcon.jpg
+Name: Full Screen Colorful Respring Logo
+
+Package: com.pravin.daxelWidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pravin
+Filename: debs/DaxelWidget.deb
+Size: 298692
+MD5sum: d6c24115fb8f22995a29bb411780728e
+SHA1: d54f433cbd7cf119afe05d0602613d999b731c5c
+SHA256: c6224ef54f2b88713f6d7725b423d799e485a4dfb9c72548776d28d2bb3aac2d
+Section: Widgets
+Description: A Lockscreen widget to go with Daxel theme. (credit to Evlyn)
+Author: Pravin
+Icon: https://mozart409.github.io/repo/assets/dwidget.jpg
+Name: Daxel Widget
+
+Package: com.johnnyb186.spotifyuxrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/SpotifyUX.deb
+Size: 186426
+MD5sum: 2eea171b19b5809bcd3cbcc8ba35ec08
+SHA1: 056dc84bfd0020c5764b6cc33a5d39b486b036b4
+SHA256: 7f32b748028277da2b1b11349bb2433d8447884ab50599bc217579b8ff4e8a7e
+Section: Themes
+Description: A Spotify UX respring animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/SpotifyUX.jpg
+Name: Spotify UX Respring
+
+Package: com.johnnyb186.trippypotleafrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/WeedRespring.deb
+Size: 186426
+MD5sum: e60f40ea05115c94cc195f0c0a8d3816
+SHA1: f150ff8351de374c257377cbaf113ee1bf853ba4
+SHA256: 7cc461d8fb2df9dfdbf4bf4522067ad6d85741e762006df7328ea7394d1871a6
+Section: Themes
+Description: A small & trippy pot leaf respring animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/trippypotleafrespring.jpg
+Name: Trippy Pot Leaf Respring
+
+
+Package: me.mozart409.walkingrespring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mozart409
+Filename: debs/WalkingRespring.deb
+Size: 67768
+MD5sum: c1e5176b8d2f9359b98c8d060a401977
+SHA1: 831263f5bc345cc11672895131875a7c3c112ecf
+SHA256: ad36c64d4f05dceb8deba3fcee73a426c7d69ef3258f9136dc09464afea4cbb8
+Section: Themes
+Description: A walking respring animation
+Author: Mozart409
+Icon: https://mozart409.github.io/repo/assets/WalkingRespring.jpg
+Name: Walking Respring Logo

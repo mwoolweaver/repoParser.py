@@ -1,0 +1,534 @@
+Package: com.brunonfl.wifisshfordropbear
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Filename: ./debs/com.brunonfl.wifisshfordropbear_1.2_iphoneos-arm.deb
+Size: 1148
+MD5sum: c4fa5388dae2c4ece668dc8e896b28a6
+SHA1: f230915ce05b77d3247717d8d5b60d479cf0c2ff
+SHA256: 51d335a128bada9d9e743dfa5c835b34916f89f6ca658967bcdd18b89a091d22
+Section: System
+Description: Make SSH Great Again!
+Tag: role::hacker
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: Wi-Fi SSH for Dropbear
+
+Package: com.lcampbell0x.dropbear
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 1.0)
+Filename: ./debs/Dropbear.deb
+Size: 1832962
+MD5sum: c8f4767f3ae14767eed689fdd5591995
+SHA1: 9fedce104ac61032ecd85f4a9cb9baa60c2b35f4
+SHA256: 5b1058f0b7c6a8cf3fd1aedf0b7a8dbf08266f9e6384a89c5581dd5b60b12549
+Section: System
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Name: Dropbear
+
+Package: com.nscake.delayscontenttouches
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.delayscontenttouches_0.0.1.deb
+Size: 4050
+MD5sum: f1193dc2a0e712f42c360bc69bcf0430
+SHA1: ee6b630e2f3e88535111d0b3358660676f6079b6
+SHA256: 9f917052a0361805db2f23105a6104768247e75507857c8868f6b11aefe4fae1
+Section: Tweaks
+Description: Disable delaysContentTouches on all scroll views
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: ResponsiveScrollViews
+
+Package: com.nscake.fixmaps
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.fixmaps_0.0.1.deb
+Size: 3156
+MD5sum: 99492da7f150e9550b3157efb3f609d3
+SHA1: cccd7c39b9882ec149b83011f742c4ad91f345e5
+SHA256: 08d94c79fbaa2eb23cc1ec2a51019323a66acf9d44f011fb73d7f9591a559c60
+Section: Tweaks
+Description: Enable the fullscreen photo gallery in Maps.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: FixMaps
+
+Package: com.nscake.icleanerzombie
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.icleanerzombie_0.0.1.deb
+Size: 2888
+MD5sum: 83fedd915e8473ec1a5b51b68fd15739
+SHA1: 69ce1fee94226ae88a205d2acc1fb80aeff99b14
+SHA256: f303a95a72f5d763fb0446095acd1f19129671c6ccd86cc9fefac494a64b2964
+Section: Tweaks
+Description: Keep iCleaner alive when you leave the app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: iCleanerZombie
+
+Package: com.nscake.noimgurredirect
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.noimgurredirect_0.0.1.deb
+Size: 5876
+MD5sum: 0bff61cd766769adb366dbdfd4324851
+SHA1: 14018b0f69f0451bc59102bced160940d0cea1c6
+SHA256: aedb42c3f62409816e9e576dd91b75c218a0dd508b397f708049ad10ae1ea111
+Section: Tweaks
+Description: Prevent Imgur direct links from taking you to the mobile site
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoImgurRedirect
+
+Package: com.nscake.noscrollbargrabbing
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.noscrollbargrabbing_0.0.1.deb
+Size: 3148
+MD5sum: 61e04df194a803a673070a82c0e3803b
+SHA1: d94ad6eb5152567287d5d081982bb26f337ed649
+SHA256: 88f3ddcf3844db28a09202292c553b2c0fde5232ae82995da743c3f6734534bc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoScrollbarGrabbing
+
+Package: com.nscake.noscrollbargrabdelay
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.noscrollbargrabdelay_0.0.1.deb
+Size: 3956
+MD5sum: 99288f30a8ff1107ac1d6c0817dfde4c
+SHA1: 378e233297beb7cfe6389f1f4c01780f88b4e934
+SHA256: 36afeab71a305541416f22a78d10b178ecdb9093b19c07b8dd9b5fe65a844d4e
+Section: Tweaks
+Description: Removes the delay when trying to drag a scroll bar.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoScrollbarGrabDelay
+
+Package: com.nscake.nossl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.nossl_0.0.1.deb
+Size: 7936
+MD5sum: fe423b1e2828a72d56937caf7ba0e434
+SHA1: d8e466413ffc8647d4dc15f153d6c1b8a75cf1bc
+SHA256: d49a864c8a281fdf723d2fde4d8f2a106d8078a5fdd26728fcd1000309ab609b
+Section: Tweaks
+Description: Disable SSL cert pinning
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoSSL
+
+Package: com.nscake.notwitterlinkanalytics
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.notwitterlinkanalytics_0.0.1.deb
+Size: 3856
+MD5sum: 672952f37436c2d2fcd740aa9ad41f07
+SHA1: 39a521fb9ee92ca82e26990460c9b65d9aca4d38
+SHA256: d589703ccc639ea3c50cb955dcb01d713688c9d88725b6ebc2f6b4e6ce64e8fe
+Section: Tweaks
+Description: Skip t.co!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.nscake.notwitterlinkanalytics
+Name: NoTwitterLinkAnalytics
+Sileodepiction: https://nscake.github.io/depictions/com.nscake.notwitterlinkanalytics.sileo.json
+
+Package: com.nscake.photos.fixphotos
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.photos.fixphotos_1.0.1.deb
+Size: 7800
+MD5sum: f6294ac49fb1eb7e5b6a46b69f5d16d2
+SHA1: a58ae24c847b30c2575f6aa5e3c43dfdad6edbbb
+SHA256: dc20daa33a732379864c0ccabc1507dcb6ff0fbfb9de260f991d5295b4d27ba2
+Section: Tweaks
+Description: Various tweaks for the iOS 13 Photos app.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: FixPhotos
+
+Package: com.nscake.photos.noscreenshots
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.photos.noscreenshots_1.0.0.deb
+Size: 8120
+MD5sum: 2f5a7684dbe9180339e2ccad0b9c3e89
+SHA1: 96d17cfae40abb4e719fefb93525148e3c819f18
+SHA256: a4a2b184e7dac994fdf9a31f3361cb02824c898f6ae6d1139106d73d7977dcac
+Section: Tweaks
+Description: Hides screenshots and screen recordings from the main Photos tab. Also makes the theater navigation bars hide instantly.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoScreenshots
+
+Package: com.nscake.redditgold
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.redditgold_1.0.0.deb
+Size: 29522
+MD5sum: c6b31d67b3d2c616a12e9c90a0003759
+SHA1: 2b7898f599391e7fb970815e25f3a083d826c04d
+SHA256: 53b8ee58672e65db18a748803ca1369b6fc0a6d88c9effc34ce414e51a4d6b48
+Section: Tweaks
+Description: Enhancements to the Reddit app
+Author: Tanner Bennett
+Name: RedditGold
+
+Package: com.nscake.redditgold
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.redditgold_1.1.1.deb
+Size: 24798
+MD5sum: 2630eb88c024ddb6c6d455f9d53653f6
+SHA1: 540b6c3cbab9978b995453b459e767f431d149f8
+SHA256: 9bbbc297a0ece423511bd3186604483fba1d23fdd086ec520cda6f08ae6f62cf
+Section: Tweaks
+Description: Enhancements to the Reddit app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: RedditGold
+
+Package: com.nscake.redditgold
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 440
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.redditgold_1.1.2.deb
+Size: 56808
+MD5sum: 08cdcff59e323fbfd10936337eb9e1d0
+SHA1: c39629f6d572d95efcdd3e44d91f62a3c71317fc
+SHA256: 2fc465e423551f02b55e0f88d23957db385f5df7ee82a4741f9173fee9f3c26e
+Section: Tweaks
+Description: Enhancements to the Reddit app
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.nscake.redditgold
+Name: RedditGold
+Sileodepiction: https://nscake.github.io/depictions/com.nscake.redditgold.sileo.json
+
+Package: com.nscake.settingssections
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.settingssections_0.0.1.deb
+Size: 5704
+MD5sum: 5cf143401f969eaed13a25b9669441b6
+SHA1: a6b155069f1f179d2638d3e001e1aec4eb39ad19
+SHA256: 84714ea42de55a7d59291fd6ac62f540628583c4401f831a1282684cb667e035
+Section: Tweaks
+Description: Add section indexes to Preferences
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SettingsSections
+
+Package: com.nscake.swipeexpanderfix
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.nscake.swipeexpanderfix_0.0.2.deb
+Size: 3062
+MD5sum: d9e2fb88a904593ecd181f726247e4c3
+SHA1: 036632ae08d41ebcd1c3693fc942746f941456a2
+SHA256: 535e24e3d400d71c96f5b1eea790a281e2f14b23aa6be490302bf0d00aa2911e
+Section: Tweaks
+Description: Fix SwipeExpander crashing on iOS 13
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SwipeExpanderFix
+
+Package: com.nscake.swipeexpanderfix
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.nscake.swipeexpanderfix_0.0.3.deb
+Size: 3740
+MD5sum: 431845fdebf922901c99108d3cc0bc59
+SHA1: 01e51d4e6e96382d3b7b6f834e822f270dbc907a
+SHA256: acf921a39d4bb037a10926cd0f9436cecddf5188b653a6e56e2aa4f040c5aa58
+Section: Tweaks
+Description: Fix SwipeExpander crashing on iOS 13
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SwipeExpanderFix
+
+Package: com.nsexceptional.darksnapchat
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.nsexceptional.darksnapchat_0.0.1.deb
+Size: 9094
+MD5sum: 594dee32de40a3e620e77de96cce92ac
+SHA1: 26c6438245223b9d6a361defeac5c3a7bec1bb5b
+SHA256: 6a6f937c7ee5da8078071119b9cd997a06b3717d0588a765e13b5dba6b4d4efb
+Section: Tweaks
+Description: Dark mode and no Discover for Snapchat
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: DarkSnapchat
+
+Package: com.pantsthief.flexing
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 4136
+Pre-Depends: firmware (>= 8.0)
+Filename: ./debs/com.pantsthief.flexing_0.0.8.deb
+Size: 893178
+MD5sum: 2ec16d7ea33af7996c590b45364191b0
+SHA1: 940ebd59dd8fc5bdc55fb6db5fe69a3c3619494c
+SHA256: 36a12faad3e7b57456887949e3e10ca0d83bf99243d02557969b93c5836c5251
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett
+Name: FLEXing
+
+Package: com.pantsthief.flexing
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 4148
+Pre-Depends: firmware (>= 8.0)
+Filename: ./debs/com.pantsthief.flexing_0.0.9.deb
+Size: 893328
+MD5sum: 901920a05e4412599b46b463140edd15
+SHA1: ad8a06754e3859210cc3c3f7bb17cfca9e01e8ed
+SHA256: 8a0c966d604d2adc63007e3c4fa229797e508e6769acea3a9ac8c65c573b29a7
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett
+Name: FLEXing
+
+Package: com.pantsthief.flexing
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 204
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.1.0.deb
+Size: 14592
+MD5sum: b78787e2557290d09ef30d54eb103691
+SHA1: d98008a52c059bb36cefac015a7fa6579fed86f4
+SHA256: 3a349b40fe4e44d9b5dd39e9882540d2db0022de699856194aba91ba25873a66
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett
+Name: FLEXing
+
+Package: com.pantsthief.flexing
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 272
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.2.0.deb
+Size: 15992
+MD5sum: 4aa706e12bc548baa8bd6e007f8919a5
+SHA1: e0e8a467b5a0a141d88ee756602f67e838c01e05
+SHA256: 69d80d185dcff77d64fb0f1a73cef5ccc0645c249de0d793d9a4701e178e0211
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett
+Name: FLEXing
+
+Package: com.pantsthief.flexing
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 272
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.3.0.deb
+Size: 17422
+MD5sum: b731e1d3f57639e3428942d2b0e51aa3
+SHA1: 12413f536bc8ab87a1625d150fd22a193c66c33a
+SHA256: 1e46bed5c781fcbe6c7b956e825120a07642b7baae617d2089362f67a0361a10
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.pantsthief.nossl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.nossl_0.0.1.deb
+Size: 5350
+MD5sum: c802097bbe2ac74e772910ef69d33aff
+SHA1: 897016c540f665f5995ff69e67bc7621ed072e6d
+SHA256: ccff736111f446ed6ca786545c3d243cd668a4accd050e747a03dc51ceb86208
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett
+Name: NoSSL
+
+Package: com.pantsthief.retrotabbar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.retrotabbar_0.0.1.deb
+Size: 3844
+MD5sum: 85b60335f7183eb225b77cefb252acbe
+SHA1: 118d6ca16e8ebe8e4cbb4d05fb58016aa525128b
+SHA256: 632b9e1f9c55f29c2f030d205ff325caf36a6e0cde6f8a0ba160694e29eb8fa2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett
+Name: RetroTabBar
+
+Package: com.pantsthief.tbtweaks11
+Version: 13.4
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbtweaks11_13.4.deb
+Size: 10388
+MD5sum: 49f79d8779a85c574bfacf25f1264ef3
+SHA1: bad71c72edec8943844253cad22d231c4d283398
+SHA256: 6faafa07e963074e60dbffb89ca8710367a0fe59f03a7da01917b12b58dbe155
+Section: Tweaks
+Description: Various SpringBoard tweaks for iOS 11+
+Author: Tanner Bennett
+Name: TBTweaks11
+
+Package: libflex
+Version: 4.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 8068
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.1.1-1.deb
+Size: 1999744
+MD5sum: 2b705edbafe747707a5ff8545d8c874e
+SHA1: 3a7c25a57ca73eb3530ac130175d3d974b37d96f
+SHA256: 6425607fc72f4e7e11beb45d67508b8182060f582ad7e8ecfc4029d69c2d1aad
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett
+Name: libFLEX
+
+Package: libflex
+Version: 4.1.2~b
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 8068
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.1.2~b.deb
+Size: 1999548
+MD5sum: 1ccabe30a2ff8f7d36a0838dd91fe9da
+SHA1: 7e7a6e4ff2b6423c0275617d02d74c09c630666a
+SHA256: 77d327c2496928a54243298655e20c1311397cac82f4d7096d52dd75474c83de
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett
+Name: libFLEX
+
+Package: libflex
+Version: 4.1.2~b2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 8072
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.1.2~b2.deb
+Size: 2009260
+MD5sum: 58fd7766a8c97ab3227eac046beb35d3
+SHA1: 3310789373769d970a7a7579ee596efefb41a98c
+SHA256: b239a694400fcebe3959a6f242816ce02290f9e41b20925d4c5b60858ac7e436
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: libFLEX
+
+Package: org.coolstar.scp-sftp-dropbear
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: openssl
+Conflicts: openssh
+Filename: ./debs/scp-sftp-dropbear.deb
+Size: 196386
+MD5sum: 4221c938339c2e21cd4758e2b4a41212
+SHA1: d7675f2dc6ec58662e85da4a14b9ddf9db7cf312
+SHA256: 2a0253ba7e20ad7bd25f8304f500199bb549b7cbada7279c50aa684f613ecad4
+Section: System
+Description: Add SCP and SFTP for use with dropbear SSH server. (Useful with Yalu jailbreaks).
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: SCP and SFTP for dropbear
+
+Package: xyz.tie1r.bc
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: tie1r <tie1r@tie1r.xyz>
+Filename: ./debs/bc.deb
+Size: 46156
+MD5sum: b31e789dd4094738f8f627ea6ee49ffa
+SHA1: ad91f525d076f7e568aefea2d2719d9438ec89de
+SHA256: a14acc6b0d08a6bfe0023b9b6099960826eda6dbbabc2eee548c3129a381c38b
+Section: Utilities
+Description: bc is an arbitrary precision numeric processing language. Syntax is similar to C, but differs in many substantial areas. It supports interactive execution of statements. bc is a utility included in the POSIX P1003.2/D11 draft standard.
+Author: tie1r <tie1r@tie1r.xyz>
+Name: bc
+
+Package: xyz.tie1r.t3nbelow
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Depends: bc,shell-cmds
+Filename: ./debs/t3nbelow.deb
+Size: 340728
+MD5sum: e1599a47ee2d2b96f03f7765d8e34963
+SHA1: f231fd6cffe7672cf72f66a1ef61c97dda8bb4b0
+SHA256: f0690e1431aea07efdaa03213b278b3d1f96ba85ca6b0afd1e8b7a3d10c698d9
+Section: Utilities
+Description: Downgrade iOS 9.x/10.x to 8.4.1. Only Support iPhone 5, 4s, and iPod Touch 5g.
+Author: tie1r <tie1r@tie1r.xyz>
+Name: t3nbelow
+

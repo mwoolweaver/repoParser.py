@@ -1,0 +1,8 @@
+Origin: MatRanc's Repo
+Label: MatRanc's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: MatRanc's public (and only) Cydia repo!

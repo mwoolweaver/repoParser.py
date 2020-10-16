@@ -1,0 +1,54 @@
+Package: com.sn0wcooder.enterkdfu
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/enterkdfu_v1.0.deb
+Size: 1295532
+Author: Sn0wCooder
+Section: Development
+Depends: com.sn0wcooder.kloader
+Conflicts: kloader
+MD5sum: 20433c1d10743c35ebd24d462818dfef
+SHA1: ff8ca9709a4db78da193312c995d566bdb9f1ab6
+SHA256: 17a5eb9336cda8faaed37e9c9b12f913a83b41a17046075c428f8988c8342b11
+Description: enterkdfu is an easy way to get into kDFU mode.
+	'enterkdfu' from any Terminal (root)
+	
+	Devices currently supported: iPad1,1 / iPad2,1 / iPad2,2 / iPad2,3 / iPad2,4 / iPad2,5 / iPad2,6 / iPad2,7 / iPad3,1 / iPad3,2 / iPad3,3 / iPad3,4 / iPad3,5 / iPad3,6 / iPhone2,1 / iPhone3,1 / iPhone3,2 / iPhone3,3 / iPhone4,1 / iPhone5,1 / iPhone5,2 / iPhone5,3 / iPhone5,4 / iPod3,1 / iPod4,1 / iPod5,1
+	
+	Huge thanks to xpwntool and all peoples who discovered Firmware Keys for these devices.
+Name: enterkdfu
+
+Package: com.sn0wcooder.kloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sn0wCooder
+Conflicts: kloader
+Filename: ./debs/kloader_v1.0.deb
+Size: 9366
+MD5sum: 3a7b429ea4ba65fb6733547af779572d
+SHA1: 829f63cfdff97a239008fd97160f87b91251d2fc
+SHA256: 844b3f4f182cd9807517e3e21500db173c199a38a37283788851824abdd2c7d5
+Section: Development
+Description: kloader
+Homepage: https://github.com/axi0mX/ios-kexec-utils/blob/master/kloader.c
+Author: axi0mX
+Name: kloader
+
+Package: net.siguza.ios-kern-utils
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Sn0wCooder
+Filename: ./debs/net.siguza.ios-kern-utils_1.4.0_iphoneos-arm.deb
+Size: 38328
+MD5sum: 0816067c1bc6680da5f7a2e7415053ba
+SHA1: 8580d9e7be6fde7af3ca4da23bfa54377c3338f6
+SHA256: a87575663f1dd25ee0c557f5eabd52770821e0256d3caadf752f48a908c368e4
+Section: Development
+Homepage: https://github.com/Siguza/ios-kern-utils
+Description: kdump & friends
+ Utilities for playing with the kernel. Requires tfp0 patch.<br>
+ Run with -h for help.<br>
+ <a href="https://github.com/Siguza/ios-kern-utils">Free and open source</a>, forked from <a href="https://github.com/saelo/ios-kern-utils">saelo</a>.
+Author: Siguza <siguza@siguza.net>
+Name: kern-utils
+

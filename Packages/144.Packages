@@ -1,0 +1,18 @@
+Package: com.jukben.glitchme
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: jukben <jukben@gmail.com>
+Depends: com.matchstic.xenhtml
+Filename: debs/com.jukben.glitchme.deb
+Size: 519062
+MD5sum: c278d98acfd4dec38a4ff7a329a95b57
+SHA1: 1914e9bbb926c3e11c3db7bae6955fe58ca02196
+SHA256: 43afc14817bb84f9ed7e7e4df6e80b0f45681ab99d58b45d2f8e883a4dfe66d0
+Section: XenHTML
+Homepage: http://cydia.jukben.cz
+Description: Let your lock background glitch
+Author: jukben <jukben@gmail.com>
+Icon: https://cydia.jukben.cz/depictions/com.jukben.glitchme/Icon.png
+Name: GlitchMe
+Sileodepiction: https://cydia.jukben.cz/depictions/com.jukben.glitchme/SileoDepiction.json
+

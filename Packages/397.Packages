@@ -1,0 +1,35 @@
+Package:com.michelbarnich.detector
+Version:1.4-j
+Section:System Tools
+Maintainer:Michel Barnich <help@michelbarnich.com>
+Depends:firmware (>=9.0)
+Architecture:iphoneos-arm
+Filename:debs/com.michelbarnich.detector.deb
+MD5sum:ca0a3e68a2478c657c62bc5925932026
+Sha1:097f18c95dbe040103e7d57dd429f21bcdbb7452
+Sha256:06c0027b21a052aeaf9c30b0da87d5a5ac60ca67455c3c8c6aa79fe478c4489a
+Sha512:86e7cc0023992196c43abd857be0f0dabaf32426136b6622037b80df0514bdc9d9a5e1932f95f279fb8e04e6f464f7b48393fbb3885059cff74a62e70782d903
+Description:A simple & fast malware detection tool
+Name:Detector
+Author:Michel Barnich <help@michelbarnich.com>
+Size: 8907092
+Installed-Size: 70000
+Icon:https://repo.michelbarnich.com/resources/detector.png
+
+Package:com.michelbarnich.detector-beta
+Version:1.4-j-fix-install-issues
+Section:System Tools
+Maintainer:Michel Barnich <help@michelbarnich.com>
+Depends:firmware (>=9.0)
+Architecture:iphoneos-arm
+Filename:debs/com.michelbarnich.detector.deb
+MD5sum:ca0a3e68a2478c657c62bc5925932026
+Sha1:097f18c95dbe040103e7d57dd429f21bcdbb7452
+Sha256:06c0027b21a052aeaf9c30b0da87d5a5ac60ca67455c3c8c6aa79fe478c4489a
+Sha512:86e7cc0023992196c43abd857be0f0dabaf32426136b6622037b80df0514bdc9d9a5e1932f95f279fb8e04e6f464f7b48393fbb3885059cff74a62e70782d903
+Description:THIS IS ONLY A FIX FOR THE 1.4-j INSTALL ISSUES. Installing this package can display Errors. Restart your Springboard after the installation. This package will never show as installed!
+Name:Detector
+Author:Michel Barnich <help@michelbarnich.com>
+Size: 8907092
+Installed-Size: 70000
+Icon:https://repo.michelbarnich.com/resources/detector.png

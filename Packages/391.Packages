@@ -1,0 +1,150 @@
+Package: com.hudsongreen.androidstatusbaricons
+Name: Android Statusbar Icons
+Size: 5478
+Version: 1.0.1-r1
+Architecture: iphoneos-arm
+Section: HKG_-_Themes
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Depends: net.tateu.moveable9
+Description: Moveable 9 Statusbar Theme
+Filename: debs//Themes/AndroidStatusbarIcons/com.hudsongreen.androidstatusbaricons.deb
+Depiction: http://repo.hudsongreen.com/depic/?package=Themes/AndroidStatusbarIcons
+MD5sum: 81835606906edbdc681be08630326894
+SHA1: f27523663248b0f700f41b495ac38fe761ce0105
+SHA256: 853b5aa06e70d9131febf1b99d0bd427e31260df227b6a0bd5a9820c4261e13c
+Icon: file:///Library/HKG/PackageIcons/Themes/AndroidStatusbarIcons/Icon.png
+Tag: purpose::extension
+
+
+
+Package: com.hudsongreen.androidsettingsicons
+Name: Android Settings Icons
+Size: 27692
+Version: 0.7.4-r1
+Architecture: iphoneos-arm
+Section: HKG_-_Themes
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Description: Some icons in the iOS settings page to match those of Android
+Filename: debs//Themes/AndroidSettingsIcons/com.hudsongreen.androidsettingsicons.deb
+Depiction: http://repo.hudsongreen.com/depic/?package=Themes/AndroidSettingsIcons
+MD5sum: cfbdbfd899923bf922d0a5c169bdd237
+SHA1: c5f3ea7ce93322c50265914017ab513509e87a1f
+SHA256: e779f90e27b318e3b380de4db27ccff4bc9b6441ff8fd10993eddb2176720c26
+Icon: file:///Library/HKG/PackageIcons/Themes/AndroidSettingsIcons/Icon.png
+Tag: purpose::uikit
+
+Package: com.hudsongreen.androidsettingsicons
+Name: Android Settings Icons
+Size: 24712
+Version: 0.7.3-r2
+Architecture: iphoneos-arm
+Section: HKG_-_Themes
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Description: Some icons in the iOS settings page to match those of Android
+Filename: debs//Themes/AndroidSettingsIcons/com.hudsongreen.androidsettingsicons_0.7.3-r2.deb
+Depiction: http://repo.hudsongreen.com/depic/?package=Themes/AndroidSettingsIcons
+MD5sum: 0040db084c7fab4454ac8d2c3503f440
+SHA1: 1abdfe8a8775cc24d287a12f8e692d98c4feced4
+SHA256: 5875810a8ab25ba98f8828bd3ba9815be661ebb147648ea0ac2aef23eb6f59e1
+Icon: file:///Library/HKG/PackageIcons/Themes/AndroidSettingsIcons/Icon.png
+Tag: purpose::uikit
+
+Package: com.hudsongreen.androidsettingsicons
+Name: Android Settings Icons
+Size: 24696
+Version: 0.7.3-r1
+Architecture: iphoneos-arm
+Section: HKG_-_Themes
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Description: Some icons in the iOS settings page to match those of Android
+Filename: debs//Themes/AndroidSettingsIcons/com.hudsongreen.androidsettingsicons_0.7.3-r1.deb
+Depiction: http://repo.hudsongreen.com/depic/?package=Themes/AndroidSettingsIcons
+MD5sum: ee5b50b3c73bb48ed404a87d32bce63f
+SHA1: 446ff6246aeca066b81e5704f4c3e1271933ca3b
+SHA256: ef2ae8d6b1878b88db9e3bb16bbdd888176b57d7c2dea0c6b18c4a6861ef1a9e
+Icon: file:///Library/HKG/PackageIcons/Themes/AndroidSettingsIcons/Icon.png
+Tag: purpose::uikit
+
+
+
+Package: com.hudsongreen.disconnectedwifiicon
+Name: Disconnected Wifi Icon (Zeppelin Logo)
+Size: 3542
+Version: 1.0-r1
+Architecture: iphoneos-arm
+Section: HKG_-_Themes
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Description: Use Activator and Moveable9 to hide/show icon.
+Filename: debs//Themes/DisconnectedWifiIcon/com.hudsongreen.disconnectedwifiicon.deb
+Depiction: http://repo.hudsongreen.com/depic/?package=Themes/DisconnectedWifiIcon
+MD5sum: ed4e32efeb30cdec54fc5276d5278271
+SHA1: 521882591f6ef49dac0266549c3f7f4519246fd3
+SHA256: 87481a91792415ebb4bdc0db66cc6ff0ef110b0b66c19493f44f53d929fd70d8
+Icon: file:///Library/HKG/PackageIcons/Themes/DisconnectedWifiIcon/Icon.png
+Tag: purpose::uikit
+
+
+
+Package: com.hudsongreen.roundfolders
+Version: 0.1
+Architecture: iphoneos-arm
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Filename: debs//Themes/RoundFolders/com.hudsongreen.roundfolders.deb
+Size: 37542
+Section: HKG_-_Themes
+Description: Dark Round Folder Icons
+Depiction: http://repo.hudsongreen.com/depic?package=Themes/RoundFolders
+Name: Round Folders
+MD5sum: c7afced7f8257d27a458ec37e23e4dff
+SHA1: 1b8bb8406973c57b05b1c96f58dc8d8a953724dc
+SHA256: 742c2d0c2192e4e73f85b6f3fcb67c9a4e612eb7491fd7c77ec8c6348f7a992c
+Icon: uri//CydiaIcon.png
+tag: purpose::uikit
+
+
+
+Package: com.hudsongreen.cydia.RepoIcons
+Name: HKG Repository Icons
+Size: 8038
+Version: 1.1.6-r2
+Architecture: iphoneos-arm
+Section: HKG_-_Tweaks
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Description: HKG Repo Icons (repo.hudsongreen.com)
+Filename: debs//Tweaks/RepoIcons/com.hudsongreen.cydia.RepoIcons.deb
+Depiction: http://repo.hudsongreen.com/depic?package=Tweaks/RepoIcons
+Replaces: com.hudsongreen.cydia.RepoIcons
+Required: Yes
+Essential: Yes
+MD5sum: 4b4fb2c1b4227aeadea7abffb0267e05
+SHA1: b4f8548fb013e83e389d29635c4d30234b806d54
+SHA256: 9e1fa0cab1343062b532b448e7b849d8922b46d939ba0afe1343b0610a598894
+Icon: file:///Applications/Cydia.app/Sections/Repositories.png
+Tag: purpose::extension
+
+Package: com.hudsongreen.cydia.RepoIcons
+Name: HKG Repository Icons
+Size: 7950
+Version: 1.1.6-r1
+Architecture: iphoneos-arm
+Section: HKG_-_Tweaks
+Author: Hudson Green <cydia@hudsongreen.com>
+Maintainer: Hudson Green <cydia@hudsongreen.com>
+Description: HKG Repo Icons (repo.hudsongreen.com)
+Filename: debs//Tweaks/RepoIcons/com.hudsongreen.cydia.RepoIcons_1.1.6-r1.deb
+Depiction: http://repo.hudsongreen.com/depic?package=Tweaks/RepoIcons
+Replaces: com.hudsongreen.cydia.RepoIcons
+Required: Yes
+Essential: Yes
+MD5sum: de7164d09966af6070bc771c91cb71ff
+SHA1: cda3efa6ae678779cdaf99a68cbf3ff40ee44575
+SHA256: 3ca345cf26a45eb72c58876b40a2aaeb067b33d9a02bf26d94b6604eab06c275
+Icon: file:///Applications/Cydia.app/Sections/Repositories.png
+Tag: purpose::extension

@@ -1,0 +1,64 @@
+Package: com.pollapo.CCaddKaTalk
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: POLLAPO <loseecho@gmail.com>
+Depends: com.jailbreak365.safeccmodules, mobilesubstrate
+Filename: ./debs/com.pollapo.CCaddKaTalk_1.3.2_iphoneos-arm.deb
+Size: 5942
+MD5sum: 4757faa45215edfdaef5d7c9532499f8
+SHA1: c36d514deb7b9a1b0139fd82824477d8ddfc6011
+SHA256: 283b09a8c7ffe32410b718c45216cd725139a5918d19eeda657f10a28fed018c
+Section: Tweaks
+Description: 컨트롤센터(CC)에 카카오톡을 추가합니다.
+Author: POLLAPO <loseecho@gmail.com>
+Name: CCaddKaTalk
+Website: https://rrnmrnm.github.io
+
+Package: com.pollapo.LatchKeyPKMTheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: POLLAPO <loseecho@gmail.com>
+Depends: ch.mdaus.latchkey
+Filename: ./debs/com.pollapo.LatchKeyPKMTheme_1.0_iphoneos-arm.deb
+Size: 5831988
+MD5sum: e1a73113d0a26afaf05c0a2c15b5272c
+SHA1: 3d10fd88ea008c883c5ce57a6d44100c8e0f5a34
+SHA256: 5e23f312c1ca603c6e9d8abd431bd11abf3567a4a63e3a4e8e3e7ad5e7adb1db
+Section: Themes
+Description: LatchKey Pokemon Theme / Require Latchkey(2.0)
+Author: POLLAPO <loseecho@gmail.com>
+Name: LatchKeyTheme_Pokemon
+Website: https://rrnmrnm.github.io
+
+Package: com.pollapo.LatchKeyTheme
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: POLLAPO <loseecho@gmail.com>
+Filename: ./debs/com.pollapo.LatchKeyTheme_1.2_iphoneos-arm.deb
+Size: 6385686
+MD5sum: 0c784c1c393ee7b091718196fb398e6d
+SHA1: 9a8ddfb4548b6e3c64d76fe80608ce25f6ddb976
+SHA256: 57d9bf97432fc91fb5221e3a6ec0eed3c84925e6f6d7502afa89d88012279761
+Section: Themes
+Description: LatchKey_Themes_1 for iOS12
+Author: POLLAPO <loseecho@gmail.com>
+Depnds: firmware (>=12.0), ch.mdaus.latchkey
+Name: LatchKey_Themes
+Website: https://rrnmrnm.github.io
+
+Package: com.pollapo.LatchKeyTheme2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: POLLAPO <loseecho@gmail.com>
+Depends: firmware (>=12.0), ch.mdaus.latchkey
+Filename: ./debs/com.pollapo.LatchKeyTheme2_1.0_iphoneos-arm.deb
+Size: 2354320
+MD5sum: 549a45b4b411d13f58fac985f6b397c3
+SHA1: adb42856c5c63066e4c6d11d67e45770ac1ff278
+SHA256: 231840e8c651a53605ec4b44cd9687a3f964e011a1797331c5c789cad3a562b6
+Section: Themes
+Description: LatchKey_Themes_2(Adidas, Nike and more.)  *Notice : Some themes may show differently depending on lock screen wallpaper. Those themes have WI at the end of the name. (WI stands for Wallpaper Influenced) For example: P_Nike2(WI)
+Author: POLLAPO <loseecho@gmail.com>
+Name: LatchKey_Themes_2
+Website: https://rrnmrnm.github.io
+

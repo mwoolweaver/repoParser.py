@@ -1,0 +1,2069 @@
+Package: atv-lighttpd-php-mysql
+Version: 1.7-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 488
+Pre-Depends: dpkg (>= 1.14.25-8), gawk, coreutils
+Depends: lighttpd-atv, mysql-atv, php56, preferenceloader, gawk, grep, adv-cmds, com.ericasadun.utilities, com.linusyang.localeutf8, logrotate, tk.ios-webstack.logrotate-daemonizer
+Conflicts: php, mysql, ios-lighttpd-php-mysql, com.chattaboxa.blogwiki, com.jpifher.phppod, net.limneos.sbstogglelighttpd, com.jpifher.lighttpdswitchbossprefs
+Filename: ./atv-lighttpd-php-mysql_1.7-3_iphoneos-arm.deb
+Size: 231026
+MD5sum: d1fb71bd6489d46af9c8c3fde4a47556
+SHA1: 9f8fb24ee8b57d36e7b5c51f710df0086224cf1d
+SHA256: c6005584fa178a960712cdfa194ee12c41afad015627ab59d1872f1620b58aed
+Section: Networking
+Priority: optional
+Description: A whole AppleTV Web Server Stack Composition. THIS LAUNCHER PACKAGE MUST NOT BE INSTALLED ON AN iPhone, iPad OR iPod.
+  A whole AppleTV Web Server Stack Composition.
+Tag: purpose::console, role::enduser
+Role: enduser
+
+Package: atv-lighttpd-php-mysql
+Version: 1.6-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 488
+Pre-Depends: dpkg (>= 1.14.25-8), gawk, coreutils
+Depends: lighttpd-atv, mysql-atv, php54, preferenceloader, gawk, grep, adv-cmds, com.ericasadun.utilities, com.linusyang.localeutf8, logrotate, tk.ios-webstack.logrotate-daemonizer
+Conflicts: php, mysql, ios-lighttpd-php-mysql, com.chattaboxa.blogwiki, com.jpifher.phppod, net.limneos.sbstogglelighttpd, com.jpifher.lighttpdswitchbossprefs
+Filename: ./atv-lighttpd-php-mysql_1.6-2_iphoneos-arm.deb
+Size: 231022
+MD5sum: 5f141df161f7399a5703e66f0e8df197
+SHA1: 539780d1f9ba2a65eb4cc01e50484bb1ce64e491
+SHA256: 2b57e9ff2536628f4d69e0f0196ecade2e1af1bb9e4d4867d193ebacba7c3d49
+Section: Networking
+Priority: optional
+Description: A whole AppleTV Web Server Stack Composition. THIS LAUNCHER PACKAGE MUST NOT BE INSTALLED ON AN iPhone, iPad OR iPod.
+  A whole AppleTV Web Server Stack Composition.
+Tag: purpose::console, role::enduser
+Role: enduser
+
+Package: com.ericasadun.utilities
+Version: 1:0.4.2
+Architecture: iphoneos-arm
+Maintainer: Erica Sadun <apptapp@ericasadun.com>
+Filename: ./com.ericasadun.utilities_0.4.2_iphoneos-arm.deb
+Size: 55410
+MD5sum: 89a3bb9791c2deee6f530773089ee43d
+SHA1: b57904d5171e56cd559c798d277ccf9f8d45c556
+SHA256: 4e8e98895576e985be5a50070c96403a2ce2b577eb2267649853686a2ad99f56
+Section: Utilities
+Homepage: http://modmyi.com/info/ericautilities.php
+Description: A collection of command-line utilities for various purposes.
+Author: Erica Sadun <apptapp@ericasadun.com>
+Depiction: http://modmyi.com/info/ericautilities.d.php
+Name: Erica Utilities
+Sponsor: ModMyi.com <http://modmyi.com>
+
+Package: com.linusyang.localeutf8
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 186
+Depends: profile.d
+Filename: ./localeutf8_1.0-1.deb
+Size: 5448
+MD5sum: 44518f7af981fa092bc20a24976a0c7f
+SHA1: 45e005d644f4eff178e6eed37a9c1f76c35ac941
+SHA256: 6339ffcaf3e44f4c1e3821405032cfb961e0952940f8a1b76a357a9dbecdf548
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=localeutf8Dp
+Description: UTF-8 locale files for en_US and zh_CN
+Tag: purpose::console, role::hacker
+Author: Linus Yang <laokongzi@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=localeutf8Dp
+Dev: laokongzi
+Name: Locale Profiles in UTF-8
+
+Package: curl
+Version: 7.43.0-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 824
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, firmware(>= 3.0)
+Filename: ./curl_7.43.0-1_iphoneos-arm.deb
+Size: 282808
+MD5sum: 1ca84841bbf8b47a3244f649f417f4c5
+SHA1: 56c7b157b05719138a9ce84206190354b10a485a
+SHA256: 32296deeff4b62d21f7ffca47fb7b20a420fecc033544e82f0b5e14e336a5924
+Section: Networking
+Priority: standard
+Description: cURL is a file transfer command line tool.
+  cURL is a multiprotocol file transfer command line tool and library
+ for transferring data with URL syntax.
+  In this version a lot of security vulnerabilities are fixed since
+ Saurik's version.
+Role: hacker
+
+Package: curl
+Version: 7.41.0-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 828
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, firmware(>= 3.0)
+Filename: ./curl_7.41.0-1_iphoneos-arm.deb
+Size: 281808
+MD5sum: cc363fd82ad09ddc05479793ecf6cb34
+SHA1: 1e2a3c40013702d35cd2d49be3a4df8b2941b015
+SHA256: 10e9483408d2bfd7a16fd51ff9123c84ff37e0afd1733db5ce2f58d67ee88553
+Section: Networking
+Priority: standard
+Homepage: http://curl.haxx.se/
+Description: cURL is a file transfer command line tool.
+  cURL is a multiprotocol file transfer command line tool and library
+ for transferring data with URL syntax.
+  In this version a lot of security vulnerabilities are fixed since
+ Sauriks version 7.33.0 .
+Depiction: http://ios-webstack.tk/cydia/depictions/curl
+Name: cURL
+Role: hacker
+
+Package: dovecot
+Version: 2.2.5-4
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 8500
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, firmware(>= 3.0), gawk, adv-cmds, gnupg
+Filename: ./dovecot_2.2.5-4_iphoneos-arm.deb
+Size: 1818148
+MD5sum: bcc14a7f9fa82affca9ad3726e0c1811
+SHA1: 4ee0871b623b4d8f8c962b72413bf32610ade503
+SHA256: f8c854602995eaa06d6fb8e16695d68b95626dadc29646b12024e5ad1419211a
+Section: Networking
+Priority: optional
+Description: Dovecot is an open source IMAP and POP3 email server
+  Dovecot is an open source IMAP and POP3 email server for UNIX-like
+ systems, written with security primarily in mind.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: emailrelay
+Version: 1.8.2-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 2992
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, firmware(>= 3.0), gawk, adv-cmds, gnupg
+Filename: ./emailrelay_1.8.2-1_iphoneos-arm.deb
+Size: 657630
+MD5sum: b1f7640f5a27ebee487d1c7a632ed699
+SHA1: 45f357c3937586d5181022c4a95a5624181a90cd
+SHA256: 6458a7506944a99b905b58dfcb23d457fd7809396f74a3e224e078ca3b1cb017
+Section: Networking
+Priority: optional
+Homepage: http://iOS-WebStack.tk/home.html
+Description: E-MailRelay is a simple SMTP proxy and store-and-forward message transfer agent (MTA)
+  E-MailRelay is a simple SMTP proxy and store-and-forward message
+ transfer agent (MTA).
+Tag: purpose::console, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Name: E-MailRelay
+Role: hacker
+
+Package: gcrypt
+Version: 1.5.4-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 812
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgpg-error, firmware(>= 3.0)
+Filename: ./gcrypt_1.5.4-1_iphoneos-arm.deb
+Size: 262752
+MD5sum: bb42e37acb76ce6354ccb4de205f6c3a
+SHA1: 451243f0068be49c5ea62049a9f77620ba8c145d
+SHA256: 850a914012d7b12729f90364822f30938ac441060e0117ac83e36c36cca453f1
+Section: Security
+Priority: optional
+Homepage: http://www.gnupg.org/
+Description: LGPL cryptographic algorithm library
+  LGPL cryptographic algorithm library
+  In this version a lot of security vulnerabilities are fixed since
+ Sauriks version 1.4.0
+Name: GNU Cryptography
+Role: developer
+
+Package: gcrypt
+Version: 1.5.3-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 808
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgpg-error, firmware(>= 3.0)
+Filename: ./gcrypt_1.5.3-1_iphoneos-arm.deb
+Size: 261410
+MD5sum: cd572ee1ed6983f31c0631432fe310e6
+SHA1: 037fefa388fddeecfa054b472f635c79da942671
+SHA256: 4e6c16ab62cbf4c4fb32dae34467431979776c69f2cd005e39737e2779f038f0
+Section: Security
+Priority: optional
+Homepage: http://www.gnupg.org/
+Description: LGPL cryptographic algorithm library
+  LGPL cryptographic algorithm library
+  In this version a lot of security vulnerabilities are fixed since
+ Sauriks version 1.4.0
+Name: GNU Cryptography
+Role: developer
+
+Package: gnupg
+Version: 1.4.18-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 1872
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, ncurses, firmware(>= 3.0)
+Filename: ./gnupg_1.4.18-1_iphoneos-arm.deb
+Size: 482136
+MD5sum: 20df84b3603c99b55e95df8fea3a3767
+SHA1: c12e39b26ce4b065842b45ac8f310a3dfd97e103
+SHA256: 2bfe9f2b8b65a3b6039c8c608341707826eb05f6c46a84826f066d8c3083697d
+Section: Security
+Priority: required
+Description: Encryption compatible with OpenPGP
+  GnuPG or GPG is a free alternative to the PGP suite of cryptographic
+ software.
+Role: hacker
+
+Package: gnupg
+Version: 1.4.19-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 1892
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, ncurses, firmware(>= 3.0)
+Filename: ./gnupg_1.4.19-1_iphoneos-arm.deb
+Size: 485294
+MD5sum: 6ef0b78ec22cadf0359c3c9b95615ebe
+SHA1: a3de1815d19be490a86b51d43247353e1b444127
+SHA256: 7b56d4565adc8e4e22357b7a0a3ded8dcfff8d4a656db730078428b2295bc032
+Section: Security
+Priority: required
+Description: Encryption compatible with OpenPGP
+  GnuPG or GPG is a free alternative to the PGP suite of cryptographic
+ software.
+Role: hacker
+
+Package: graphicsmagick-atv
+Version: 1.3.17-8
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 3956
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libfreetype, libjpeg, libpng, libtiff, libxml2
+Filename: ./graphicsmagick-atv_1.3.17-8_iphoneos-arm.deb
+Size: 1200776
+MD5sum: 0088160623d067790e4a47b456c77246
+SHA1: ac0672bce4ae0c5c8d61bccbc4511d0ec86f74c6
+SHA256: 4cf25a6e4838e49c244b880995a093d2299efea36ad95fc423b00d94d684c8fc
+Section: Multimedia
+Priority: optional
+Description: GraphicsMagick is the swiss army knife of image processing.
+  GraphicsMagick is the swiss army knife of image processing.
+  In the base package it provides a robust and efficient collection of
+ tools and libraries which support reading, writing, and manipulating an
+ image in over 88 major formats including important formats.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: imagemagick-atv
+Version: 6.8.0-9
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 6152
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libxml2, libfreetype, libjpeg, libpng, libtiff
+Replaces: imagemagick (<6.8.0)
+Filename: ./imagemagick-atv_6.8.0-9_iphoneos-arm.deb
+Size: 1854400
+MD5sum: 1e381687f54e5e9bd57c5d465f7a4f71
+SHA1: 2f103dac0da17e3cbda4634ad522cea56487f223
+SHA256: 49c464b03990ebbfe93e03460f32328e56e522c9b906179359a119108c3d266f
+Section: Multimedia
+Priority: optional
+Description: ImageMagick ia software suite to create, edit, compose, or convert bitmap images.
+  ImageMagick is a software suite to create, edit, compose, or convert
+ bitmap images.
+  It can read and write images in a variety of formats.
+  Use ImageMagick to resize, flip, mirror, rotate, distort, shear and
+ transform images, adjust image colors, apply various special effects,
+ or draw text, lines, polygons, ellipses and Bezier curves.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: ios-lighttpd-php-mysql
+Version: 2.4-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 556
+Pre-Depends: dpkg (>= 1.14.25-8), gawk, coreutils
+Depends: lighttpd-atv, mysql-atv, php54, gawk, preferenceloader, grep, adv-cmds, com.ericasadun.utilities, com.linusyang.localeutf8, logrotate, tk.ios-webstack.logrotate-daemonizer
+Conflicts: php, mysql, atv-lighttpd-php-mysql, net.was.lighttpd, com.chattaboxa.blogwiki, com.jpifher.phppod, net.limneos.sbstogglelighttpd, com.jpifher.lighttpdswitchbossprefs
+Filename: ./ios-lighttpd-php-mysql_2.4-3_iphoneos-arm.deb
+Size: 240580
+MD5sum: b8c7803368733592bb9eeec6bfa0a463
+SHA1: eb78f5eeb1381a42c2f8666d47fc523705a8084a
+SHA256: 801b52d2e349fe8d468a462f3be07fb2ec93ecb036f34ea60733086a3e911c57
+Section: Networking
+Priority: optional
+Description: A whole iPad/iPhone Web Server Stack Composition. THIS LAUNCHER PACKAGE MUST NOT BE INSTALLED ON AN AppleTV DEVICE.
+  A whole iPad/iPhone Web Server Stack Composition. THIS LAUNCHER
+ PACKAGE MUST NOT BE INSTALLED ON AN AppleTV DEVICE.
+Tag: purpose::console, role::enduser
+Role: enduser
+
+Package: ios-lighttpd-php-mysql
+Version: 2.5-4
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 556
+Pre-Depends: dpkg (>= 1.14.25-8), gawk, coreutils
+Depends: lighttpd-atv, mysql-atv, php56, gawk, preferenceloader, grep, adv-cmds, com.ericasadun.utilities, com.linusyang.localeutf8, logrotate, tk.ios-webstack.logrotate-daemonizer
+Conflicts: php, mysql, atv-lighttpd-php-mysql, net.was.lighttpd, com.chattaboxa.blogwiki, com.jpifher.phppod, net.limneos.sbstogglelighttpd, com.jpifher.lighttpdswitchbossprefs
+Filename: ./ios-lighttpd-php-mysql_2.5-4_iphoneos-arm.deb
+Size: 240574
+MD5sum: 5ad2f62bc5c1e6201bab1207e3741d62
+SHA1: cb21f3d9f37826620ee53e52115bde29252b0e0d
+SHA256: e507ca9ea9b3f67f050ee76197c48cf93ccc0b0fdb28b0d5943b5a3b3303955b
+Section: Networking
+Priority: optional
+Description: A whole iPad/iPhone Web Server Stack Composition. THIS LAUNCHER PACKAGE MUST NOT BE INSTALLED ON AN AppleTV DEVICE.
+  A whole iPad/iPhone Web Server Stack Composition. THIS LAUNCHER
+ PACKAGE MUST NOT BE INSTALLED ON AN AppleTV DEVICE.
+Tag: purpose::console, role::enduser
+Role: enduser
+
+Package: ios-webstack-patcher
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 24
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: patch
+Filename: ./ios-webstack-patcher_0.1-2_iphoneos-arm.deb
+Size: 1248
+MD5sum: fc957c99c90d74038e603e2dc4127bca
+SHA1: 75cd0e65a244cfa9f9a16235dabf46d7359a2916
+SHA256: 3301c3dd1c32086ea0361602ba259aec159114f9032f75f6bf80ea9b3ba29075
+Section: Administration
+Priority: optional
+Description: A small script hack for older ios-lighttpd-php-mysql packages
+  A small script hack for older ios-lighttpd-php-mysql packages.
+  Don't install it if you don't now anything about it!
+Tag: purpose::console, role::developer
+Author: J. Anrugas <j.anrugas@gmail.com>
+Role: developer
+
+Package: isync
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 224
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: berkeleydb, openssl, firmware(>= 3.0)
+Filename: ./isync_1.0.6-1_iphoneos-arm.deb
+Size: 62986
+MD5sum: 6891d08c9a8808ce481b094a6af081d5
+SHA1: abfe4dc8be70e6a0f13275e5a615edd31ca9a7be
+SHA256: 1edce108d515e04d44f1ee91c7976a8732a5a7ff2fc3f9bf7cb3d2dbcef41196
+Section: Networking
+Priority: optional
+Description: Synchronize IMAP4 and Maildir mailboxes
+  Synchronize IMAP4 and Maildir mailboxes
+  isync is a command line application which synchronizes local Maildir
+ mailboxes with remote IMAP4 mailboxes, suitable for use in
+ IMAP-disconnected mode. Multiple copies of the remote IMAP4 mailboxes
+ can be maintained, and all flags are synchronized.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: joomla3
+Version: 3.4.3-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 48220
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.linusyang.localeutf8
+Conflicts: joomla-atv
+Filename: ./joomla3_3.4.3-1_iphoneos-arm.deb
+Size: 5175224
+MD5sum: 7f36700d87147a41727aaa11ae5488c4
+SHA1: 8865abdfe79a61d8b59566c279d48c9bf97a21c5
+SHA256: 91276ed7e78786d87520e69fe0f01469a55baec99a3eb9b76d78f6696b9a64cc
+Section: Networking
+Priority: optional
+Description: Joomla! enables you to build Web sites and powerful online applications.
+  Joomla! is an award-winning content management system (CMS), which
+ enables you to build Web sites and powerful online applications.
+Tag: purpose::console
+Role: hacker
+
+Package: libfreetype
+Version: 2.4.11-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 652
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: freetype2-atv
+Filename: ./libfreetype_2.4.11-5_iphoneos-arm.deb
+Size: 254136
+MD5sum: e1c7a4c286aa281c3509849cbe1818ef
+SHA1: 98d3acb6623e2398152a69cb6f6bc97c5491111c
+SHA256: 63dbe27f467edb0947ba355a2be28838de4326cb22e3911a63a3f5c7daee583b
+Section: Multimedia
+Priority: optional
+Homepage: http://goo.gl/LXfUB
+Description: FreeType is a freely available software library to render fonts.
+  FreeType is a freely available software library to render fonts.
+  This package contains the shared library files.
+Tag: purpose::library, role::hacker
+Name: libfreetype
+Role: hacker
+
+Package: libfreetype-dev
+Version: 2.4.11-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 1236
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libfreetype
+Filename: ./libfreetype-dev_2.4.11-5_iphoneos-arm.deb
+Size: 118234
+MD5sum: 176db4455cd08b790778f835d7e5800d
+SHA1: 4ecc4b6dd84196292de35d99d51397c1abe5d027
+SHA256: d63ad174552a266f49699f9c5f6673236e43c592f4d4d140bb22b99e649a2b76
+Section: Multimedia
+Priority: optional
+Homepage: http://goo.gl/LXfUB
+Description: FreeType is a freely available software library to render fonts.
+  FreeType is a freely available software library to render fonts.
+  This package contains the libfreetype headers.
+Tag: purpose::library, role::developer
+Name: libfreetype-dev
+Role: developer
+
+Package: libgd
+Version: 2.0.33-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 500
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libfreetype, libjpeg, libpng
+Filename: ./libgd_2.0.33-3_iphoneos-arm.deb
+Size: 53388
+MD5sum: 310b94172b484c1118a70f79dfaa2882
+SHA1: 62c8085098af6d04bf319b9976eebec0d913e422
+SHA256: 5e74c8c2265271ab36281e3c513d6d9b4532317159f59b2b9680b72528ef94d4
+Section: Multimedia
+Priority: optional
+Description: GD is a library for the dynamic creation of images by programmers.
+  GD is an open source code library for the dynamic creation of images
+ by programmers.
+Tag: purpose::library, role::hacker
+Role: hacker
+
+Package: libgd-dev
+Version: 2.0.33-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 112
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libgd-dev_2.0.33-3_iphoneos-arm.deb
+Size: 15542
+MD5sum: 59614ced90df6bc0e1ac2068e733fe9b
+SHA1: 1b136c8cbbd91286ff6d3ba0612fba0db694b067
+SHA256: 51875374ef0355eee393bf796243b3d0943a533d6a95a3853c0f828383faba47
+Section: Multimedia
+Priority: optional
+Homepage: https://bitbucket.org/pierrejoye/gd-libgd
+Description: GD is a library for the dynamic creation of images by programmers.
+  GD is a library for the dynamic creation of images by programmers.
+  This package contains the libgd headers.
+Tag: purpose::library, role::developer
+Name: libgd-dev
+Role: developer
+
+Package: libgeoip
+Version: 1.6.5-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 1068
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libgeoip_1.6.5-1_iphoneos-arm.deb
+Size: 374160
+MD5sum: e6a1700e105d729cf0f49d7cc6d35938
+SHA1: 4269ff0508012256d3aa8b14cd7240a3accb6c3b
+SHA256: 97ce074f8aaab7f29439eac66bee41ff0883a9b34b91cce2ee667a49405c80cb
+Section: Networking
+Priority: optional
+Description: GeoIP is a library to find geographical and network information of an IP address.
+  GeoIP is a library to find geographical and network information of an
+ IP address.
+  This package contains the shared GeoIP library.
+Tag: purpose::library, role::hacker
+Role: hacker
+
+Package: libgeoip
+Version: 1.5.0-4
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 1712
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libgeoip_1.5.0-4_iphoneos-arm.deb
+Size: 616862
+MD5sum: 0863558b4761b5d34e94f60a8d50589f
+SHA1: 5fb65d14a74a789c2d0d0a1cffa5c0966e1f0d23
+SHA256: 1efdbd367ba28ba3b9aeccc9a02cd6966874456ecfd4d5d91b2f1e70a6c9b194
+Section: Networking
+Priority: optional
+Homepage: https://github.com/maxmind/geoip-api-c
+Description: GeoIP is a library to find geographical and network information of an IP address.
+  GeoIP is a library to find geographical and network information of an
+ IP address.
+  This package contains the shared GeoIP library.
+Tag: purpose::library, role::hacker
+Name: libgeoip
+Role: hacker
+
+Package: libgeoip-dev
+Version: 1.6.5-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 68
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgeoip
+Filename: ./libgeoip-dev_1.6.5-1_iphoneos-arm.deb
+Size: 5584
+MD5sum: 133134022c8f56ed77d33490fa4d7c62
+SHA1: a3984082f519f5c784643ddb41640fc40fb2576e
+SHA256: 3f0f1b08180184fb386687cd988b5d39efad2fd282d6b13b24c16e7319c84617
+Section: Networking
+Priority: optional
+Description: GeoIP is a library to find geographical and network information of an IP address.
+  GeoIP is a library to find geographical and network information of an
+ IP address.
+  This package contains the GeoIP library headers.
+Tag: purpose::library, role::hacker
+Role: developer
+
+Package: libgeoip-dev
+Version: 1.5.0-4
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 68
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libgeoip-dev_1.5.0-4_iphoneos-arm.deb
+Size: 5932
+MD5sum: f5ee91f29290a9cae8fde9c5d26dabbd
+SHA1: f6f76e54e2e562a37e1e67058d1939e6558139bd
+SHA256: 64fe4be5240dd965c7c60d877a1054ec6a26d776fa5fedc57618488ed807779c
+Section: Networking
+Priority: optional
+Homepage: https://github.com/maxmind/geoip-api-c
+Description: GeoIP is a library to find geographical and network information of an IP address.
+  GeoIP is a library to find geographical and network information of an
+ IP address.
+  This package contains the GeoIP library headers.
+Tag: purpose::library, role::hacker
+Name: libgeoip-dev
+Role: developer
+
+Package: libgpg-error
+Version: 1.19-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 260
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware(>= 3.0)
+Filename: ./libgpg-error_1.19-1_iphoneos-arm.deb
+Size: 47326
+MD5sum: 432a5a9abade5e46b440f1bdf4d71ca0
+SHA1: 8e73b36051aecbe458347832a28c026796d80041
+SHA256: a462f11550e12460a2f9704128168116f9ea080a08dc02980e52861fb9120096
+Section: Security
+Priority: optional
+Homepage: http://www.gnupg.org/
+Description: GnuPG's error management library
+  GnuPG's error management library
+  In this version a lot of security vulnerabilities are fixed since
+ Saurik's version.
+Depiction: http://ios-webstack.tk/cydia/depictions/libgpg-error
+Name: GnuPG Errors
+Role: developer
+
+Package: libgpg-error
+Version: 1.17-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 244
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware(>= 3.0)
+Filename: ./libgpg-error_1.17-1_iphoneos-arm.deb
+Size: 44020
+MD5sum: 812da9eae18a0d3f37dd289a999d3d6f
+SHA1: d331b264b4aed4a1ed6acb6f95c29e950f10d7f5
+SHA256: f06bd75ae1e8fd304b583d6ea05193e9d0148b954e4a0ff752d941ec6357dc25
+Section: Security
+Priority: optional
+Homepage: http://www.gnupg.org/
+Description: GnuPG's error management library
+  GnuPG's error management library
+  In this version a lot of security vulnerabilities are fixed since
+ Sauriks version 1.6
+Name: GnuPG Errors
+Role: developer
+
+Package: libgsasl
+Version: 1.8.0-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 116
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: gcrypt, libidn, libntlm
+Filename: ./libgsasl_1.8.0-1_iphoneos-arm.deb
+Size: 39756
+MD5sum: c3dece2f38467100487c9b87f94fd9af
+SHA1: 8571754a43209930acff52f36360dc83ed7ff7e5
+SHA256: dde2aef3628611f440874930eba37a9b76d51d4874feda3c986299755bea4816
+Section: Security
+Priority: optional
+Homepage: http://josefsson.org/libgsasl
+Description: Libgsasl is an implementation of the Simple Authentication and Security Layer framework and a few common SASL mechanisms.
+  Libgsasl is an implementation of the Simple Authentication and
+ Security Layer framework and a few common SASL mechanisms.
+  This package contains the shared GNU SASL library.
+Tag: purpose::library, role::hacker
+Name: libgsasl
+Role: hacker
+
+Package: libgsasl-dev
+Version: 1.8.0-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 80
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgsasl
+Filename: ./libgsasl-dev_1.8.0-1_iphoneos-arm.deb
+Size: 8336
+MD5sum: 2a3d2ee5398608706d6e603c12a2dcfe
+SHA1: c4e9bba99cbdfb96190d5a90dce1c1bdfe1e773a
+SHA256: 8a5b400648638bb348cfe087aef2db750e2bd9e56df0bf71357f819fe33eb882
+Section: Security
+Priority: optional
+Homepage: http://josefsson.org/libgsasl
+Description: Libgsasl is an implementation of the Simple Authentication and Security Layer framework and a few common SASL mechanisms.
+  Libgsasl is an implementation of the Simple Authentication and
+ Security Layer framework and a few common SASL mechanisms.
+  This package contains the GNU SASL library headers.
+Tag: purpose::library, role::hacker
+Name: libgsasl-dev
+Role: hacker
+
+Package: libidn
+Version: 1.28-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 300
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libidn_1.28-2_iphoneos-arm.deb
+Size: 54094
+MD5sum: 7d9f7bfcedee511b7b86a88a9f067401
+SHA1: 0cbf9368f6fd52ba933a489a4772b23855bbd7e6
+SHA256: 5f6f35b9a917ca18e74bec883d17e47adb3a76f975a8c2dcea5b552a4d76720e
+Section: Networking
+Priority: optional
+Homepage: http://www.gnu.org/software/libidn
+Description: Libidn's purpose is to encode and decode internationalized domain names.
+  Libidn's purpose is to encode and decode internationalized domain
+ names.
+  This package contains the shared IDN library.
+Tag: purpose::library, role::hacker
+Name: libidn
+Role: hacker
+
+Package: libidn-dev
+Version: 1.28-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 104
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libidn
+Filename: ./libidn-dev_1.28-2_iphoneos-arm.deb
+Size: 12064
+MD5sum: 3916b991b43dd30660207ac59cc9efa2
+SHA1: f2435b336cd54571e9a4724d7447cf854e12316f
+SHA256: 71ff8375b99db74c74a79c84c892f7940f7130fda1ec012ef0570fc88e7c69e9
+Section: Networking
+Priority: optional
+Homepage: http://www.gnu.org/software/libidn
+Description: Libidn's purpose is to encode and decode internationalized domain names.
+  Libidn's purpose is to encode and decode internationalized domain
+ names.
+  This package contains the IDN library headers.
+Tag: purpose::library, role::hacker
+Name: libidn-dev
+Role: hacker
+
+Package: libjpeg
+Version: 8d-1-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 400
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: jpeg
+Filename: ./libjpeg_8d-1-5_iphoneos-arm.deb
+Size: 165094
+MD5sum: 6d2795072f270eff85d2eefeffb20674
+SHA1: 96fb2d24fa2750db94fb02789ad2f29d07bd04cf
+SHA256: f4070bbfc5260990249a7d16affe2664b2065187e0ac19ddde5d4aea89ecb287
+Section: Multimedia
+Homepage: http://www.ijg.org
+Description: The Independent JPEG Group's library is a library for handling JPEG files
+  A library for handling JPEG files.
+  This package contains the shared JPEG library from the the independent
+ JPEG Group's.
+Tag: purpose::library, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Role: hacker
+
+Package: libjpeg-dev
+Version: 8d-1-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 112
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libjpeg
+Filename: ./libjpeg-dev_8d-1-5_iphoneos-arm.deb
+Size: 21306
+MD5sum: fe8b15373772eaea9f5372bba9b9a267
+SHA1: c27856129e83764eb45084ef099374f597db3efb
+SHA256: 21b74859923556a8b2f02142b2677ad9808dcf687dfe571f2568bc952e253855
+Section: Multimedia
+Homepage: http://www.ijg.org
+Description: The Independent JPEG Group's library is a library for handling JPEG files
+  A library for handling JPEG files.
+  This package contains the libjpeg headers.
+Tag: purpose::library, role::developer
+Author: J. Anrugas <j.anrugas@gmail.com>
+Role: developer
+
+Package: libmcrypt
+Version: 2.6.8-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 280
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libmcrypt_2.6.8-5_iphoneos-arm.deb
+Size: 70680
+MD5sum: a33bf7784a72c27f88cb4875635b49b6
+SHA1: a2a30c9a3f7516f2771219dd86e698ad4b1666ab
+SHA256: f5a0ff2793a7a84b2b91abdf3750636eb49de650cb49cea8668eb8fa91f33dd0
+Section: Security
+Description: Libmcrypt allows you to use a wide range of encryption function
+  Libmcrypt allows you to use a wide range of encryption function.
+  This package contains the shared mcrypt library.
+Tag: purpose::library, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Role: hacker
+
+Package: libmcrypt-dev
+Version: 2.6.8-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 76
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libmcrypt
+Filename: ./libmcrypt-dev_2.6.8-5_iphoneos-arm.deb
+Size: 5916
+MD5sum: ebc0b2fc8177ed968c28454a33e0a796
+SHA1: 7dc72e9c55c11e80e41c733e0d734debf7af8796
+SHA256: 37185226ed9837ea4bf3777f33069019fecf0fbd7bf7cdf5680f469035db8867
+Section: Security
+Description: libmcrypt allows you to use a wide range of encryption function
+  libmcrypt allows you to use a wide range of encryption function.
+  This package contains the libmcrypt headers.
+Tag: purpose::library, role::developer
+Author: J. Anrugas <j.anrugas@gmail.com>
+Role: developer
+
+Package: libntlm
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 56
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libntlm_1.4-2_iphoneos-arm.deb
+Size: 12462
+MD5sum: ab88f16798c25e39b3a1e9bb3e355691
+SHA1: d84c6a94cd0585cc77b0520d7d1c8c7e28c06768
+SHA256: 4e587aad7f3fa89d289204f48a7cacb07bbc333f375f073624ba4c57b1eed5b2
+Section: Networking
+Priority: optional
+Homepage: http://www.nongnu.org/libntlm
+Description: Libntlm implements Microsoft's NTLM authentication.
+  Libntlm implements Microsoft's NTLM authentication.
+  This package contains the shared NTLM library.
+Tag: purpose::library, role::hacker
+Name: Libntlm
+Role: hacker
+
+Package: libntlm-dev
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 104
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libntlm
+Filename: ./libntlm-dev_1.4-2_iphoneos-arm.deb
+Size: 12056
+MD5sum: 9bd901b4d8317870580085149a912f67
+SHA1: 2ed40f829ef85658d7bb39283dc95cf5595f4ee2
+SHA256: a46454d9603c24e4940bcd6f228e8158ebe85f2b73b1f6f0f1aa1c3c7f6df030
+Section: Networking
+Priority: optional
+Homepage: http://www.nongnu.org/libntlm
+Description: Libntlm implements Microsoft's NTLM authentication.
+  Libntlm implements Microsoft's NTLM authentication.
+  This package contains the NTLM library headers.
+Tag: purpose::library, role::hacker
+Name: Libntlm-dev
+Role: hacker
+
+Package: libpng
+Version: 1.2.50-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 460
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: png
+Filename: ./libpng_1.2.50-5_iphoneos-arm.deb
+Size: 80332
+MD5sum: ba694e0cc02aa4a84a2e1a6e654c1cfe
+SHA1: 1d8aaedf7cceaf3a109a6b8871cd6bb0e6e4769e
+SHA256: 5904cfb3d595f93ffc78c118944b7dc4daeca12c7fc36eec77a8bc5fe29328c9
+Section: Multimedia
+Priority: optional
+Homepage: http://www.libpng.org/pub/png/libpng.html
+Description: Library for manipulating PNG files
+  Library for manipulating PNG files.
+  This package contains the shared PNG library.
+  Version 1.2.50 removes a potential security vulnerability so all users
+ are recommended to upgrade immediately.
+Tag: purpose::library, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Role: hacker
+
+Package: libpng-dev
+Version: 1.2.50-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 268
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libpng
+Filename: ./libpng-dev_1.2.50-5_iphoneos-arm.deb
+Size: 42900
+MD5sum: e985a5c536cf04d1a5e5497c0807fa3f
+SHA1: 36b55344d8464031add43fadd02c153ead690d1e
+SHA256: 0361adedd28368a63f69917ab8882e702eff6d9cc7af79eee2e0ed5f0dee745a
+Section: Multimedia
+Priority: optional
+Homepage: http://www.libpng.org/pub/png/libpng.html
+Description: Library for manipulating PNG files
+  This package contains the libpng headers.
+  Version 1.2.50 removes a potential security vulnerability so all users
+ are recommended to upgrade immediately.
+Tag: purpose::library, role::developer
+Author: J. Anrugas <j.anrugas@gmail.com>
+Role: developer
+
+Package: libpopt
+Version: 1.16-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 80
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./libpopt_1.16-2_iphoneos-arm.deb
+Size: 19176
+MD5sum: bcf33c595e1e58127a4d69ae5c6a0757
+SHA1: 51276cc9d7894eee9d272f13d100936aa1b15d08
+SHA256: c18a5c851f0ae4473bf6e426b04dfe73ad9a179d4aa829f87c335ac3533e5537
+Section: Development
+Priority: optional
+Homepage: http://rpm5.org/files/popt/
+Description: The Popt library exists essentially for parsing command line options.
+  The Popt library exists essentially for parsing command line options.
+  This package contains the shared Popt library.
+Tag: purpose::library, role::hacker
+Name: libpopt
+Role: hacker
+
+Package: libpopt-dev
+Version: 1.16-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 64
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libpopt
+Filename: ./libpopt-dev_1.16-2_iphoneos-arm.deb
+Size: 6700
+MD5sum: 0aea1f87fcb8cf7049d97156f73e9ba2
+SHA1: e79207e1c76e8fe36275a79be68da2f73e9899e3
+SHA256: b0a85a15b8039c9f71edb85a85c7b987f5a465d08f020021c9ef6e0278ccc2b0
+Section: Development
+Priority: optional
+Homepage: http://rpm5.org/files/popt/
+Description: The Popt library exists essentially for parsing command line options.
+  The Popt library exists essentially for parsing command line options.
+  This package contains the Popt library headers.
+Tag: purpose::library, role::hacker
+Name: libpopt-dev
+Role: developer
+
+Package: libtiff
+Version: 4.0.3-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 1064
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: tiff
+Filename: ./libtiff_4.0.3-5_iphoneos-arm.deb
+Size: 313382
+MD5sum: 5db8bae98ea02808b876ba078b64dff3
+SHA1: e1bb7aeb006151697a01690bbfb0bf3537b894e4
+SHA256: 17baa381cff4d2eb7f2b513eed7dedd9731242559d324a8c9502f7678683730f
+Section: Multimedia
+Homepage: http://www.remotesensing.org/libtiff/
+Description: Tagged Image File Format (TIFF) library.
+  Tagged Image File Format (TIFF) library.
+  A library for handling TIFF files.
+  This package contains the shared TIFF library .
+Tag: purpose::library, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Name: libtiff
+Role: hacker
+
+Package: libtiff-dev
+Version: 4.0.3-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 112
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libtiff
+Filename: ./libtiff-dev_4.0.3-5_iphoneos-arm.deb
+Size: 18434
+MD5sum: c656b708fb6c596b7d72a9eee2b1f0ed
+SHA1: 6a36dd5e27e68985852a13c584c2461007432947
+SHA256: 2b97ae973b4487901e48d5d51b4bee735ff542e53e9688e20d3afbc1b5334018
+Section: Multimedia
+Homepage: http://www.remotesensing.org/libtiff/
+Description: Tagged Image File Format (TIFF) library.
+  Tagged Image File Format (TIFF) library.
+  A library for handling TIFF files.
+  This package contains the libtiff headers.
+Tag: purpose::library, role::developer
+Author: J. Anrugas <j.anrugas@gmail.com>
+Name: libtiff-dev
+Role: developer
+
+Package: lighttpd-atv
+Version: 1.4.36-11
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 908
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, pcre, uuid, firmware(>= 3.0), gawk, adv-cmds
+Conflicts: lighttpd
+Replaces: lighttpd
+Filename: ./lighttpd-atv_1.4.36-11_iphoneos-arm.deb
+Size: 194088
+MD5sum: 9f07e92f2386fb6e5ccd9669c8c2b014
+SHA1: 5e4b0e63538d3d81ab044b9d64bb75fa4f822240
+SHA256: 16e5f2ba4652e033531482d938d23682781d869fbc5acf80a594afff083fc31d
+Section: Networking
+Priority: optional
+Description: A very small, supposedly fast, webserver. Have a look at http://ios-webstack.tk .
+  Lighttpd is a very small, supposedly fast, webserver.
+Tag: purpose::daemon, role::hacker
+Role: hacker
+
+Package: lighttpd-atv
+Version: 1.4.36-10
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 908
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, pcre, uuid, firmware(>= 3.0), gawk, adv-cmds
+Replaces: lighttpd
+Filename: ./lighttpd-atv_1.4.36-10_iphoneos-arm.deb
+Size: 194054
+MD5sum: 6a77966790932866b7fd7909b9373649
+SHA1: 08e5691ad12b1ab841dbb29161aabd48d6b90c2b
+SHA256: 0476d461a61a35c9fb1c06f3a2d0e26e995f24b1f4aff47cdd1da3c0548fa504
+Section: Networking
+Priority: optional
+Description: A very small, supposedly fast, webserver. Have a look at http://ios-webstack.tk .
+  Lighttpd is a very small, supposedly fast, webserver.
+Tag: purpose::daemon, role::hacker
+Role: hacker
+
+Package: lighttpd-atv
+Version: 1.4.35-9
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 908
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, pcre, uuid, firmware(>= 3.0), gawk, adv-cmds
+Replaces: lighttpd
+Filename: ./lighttpd-atv_1.4.35-9_iphoneos-arm.deb
+Size: 195910
+MD5sum: 6961b1f9ac0ab3d9bea23c74bbce5400
+SHA1: 53e3eb5524364528b722f69674ff53959124c209
+SHA256: 3df3977ffb466805f7b581e2657e12c77d0df3379cd80eaaf657f4bba6ef1bc4
+Section: Networking
+Priority: optional
+Description: A very small, supposedly fast, webserver. Have a look at http://goo.gl/LXfUB .
+  Lighttpd is a very small, supposedly fast, webserver.
+Tag: purpose::daemon, role::hacker
+Role: hacker
+
+Package: logrotate
+Version: 3.8.9-6
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 208
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libpopt, firmware(>= 3.0), gzip
+Filename: ./logrotate_3.8.9-6_iphoneos-arm.deb
+Size: 48392
+MD5sum: 1f91ee95b3189c09839d3b0cf93d6e5f
+SHA1: 2cbf8592a1bbc9eecd6b97603227c6e734920ab4
+SHA256: 8a61ae891c1b3c3fcaf50d7051f913a16b7604f5ede7ce1bada2ecaa8f367f74
+Section: Utilities
+Priority: optional
+Description: logrotate is designed to ease administration of systems that generate large numbers of log files.
+  logrotate is designed to ease administration of systems that generate
+ large numbers of log files.
+  It allows automatic rotation, compression, removal, and mailing of log
+ files. Each log file may be handled daily, weekly, monthly, or when it
+ grows too large.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: logrotate
+Version: 3.9.1-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 216
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libpopt, firmware(>= 3.0), gzip
+Filename: ./logrotate_3.9.1-1_iphoneos-arm.deb
+Size: 49442
+MD5sum: 20edaca418b44a6fa5c23190f42a9131
+SHA1: 2ec4c42241ab81aa5457aa4f588be99cb191dec5
+SHA256: d5558fe8826b8549ab2f8a71d48f0f6df8e9dce34497c72d204d35b883ef3fee
+Section: Utilities
+Priority: optional
+Description: logrotate is designed to ease administration of systems that generate large numbers of log files.
+  logrotate is designed to ease administration of systems that generate
+ large numbers of log files.
+  It allows automatic rotation, compression, removal, and mailing of log
+ files. Each log file may be handled daily, weekly, monthly, or when it
+ grows too large.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: mpop
+Version: 1.0.28-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 140
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgsasl, libidn, openssl, firmware(>= 3.0)
+Filename: ./mpop_1.0.28-2_iphoneos-arm.deb
+Size: 42260
+MD5sum: 3994d34081936f2c4a252485ea10e4c8
+SHA1: 8243a4b7a8014473791f0330802a82d7078756a2
+SHA256: 386e71235b9876502b14769c25a6de2c4a2950addf3435d653dd1764f22873d1
+Section: Networking
+Priority: optional
+Description: A POP3 client. It retrieves mail from POP3 mailboxes and forwards it. (Like fetchmail do)
+  mpop is a POP3 client. It retrieves mail from POP3 mailboxes and
+ forwards it. (Like fetchmail do)
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: mpop
+Version: 1.2.2-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 144
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgsasl, libidn, openssl, firmware(>= 3.0)
+Filename: ./mpop_1.2.2-1_iphoneos-arm.deb
+Size: 43560
+MD5sum: fdeda80975558cffea8d02aeec163375
+SHA1: 48fa1b58bbf6e4e261235a680833f3d686ce679e
+SHA256: f60997f147b809572da94076f8a15c8686de9f7db4c211436892be1d0161a2bc
+Section: Networking
+Priority: optional
+Description: A POP3 client. It retrieves mail from POP3 mailboxes and forwards it. (Like fetchmail do)
+  mpop is a POP3 client. It retrieves mail from POP3 mailboxes and
+ forwards it. (Like fetchmail do)
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: msmtp
+Version: 1.6.1-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 136
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgsasl, libidn, openssl, firmware(>= 3.0)
+Filename: ./msmtp_1.6.1-1_iphoneos-arm.deb
+Size: 39022
+MD5sum: 287650f05730222533b581b31e930f33
+SHA1: 447c981036f8d0d2fc6dd9ee68c9bc5dc642fd83
+SHA256: dbcfc5b9c38298d9b90f44d14d6693577a6b6d9a9ac77614c7dd90617e98358b
+Section: Networking
+Priority: optional
+Description: msmtp is an SMTP client.
+  msmtp is an SMTP client.
+  In the default mode, it transmits a mail to an SMTP server (for
+ example at a free mail provider) which takes care of further delivery.
+  To use this program with your mail user agent (MUA), create a
+ configuration file with your mail account(s) and tell your MUA to call
+ msmtp instead of /usr/sbin/sendmail.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: msmtp
+Version: 1.4.31-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 128
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgsasl, libidn, openssl, firmware(>= 3.0)
+Filename: ./msmtp_1.4.31-2_iphoneos-arm.deb
+Size: 36100
+MD5sum: 662b33230db8f506022df5344d9c7045
+SHA1: 02891e70cf209668fd4f06795dcd3e6e03526f2b
+SHA256: 996b7761ba189413305567f41926ced544835fd23ada6f0f30ce1bd83771a0d0
+Section: Networking
+Priority: optional
+Description: msmtp is an SMTP client.
+  msmtp is an SMTP client.
+  In the default mode, it transmits a mail to an SMTP server (for
+ example at a free mail provider) which takes care of further delivery.
+  To use this program with your mail user agent (MUA), create a
+ configuration file with your mail account(s) and tell your MUA to call
+ msmtp instead of /usr/sbin/sendmail.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: mysql-atv
+Version: 5.1.71-17
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 17640
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 3.0), ncurses, inetutils, gawk, adv-cmds
+Conflicts: com.was.mysql, mysql, mysql-atv (<< 5.1.66)
+Replaces: mysql-atv
+Filename: ./mysql-atv_5.1.71-17_iphoneos-arm.deb
+Size: 3380926
+MD5sum: c27ede98da43b8869c31f3cfce27d41a
+SHA1: 379ce128b58c33fd98fa30fb972bcb57e212303b
+SHA256: b56a74d0cf6b17a4882f197f9f355ed05e9a61248a98678733c3ef00cab614ea
+Section: Data Storage
+Priority: optional
+Description: MySQL relational database management system server. Have a look at http://goo.gl/LXfUB .
+  MySQL-Server Branch Version 5.1.x
+Tag: purpose::daemon, role::hacker
+Role: hacker
+
+Package: mysql-atv
+Version: 5.1.73-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 16732
+Pre-Depends: dpkg (>= 1.14.25-8), gawk, coreutils
+Depends: firmware (>= 3.0), ncurses, inetutils, gawk, adv-cmds, sed
+Conflicts: com.was.mysql, mysql, mysql-atv (<< 5.1.66)
+Replaces: mysql-atv
+Filename: ./mysql-atv_5.1.73-2_iphoneos-arm.deb
+Size: 3348300
+MD5sum: 524bcbf6e8a266e155aee22e199fe740
+SHA1: 66e7f6a4b8e1f44f3ec643fd5995f455f8cc4e48
+SHA256: 0f2124ae91cb14df427772db158ff30303546d51eb822399b7bd18ca1331af82
+Section: Data Storage
+Priority: optional
+Description: MySQL relational database management system server. Have a look at http://ios-webstack.tk
+  MySQL-Server Branch Version 5.1.x
+Tag: purpose::daemon, role::hacker
+Role: hacker
+
+Package: nano
+Version: 2.4.0-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 424
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: ./nano_2.4.0-1_iphoneos-arm.deb
+Size: 102858
+MD5sum: 050f7c4a1f65f50a734eb0b4416f093a
+SHA1: 8d96e19ed3d7b5ff407328e8dd86fa05d17e204d
+SHA256: fa53c317d4b272269b31a50391c40d64c6a16ef70baf39c8914ae5081b8a31d7
+Section: Text_Editors
+Priority: standard
+Description: GNU nano is a small and friendly terminal-based text editor.
+  GNU nano is a small and friendly terminal-based text editor.
+Depiction: http://ios-webstack.tk/cydia/depictions/nano
+Role: hacker
+
+Package: netatalk3
+Version: 3.1.7-4
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 1748
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: berkeleydb, gcrypt, mdnsresponder, openssl, firmware(>= 3.0), findutils
+Conflicts: netatalk (<<3.1), miktr.switch.netatalk
+Filename: ./netatalk3_3.1.7-4_iphoneos-arm.deb
+Size: 552248
+MD5sum: 24c43444c7789080f1c3bc2214548c7e
+SHA1: d054bdf80297a5164707b76382f9e566bcc6816f
+SHA256: 844de9620a12f370e4803dd888162d956753bb8c55281f43099339431a3e8781
+Section: Networking
+Priority: optional
+Homepage: http://netatalk.sourceforge.net/
+Description: Netatalk 3.x AFP File Server (iOS 8 ready)
+  Netatalk 3.x AFP File Server (iOS 8 ready)
+  Netatalk is a freely-available Open Source AFP fileserver.
+  A iOS system running Netatalk is capable of serving many Macintosh
+ clients simultaneously as an AppleShare file server (AFP).
+  Recommended Packages
+  - Netatalk 3.x Switch
+  - Insomnia
+Name: Netatalk 3.x (iOS 8 ready)
+Role: enduser
+
+Package: netatalk3-switch
+Version: 0.1-4
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 88
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware(>= 3.0), netatalk3, preferenceloader, com.ericasadun.utilities
+Conflicts: netatalk (<<3.1), miktr.switch.netatalk
+Filename: ./netatalk3-switch_0.1-4_iphoneos-arm.deb
+Size: 5276
+MD5sum: 062d8a16d7cda59a766dd467f5d1c56d
+SHA1: 0d8a5d398305a9144b70261bde519d9827f46119
+SHA256: 0c374bce85b10782bc83dbe7ed394853478d76e264565eef050de0923e645adc
+Section: Networking
+Priority: optional
+Homepage: http://ios-webstack.tk
+Description: Netatalk 3.x Switch (iOS 8 ready)
+  Netatalk 3.x Switch (iOS 8 ready)
+  A switch to toggle Netatalk 3.x
+Name: Netatalk 3.x Switch (iOS 8 ready)
+Role: enduser
+
+Package: openssh
+Version: 7.1p1-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 4428
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl
+Filename: ./openssh_7.1p1-1_iphoneos-arm.deb
+Size: 588578
+MD5sum: 40abb2531385e4e9e8ba0cf0da537fd1
+SHA1: 87b35d9674f47a2295278131bfa50aeb63fff0eb
+SHA256: 84d98542375f2bbb1fced1ee76d52e13f98879886d738edc9e1fe28ca08abe12
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+  OpenSSH (OpenBSD Secure Shell) is a set of computer programs providing
+ encrypted communication sessions over a computer network using the SSH
+ protocol.
+  .
+  I also recommend the following package:
+  'SSH Connect'
+Depiction: http://ios-webstack.tk/cydia/depictions/openssh
+Name: OpenSSH
+Role: enduser
+
+Package: openssh
+Version: 6.9p1-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 4456
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl
+Filename: ./openssh_6.9p1-1_iphoneos-arm.deb
+Size: 605380
+MD5sum: 106d32bd7a6fd32a25dcd86e8fc96d14
+SHA1: 08144897aca8ebfdf0053210d668ad4b82b62550
+SHA256: 2317a8ec27ad20c3776019b86982c705ab92fdccc2fbb300425be34b80b8e78c
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+  OpenSSH (OpenBSD Secure Shell) is a set of computer programs providing
+ encrypted communication sessions over a computer network using the SSH
+ protocol.
+  This version is newer than Saurik's version.
+  .
+  I also recommend the following package:
+  'SSH Connect'
+Role: enduser
+
+Package: openssl
+Version: 0.9.8zf-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 5940
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./openssl_0.9.8zf-1_iphoneos-arm.deb
+Size: 1035800
+MD5sum: 457507fc51c702ed159de74c1c7785e8
+SHA1: 47e299ac9f0b5ae0ce3a034c6208e074fd8f66d0
+SHA256: c9c24ff5132606fa7a797f44110252492b1ecc592bc4221233d56ec8dbede5d9
+Section: Security
+Priority: standard
+Description: SSL library and cryptographic tools.
+  SSL library and cryptographic tools.
+  This version is newer than Saurik's version.
+Depiction: http://ios-webstack.tk/cydia/depictions/openssl
+Name: OpenSSL
+Role: developer
+
+Package: openssl
+Version: 0.9.8zg-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 5940
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./openssl_0.9.8zg-1_iphoneos-arm.deb
+Size: 1029416
+MD5sum: dfaa16036569cd19138b3a9c4b508bcd
+SHA1: 935cee572e75ba572d11dcae0dedae840d26dcf6
+SHA256: e47ba12b2690c8d41d9b17bdc8dc4ce62d174d98f096ebb0e5dba8e724806fda
+Section: Security
+Priority: standard
+Description: SSL library and cryptographic tools.
+  SSL library and cryptographic tools.
+  This version is newer than Saurik's version.
+Depiction: http://ios-webstack.tk/cydia/depictions/openssl
+Name: OpenSSL
+Role: developer
+
+Package: owncloud-webinstall
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 52
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.linusyang.localeutf8
+Conflicts: owncloud-webinstall-atv
+Filename: ./owncloud-webinstall_1.2-1_iphoneos-arm.deb
+Size: 5818
+MD5sum: 7a94335c5addcae3f35226c87b9c9dcd
+SHA1: b7b79d50c0afaa62ff3a5e5bef21df34358677b2
+SHA256: 6e4e4a14eaccfa015f623af0d6b14159bb143d3aba6b75390078466f1cb867a4
+Section: Networking
+Priority: optional
+Description: Web installer for the newest available ownCloud version. After the installation restart your lighttpd-Server, open Safari and load the side 'http://your_ios_device/setup-owncloud.php'.
+  Web installer for the newest available ownCloud version.
+  ownCloud is a flexible, open source file sync and share solution.
+ Whether using a mobile device,
+  a workstation, or a web client, ownCloud provides the ability to put
+ the right files at your employees.
+  Fingertips on any device in one simple-to-use, secure, private and
+ controlled solution.
+Role: hacker
+
+Package: php53
+Version: 5.3.29-18
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 19552
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, openssl, png, tiff, jpeg, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php54
+Filename: ./php53_5.3.29-18_iphoneos-arm.deb
+Size: 3395908
+MD5sum: f1925d28fb9782984814cb9d0e68f41c
+SHA1: acd49cc948c09dd47daafb8f50b86b5b83a774fc
+SHA256: 15b379f214e98a93dc9ca358716e0f4131d03d5b97992985df4a3e66a00bac05
+Section: Scripting
+Priority: optional
+Description: The overly popular HTML templating language PHP. Have a look at http://ios-webstack.tk .
+  The overly popular HTML templating language PHP.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: php54
+Version: 5.4.44-34
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 25836
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Filename: ./php54_5.4.44-34_iphoneos-arm.deb
+Size: 3188326
+MD5sum: 2494dfa5157d707143d6c52f5b5cb296
+SHA1: 345d904d7a92b171f79307bc36f2f07e945b23a9
+SHA256: 467fdda8c29ec64375a98854c6e0bf09ce5dca910bd8f7c00779a3d09cf3735d
+Section: Scripting
+Priority: optional
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This package includes PHP 5.4.x with GD and MySQL support (PDO and
+ mysqli).
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  You have to place your PHP config file at /etc/php.ini
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you would like to get more package information, please have a look
+ at http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: php54
+Version: 5.4.45-35
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 25836
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Filename: ./php54_5.4.45-35_iphoneos-arm.deb
+Size: 3185208
+MD5sum: 3f302fec75b82891357348ddcee995b1
+SHA1: 745e5ca5d6da88872e387d9a339fb96044b867a2
+SHA256: 5dceb244cbd718ebfb39016de79c762bd278d220d87989dbddb9ffcbd514bce4
+Section: Scripting
+Priority: optional
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This package includes PHP 5.4.x with GD and MySQL support (PDO and
+ mysqli).
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  You have to place your PHP config file at /etc/php.ini
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you would like to get more package information, please have a look
+ at http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: php54
+Version: 5.4.43-33
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 25828
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Filename: ./php54_5.4.43-33_iphoneos-arm.deb
+Size: 3185198
+MD5sum: cd67b97ff508550c4144a9a514686d6d
+SHA1: d64e14da6bf41ffde51e9e0e6cc2771d9c0e03e3
+SHA256: 743f4c9f14758c2ac4b6b67e4a00eb2ebcae78cd89ca33b24fde83d34965fdf8
+Section: Scripting
+Priority: optional
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This package includes PHP 5.4.x with GD and MySQL support (PDO and
+ mysqli).
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  You have to place your PHP config file at /etc/php.ini
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you would like to get more package information, please have a look
+ at http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: php55
+Version: 5.5.29-8
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 26712
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php54, php53
+Filename: ./php55_5.5.29-8_iphoneos-arm.deb
+Size: 3426884
+MD5sum: 394b4a4c0f27e82482d7b3bd2ede95dc
+SHA1: da705d918b2fbe9388b86daa9bbfa36652fcfcb5
+SHA256: b4e17cd67a9b0f412e38bda2e402b10d5de9b19841bb17cabaeee02df1d2928b
+Section: Scripting
+Priority: optional
+Homepage: http://iOS-WebStack.tk/home.html
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This packages includes PHP 5.5.x with OPcache, GD and MySQL support
+ (PDO and mysqli).
+  .
+  You have to place your PHP config file at /etc/php.ini
+  You will find a OPcache config sample file in /etc/php.d/
+  .
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  - 'touch-lighttpd-php-mysql' for iPhone/iPad
+  .
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you are interest in the package differences, have a look on
+ http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Depiction: http://ios-webstack.tk/cydia/depictions/php55
+Name: PHP55 (with OPcache)
+Role: hacker
+
+Package: php55
+Version: 5.5.27-18
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 26704
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php54, php53
+Filename: ./php55_5.5.27-18_iphoneos-arm.deb
+Size: 3427874
+MD5sum: 893b3aa0f6dd3a41fe4d6a62ab435ed1
+SHA1: b395866c13ea6f123569a932f27ff8382d23940c
+SHA256: 378d5bec348b821dc375dd8dd615da3d6ca5561a637f066bae1dbc82ccecc5ee
+Section: Scripting
+Priority: optional
+Homepage: http://iOS-WebStack.tk/home.html
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This packages includes PHP 5.5.x with OPcache, GD and MySQL support
+ (PDO and mysqli).
+  .
+  You have to place your PHP config file at /etc/php.ini
+  You will find a OPcache config sample file in /etc/php.d/
+  .
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  - 'touch-lighttpd-php-mysql' for iPhone/iPad
+  .
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you are interest in the package differences, have a look on
+ http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Depiction: http://ios-webstack.tk/cydia/depictions/php55
+Name: PHP55 (with OPcache)
+Role: hacker
+
+Package: php55
+Version: 5.5.28-7
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 26712
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php54, php53
+Filename: ./php55_5.5.28-7_iphoneos-arm.deb
+Size: 3431726
+MD5sum: ca54ddc0cd4148b2bfafdccad5339af9
+SHA1: a7386cae9d701c84a9aeeaceb9159bfa4a2a231f
+SHA256: cf6ed9d4a9fc639765646095cb78a3cb4349cc1d62ae45f5d3fcd2c935e24896
+Section: Scripting
+Priority: optional
+Homepage: http://iOS-WebStack.tk/home.html
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This packages includes PHP 5.5.x with OPcache, GD and MySQL support
+ (PDO and mysqli).
+  .
+  You have to place your PHP config file at /etc/php.ini
+  You will find a OPcache config sample file in /etc/php.d/
+  .
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  - 'touch-lighttpd-php-mysql' for iPhone/iPad
+  .
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you are interest in the package differences, have a look on
+ http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Depiction: http://ios-webstack.tk/cydia/depictions/php55
+Name: PHP55 (with OPcache)
+Role: hacker
+
+Package: php56
+Version: 5.6.13-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 27112
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php55, php54, php53
+Filename: ./php56_5.6.13-3_iphoneos-arm.deb
+Size: 3474638
+MD5sum: ec017e445b57268199c9424d2a7413ad
+SHA1: 56e53cf1017a0adccb1d1cfc8a5f35e1202fbb81
+SHA256: f391228df0fdcb0ba9f943dd7153c04bb6fce3606aaee5c63b39e900fd843610
+Section: Scripting
+Priority: optional
+Homepage: http://iOS-WebStack.tk/home.html
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This packages includes PHP 5.6.x with OPcache, GD and MySQL support
+ (PDO and mysqli).
+  .
+  You have to place your PHP config file at /etc/php.ini
+  You will find a OPcache config sample file in /etc/php.d/
+  .
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  - 'touch-lighttpd-php-mysql' for iPhone/iPad
+  .
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you are interest in the package differences, have a look on
+ http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Depiction: http://ios-webstack.tk/cydia/depictions/php56
+Name: PHP56 (with OPcache)
+Role: hacker
+
+Package: php56
+Version: 5.6.12-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 27108
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php55, php54, php53
+Filename: ./php56_5.6.12-2_iphoneos-arm.deb
+Size: 3474686
+MD5sum: 9ce1aa5cefe508c7844feb02b08f28aa
+SHA1: 02ba65e63e2a43fb6231b4fe5445b013aaa7a4e0
+SHA256: 92af2270eeae08ac88954001b6025d7413478a4c79a9103b54cd8f4c8cc9a14d
+Section: Scripting
+Priority: optional
+Homepage: http://iOS-WebStack.tk/home.html
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+  .
+  This packages includes PHP 5.6.x with OPcache, GD and MySQL support
+ (PDO and mysqli).
+  .
+  You have to place your PHP config file at /etc/php.ini
+  You will find a OPcache config sample file in /etc/php.d/
+  .
+  .
+  This software was originally compiled for the AppleTV but it works on
+ all iOS devices.
+  .
+  With the additional cydia packages 'mysql-atv' and 'lighttpd-atv' you
+ are now free to host your own Content Management Systems (CMS), Blogs,
+ Bulletin Boards, File Servers.
+  Such as ownCloud, WebsiteBaker, Contao, TYPO3, WordPress, Joomla!,
+ phpBB, miniBB, etc.
+  .
+  If you would like keep it simple then just install one of the cydia
+ packages below:
+  - 'atv-lighttpd-php-mysql' for AppleTV
+  - 'ios-lighttpd-php-mysql' for iPhone/iPad
+  - 'touch-lighttpd-php-mysql' for iPhone/iPad
+  .
+  They includes this, the above mentioned packages, example config files
+ and daemon launchers for a whole web server solution stack.
+  .
+  If you are interest in the package differences, have a look on
+ http://ios-webstack.tk .
+Tag: purpose::console, role::hacker
+Author: J. Anrugas <j.anrugas@gmail.com>
+Depiction: http://ios-webstack.tk/cydia/depictions/php56
+Name: PHP56 (with OPcache)
+Role: hacker
+
+Package: php70
+Version: 7.0.0beta3-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 41004
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php56, php55, php54, php53
+Filename: ./php70_7.0.0beta3-1_iphoneos-arm.deb
+Size: 4253406
+MD5sum: f69ccd99ff65ac076acb01d17a487691
+SHA1: 018c060f3cb6f2eac0bdf436cf34f47f5f6629fe
+SHA256: b296f2254f84c8a0d0e19c03fea23bd180932d3822aa538132b80c9d19b2b55a
+Section: Scripting
+Priority: optional
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: php70
+Version: 7.0.0rc1-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 40992
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php56, php55, php54, php53
+Filename: ./php70_7.0.0rc1-2_iphoneos-arm.deb
+Size: 4255124
+MD5sum: 0b068b0983483bcabc4062e2d06e0d62
+SHA1: f100ccdc58e54f882a9b3ae027244e953c5e62b3
+SHA256: 9c1a4bdbdeef13ca46ab14f28384691a84d738d9d39fde2d090f8e6fefed14f1
+Section: Scripting
+Priority: optional
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: php70
+Version: 7.0.0rc2-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 41036
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, libfreetype, libjpeg, libmcrypt, libpng, libtiff, openssl, firmware(>= 3.0)
+Conflicts: php, com.jpifher.phppod
+Replaces: php56, php55, php54, php53
+Filename: ./php70_7.0.0rc2-3_iphoneos-arm.deb
+Size: 4256412
+MD5sum: 47e3fb8519a278b57687b8f76d8130f1
+SHA1: b09363a57bd901202e1e7f77ef1e2b564afa3699
+SHA256: 4abafd02459515f68ad9dd4636c1d19007a0eb02396c8990618b6851cc8442a5
+Section: Scripting
+Priority: optional
+Description: The overly popular HTML templating language PHP.
+  The overly popular HTML templating language PHP.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: phpmyadmin-atv
+Version: 3.5.3-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 21472
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./phpmyadmin-atv_3.5.3-3_iphoneos-arm.deb
+Size: 3662220
+MD5sum: f7ba7489988993005e23056ae064f095
+SHA1: 5a311fd85c9afd13dee78bf84ac517d80c22e942
+SHA256: 59a4c7452022333977ca21e8113bd94d5e9e8f8cbc524b2144b22c0db4ad082d
+Section: Administration
+Priority: optional
+Description: A tool to handle the administration of MySQL over the World Wide Web. Have a look at http://goo.gl/LXfUB .
+  phpMyAdmin is a free software tool written in PHP, intended to handle
+ the administration of MySQL over the World Wide Web.
+  phpMyAdmin supports a wide range of operations with MySQL.
+
+Package: tk.ios-webstack.logrotate-daemonizer
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 32
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware(>= 3.0), logrotate
+Filename: ./tk.ios-webstack.logrotate-daemonizer_1.0-2_iphoneos-arm.deb
+Size: 1522
+MD5sum: 2d70faaf766b4670b1d20264d3498251
+SHA1: 440cf41da6ffdf5603c1031ada5b76ce9518bee3
+SHA256: 2e76daf8d4e5f8ea56cec92f704615364a440662547bb5f4a0db08b1ee9c99e6
+Section: Utilities
+Priority: optional
+Description: logrotate Daemonizere will daemonize the tool logrotate.
+  logrotate Daemonizere will daemonize the tool logrotate.
+  Launchd will run the tool 'logrotate' each day at midnight.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: tk.ios-webstack.logrotate-daemonizer
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 32
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware(>= 3.0), logrotate
+Filename: ./tk.ios-webstack.logrotate-daemonizer_1.0-1_iphoneos-arm.deb
+Size: 1524
+MD5sum: 25ddcadc8d48f0c302aa4fb1231b8e18
+SHA1: 889eacf608cb89f291e81727948e1cddc85405e9
+SHA256: eb244defbfee71aad55ecb1a78334a0c667afc251ec61257a7efd244d5a93e29
+Section: Utilities
+Priority: optional
+Description: The logrotate Daemonizere will daemonize the tool logrotate.
+  The logrotate Daemonizere will daemonize the tool logrotate.
+  Launchd will run the tool 'logrotate' each day at midnight.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: tk.ios-webstack.znc
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 7008
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, firmware(>= 3.0)
+Filename: ./tk.ios-webstack.znc_1.4-1_iphoneos-arm.deb
+Size: 1742968
+MD5sum: 819f8a25e20c068a97fe0a52187726c3
+SHA1: 89c2874b83d9c08f6c99cc86d6edcb493fcb00d2
+SHA256: 1ba06022d4191b89ba018c2304d7e1fb7db9c9c8e334794d73be2935ab6f64f1
+Section: Networking
+Priority: optional
+Description: ZNC is an IRC network bouncer.
+  ZNC is an IRC network bouncer.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: tk.ios-webstack.znc
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 7600
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, firmware(>= 3.0)
+Filename: ./tk.ios-webstack.znc_1.4-3_iphoneos-arm.deb
+Size: 1889280
+MD5sum: ea55cc0fec5356db4c8b3db210dd3e5c
+SHA1: 655a4beb16271b3c0fb312c944fb8e9baf5a5682
+SHA256: 1f1be94905eb8522df9417f7d096de3b6ae6877fea567c5df91ed2a61662eb60
+Section: Networking
+Priority: optional
+Description: ZNC is an IRC network bouncer (BNC).
+  ZNC is an IRC network bouncer (BNC).
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: webalizer-atv
+Version: RB29-5
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 5492
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgd, libgeoip, firmware(>= 3.0)
+Filename: ./webalizer-atv_RB29-5_iphoneos-arm.deb
+Size: 464856
+MD5sum: 661c1c56be17dd9bf9d9f6c649b2f5d6
+SHA1: 79269c7fb53a7fee370a054000241fbac44412da
+SHA256: e02a535666af16eb62da57d1bde5040a73546fb7744566d432a4293dc46915c8
+Section: Networking
+Priority: optional
+Description: The Webalizer is a fast, free web server log file analysis program.
+  The Webalizer is a fast, free web server log file analysis program.
+  It produces highly detailed, easily configurable usage reports in HTML
+ format, for viewing with a standard web browser.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: webalizer-atv
+Version: RB30-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 8348
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgd, libgeoip, firmware(>= 3.0)
+Filename: ./webalizer-atv_RB30-1_iphoneos-arm.deb
+Size: 678212
+MD5sum: c5f6652cf0590624e15a4a73c0677a32
+SHA1: 5d36b58890db746b9ac0243bdd9b4d03a72edf71
+SHA256: d0dc46e8d5dc6dfc96be9de4a55bb7f42d7a0696cb6bb428b87fb52b86fc137e
+Section: Networking
+Priority: optional
+Description: WEBALIZER Xtended is a web server log file analysis program.
+  WEBALIZER Xtended web server log file analysis program.
+  It produces highly detailed, easily configurable usage reports in HTML
+ format, for viewing with a standard web browser.
+Tag: purpose::console, role::hacker
+Role: hacker
+
+Package: wget
+Version: 1.16-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 576
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: gettext, openssl
+Filename: ./wget_1.16-1_iphoneos-arm.deb
+Size: 200982
+MD5sum: da24a700bc862b2db5c71faad807deeb
+SHA1: 5e492a20dbff730096fd5a5b9e8a1f801ae5a9a2
+SHA256: 0208a6a82b899871fdfb2b3defa87ed1915d620edbb167d7a841142a9c6dbff5
+Section: Networking
+Priority: important
+Description: Simple HTTP file transfer client
+  Simple HTTP file transfer client
+  In this version (1.16) following security vulnerabilities are fixed
+ since Sauriks version 1.11 :
+Role: hacker
+
+Package: wget
+Version: 1.16.3-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 764
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: gettext, openssl
+Filename: ./wget_1.16.3-1_iphoneos-arm.deb
+Size: 176202
+MD5sum: 46e7562089b75bf7da0fff9fe7d3d29b
+SHA1: 0c27d45ef166676ee0ef60032cd764955d9755e7
+SHA256: f57e20f6aa6582cae03529174fabfa5a54ed3610c2daecac159241e468a65920
+Section: Networking
+Priority: important
+Description: Simple HTTP file transfer client
+  Simple HTTP file transfer client
+  In this version a lot of security vulnerabilities are fixed since
+ Saurik's version.
+Role: hacker
+
+Package: wordpress4
+Version: 4.2.4-1
+Architecture: iphoneos-arm
+Maintainer: J. Anrugas <j.anrugas@gmail.com>
+Installed-Size: 21920
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.linusyang.localeutf8
+Conflicts: wordpress-atv
+Filename: ./wordpress4_4.2.4-1_iphoneos-arm.deb
+Size: 4870758
+MD5sum: 34c5f13a9f9cfca1223ce4174ec64b67
+SHA1: 55eb0dec3bc9fbc92be42a5db143bbfa6626562f
+SHA256: 6cd072b51a6d7843d94f6b679d35ab0d6b16b9788c09657248f160c7d26fa3dd
+Section: Networking
+Priority: optional
+Description: WordPress is web software you can use to create a beautiful website or blog.
+  WordPress is web software you can use to create a beautiful website or
+ blog.
+  We like to say that WordPress is both free and priceless at the same
+ time.
+Tag: purpose::console
+Role: hacker
+

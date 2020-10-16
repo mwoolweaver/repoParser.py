@@ -1,0 +1,8 @@
+Origin: Clezz.com
+Label: Clezz.com
+Suite: stable
+Version: 1.0
+Codename: Clezz
+Architectures: iphoneos-arm
+Components: main
+Description: The Official Clezz.com Repository! QuickDo / Tage / QRC / Touchr / Messages / Dock / iUnlock / QuickCall / Bulletin / AppStat

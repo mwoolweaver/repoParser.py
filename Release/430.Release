@@ -1,0 +1,11 @@
+Origin: Revulate's Repo
+Label: Revulate's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 
+
+SHA256:
+ a58c2f86582da338042be9776c3005513ed4d60a1e8da963aadbd043b99862e3 1535 Packages.bz2

@@ -1,0 +1,308 @@
+Package: com.chewmieser.accountlabels
+Version: 0.5.5-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.accountlabels_0.5.5-1_iphoneos-arm.deb
+Size: 24196
+MD5sum: a227a2bcf262093428c435d2a8b6e8e2
+SHA1: 002c1b51c72c81f152d9c79ca177a3ec632a7784
+SHA256: c9c653563ca9917843681b308337062e5ea4097a3f2a3fd5be77cfe187f0eeb6
+Section: Tweaks
+Description: MobileMail account indicators
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/accountlabels.html
+Name: accountLabels
+
+Package: com.chewmieser.appbutton
+Version: 1.1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe <steve@rolfe.land>
+Installed-Size: 1424
+Depends: mobilesubstrate,preferenceloader,applist
+Filename: ./deb_files/com.chewmieser.appbutton_1.1.1.1-1_iphoneos-arm.deb
+Size: 533394
+MD5sum: 1bd1d15bd5e5ece5de2d8d1cfb775aca
+SHA1: 87f061980aee1270ef26dd383f91a86ca239d22c
+SHA256: 73519d89a7950ab929e8d3722b01c2c6a0515649b6f061bf8e04afca4873506f
+Section: Tweaks
+Description: Multitasking at your fingertips
+Author: Steven Rolfe <steve@rolfe.land>
+Depiction: http://apt.steverolfe.com/depiction/appbutton.html
+Name: AppButton
+
+Package: com.chewmieser.freefall
+Version: 1.7-5
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader
+Filename: ./deb_files/com.chewmieser.freefall_1.7-5_iphoneos-arm.deb
+Size: 270266
+MD5sum: 73ca6853082de859a0426790c3c585b9
+SHA1: 527093e15ab1acb57731a9495720b4c4faeb8097
+SHA256: 9c319edb4c2416668cae1e5499c275a8488162482bee527cbe181f4cee03b13e
+Section: Tweaks
+Description: Phone screams when dropped
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/freefall.html
+Name: FreeFall
+
+Package: com.chewmieser.indulge
+Version: 0.0.8-10
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate, Cydia(>=1.1.19)
+Conflicts: com.unlimapps.apphub
+Filename: ./deb_files/com.chewmieser.indulge_0.0.8-10_iphoneos-arm.deb
+Size: 26432
+MD5sum: 0b565f963b2186b7c47af6d1d6f11ee1
+SHA1: 31cb0b96b5bdcab715eb050f3da7cde5a5628395
+SHA256: d7ec666e1620c285ad5dae2cf170fe2f9261eb4e6f3e6df10848e947688346e0
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.indulge_0.0.4-1_iphoneos-arm.deb
+Size: 19506
+MD5sum: cbdb1bdd599a9e3cbba4aa29bae7977d
+SHA1: 90ecdcb92498d1373861fd889b0bc5a67172b38e
+SHA256: 72fa24adfc167723e0f44177d9264d5a704737f62f0d0c9b581fb23f2ff04685
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.7-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.indulge_0.0.7-1_iphoneos-arm.deb
+Size: 26396
+MD5sum: 4ad3e53f6ffbeab15d4b4af6c9e29c36
+SHA1: 133dc8d2fc52b5e29e2a234e1952faf5b67f9d29
+SHA256: 43709e52c34a8ed6ee7c0e67d101c313e3783085458fa1604cb0d08a9d37638b
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.indulge_0.0.2-1_iphoneos-arm.deb
+Size: 19480
+MD5sum: 7b30888513cc00fb9cef1a96c1c24983
+SHA1: d892f37c8b1b243e60054aea9c4e2553b3e90745
+SHA256: b7949012e0fcedf4d66b5f57f1074de0735d781688147269330cb538a8c507ae
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.9-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate, Cydia(>=1.1.19)
+Conflicts: com.unlimapps.apphub(<1.0r-28)
+Filename: ./deb_files/com.chewmieser.indulge_0.0.9-1_iphoneos-arm.deb
+Size: 26436
+MD5sum: c7047fe4df63f3ea67605c8593e2b397
+SHA1: 7eb08db296fb343d804689b3b2edf8f485b87034
+SHA256: 82a0d3b53faff60145aeef2ab986a8d614b94752be24214ae849a6754f81cf67
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.indulge_0.0.1-1_iphoneos-arm.deb
+Size: 6392
+MD5sum: cbe498e948582ef814052e867564f0a5
+SHA1: 9d8c5306025da572bb23f4a40f24bbe8692571e0
+SHA256: 18e2494fba5f902ec0b56c4e8422bf003ecd891eb052b53499a624643276db3d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Steven Rolfe
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.10-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate, Cydia(>=1.1.19)
+Conflicts: com.unlimapps.apphub(<1.0r-28)
+Filename: ./deb_files/com.chewmieser.indulge_0.0.10-1_iphoneos-arm.deb
+Size: 28060
+MD5sum: 0248b2b6c6e584caafc0e60ba0b09297
+SHA1: 32740466a9639fb3e0ae0dbc0c34a0ee4cc3cf29
+SHA256: ca6266ef01ff4cc82f666257cf4ddbe87fb9a4e8b04f33bea857ea82bbca40fa
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.6-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.indulge_0.0.6-1_iphoneos-arm.deb
+Size: 19652
+MD5sum: 3ec06741f97650678f5963abe3f4b067
+SHA1: 9785f0f41107cce578ca70b6cb52ca7c45fd43c2
+SHA256: 2193a976168da94395cf3d394eafe4e91714a1af807f40dbd5b77028940e73c9
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.indulge_0.0.3-1_iphoneos-arm.deb
+Size: 18882
+MD5sum: f5924dde6b1f79af392a3a21e8346f2e
+SHA1: 65f042f64b0fad77d53ffd64eaeda4687ccca72a
+SHA256: 933b3de23c66b8ce1758f6ba5d4ac44f6c81f2024fcce9b914d541a8b3280a15
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.indulge
+Version: 0.0.5-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.indulge_0.0.5-1_iphoneos-arm.deb
+Size: 19456
+MD5sum: 9437cc66c3850770658feec5eb31fc3a
+SHA1: e6be435fe3bd4770b8862b48bd0758bd09e412db
+SHA256: 22c1a27da3b6686bb7b7d53267982aac0cad5a958f8b6b5c25a8eb7b7f05d984
+Section: Tweaks
+Description: Add top of charts to Cydia
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/indulge.html
+Name: indulge
+
+Package: com.chewmieser.messagecolors
+Version: 0.5.1-1
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.messagecolors_0.5.1-1_iphoneos-arm.deb
+Size: 136866
+MD5sum: 45ef3b53eb82b455aa8246dec4f11f6b
+SHA1: 9f4426454af7ccee2c103cc93fde1f3127021d56
+SHA256: 15275f08fe30d9ba01a32237203905e27e820ba3d343104cd4224a68cd91b6be
+Section: Tweaks
+Description: Customize MobileSMS bubble colors.
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/messagecolors.html
+Name: messageColors
+
+Package: com.chewmieser.noncheader
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.noncheader_1.0-5_iphoneos-arm.deb
+Size: 5898
+MD5sum: 67781684b636843f8ac02887f0890971
+SHA1: 53bacd780bd61aaf2605b239ddf7207fa0e2b9b0
+SHA256: ca1385cc66c8d6ad37b35df81a8d8585a640ee8b00625de8ab860c7c90e24692
+Section: Tweaks
+Description: Hides notification center widget headers
+Author: Steven Rolfe
+Name: noNCheader
+
+Package: com.chewmieser.statusvol
+Version: 0.2.1-6
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 1432
+Depends: mobilesubstrate
+Filename: ./deb_files/com.chewmieser.statusvol_0.2.1-6_iphoneos-arm.deb
+Size: 185656
+MD5sum: a55edabd8c66e5c887cdd39b4f676fc6
+SHA1: 47fac6405dc68e7563371b1931a8b740f10ed7a7
+SHA256: 4385dadbb2af32c7cf5166110fac0734ae69935bd14ec49a43fb8f728ca5ba6f
+Section: Tweaks
+Description: Places the volume HUD in the statusbar
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/statusvol.html
+Name: statusvol
+
+Package: com.chewmieser.statusvollite
+Version: 0.7-5
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 532
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.chewmieser.statusvol
+Filename: ./deb_files/com.chewmieser.statusvollite_0.7-5_iphoneos-arm.deb
+Size: 78522
+MD5sum: 055115d1fea98226bc896451de42c81e
+SHA1: 4d2ee322a0d94ddb9f06217099f1707533fb5cb4
+SHA256: a7e60c870e8cfd7c4e64c788e5d5bef56461dca367c7664708548e5c12b93aea
+Section: Tweaks
+Description: Replacement volume HUD for iOS8
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/statusvollite.html
+Name: StatusVol 2
+
+Package: com.chewmieser.statusvolx
+Version: 0.3.5-3
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 400
+Depends: mobilesubstrate
+Conflicts: com.chewmieser.statusvol,com.chewmieser.statusvollite
+Filename: ./deb_files/com.chewmieser.statusvolx_0.3.5-3_iphoneos-arm.deb
+Size: 34932
+MD5sum: 51b7337454fb743192c4bb9f34900bf9
+SHA1: 72d4b66620cc530daa84cc30fc210f1ee2a340a5
+SHA256: 657b7c73b7cef0181c682f9d33607e5715a1f58947e8db6d6e3d585578737fc1
+Section: Tweaks
+Description: Volume HUD in your status bar
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/statusvolx.html
+Name: StatusVol X
+

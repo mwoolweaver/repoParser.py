@@ -1,0 +1,127 @@
+Package: com.parrotgeek.globalize
+Version: 0.3.2
+Section: Tweaks
+Maintainer: parrotgeek1
+Depends: mobilesubstrate, firmware (>= 9)
+Architecture: iphoneos-arm
+Filename: com.parrotgeek.globalize_0.3.2_iphoneos-arm.deb
+Size: 6816
+Installed-Size: 536
+MD5sum: 842ff480020ea95fe365c2aa8b4906fe
+SHA1sum: 9a2dfcbf3594d04bc6b1ff77cd26e3f0120e5b84
+SHA256sum: 2eced6390e189b8585df3843037a462eb84a077b9378f0554ee147f93b760080
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Name: Globalize
+Author: parrotgeek1
+
+Package: com.parrotgeek.hactivate
+Version: 1.0.1
+Section: System
+Maintainer: parrotgeek1 <parrotgeek1@gmail.com>
+Pre-Depends: coreutils, firmware (<< 13), firmware (>= 7)
+Architecture: iphoneos-arm
+Filename: hactivate.deb
+Size: 67100
+MD5sum: 5473413c622d18a7faa52082a136a2d5
+SHA1sum: 76312ec2f0e844c4d07440f9287174e6bf20e124
+SHA256sum: dbd17927212144c33320d9f85006209fcafc5b3f7e40853a5e08f33162bfd450
+Description: Forces lockdownd to report the device as activated, for devices with broken basebands
+Name: Hactivate
+Author: parrotgeek1 <parrotgeek1@gmail.com>
+
+Package: com.parrotgeek.ifilefix
+Version: 1.0
+Section: Tweaks
+Maintainer: parrotgeek1 <parrotgeek1@gmail.com>
+Pre-Depends: grep, sed
+Depends: eu.heinelt.ifile
+Architecture: iphoneos-arm
+Filename: ifilefix.deb
+Size: 756
+MD5sum: 29dd062adc54c9db0dfb29aee4a268dc
+SHA1sum: b0e7c30321448daf149f341e9b869066996890a4
+SHA256sum: ab604ee96f79aa4163c87fccbb6f379693e4a09bb3d6ab2d79345f053100d8c1
+Description: Fixes iFile crash on launch.
+Name: iFile Crash Fix
+Author: parrotgeek1 <parrotgeek1@gmail.com>
+
+Package: com.parrotgeek.ios421mtfix
+Version: 1.0.1
+Section: Tweaks
+Maintainer: parrotgeek1 <parrotgeek1@gmail.com>
+Depends: firmware (= 4.2.1)
+Conflicts: gsc.armv7
+Architecture: iphoneos-arm
+Filename: iOS421MultitaskFix.deb
+Size: 888134
+MD5sum: 7a9513ed08d3e69899ce2d9213c6aa91
+SHA1sum: 4b5867228353faf2f6cfc2e38382e244e05e6289
+SHA256sum: 969f915fcf3da78e944977432469a28ce53db7d1bf7d3e9fbfec6da7206fdbf1
+Description: Fixes Multitasking crash on iOS 4.2.1 on iPhone 3G/iPod touch 2G.
+Name: iOS 4.2.1 Multitasking Fix
+Author: parrotgeek1 <parrotgeek1@gmail.com>
+
+Package: com.parrotgeek.nmc
+Version: 0.1
+Section: Tweaks
+Maintainer: parrotgeek1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: com.parrotgeek.nmc_0.1_iphoneos-arm.deb
+Size: 3314
+Installed-Size: 200
+MD5sum: a401c1ba9d861b0c5365e38205cde489
+SHA1sum: c1c111db81ef4297cf6480c148f336c3ca83708d
+SHA256sum: 4c99f92a0909913080c522ace6accc16e1e992558d3a48fc29ff71f421fe8beb
+Description: Completely hide iOS 11+ lock screen media controls
+Name: NoMediaControls
+Author: parrotgeek1
+
+Package: com.parrotgeek.nobetaalert
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Ethan Nelson-Moore
+Depends: mobilesubstrate, firmware (>= 9)
+Architecture: iphoneos-arm
+Filename: com.parrotgeek.nobetaalert_1.4.3_iphoneos-arm.deb
+Size: 3066
+Installed-Size: 200
+MD5sum: 73f504e0e22c5527132b544b01bded35
+SHA1sum: 852784553c7257673d86aae0c4eec5cbcbca9912
+SHA256sum: dda095a6dd9f98fbc16ac20d9884831d313d448fba72de335e4c8c589b46dd9b
+Description: Hide "Please update from the iOS beta" alert (iOS 9-13.x)
+Name: NoBetaAlert
+Author: Ethan Nelson-Moore
+
+Package: com.parrotgeek.siriv
+Version: 1.0
+Section: Tweaks
+Maintainer: @parrotgeek1
+Depends: mobilesubstrate, gsc.assistant, firmware (>= 7.0), firmware (<< 10)
+Architecture: iphoneos-arm
+Filename: originalsirivoice.deb
+Size: 3308
+Installed-Size: 120
+MD5sum: cd79f60fd5174b5be01ab8a77e86532a
+SHA1sum: cfb4e48951e688c44a040e5ee22b4f2d936ecdf3
+SHA256sum: d4e711c4063539cef898dbbff1a73ff4c18365217c43b5cc5db14daac88500f0
+Description: In all its infamous, robotic glory!
+Name: Original Siri Voice (iOS 7-9)
+Author: @parrotgeek1
+
+Package: net.parrotgeek.br.ipad
+Version: 1.1-2
+Section: Tweaks
+Maintainer: parrotgeek1 <parrotgeek1@gmail.com>
+Depends: mobilesubstrate, gsc.ipad
+Architecture: iphoneos-arm
+Filename: net.parrotgeek.br.ipad_1.1-2_iphoneos-arm.deb
+Size: 38558
+Installed-Size: 280
+MD5sum: 6fd0f74f2866263a11f6f53fcad462e4
+SHA1sum: b458982801385e7cb11a062e428e97c52f18e36d
+SHA256sum: 8e2f7c2de99ded0fc6a5417ffa28b46143b63addecf6ea5e5423e81abd9363a1
+Description: Make icon layout consistent across orientations
+Name: BetterRotate for iPad
+Author: parrotgeek1 <parrotgeek1@gmail.com>
+

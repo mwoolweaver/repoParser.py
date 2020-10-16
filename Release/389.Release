@@ -1,0 +1,8 @@
+Origin: Team FESTIVAL
+Label: Team FESTIVAL
+Suite: stable
+Version: 1.0
+Codename: stark
+Architecture: iphoneos-arm
+Components: main
+Description: The FESTIVAL Cydia Repository

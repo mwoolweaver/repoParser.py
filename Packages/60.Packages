@@ -1,0 +1,80 @@
+Package: me.absidue.deezcleanlyrics
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: absidue <apt@absidue.me>
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./pkg/me.absidue.deezcleanlyrics.deb
+Size: 13610
+MD5sum: 3c595b83877e4575ab05fb6a4c4f341c
+SHA1: f9e81879462a3705cc669caa00ea24807e2d627f
+SHA256: 1accd37109247db3ededaae567bf3e84f7b666119294dbd0f78a2e215b13846f
+Section: Tweaks
+Homepage: https://apt.absidue.me
+Description: No highlighting for Deezer lyrics
+Author: absidue <apt@absidue.me>
+Depiction: https://apt.absidue.me/depiction/web/me.absidue.deezcleanlyrics.html
+Icon: https://apt.absidue.me/assets/me.absidue.deezcleanlyrics/icon.png
+Moderndepiction: https://apt.absidue.me/depiction/native/me.absidue.deezcleanlyrics.json
+Name: DeezCleanLyrics
+Sileodepiction: https://apt.absidue.me/depiction/native/me.absidue.deezcleanlyrics.json
+
+Package: me.absidue.showfieldtest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: absidue <apt@absidue.me>
+Depends: firmware (>=10.0), mobilesubstrate, com.bingner.plutil
+Filename: ./pkg/me.absidue.showfieldtest.deb
+Size: 1032
+MD5sum: 5545af326f73e8466c7094f3602f5703
+SHA1: 7740e90d23ab7ad94d896cc23f40a76760aa06d0
+SHA256: 3e084a4b2df454b29c835bdb4da977238a541b237d5cf1dac1eb2fc22b105139
+Section: System
+Homepage: https://apt.absidue.me
+Description: Show FieldTest everywhere
+Author: absidue <apt@absidue.me>
+Depiction: https://apt.absidue.me/depiction/web/me.absidue.showfieldtest.html
+Icon: https://apt.absidue.me/assets/me.absidue.showfieldtest/icon.png
+Moderndepiction: https://apt.absidue.me/depiction/native/me.absidue.showfieldtest.json
+Name: ShowFieldTest
+Sileodepiction: https://apt.absidue.me/depiction/native/me.absidue.showfieldtest.json
+
+Package: me.absidue.showmagnifier
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: absidue <apt@absidue.me>
+Depends: firmware (>=10.0), mobilesubstrate, com.bingner.plutil
+Filename: ./pkg/me.absidue.showmagnifier.deb
+Size: 1030
+MD5sum: c9bda322486092dcfa9cb7f6dc497469
+SHA1: 804d41ec0cef1176254d3da3ffdac0f08b06d013
+SHA256: 869e0905bb8ee87e6fd508b31c6143922ff6b49b51289ca5c486d9f9c972eb62
+Section: System
+Homepage: https://apt.absidue.me
+Description: Show Magnifier everywhere
+Author: absidue <apt@absidue.me>
+Depiction: https://apt.absidue.me/depiction/web/me.absidue.showmagnifier.html
+Icon: https://apt.absidue.me/assets/me.absidue.showmagnifier/icon.png
+Moderndepiction: https://apt.absidue.me/depiction/native/me.absidue.showmagnifier.json
+Name: ShowMagnifier
+Sileodepiction: https://apt.absidue.me/depiction/native/me.absidue.showmagnifier.json
+
+Package: me.absidue.zebraautocomplete
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: absidue <apt@absidue.me>
+Depends: firmware (>=9.0), mobilesubstrate, xyz.willy.zebra
+Filename: ./pkg/me.absidue.zebraautocomplete.deb
+Size: 19160
+MD5sum: a3512ee2b8bb7cf2f5dae5bfd64d4626
+SHA1: 3e69851ec99e9528d7a1f2d00394a06841b55b4d
+SHA256: c803163e5c00e1c2946e09c94e04d322765000055350fdf45ad40f740fdbad3c
+Section: Tweaks
+Homepage: https://apt.absidue.me
+Description: Zebra auto respring, close or done
+Author: absidue <apt@absidue.me>
+Depiction: https://apt.absidue.me/depiction/web/me.absidue.zebraautocomplete.html
+Icon: https://apt.absidue.me/assets/me.absidue.zebraautocomplete/icon.png
+Moderndepiction: https://apt.absidue.me/depiction/native/me.absidue.zebraautocomplete.json
+Name: ZebraAutoComplete
+Sileodepiction: https://apt.absidue.me/depiction/native/me.absidue.zebraautocomplete.json
+

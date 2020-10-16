@@ -1,0 +1,286 @@
+Package: com.clezz.appstat
+Version: 1.0.3-1~beta1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: mobilesubstrate, firmware (>= 3.2)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.appstat_1.0.3-1~beta1_iphoneos-arm.deb
+Size: 89646
+Installed-Size: 608
+MD5sum: 50bb03ac4a2ec571412edfa6260f4b63
+Description: App usage statistics, frequency of use, use of time and recent use.
+depiction: http://www.clezz.com/appstat/cydia_page.html?v=1.0.3-1~beta1
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/appstat/cydia_page.html?v=1.0.3-1~beta1
+name: App Stat
+icon: file:///Applications/AppStat.app/Icon.png
+
+Package: com.clezz.clearbadges
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.clezz.clearbadges_1.0.1_iphoneos-arm.deb
+Size: 21770
+Installed-Size: 188
+MD5sum: 7cb0fe8c7cf9ccee9495d3f83ab0fbec
+Description: Double-click app icon to clear badge when icon is jittering, clear all app badges by QuickDo gesture, clear badges toggle.
+author: Ma Jun <majun3@gmail.com>
+name: Clear Badges
+
+Package: com.clezz.clezz-bulletin
+Version: 1.1.5-6
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.0)
+Conflicts: com.clezz.bulletin
+Replaces: com.clezz.bulletin
+Architecture: iphoneos-arm
+Filename: .//com.clezz.clezz-bulletin_1.1.5-6_iphoneos-arm.deb
+Size: 269710
+Installed-Size: 956
+MD5sum: 1df2953f1609cb1dba5a0da3cef4bdcf
+Description: Enable NC at lockscreen, custom background, blur background.
+depiction: http://www.clezz.com/bulletin/cydia_page.html?v=1.1.5-6
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/bulletin/cydia_page.html?v=1.1.5-6
+name: Bulletin (Clezz)
+
+Package: com.clezz.dock
+Version: 2.2.11~beta2
+Section: Tweaks
+Maintainer: Clezz.com <service@clezz.com>
+Depends: mobilesubstrate, firmware (>= 3.0), preferenceloader (>= 2.0)
+Conflicts: app.weiphone.clezz.dock, com.clezz.dock-beta
+Replaces: app.weiphone.clezz.dock, com.clezz.dock-beta
+Architecture: iphoneos-arm
+Filename: .//com.clezz.dock_2.2.11~beta2_iphoneos-arm.deb
+Size: 1476546
+Installed-Size: 2308
+MD5sum: 129abd0ea2387d0af7b7826f1813e784
+Description: Shortcuts, app switcher and multitasking management for iOS.
+depiction: http://www.clezz.com/dock/cydia_page.html?v=2.2.11~beta2
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/dock/cydia_page.html?v=2.2.11~beta2
+name: Dock
+icon: file:///Library/PreferenceBundles/DockSettings.bundle/Icon-small@2x.png
+
+Package: com.clezz.iunlock
+Version: 1.0.5-7~beta1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.0)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.iunlock_1.0.5-7~beta1_iphoneos-arm.deb
+Size: 199984
+Installed-Size: 732
+MD5sum: 6bbaafd36af86e944600b8d34367f278
+Description: Custom unlock animation and sound.
+depiction: http://www.clezz.com/iunlock/cydia_page.html?v=1.0.5-7~beta1
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/iunlock/cydia_page.html?v=1.0.5-7~beta1
+name: iUnlock
+
+Package: com.clezz.powerdown
+Version: 1.0.4~beta2
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 4.0)
+Conflicts: com.gjbsoftware.gpowerpro
+Replaces: com.gjbsoftware.gpowerpro
+Architecture: iphoneos-arm
+Filename: .//com.clezz.powerdown_1.0.4~beta2_iphoneos-arm.deb
+Size: 60808
+Installed-Size: 368
+MD5sum: 1c696daa41fefc011eee3f9440f14a31
+Description: Support iOS 8, Show power down view via gestures and add reboot, respring, safe mode slider to power down view.
+author: Ma Jun <majun3@gmail.com>
+name: PowerDown
+
+Package: com.clezz.qrc
+Version: 1.1.6~beta3
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: mobilesubstrate, firmware (>=8.0), preferenceloader (>= 2.0)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.qrc_1.1.6~beta3_iphoneos-arm.deb
+Size: 432230
+Installed-Size: 1224
+MD5sum: 4d32985e23d91cfd0d610e5abf285625
+Description: Library for my quick reply and compose tweaks.
+depiction: http://www.clezz.com/qrc/cydia_page.html?v=1.1.6~beta3
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/qrc/cydia_page.html?v=1.1.6~beta3
+name: QRC
+
+Package: com.clezz.qrc.messages
+Version: 1.3.2~beta2
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: mobilesubstrate, firmware (>=8.0), preferenceloader (>= 2.0), com.clezz.qrc (>= 1.1.5)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.qrc.messages_1.3.2~beta2_iphoneos-arm.deb
+Size: 95226
+Installed-Size: 568
+MD5sum: 9bc4f3845031d5fba214eb77d65546fd
+Description: Quick reply and compose for Messages / 信息快捷回复和快捷发送
+depiction: http://www.clezz.com/qrcmessages/cydia_page.html?v=1.3.2~beta2
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/qrcmessages/cydia_page.html?v=1.3.2~beta2
+name: Messages (iOS 8 & 9 & 10)
+icon: file:///Library/PreferenceBundles/QRCMessagesSettings.bundle/Icon-small@2x.png
+
+Package: com.clezz.qrc.qq
+Version: 1.0.4~beta1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: mobilesubstrate, firmware (>=8.0), preferenceloader (>= 2.0), com.clezz.qrc (>= 1.1.3)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.qrc.qq_1.0.4~beta1_iphoneos-arm.deb
+Size: 119322
+Installed-Size: 572
+MD5sum: 1601c8fad89e39d48f394d5998758329
+Description: Quick reply and compose for QQ / QQ快捷回复和快捷发送
+depiction: http://www.clezz.com/qrcqq/cydia_page.html?v=1.0.4~beta1
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/qrcqq/cydia_page.html?v=1.0.4~beta1
+name: QRC for QQ
+icon: file:///Library/PreferenceBundles/QRCQQSettings.bundle/Icon-small@2x.png
+
+Package: com.clezz.qrc.wechat
+Version: 1.0.5~beta1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: mobilesubstrate, firmware (>=8.0), preferenceloader (>= 2.0), com.clezz.qrc (>= 1.1.5)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.qrc.wechat_1.0.5~beta1_iphoneos-arm.deb
+Size: 94912
+Installed-Size: 568
+MD5sum: 631ebc62d5d872b9e3208a5a7d0ae5a4
+Description: Quick reply and compose for WeChat / 微信快捷回复和快捷发送
+depiction: http://www.clezz.com/qrcwechat/cydia_page.html?v=1.0.5~beta1
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/qrcwechat/cydia_page.html?v=1.0.5~beta1
+name: QRC for WeChat
+icon: file:///Library/PreferenceBundles/QRCWeChatSettings.bundle/Icon-small@2x.png
+
+Package: com.clezz.quickcall
+Version: 1.0.4~beta1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.0)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.quickcall_1.0.4~beta1_iphoneos-arm.deb
+Size: 568304
+Installed-Size: 1152
+MD5sum: 3b0ed7173033a3ad95f51016ecebc1c7
+Description: Call from anywhere / 任何地方快速拨打电话
+depiction: http://www.clezz.com/quickcall/cydia_page.html?v=1.0.4~beta1
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/quickcall/cydia_page.html?v=1.0.4~beta1
+name: QuickCall
+icon: file:///Library/PreferenceBundles/QuickCallSettings.bundle/Icon@2x.png
+
+Package: com.clezz.quickdo
+Version: 3.9.5~beta1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
+Architecture: iphoneos-arm
+Filename: .//com.clezz.quickdo_3.9.5~beta1_iphoneos-arm.deb
+Size: 1734752
+Installed-Size: 6520
+MD5sum: e80b34de5834e41e7600b0b0ff5b9d2c
+Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
+depiction: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.5~beta1
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.5~beta1
+name: QuickDo
+icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
+
+Package: com.clezz.restorehosts
+Version: 1.0.1
+Section: System
+Maintainer: Clezz.com <majun3@gmail.com>
+Conflicts: quickdofuck.178
+Replaces: quickdofuck.178
+Architecture: iphoneos-arm
+Filename: .//com.clezz.restorehosts_1.0.1_iphoneos-arm.deb
+Size: 752
+MD5sum: 1caa06dc745bec4754c687a4beda665c
+Description: 恢复hosts文件 / Remove clezz.com from /etc/hosts file if exist
+author: Ma Jun <majun3@gmail.com>
+name: RestoreHosts
+
+Package: com.clezz.searchplus
+Version: 1.0.1-4
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader (>= 2.0)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.searchplus_1.0.1-4_iphoneos-arm.deb
+Size: 192958
+Installed-Size: 648
+MD5sum: da0d7e855f9c5640daf8cd1d7eb2207b
+Description: Show Spotlight Search from anywhere and more / 任何地方显示Spotlight搜索
+depiction: http://www.clezz.com/searchplus/cydia_page.html?v=1.0.1-4
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/searchplus/cydia_page.html?v=1.0.1-4
+name: Search+
+icon: file:///Library/PreferenceBundles/SearchPlusSettings.bundle/Icon@2x.png
+
+Package: com.clezz.shakeme
+Version: 1.0~beta4
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.0), applist (>= 1.4.1)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.shakeme_1.0~beta4_iphoneos-arm.deb
+Size: 52536
+Installed-Size: 168
+MD5sum: d2c40408dcd00350932d0b3f5c6e6e92
+Description: Custom Shake/Flip Over/Face Up/Face Down/Pick Up actions.
+depiction: http://www.clezz.com/shakeme/cydia_page.html?v=1.0~beta4
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/shakeme/cydia_page.html?v=1.0~beta4
+name: ShakeMe
+icon: file:///Library/PreferenceBundles/ShakeMeSettings.bundle/Icon@2x.png
+
+Package: com.clezz.tage
+Version: 1.2.3~beta1
+Section: Tweaks
+Maintainer: Clezz.com <majun3@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader (>= 2.0)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.tage_1.2.3~beta1_iphoneos-arm.deb
+Size: 614374
+Installed-Size: 2116
+MD5sum: 72aab9b949657bb64bca63797478bb09
+Description: Awesome multitasking gestures and more. / 功能强大的多任务手势。
+depiction: http://www.clezz.com/tage/cydia_page.html?v=1.2.3~beta1
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/tage/cydia_page.html?v=1.2.3~beta1
+name: Tage
+icon: file:///Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+
+Package: com.clezz.touchr
+Version: 1.0.4~beta1
+Section: Tweaks
+Maintainer: Ma Jun <majun3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: .//com.clezz.touchr_1.0.4~beta1_iphoneos-arm.deb
+Size: 199516
+Installed-Size: 748
+MD5sum: 649fce17a76c11c029bad08262a1c1f5
+Description: TouchID gestures / TouchID 手势
+depiction: http://www.clezz.com/touchr/cydia_page.html?v=1.0.4~beta1
+sponsor: clezz.com <http://clezz.com>
+author: Ma Jun <majun3@gmail.com>
+homepage: http://www.clezz.com/touchr/cydia_page.html?v=1.0.4~beta1
+name: Touchr
+icon: file:///Library/PreferenceBundles/TouchrSettings.bundle/Icon-small@2x.png
+

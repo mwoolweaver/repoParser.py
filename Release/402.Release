@@ -1,0 +1,9 @@
+Origin: OpenDebs Repository
+Label: OpenDebs Repository
+Suite: stable
+Version: 1.0
+Codename: ios
+Components: main
+Description: Home of FOSS for iOS Jailbreaks
+Host-Software: OpenDebs
+Architectures: iphoneos-arm

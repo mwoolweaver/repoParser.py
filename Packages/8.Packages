@@ -1,0 +1,275 @@
+Package: com.gmoran.passcodebypass
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.gmoran.passcodebypass_0.0.1-5_iphoneos-arm.deb
+Size: 2798
+MD5sum: 8b4bb7330cb88300ebcd1f88ab9f0b00
+SHA1: e0b63622bb169c2e56ad27de938668d6eb8bc291
+SHA256: 2e05722a858f2ec6eac6f9fd8ae8b87f0112cbfeff1c660d53ebff678b4a8e04
+Section: Tweaks
+Description: Install to bypass iOS lock screen passcode. Uninstalling reenables the passcode. **Does not provide a permanent solution to forgotten passcodes**
+Author: Guillermo Moran
+Name: PasscodeBypass
+
+Package: me.gmoran.circa
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 228
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.circa_0.0.1-1_iphoneos-arm.deb
+Size: 66146
+MD5sum: 50545573cab84efc2d55f680eb04091c
+SHA1: 845d6b6ced1d45993f1650581e3ccd26a9b4fcb9
+SHA256: 8b196e52737f0e0e51ab71d7394ab0c7e6aeae5c91d0f64222d344703d361686
+Section: Tweaks
+Description: Roundify your icons!
+Author: Guillermo Moran
+Name: Circa
+
+Package: me.gmoran.colorboard
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.colorboard_0.0.1_iphoneos-arm.deb
+Size: 3194
+MD5sum: d4ed2d4cded0f9f250279df8233e6a3b
+SHA1: 9c9127d94080881fbfdb8ffafc3c8b625ea644a8
+SHA256: d9d594477141c1aba73130ebb91342492d1e4f4dd836bb22fbfdf1a3bb52346c
+Section: Tweaks
+Description: Changes your keyboard's color based on the app's icon color!
+Author: Guillermo Moran
+Name: ColorBoard
+
+Package: me.gmoran.colorboard
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.colorboard_0.0.2_iphoneos-arm.deb
+Size: 3432
+MD5sum: d2b49e14d592a537de997ad86c0a9ed1
+SHA1: 77a2bb9aea86170c3c1b2cdc816238d4844fcb94
+SHA256: 0132c61da7f3df8c5e6dc8e2a994a87957567cf23c7be88c308039088a1a84d9
+Section: Tweaks
+Description: Changes your keyboard's color based on the app's icon color!
+Author: Guillermo Moran
+Name: ColorBoard
+
+Package: me.gmoran.colorboard
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.colorboard_0.0.3_iphoneos-arm.deb
+Size: 3530
+MD5sum: 27c0fa97217f84d84870eb4196025fad
+SHA1: da0e6ca67180d4545dd423d979f8b2f5eee6d7df
+SHA256: 2fcef1ed27880e12e06e940a31e46cbaa4ada4df113026e0898fcddf5353ed38
+Section: Tweaks
+Description: Changes your keyboard's color based on the app's icon color!
+Author: Guillermo Moran
+Name: ColorBoard
+
+Package: me.gmoran.colorboard
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.colorboard_0.0.4_iphoneos-arm.deb
+Size: 4444
+MD5sum: 47a02d7186fcea3602342948b8d1c792
+SHA1: 2b6e01d166c8be69c5ef7d148990f5e7502501e1
+SHA256: a533e786b079fdd8eab70f71c8aac507fd6a9fd86aa1ecb27fa0c032abc2b77b
+Section: Tweaks
+Description: Changes your keyboard's color based on the app's icon color!
+Author: Guillermo Moran
+Name: ColorBoard
+
+Package: me.gmoran.cydiarespringfix
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.cydiarespringfix_0.0.1-6_iphoneos-arm.deb
+Size: 3056
+MD5sum: 03eac3fcecc3b67ed46981fe43a2c435
+SHA1: b31be93eefc448c02298c99d5a166a8025fcc340
+SHA256: ce70f0079a358889c3eec75e50d78bcb01d97797bc35022f59d4f0f7f277d2aa
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Guillermo Moran
+Name: CydiaRespringFix
+
+Package: me.gmoran.darkerdarkmode
+Version: 0.1-9
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran (@fr0st)
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.darkerdarkmode_0.1-9_iphoneos-arm.deb
+Size: 4698
+MD5sum: 401ab8b1a1db71fef0bdcfa7b9ef6eb2
+SHA1: de3292fbb6014f47ec89b4312f84938d1850f0e2
+SHA256: 212729926e4c153322edff66828e8815df450221b6f4a870003361e04e66f412
+Section: Tweaks
+Description: Make iOS 13's OLED-Friendly
+Author: Guillermo Moran (@fr0st)
+Depiction: http://gmoran.me/depictions/darkerdarkmode.html
+Name: OLED Dark Mode
+
+Package: me.gmoran.darkerdarkmode
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran (@fr0st)
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.darkerdarkmode_0.2_iphoneos-arm.deb
+Size: 4772
+MD5sum: f29813c28bed500f0651b66e955db0f1
+SHA1: c6863a1bb37b33029e60b08c1ee0dbf5495db8af
+SHA256: 2ad426b010fbef9909f5891869533d772ce873a6f4f161b75b13f8c85e42e71b
+Section: Tweaks
+Description: Make iOS 13's OLED-Friendly
+Author: Guillermo Moran (@fr0st)
+Depiction: http://gmoran.me/depictions/darkerdarkmode.html
+Name: OLED Dark Mode
+
+Package: me.gmoran.darkerdarkmode
+Version: 0.3-1
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran (@fr0st)
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/me.gmoran.darkerdarkmode_0.3-1_iphoneos-arm.deb
+Size: 5664
+MD5sum: dc5e3cb276b6f90388ad9c0eda3df4c9
+SHA1: f7f7a0587e43471dfbc30b55f1914eed57c09eab
+SHA256: 22f0e1ed6974c39a112f4727a2461e164e989e533be8705f37659a1f649af6d0
+Section: Tweaks
+Description: Make iOS 13's OLED-Friendly
+Author: Guillermo Moran (@fr0st)
+Depiction: http://gmoran.me/depictions/darkerdarkmode.html
+Name: OLED Dark Mode
+
+Package: me.gmoran.eclipse.nocturnal
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 164
+Depends: mobilesubstrate, com.opa334.ccsupport, me.gmoran.eclipse12
+Filename: ./debs/me.gmoran.eclipse.nocturnal_1.2_iphoneos-arm.deb
+Size: 21580
+MD5sum: ffbe1738e2c9572d499a6745bb5a6138
+SHA1: 859aa9037ac04c3b3e3ca2c3406a1825569f5aad
+SHA256: fcc25b25d48b4b35565faedb836065757f2f7bb2fde8ec4ca522633cf26ed8bd
+Section: Control Center (Modules)
+Description: Control Center Module for Eclipse!
+Author: Samg_is_a_Ninja
+Name: nocturnal
+
+Package: me.gmoran.fiveicondockxi
+Version: 0.0.1-20
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.gmoran.fiveicondockxi_0.0.1-20_iphoneos-arm.deb
+Size: 2560
+MD5sum: 44167107191191eb1432781917787540
+SHA1: 6e4c9dee46a2e2d978b97808e067a56c47ae06e5
+SHA256: b76c02b9854e0e5c40244bcdd4118dd31eae8d104ce9140c72499a691495c300
+Section: Tweaks
+Description: Five icon dock for iOS 11.
+Author: Guillermo Moran
+Name: FiveIconDockXI
+
+Package: me.gmoran.fiveicondockxi
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.gmoran.fiveicondockxi_0.0.2_iphoneos-arm.deb
+Size: 3280
+MD5sum: 08f941b10d564f70da94a4680ca8a507
+SHA1: 463a4ded58484dbbc0b39a85673c3884e871d7b0
+SHA256: b24c659fbdc95c230ecda93c2eacab67af427be754ad86af59e34ef7d980ee32
+Section: Tweaks
+Description: Five icon dock for iOS 11.
+Author: Guillermo Moran
+Name: FiveIconDockXI
+
+Package: me.gmoran.fiveicondockxi
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.gmoran.fiveicondockxi_0.0.3_iphoneos-arm.deb
+Size: 3276
+MD5sum: 1e120f7628b1435e9f79291c4889f3fe
+SHA1: 6745ef2ac746895a1b6f8d63f78d64fc424a6de4
+SHA256: c330ea51c70dc7fa5059f34c7526be7c7dfa57380f5c59ccc97bd76b597688ab
+Section: Tweaks
+Description: Five icon dock for iOS 11.
+Author: Guillermo Moran
+Name: FiveIconDockXI
+
+Package: me.gmoran.fiveicondockxi
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.gmoran.fiveicondockxi_0.0.4_iphoneos-arm.deb
+Size: 2954
+MD5sum: ca0a63fc44833ff81c0f3cace48635e0
+SHA1: a7e2392f44787c77b07458c347f2ca0edaa05d4f
+SHA256: 9ae25b701c36f8920298726e807408aba23c0e5bf4b948cdf0a6921e40154511
+Section: Tweaks
+Description: Five icon dock for iOS 11 AND 12!
+Author: Guillermo Moran
+Name: FiveIconDockXI
+
+Package: me.gmoran.fiveicondockxi
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.gmoran.fiveicondockxi_0.0.5_iphoneos-arm.deb
+Size: 2920
+MD5sum: 203346faf07b9de733758835fd2810af
+SHA1: c5e312d16e688eaf217b7fdc5610337065627fd8
+SHA256: 89e2f010bf78ed3124ccdf711a1d80cba106f5f47c54969d1f3d22a48fe9ccf8
+Section: Tweaks
+Description: Five icon dock for iOS 11 AND 12!
+Author: Guillermo Moran
+Name: FiveIconDockXI
+
+Package: me.gmoran.notchbegone
+Version: 0.0.1-81
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.gmoran.notchbegone_0.0.1-81_iphoneos-arm.deb
+Size: 4160
+MD5sum: 0749ebd24b906b5bcb6bb88285888844
+SHA1: daaaff6ada130803aac5c225e0dcfc6d9c54c57b
+SHA256: 9c44ca752bf68aef42d79f63edf6f6f1d504f501bd3139a6254f17b9282ee8e4
+Section: Tweaks
+Description: Remove the notch on the iPhone X!
+Author: Guillermo Moran
+Name: NotchBeGone Beta
+

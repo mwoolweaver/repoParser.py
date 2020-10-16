@@ -1,0 +1,68 @@
+Package: com.iosdesigner.AureliaOS
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/AureliaOS.deb
+Size: 9311694
+MD5sum: 03840c2a1632e85c45d25281857c13d3
+SHA1: 0792ac809c127ebcb206203797e07ef945a7d331
+SHA256: dc553481b7dec944bbb5de892ef631d4ee8dba15588aa9bf85e0e2305be82abd
+Section: Themes
+Description: A Theme with beautiful icons
+Author: iOSDesigner
+Depiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.AureliaOS
+Moderndepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.AureliaOS
+Name: AureliaOS
+Sileodepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.AureliaOS
+
+Package: com.iosdesigner.RainbowV2
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/Rainbowv2.deb
+Size: 3952776
+MD5sum: 7d48f1cdcd5380d793f6395678ebc4fc
+SHA1: 9dd032d0e6a37c66e248d77bdba4072465e5f27e
+SHA256: ea6f51bd5ff80048aca169183eebca01a0ac3e311db8e6e9c0844cd84fe55015
+Section: Themes
+Description: Rainbow V2
+Author: iOSDesigner
+Depiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.RainbowV2
+Moderndepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.RainbowV2
+Name: Rainbow V2
+Sileodepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.RainbowV2
+
+Package: com.iosdesigner.libertev2
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/Libertev2.deb
+Size: 12675360
+MD5sum: 813c573d94ad2eaea7e888bcf5486e76
+SHA1: 1c8d3fdc2b3476c11074435bdfceea0208316fb5
+SHA256: 06d36de9c2ed1c7dd4ef3a56b74bbbf43cb01bb3900c21d5aa4028756c6af332
+Section: Themes
+Description: Liberte V2
+Author: iOSDesigner
+Depiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.libertev2
+Moderndepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.libertev2
+Name: Liberte V2
+Sileodepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.libertev2
+
+Package: com.iosdesigner.minimalios11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/minimalios11.deb
+Size: 8946210
+MD5sum: fa91d25504a2e1c89e0aa20e0da8d951
+SHA1: 129c2245a40e85574589a63b553443e6679beed1
+SHA256: e499b8f67db56947aa622d5671ab6b2b63ec88479955d2c16ed00aec03a88074
+Section: Themes
+Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS13. We've added 100 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS13 now has over 600  icons including two alternative icons (Appstore and iTunes Store).
+Author: iOSDesigner
+Depiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.minimalios11
+Moderndepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.minimalios11
+Name: minimal.ios13
+Sileodepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.minimalios11
+

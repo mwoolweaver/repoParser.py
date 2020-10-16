@@ -1,0 +1,130 @@
+Package: beta.hende.elements
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.anemonetheming.anemone
+Filename: debs/Elements.deb
+Size: 798286
+MD5sum: d355f5108ec5ba405363a918b0479920
+SHA1: 4e38b35e0daaf5874c963d4e7fc2529e8a2bc404
+SHA256: 52f3706db3711a198d3fc9da6cc50d4de190ef1d8552fb29cf6e0ac26cf8a7c7
+Section: Themes
+Homepage: https://hende101.github.io/repo
+Description: A theme based on the periodic table.
+Author: Hende <https://williamhenderson.co.uk>
+Name: Elements-beta
+Depiction: https://hende101.github.io/repo/depictions/?p=Elements
+
+Package: beta.hende.handtap
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.anemonetheming.anemone
+Filename: debs/Handtap.deb
+Size: 533332 
+MD5sum: 15929014658b07555a49f675e968e1a3
+SHA1: 61a93a7bde4ef51cd496bd48db549eb23d708e89
+SHA256: cdb4bc951c61bc61d6bf4d44773e714fc5f932513d84f57e6771bbd0850cb0a1
+Section: Themes
+Homepage: https://hende101.github.io/repo
+Description: A theme for your respring
+Author: Hende <https://williamhenderson.co.uk>
+Name: Handtap-beta
+
+Package: beta.hende.megapack
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.anemonetheming.anemone
+Filename: debs/Megapackbeta.deb
+Size: 1424138
+MD5sum: 01e4e98209b63e766ca97e131ca43691
+SHA1: 600bd84cd20bdf4fb2f09c17810f5b4faf94da02
+SHA256: b166ad2873f459bcb1c6a7ef52ddc481b243b73f1da36d2f34f0529dbfc38a50
+Section: Themes
+Homepage: https://hende101.github.io/repo
+Description: A theme for your respring
+Author: Hende <https://williamhenderson.co.uk>
+Name: Mega pack-beta
+
+Package: nixie.hende.beta
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.matchstic.xenhtml
+Filename: debs/NixieClockBeta.deb
+Size: 68136 
+MD5sum: c218abc4274537f2fabbeb206fd4d5cd
+SHA1: 1adfdeb955b2bc0b1ddc543bb68fcbca3fe76d13
+SHA256: 95835ea85f7f3cc8340903717e051e3ad12f4c14fb400f0939c049009dc92fe7
+Section: Widgets
+Homepage: https://hende101.github.io/repo
+Description: Nixie Clock for Xen HTML BETA 
+Author: Hende <https://williamhenderson.co.uk>
+Name: Nixie Clock-BETA
+
+Package: respring.hende.razerlogo
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.anemonetheming.anemone
+Conflicts: com.wizages.bae
+Filename: debs/RazerLogoPack.deb
+Size: 301244 
+MD5sum: 6dcd190cfa0ff54abab77266fbc77e1d
+SHA1: 04b40070bd6a5653ee96d94bb77c87b41bf8dec1
+SHA256: 1e9b4fb2c8f44340b25e07980fd4d508219dd34d95e1b9496c7575f8498dd503
+Section: Themes
+Homepage: https://hende101.github.io/repo
+Description: A cool razer logo respring theme
+Author: Hende <https://williamhenderson.co.uk>
+Name: Razer Logo Respring Pack-BETA
+
+Package: respring.hende.simpsons
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.anemonetheming.anemone
+Conflicts: com.wizages.bae
+Filename: debs/TheSimpsonsPack.deb
+Size: 5479066 
+MD5sum: 6d1d39df8e7c6bdcbc3a1b9e3614d0d9
+SHA1: b51786c53b976bd2f412bfce04998fed55e9f68a
+SHA256: d6a6ecf9fa3ec920df7eb6840a4dbc6ad262a0030d631b53b1ac37c788b27914
+Section: Themes
+Homepage: https://hende101.github.io/repo
+Description: Variaty of simpsons related respring animations
+Author: Hende <https://williamhenderson.co.uk>
+Name: Simpsons Respring animations
+
+Package: clean.hende.widget
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.matchstic.xenhtml
+Filename: debs/Analog_Clock.deb
+Size: 2248 
+MD5sum: 760910072b534aac665b2124711297b8
+SHA1: 0a5291d3ff5a243ce3c46fffadff575404838900
+SHA256: 29314950b291fafcd762b8e1eca0e38e14ea984c0bc43a58430356065dad8b2d
+Section: Widgets
+Homepage: https://hende101.github.io/repo
+Description: Clean analog clock for XenHTML
+Author: Hende <https://williamhenderson.co.uk>
+Name: Clean Analog Clock
+
+Package: BO4B.hende.zeppelin
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Hende
+Depends: com.alexzielenski.zeppelin
+Filename: debs/BO4.deb
+Size: 21880  
+MD5sum: 975b0c1e9def5c47e196df3058d90c8e
+SHA1: f14f40c065f669d2286be38381340a6e5d5a3e7e
+SHA256: afedbcc8e6c1d255ffcd0bf2a4e3e334fc5a5917097c8f4fc6bcad5f299fec8f
+Section: Zeppelin
+Homepage: https://hende101.github.io/repo
+Description: Black Ops 4 logo for Zeppelin
+Author: Hende <https://williamhenderson.co.uk>
+Name: Black Ops 4 Zeppelin

@@ -1,0 +1,100 @@
+Package: com.thenatis.Fayde
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: thenatis <wbraffman@gmail.com>
+Depends: firmware (>=7), com.anemonetheming.anemone
+Filename: ./pkg/com.thenatis.Fayde.deb
+Size: 2694646
+MD5sum: fd56a354701d976c6e299d5f0e8b0a8c
+SHA1: 57fd1c8f5024ec60bbc1507f9aa5a4e633dfb56a
+SHA256: bfc47e04a2a0f4c826818f978bfd8722afac6951ab2dd4bdcfed033d705c462f
+Section: Themes
+Homepage: https://wbraffman.github.io/repo
+Description: A Fading iOS Theme!!
+Author: thenatis <wbraffman@gmail.com>
+Depiction: https://wbraffman.github.io/repo/depiction/web/com.thenatis.Fayde.html
+Icon: https://wbraffman.github.io/repo/assets/com.thenatis.Fayde/icon.png
+Moderndepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.Fayde.json
+Name: Fayde
+Sileodepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.Fayde.json
+
+Package: com.thenatis.FaydeDark
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: thenatis <wbraffman@gmail.com>
+Depends: firmware (>=7), com.anemonetheming.anemone
+Filename: ./pkg/com.thenatis.FaydeDark.deb
+Size: 2503428
+MD5sum: c51ebaa97af3ea11f7bb33598979d6e6
+SHA1: 46f9baf6343a2ded560b2e78dd3ecc73a9e64544
+SHA256: c7821bbfad4f3e2a15bc42f04eea9da48657aff49dce8b78e13fbc980e1f278b
+Section: Themes
+Homepage: https://wbraffman.github.io/repo
+Description: Dark icons for Fayde
+Author: thenatis <wbraffman@gmail.com>
+Depiction: https://wbraffman.github.io/repo/depiction/web/com.thenatis.FaydeDark.html
+Icon: https://wbraffman.github.io/repo/assets/com.thenatis.FaydeDark/icon.png
+Moderndepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.FaydeDark.json
+Name: Fayde Dark
+Sileodepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.FaydeDark.json
+
+Package: com.thenatis.FaydeWhite
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: thenatis <wbraffman@gmail.com>
+Depends: firmware (>=7), com.anemonetheming.anemone
+Filename: ./pkg/com.thenatis.FaydeWhite.deb
+Size: 2768972
+MD5sum: 0c7b473318f4be5a9088341655b5bb0f
+SHA1: 2de93a47b34ff8ec1cb38585a2cb87019185dcf8
+SHA256: 6e69b8acdcf798010816cf4573c3b6ed22872c50e477469ba84914818feffe96
+Section: Themes
+Homepage: https://wbraffman.github.io/repo
+Description: White Icons for Fayde
+Author: thenatis <wbraffman@gmail.com>
+Depiction: https://wbraffman.github.io/repo/depiction/web/com.thenatis.FaydeWhite.html
+Icon: https://wbraffman.github.io/repo/assets/com.thenatis.FaydeWhite/icon.png
+Moderndepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.FaydeWhite.json
+Name: Fayde White
+Sileodepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.FaydeWhite.json
+
+Package: com.thenatis.harmony
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: thenatis <wbraffman@gmail.com>
+Depends: firmware (>=7)
+Filename: ./pkg/com.thenatis.harmony.deb
+Size: 845500
+MD5sum: 7a38cbf9ae573ac4d09702d85b746b46
+SHA1: 564241546caf51857e175b72d6b38220c6ecf684
+SHA256: 3babd2e84340e4b31a7af4327c2538eb46dc84df1e555196ae27306499ec0520
+Section: Themes
+Homepage: https://wbraffman.github.io/repo
+Description: An iOS theme living in Harmony
+Author: thenatis <wbraffman@gmail.com>
+Depiction: https://wbraffman.github.io/repo/depiction/web/com.thenatis.harmony.html
+Icon: https://wbraffman.github.io/repo/assets/com.thenatis.harmony/icon.png
+Moderndepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.harmony.json
+Name: Harmony
+Sileodepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.harmony.json
+
+Package: com.willbraff.historyofios
+Version: 1.9.1
+Architecture: iphoneos-arm
+Maintainer: thenatis <wbraffman@gmail.com>
+Depends: firmware (>=7)
+Filename: ./pkg/com.willbraff.historyofios.deb
+Size: 39057500
+MD5sum: 432f3d4c5e37e2bbf15c24871fcd9bf3
+SHA1: aae54a635be137c38c0883aabffd31c6738a023b
+SHA256: 8b1fd9812cf49d943347143d3700e79127b2f17c673345f4635f9793cd326446
+Section: Themes
+Homepage: https://shuga.co/
+Description: A Theme that resembles all iOS Versions for iOS 7-12
+Author: thenatis <wbraffman@gmail.com>
+Depiction: https://wbraffman.github.io/repo/depiction/web/com.willbraff.historyofios.html
+Icon: https://wbraffman.github.io/repo/assets/com.willbraff.historyofios/icon.png
+Moderndepiction: https://wbraffman.github.io/repo/depiction/native/com.willbraff.historyofios.json
+Name: History Of iOS
+Sileodepiction: https://wbraffman.github.io/repo/depiction/native/com.willbraff.historyofios.json
+

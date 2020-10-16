@@ -1,0 +1,16 @@
+Package: com.maskman.com
+Version: 0.13.0
+Architecture: iphoneos-arm
+Installed-Size: 2340
+Depends: mobilesubstrate
+Filename: ./debs/pubg013_vip.deb
+Size: 1087734
+MD5sum: c064d979ea865a5ba7521efb0c9e8d6f
+SHA1: bc4df05d1d35402cbdf1e16f9c4af7d66bc01eb9
+SHA256: 858e9c267e90e61884e05f90dcc50dbe0fcacd8949b12ca4b1f1ef6ca58931b0
+Section: Tweaks
+Homepage: https://www.iosmods.com
+Description: PUBG Mobile hack from iOSMods.com!
+Author: MaskMan
+Name: Pubg_vip
+

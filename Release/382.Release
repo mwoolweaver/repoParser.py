@@ -1,0 +1,8 @@
+Origin: Maxwell Dausch's Repo
+Label: Maxwell Dausch's Repository
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Maxwell Dausch's Repo

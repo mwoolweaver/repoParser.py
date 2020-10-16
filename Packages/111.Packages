@@ -1,0 +1,531 @@
+Package: com.carloztech.venezuelaflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /VenezuelaFlag.deb
+Size: 18810
+MD5sum: c78314474b5c0e70609b06ecce638152
+SHA1: 5a94c7fc3510c18d30b33a3bf97cefc20dec84b0
+SHA256: b48e6c0b66cd01184d29e957fabb7328b761b0a9d6418199b73382548b200240
+Section: Addons
+Description: This is a beautiful Venezuela flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: VenezuelaFlag
+
+Package: com.carloztech.belgiumflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /BelgiumFlag.deb
+Size: 9326
+MD5sum: 826cb91541e79e1c58b15c17f5b3c07d
+SHA1: dce0d31f9152ad0a9d55474d00c891946ba30999
+SHA256: af33f301de1e8b8cd6ac5e9e228958d0ce6b2e7ae1e36a24d843140018e227de
+Section: Addons
+Description: This is a beautiful Belgium flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: BelgiumFlag
+
+Package: com.carloztech.chileflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /ChileFlag.deb
+Size: 10378
+MD5sum: 517dac684cb1b11903e57b761032fbcf
+SHA1: d253ed478339be3f6aebd66caaa8a7b602f3f79d
+SHA256: d5eb867891616ef6a6c9b855929650175c7e3a307c201b921aaccdc1d22fafb9
+Section: Addons
+Description: This is a beautiful Chile flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: ChileFlag
+
+Package: com.carloztech.colombiaflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /ColombiaFlag.deb
+Size: 21004
+MD5sum: 7815aa4016df41c458c188f0725d474e
+SHA1: 3c715639f301a37c94a329688ce1ac116268342e
+SHA256: a389db2da82a6d2d0fb13f410ce14a44378f4cc3a2fb02a0a49843116419a57f
+Section: Addons
+Description: This is a beautiful Colombia flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: ColombiaFlag
+
+Package: com.carloztech.costaricaflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /CostaRicaFlag.deb
+Size: 16576
+MD5sum: bc92f26578cbc25c5172e0ff934b68e5
+SHA1: c6a75e1c38f2f0d53fbdd1dbf4757729dfd826d6
+SHA256: 6828e65eedfc12b5dd7eb86bab8189f45a01e7b309a9f9c9a1841575f6f9c821
+Section: Addons
+Description: This is a beautiful Costa Rica flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: CostaRicaFlag
+
+Package: com.carloztech.elsalvadorflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /ElSalvadorFlag.deb
+Size: 11698
+MD5sum: 7c93e1a7d80468c409e56f555461af47
+SHA1: 3e34ecfc590d072bf1350c754a9d2d14c3791fea
+SHA256: 24278e846f7d6f750894ba48fdd4ee896e58882d5f6fc393fbccade778e539cc
+Section: Addons
+Description: This is a beautiful El Salvador flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: ElSalvadorFlag
+
+Package: com.carloztech.guatemalaflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /GuatemalaFlag.deb
+Size: 10732
+MD5sum: 2c5a3d3bbb671d06dd1afbc5b1d5c96c
+SHA1: 7d06445062f4352a7164751abd14fc034f53a55c
+SHA256: dfbfa8d81018f897dd87f5ebb3bad352d5ebee6a73be9b31003952f1998e9dad
+Section: Addons
+Description: This is a beautiful Guatemala flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: GuatemalaFlag
+
+Package: com.carloztech.hondurasflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /HondurasFlag.deb
+Size: 12076
+MD5sum: 55a7617c99a18b66a5ed8171c2ef9183
+SHA1: 9034aa3f2da86b3ef7576058a07b96ecb3f703dc
+SHA256: 7fe88fbbbb51a55c423b4df0403792d3caf3e9310f1b4f1f8930028541a1a6ef
+Section: Addons
+Description: This is a beautiful Honduras flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: HondurasFlag
+
+Package: com.carloztech.northkoreaflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /NorthKoreaFlag.deb
+Size: 13772
+MD5sum: 1246d444cee9cc5c28c1870111bc66b2
+SHA1: e62002c611f33b6d96d64aee39f272bb1106ff95
+SHA256: 2e2e9a003717ecb38200d52a5aebc3c1f9ecd85382111e8b8df817f5f67d0fb6
+Section: Addons
+Description: This is a beautiful North Korea flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: NorthKoreaFlag
+
+Package: com.carloztech.spainflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /SpainFlag.deb
+Size: 12318
+MD5sum: 88820f0ff74f7c93c5b1039e526f18c3
+SHA1: e7e4d5ace83e4329a8429f7c53ee5af4221fc5f9
+SHA256: 0404388bd46dc25d8ef054728f77ddb5af390d86a7671dfc165e9b7fe05bda6c
+Section: Addons
+Description: This is a beautiful Spain flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: SpainFlag
+
+Package: com.carloztech.usaflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /UsaFlag.deb
+Size: 15514
+MD5sum: 2e8cde23483a1bea62049ec468376133
+SHA1: 1a7813db13aef966e01ddf95166b15f54ff12ead
+SHA256: fb220d21924b147b3c1849ee7bc2cc2d53186012becc0609307d577727405aeb
+Section: Addons
+Description: This is a beautiful USA flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: UsaFlag
+
+Package: com.carloztech.mexicoflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /MexicoFlag.deb
+Size: 12698
+MD5sum: 6fa02931ba8453f00a87f3eefb55907f
+SHA1: 4f3325a820cb0d94bab4ddc28af39f888a2513ea
+SHA256: 5b21fada53aedaf0544d7b6e5aecd6b60291a9e99ecb98c68e269c351b5e4977
+Section: Addons
+Description: This is a beautiful Mexico flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: MexicoFlag
+
+Package: com.carloztech.ecuadorflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /EcuadorFlag.deb
+Size: 15678
+MD5sum: 071d4a8e97b80f4344f534d8aa50bb75
+SHA1: d5467981dbedfd7c107046ffbe3226f0fa33ce87
+SHA256: 3161c46f827721e33d849e8c68885e196126838cb3afd8ba49243f7658d0de5e
+Section: Addons
+Description: This is a beautiful Ecuador flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: EcuadorFlag
+
+Package: com.carloztech.nicaraguaflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /NicaraguaFlag.deb
+Size: 10228
+MD5sum: 8146bbfa3d818029aadd0c4022115a96
+SHA1: 929dc221f4014a2f78c84e1a67c01d3ed78a4d35
+SHA256: 0f93375fd601d609d6df2f03d5967287d8283f4d15699fd46224fa46e779deb1
+Section: Addons
+Description: This is a beautiful Nicaragua flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: NicaraguaFlag
+
+Package: com.carloztech.CRforopennotifier
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /CRforopennotifier.deb
+Size: 16986 
+MD5sum: 69b63d1f6b168bec996ba8bb1fc5c4b2
+SHA1: 38b98803f7115fc3bd66ca4eac6e7b67af30e71c
+SHA256: bb93c5ffd59ce531f8b699ebf2ec026bcfc4c0405fe6ada2fc3f257a44eaa033
+Section: System
+Description: This is an awesone Clash Royale icon Pack for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: CR For OpenNotifier
+
+Package: com.carloztech.igforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /IGforopennotifier.deb
+Size: 3558 
+MD5sum: 74459ecc0ef547115ee43ca0a3a01cf4
+SHA1: 02038285bb80b59d5be52ef937a724e4e5569502
+SHA256: 0b7e164a7e5292cfd6cb3f9ecd2852f2047c29b49aa4aebd9e4908eed2c58d28
+Section: System
+Description: This is the newest instagram icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: IG For OpenNotifier
+
+Package: com.carloztech.appstoreforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /AppStoreforopennotifier.deb
+Size: 2622 
+MD5sum: e40f630137d8a7a7fb27078033b3ad3e
+SHA1: b0c3b4e6f38c5032ca2790d6a2305b58a716239a
+SHA256: 49e4e48fb57dd76262fbd0bee788e5dfb22fe4a2a34683b77f07f23d757a7bb8
+Section: System
+Description: This is the newest App Store icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: App Store For OpenNotifier
+
+Package: com.carloztech.cydiaforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Cydiaforopennotifier.deb
+Size: 3350 
+MD5sum: 70fd8cd91eca9370b34c5b4e8b957514
+SHA1: 0174a2316298e24c4520f5e8a99775ab7555d271
+SHA256: 3062d01b82f11fd51701fda15be1c1356424c950a6ae75beb682e17abc3852d1
+Section: System
+Description: This is the newest Cydia icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Cydia For OpenNotifier
+
+Package: com.carloztech.duolingoforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Duolingoforopennotifier.deb
+Size: 2748 
+MD5sum: 969de28b1c51651b2949a0ef71b8b798
+SHA1: 40eeb0248ef6e74b3117588791b7fa8ef9a31c18
+SHA256: f643fab5d6e8838abedc76916ca300a1b159235d750ad1df5572117a0b82fc06
+Section: System
+Description: This is the newest Duolingo icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Duolingo For OpenNotifier
+
+Package: com.carloztech.fbforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Facebookforopennotifier.deb
+Size: 2360 
+MD5sum: e73f4a5dab5942ff7113f5475df4ef0d
+SHA1: 2d4d1f4f1ce8f20ee5cf2adce929dc74d41829a6
+SHA256: 4247100bd46274584c13d95a704f3a69036865987d95238ba237058c7ef52c2e
+Section: System
+Description: This is the newest Facebook icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Facebook For OpenNotifier
+
+Package: com.carloztech.paypalforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Paypalforopennotifier.deb
+Size: 2536 
+MD5sum: 204e604abb6503fb1b54ea63250e2b3a
+SHA1: 718a9bf9c6baccba233386577b13b85520c5f5bf 
+SHA256: 8c0e605f9e073813511d77940acad8c07271dfa00b350a594be919ffa8093a87
+Section: System
+Description: This is the newest Paypal icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Paypal For OpenNotifier
+
+Package: com.carloztech.skypeforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Skypeforopennotifier.deb
+Size: 2682 
+MD5sum: 8a7676a7b274a492ea64db5fa0e5f0d6
+SHA1: 1f498d558f89920daf075620b8b3fb2ebc3abfc5 
+SHA256: d709b8c8c5f7c20e9193e824aa87c133e8187c659dfe62a71c0617e81281e78c
+Section: System
+Description: This is the newest Skype icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Skype For OpenNotifier
+
+Package: com.carloztech.tweetbotforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Tweetbotforopennotifier.deb
+Size: 2806 
+MD5sum: 717420e70377d4d655f2d41510375b2f
+SHA1: 3a7b6b9f57b0675bbd2c4cc7cba42b11545c0acd 
+SHA256: d6161d64d213282667eebc73995b1a46ae350811c7d7cd931c5a762d1341ebb1
+Section: System
+Description: This is the newest Tweetbot icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Tweetbot For OpenNotifier
+
+Package: com.carloztech.whatsappforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Whatsappforopennotifier.deb
+Size: 2940 
+MD5sum: 07cc3c58017f127d821c716d0dfa6493
+SHA1: cde635fc26e87f34dd2b706f654a0cb227c25ef3 
+SHA256: 7483f681f26e845089dbc8e4e2cd25177f0c1d838f0bbfcc03fb265a62cef076
+Section: System
+Description: This is the newest Whatsapp icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Whatsapp For OpenNotifier
+
+Package: com.carloztech.dominicanflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /DominicanFlag.deb
+Size: 10948
+MD5sum: 9296a8a9c33d321dff1c2fa6c1873068
+SHA1: 8adebd1d6b41c21aca3f44e5e3d65c5f02a0a5ab
+SHA256: ca2c12d5b2d7497825eb06ad328e968771342364344a4aac4df4e523b3737820
+Section: Addons
+Description: This is a beautiful Dominican flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: DominicanFlag
+
+Package: com.carloztech.chileflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /ChileFlag.deb
+Size: 7356
+MD5sum: 25fe7c10f0229864456a04738a69cfac
+SHA1: 4b8af1a343593e6c217c0c3fcdb616708e96e48f
+SHA256: 30bc29921e647fa2e111b9d64f1b6ed83339f3b367aaba5c8bccd6e55d24082d
+Section: Addons
+Description: This is a beautiful Chile icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: ChileFlag
+
+Package: com.carloztech.lavinotintoflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /LaVinotinto.deb
+Size: 5970
+MD5sum: ee088deab0010eb5b7933ef1591e6e97
+SHA1: b06e53702a2d6fd51f0b3f1e9dded9439d717daa
+SHA256: 295a390e5b2b7d0ef00b0fe8d7f976f4bf63aefe55253026ea5b51a00071f1ce
+Section: Addons
+Description: This is a beautiful La Vinotinto icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: LaVinotinto
+
+Package: com.carloztech.mariokartourbypass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /MarioKarTourBypass.deb
+Size: 1037154
+MD5sum: 8f269b6d0f4b8632d8b820d85c0162ab
+SHA1: e6759b82cf0d90292b54c360e464efb45c49589f
+SHA256: 50fefd50019b6eb690b54a62b767f1cbd74ecbe962650768883424f865a077c2
+Section: Tweaks
+Description: Mario Kart Tour Bypass by 0xsubz3r0 for Jailbroken devices
+Author: 0xsubz3r0 <repo@carloztech.io>
+Name: MarioKarTourBypass
+
+Package: com.carloztech.NLM
+Version: 1.1b
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /NeverLowerMus1c.deb
+Size: 1942
+MD5sum: ab716835fdbd7f9357de01ae47b9005d
+SHA1: 4b83dabb333e074ce95b110adb40543e838e3adf
+SHA256: 516ccb6ba9e179777f1f58469ae409a6578a57725cecf3d5fa8cd91ff7b726f6
+Section: Tweaks
+Description: Do not let any incoming notification interrupt/lower your music. Buy me a beer, PayPal:tutorialeselmago@gmail.com
+Author: Rishanan <repo@carloztech.io>
+Name: NeverLowerMus1c
+
+Package: com.carloztech.cylinder
+Version: 1.0.7b2
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /CylinderA12.deb
+Size: 503390
+MD5sum: 2230be634c6d5be9c690a358114f07c4
+SHA1: 2fa0f4ed984c0b557e2671c14d75bde39af00cee
+SHA256: ddb44f919fcf551b1c597ca6de03ab3de2fb72c902e0a0b49b80b1644203a2e8
+Section: Tweaks
+Description: Make your icons dance
+Author: Reed Weichler <rweichler@gmail.com>
+Name: Cylinder
+
+Package: com.carloztech.cask
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Cask.deb
+Size: 10942
+MD5sum: 51f16c43f0c7b0d21504dd670d1828c9
+SHA1: 384a694efe013dc3bb3815da1a7b308e7c4c275b
+SHA256: e94077e75059d1d477a933ca05bd3d4e4a915ec546e24e661f5338e0208e5590
+Section: Tweaks
+Description: Animated table scrolling inspired by Google Plus
+Author: Ryan Petrich <rpetrich@gmail.com>
+Name: Cask
+
+Package: com.carloztech.appstorexi
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /AppStoreXI.deb
+Size: 1638588
+MD5sum: deba551649151b82138e72eec9317473
+SHA1: 43000bdd1764803de0d7d42f5356068285bb6894
+SHA256: ac36e4686f8750498d6a03cf4122cc8ace9dbbe145efafb5c3d78352ba44974d
+Section: Tweaks
+Description: AppStore XI was created to make the downgrades and upgrades of the applications they want. When you are in the AppStore on the application page you want to downgrade / upgrade simply press the (Get) button fo 3 seconds.
+Author: AppWeleux Team <appweuleux@gmail.com>
+Name: AppStoreXI
+
+Package: com.carloztech.appstoreplusplus
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /AppStore++.deb
+Size: 1638498
+MD5sum: 69cc0e7ec58653923dc770689d3bc0a9
+SHA1: 14c99b27e8f0f394e82710c399bb3cba57c4a42a
+SHA256: 67754f54fe92a46d5a592c0468292330317e74274fe0f4547d2f967c1f53c349
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore
+Author: CokePokes <tutorialeselmago@gmail.com>
+Name: AppStore++
+
+Package: com.carloztech.pikabulite
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /PikabuLite.deb
+Size: 230960
+MD5sum: 5517641c33a21c9d84a6d6f0b1b83c1e
+SHA1: bbff925dd70fd53def9316e39e66083b8dbb220c
+SHA256: ac7be3444997f784fe554bcbfe105b23fee9b8723d607d4770850c15f12f7ea8
+Section: Tweaks
+Description: Minimalistic volume hud on the notch.
+Author: Jeffrey Chan <tutorialeselmago@gmail.com>
+Name: Pikabu Lite
+
+Package: org.carloztech.libswift
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Libswift.deb
+Size: 73753990
+MD5sum: ec566762216c8de5405a82e76bbff48e
+SHA1: 76a64b2f450fd43612ce93941e33b13935d1f3b9
+SHA256: a8a3c0dc1f4f226bd2e60f8c6c173ecd08629cd083f50a66f059058abbb812ef
+Section: Development
+Description: Swift runtime for iOS
+Author: Kabir Oberai <tutorialeselmago@gmail.com>
+Name: libswift
+
+Package: com.carloztech.kalm
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Kalm.deb
+Size: 312916
+MD5sum: b4159da33841020006c63d3ecf8ac120
+SHA1: 23d2d646a5a2226d17fec6b64c26614b69702e54
+SHA256: c64fdc69809cd5507681f498c9c59d3665980c813b849e43665f8344cc4d5e42
+Section: Tweaks
+Description: A beautiful first sight.
+Author: ubik <tutorialeselmago@gmail.com>
+Name: Kalm
+
+Package: com.carloztech.xenhtml
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Xenhtml.deb
+Size: 2910364
+MD5sum: 290c266ad0cc5be715ca027029f7e3dc
+SHA1: 70d14eb7f966dd45a805bf575e3857c3f577fe33
+SHA256: 2b493e67ed0ec59a1d13e11b956d4244ae041c51b2d90c2f3326abc835c31af7
+Section: Sistema
+Description: Unified HTML widgets; lockscreen and homescreen
+Author: Matt Clarke <tutorialeselmago@gmail.com>
+Name: Xen HTML
+
+Package: com.carloztech.versedbeta1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Versed.deb
+Size: 9503630
+MD5sum: f57832adcae3b2f89e160eb8aadcf23e
+SHA1: 73e922418d4ef809d087b9951a12ff994a001f2f
+SHA256: 129ffb8b4f14eb886283e1b2cf5716770e00fc467e3ad71df05ee2c5af5fce6c
+Section: Temas
+Description: Widgets de música y tiempo estilo iOS 14
+Author: Ing. Jeffrey Umanzor <tuorialeselmago@gmail.com>
+Name: Versed Beta 1

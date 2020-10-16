@@ -1,0 +1,9 @@
+Origin: Secura Repo
+Label: Secura Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Components: main
+Description: Official Secura Repository Source
+Host-Software: Secura Repo
+Architectures: iphoneos-arm

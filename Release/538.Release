@@ -1,0 +1,9 @@
+Origin: Wynd
+Label: Wynd Beta
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: darwin-arm
+Components: main
+Description: Wynd beta repo
+

@@ -1,0 +1,14 @@
+Origin: ShadeZepheri Repo
+Label: Shade’s Repo
+Suite: stable
+Version: 1.0
+Codename: shaderepo
+Architectures: iphoneos-arm
+Components: main
+Description: Shade’s Cydia Repository
+MD5Sum:
+    c0730e7f3fcd3e21587bf3b03604a75d 63605 Packages
+    134bec976344e5e8607e8754b7549036 12167 Packages.bz2
+SHA256:
+    8ec9b400a4cccbc50ee2b4ee245f0390a3c40516c08a0de9bc58f603a0c52be8 63605 Packages
+    cb4c951569eb95c652ea2ee25caded8756474019ab1d057699c08c4c8dd0fa24 12167 Packages.bz2

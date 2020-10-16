@@ -1,0 +1,8 @@
+Origin: Cryptic's Repo
+Label: Cryptiiiic
+Suite: stable
+Version: 1.0.0
+Codename: iOS
+Architectures: iphoneos-arm
+Components: main
+Description: Repo for my various tools/tweaks/apps.

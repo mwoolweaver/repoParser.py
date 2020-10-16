@@ -1,0 +1,20 @@
+Origin: RBT Digital Beta
+
+Label: RBT Digital Beta
+
+Suite: stable
+
+Version: 1.0
+
+Codename: dslk
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: RBT Digital Beta repo contains testing versions.
+
+MD5Sum:
+703a5420689573b6b54adcd2e540dcfa 2600 Packages
+e5450437c5a87c5107b59a4202be0860 1282 Packages.gz
+1f4b6dee71ddf5a46f0bf363d21d7186 1360 Packages.bz2

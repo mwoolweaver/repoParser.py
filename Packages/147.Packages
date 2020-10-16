@@ -1,0 +1,132 @@
+Package: jjjj
+Name: jjjj
+Version: 0.1~alpha4.7.4
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), dpkg, bzip2, gzip, cydia, coreutils
+Section: Packaging
+Depiction: http://cydia.r333d.com/view/jjjj
+Description: Repo manager
+Author: r333d <rweichler+cydia@gmail.com>
+MD5sum: 89d28ec33f83275fea2f55410ebde7c7
+Size: 624680
+Filename: ./debs/jjjj.deb
+
+Package: com.r333d.zeppelin.red
+Name: Red
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.alexzielenski.zeppelin
+Description: Red from Pokémon (Zeppelin)
+Maintainer: Reed Weichler <rweichler+cydia@gmail.com>
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Section: Addons (Zeppelin)
+MD5sum: a905d222b06873b6390bc02e9ff6a0cb
+Size: 3812
+Filename: ./debs/red.zeppelin.deb
+
+Package: com.r333d.cylinder
+Name: Cylinder
+Version: 1.0.4-5
+Architecture: iphoneos-arm
+Depends: firmware (>= 3.0), mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Depiction: http://cydia.r333d.com/view/cylinder
+Description: Make your icons dance
+Homepage: http://github.com/rweichler/cylinder
+Maintainer: Reed Weichler <rweichler+cydia@gmail.com>
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Section: Tweaks
+Size: 330868
+MD5sum: 36ccf9eccde83b1a1dea0fba55299c68
+Filename: ./debs/CYLINDER.deb
+
+Package: luajit
+Name: LuaJIT
+Version: 2.1.0~beta3
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Description: the best JIT ever
+Maintainer: Reed Weichler <rweichler+cydia@gmail.com>
+Author: Mike Pall
+Section: Development
+Size: 924486
+MD5Sum: f321674b4b0d0cbe8741cde270c6785c
+Filename: ./debs/luajit.deb
+
+Package: com.r333d.lucy
+Name: Lucy
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: Reed Weichler <rweichler@gmail.com>
+Section: Development
+Depiction: http://github.com/rweichler/lucy
+Author: Reed Weichler
+Conflicts: com.luapower.objc, objcbeagle
+Depends: luajit, mobilesubstrate, com.rpetrich.rocketbootstrap, coreutils
+Description: Lua Cycript
+MD5sum: 6fd4564ea1488f799ef731fbb78253f3
+Size: 74424
+Filename: ./debs/lucy.deb
+
+Package: com.r333d.equalizereverywhere.1.5.7
+Name: OLD Eq (1.5.7)
+Version: 1.5.7
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.6011), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.3), dpkg
+Conflicts: com.r333d.equalizereverywhere, com.sull.equalizereverywhere, repo.biteyourapple.net.equalizereverywhere, com.hackyouriphone.equalizereverywhere, com.xar0ld.equalizereverywhere, com.r333d.equalizereverywhere.1.5.9
+Icon: file:///Library/PreferenceBundles/EqualizerEverywhereSettings.bundle/Icon@3x.png
+Depiction: http://cydia.r333d.com/view/eqe
+Description: Equalizer that applies to every app
+Homepage: http://twitter.com/rweichler
+Maintainer: r333d <rweichler+cydia+equalizer@gmail.com>
+Author: r333d <rweichler+cydia+equalizer@gmail.com>
+Tag: purpose::extension
+Section: Tweaks
+Size: 740568
+MD5sum: 39e11f2fefce069bb86e3c848a8ef606
+Filename: ./debs/EQE.1.5.7.deb
+
+Package: com.r333d.equalizereverywhere.1.5.9
+Name: OLD EQE (1.5.9)
+Version: 1.5.9
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.6011), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.3), dpkg
+Conflicts: com.r333d.equalizereverywhere, com.sull.equalizereverywhere, repo.biteyourapple.net.equalizereverywhere, com.hackyouriphone.equalizereverywhere, com.xar0ld.equalizereverywhere, com.r333d.equalizereverywhere.1.5.7
+Icon: file:///Library/PreferenceBundles/EqualizerEverywhereSettings.bundle/Icon@3x.png
+Depiction: http://cydia.r333d.com/view/eqe
+Description: Equalizer that applies to every app
+Homepage: http://twitter.com/rweichler
+Maintainer: r333d <rweichler+cydia+equalizer@gmail.com>
+Author: r333d <rweichler+cydia+equalizer@gmail.com>
+Tag: purpose::extension
+Section: Tweaks
+Size: 732736
+MD5sum: f04fda4ecc27cf384bd64e1c2b4c6895
+Filename: ./debs/EQE.1.5.9.deb
+
+Package: objcbeagle
+Name: Objective Beagle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reed Weichler <rweichler+cydia@gmail.com>
+Section: Development
+Depiction: https://github.com/rweichler/beagle.lua
+Description: Find Objective-C classes in a process
+Author: Richard Heard
+MD5sum: f21779d88c28743641fb0f28952e1c6f
+Size: 13960
+Filename: ./debs/objcbeagle.deb
+
+Package: com.luapower.objc
+Name: objc.lua
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Reed Weichler <rweichler+cydia@gmail.com>
+Section: Development
+Depiction: http://github.com/rweichler/objc.lua
+Description: LuaJIT Objective-C bindings
+Depends: luajit
+Author: Various Artists
+MD5sum: 50b8a6e1e658fe53c2a841f0d89706f1
+Size: 31724
+Filename: ./debs/objc.lua.deb

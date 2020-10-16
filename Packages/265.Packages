@@ -1,0 +1,61 @@
+Package: com.github.airketchplayz.rainbowccswitches
+Version: 1.1-b
+Architecture: iphoneos-arm
+Maintainer: Kodey Thomas + Yoshii
+Depends: firmware (>=5.0), ws.hbang.common
+Filename: ./pkg/com.github.airketchplayz.rainbowccswitches.deb
+Size: 105730
+MD5sum: b05c9a93d7feabe1dccc75c62f4e8f38
+SHA1: e2618c83a2e35479e8707743fe381933c42e23c2
+SHA256: 52214bc9be39155b420e2f1a8cbb70a814e79b1918543c3220881188d103bbc0
+Section: Tweaks
+Homepage: https://kodeycodesstuff.tech/repo
+Description: Turn The Toggles in the CC Rainbow
+Author: Kodey Thomas + Yoshii
+Depiction: https://kodeycodesstuff.tech/repo/depiction/web/com.github.airketchplayz.rainbowccswitches.html
+Icon: https://kodeycodesstuff.tech/repo/assets/com.github.airketchplayz.rainbowccswitches/icon.png
+Moderndepiction: https://kodeycodesstuff.tech/repo/depiction/native/com.github.airketchplayz.rainbowccswitches.json
+Name: RainbowCCSwitches
+Sileodepiction: https://kodeycodesstuff.tech/repo/depiction/native/com.github.airketchplayz.rainbowccswitches.json
+Tags: compatible_min::ios5.0, compatible_max::ios13.5
+
+Package: tech.kodeycodesstuff.redditrefresh
+Version: 1.0-b
+Architecture: iphoneos-arm
+Maintainer: Kodey Thomas
+Filename: ./pkg/tech.kodeycodesstuff.redditrefresh.deb
+Size: 7184
+MD5sum: 7bfc13aae04581b04787a1ac32d9d098
+SHA1: d9a94b24124960a151c934d181190c83bf5ec43b
+SHA256: 93a0ff8324bf3d525ceb259973ce07225cf3fe239f08b3db0662aecd55c14d9a
+Section: Tweaks
+Homepage: https://kodeycodesstuff.tech
+Description: Ever Accidentally Refreshed Reddit, Alas No More
+Author: Kodey Thomas
+Depiction: https://kodeycodesstuff.tech/repo/depiction/web/tech.kodeycodesstuff.redditrefresh.html
+Icon: https://kodeycodesstuff.tech/repo/assets/tech.kodeycodesstuff.redditrefresh/icon.png
+Moderndepiction: https://kodeycodesstuff.tech/repo/depiction/native/tech.kodeycodesstuff.redditrefresh.json
+Name: RedditRefresh
+Sileodepiction: https://kodeycodesstuff.tech/repo/depiction/native/tech.kodeycodesstuff.redditrefresh.json
+Tags: compatible_min::ios8.0, compatible_max::ios13.5
+
+Package: tech.kodeycodesstuff.spotifyblue
+Version: 1.3-b
+Architecture: iphoneos-arm
+Maintainer: Kodey Thomas
+Filename: ./pkg/tech.kodeycodesstuff.spotifyblue.deb
+Size: 96472
+MD5sum: 24f0f0159426e2b49be5a5696327baf6
+SHA1: 4e5e3975024d33aaaca10d39ec188aa6b33f6e4b
+SHA256: f6e90aef224bd566a91d2621de19e9c32baaf734ad7f6be6a2f260e75c854795
+Section: Tweaks
+Homepage: https://kodeycodesstuff.tech/repo
+Description: Open Spotify Whenever You Connect a Bluetooth Device
+Author: Kodey Thomas
+Depiction: https://kodeycodesstuff.tech/repo/depiction/web/tech.kodeycodesstuff.spotifyblue.html
+Icon: https://kodeycodesstuff.tech/repo/assets/tech.kodeycodesstuff.spotifyblue/icon.png
+Moderndepiction: https://kodeycodesstuff.tech/repo/depiction/native/tech.kodeycodesstuff.spotifyblue.json
+Name: SpotifyBlue
+Sileodepiction: https://kodeycodesstuff.tech/repo/depiction/native/tech.kodeycodesstuff.spotifyblue.json
+Tags: compatible_min::ios5.0, compatible_max::ios13.5
+

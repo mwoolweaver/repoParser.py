@@ -1,0 +1,8 @@
+Origin: typ0s2d10
+Label: typ0s2d10
+Suite: unstable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: typ0s2d10's repository

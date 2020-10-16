@@ -1,0 +1,8 @@
+Origin: iluwQaa's Repo
+Label: iluwQaa's Repo
+Suite: stable
+Version: 1.1
+Codename: iosgitrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Some tool & tweaks.

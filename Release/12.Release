@@ -1,0 +1,20 @@
+Origin: Limneos Repo
+Label: Limneos
+Suite: stable
+Version: 1.1
+Codename: limneosrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Limneos Distribution Repo
+MD5Sum:
+ 232fa4f6f3b035152d24e2feae1dad12 31338 Packages
+ 9c5c04854087030a72397bcacfd1559a 6344 Packages.bz2
+ d97bceb244f847f9c45d85e15c1b8cb0 6464 Packages.gz
+SHA1:
+ 809cefdd75667f84a5b7708f6ff7fa8b433c2429 31338 Packages
+ 7dd7ba29b97a9da3bda2239961406621f3fa2de6 6344 Packages.bz2
+ fe0bbc00479630c1e366e37d3022c18b84af97a3 6464 Packages.gz
+SHA256:
+ 6d5291b3954866cdf17ec5d09a78981f354dcb6fcaa1ddb68609266871aab4d9 31338 Packages
+ a963e9301bca62b5ac8bc1caf4717f44b331e2cbbcb116f823f6078ae4dab6b2 6344 Packages.bz2
+ a6e4ad169cf7d8c5f4d1920c517a8a8667e10dd6053edc0393f632874012d21b 6464 Packages.gz

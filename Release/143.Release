@@ -1,0 +1,8 @@
+Origin: joedj's beta repo
+Label: joedj's beta repo
+Suite: stable
+Version: 1.0
+Codename: cydia
+Architectures: iphoneos-arm
+Components: main
+Description: joedj's beta repo

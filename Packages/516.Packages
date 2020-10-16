@@ -1,0 +1,49 @@
+Package: fun.ignition.beautifulsettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ignition
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./BeautifulSettings.deb
+Size: 4512
+MD5sum: 7b0d79700c0ac207a206df0aefc12b7d
+SHA1: b717aa4c99336fbf2d7cb6445215a7c993f4765e
+SHA256: 20b36865db6c0f6e0a78f34007947013ae4c87f425474e863dc0c1ad1e2c98bf
+Section: Tweaks
+Description: Make your settings sexy af
+Author: Ignition
+Name: BeautifulSettings
+
+Package: fun.ignition.bemyguest
+Version: 0.0.11
+Architecture: iphoneos-arm
+Maintainer: Ignition
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.spark.libsparkapplist
+Filename: ./BeMyGuestPKGUnstable.deb
+Size: 469322
+MD5sum: c8c02e009a3895d2a0bbaca7b9e41a73
+SHA1: 63bc1045b8401de9c8865bdfad2786bab81a75a8
+SHA256: 4b4681d17c3d7a2ddb05a7931ddf45dd93b9b9a59fe6b280e66507f20e9f09aa
+Section: Tweaks
+Description: Now you can have user accounts on your iOS device, for free!
+Author: Ignition
+Depiction: https://ignition.fun/depiction/fun.ignition.bemyguest/index.html
+Name: BeMyGuest - Unstable
+
+Package: fun.ignition.bemyguest
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Ignition
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.spark.libsparkapplist
+Filename: ./BeMyGuestPKG.deb
+Size: 467982
+MD5sum: 9d14e7c8f0c88628214e8955a4933dac
+SHA1: 84e6941afd95f1f50ffea053cf4700aa472a244d
+SHA256: 8c1b6448df5ac02edcb000f7865817faa2af7058d92c7a005eadf75cfe132c03
+Section: Tweaks
+Description: Now you can have user accounts on your iOS device, for free!
+Author: Ignition
+Name: BeMyGuest
+

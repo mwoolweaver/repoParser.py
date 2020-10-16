@@ -1,0 +1,27 @@
+Package: com.futur3sn0w.i13theme
+Name: iOS 13 Concept Theme
+Depends: firmware (>= 11.0), mobilesubstrate, com.spark.snowboard
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Get the iOS 13 concept theme on your device!
+Maintainer: Futur3Sn0w <futur3sn0w@gmail.com>
+Author: Futur3Sn0w <futur3sn0w@gmail.com>
+Section: Themes (SnowBoard)
+Filename: ./debs/com.futur3sn0w.i13theme_1.0-1_iphoneos-arm.deb
+Depiction: https://futur3sn0w.github.io/repo/depictions/?p=com.futur3sn0w.i13theme
+Size: 41036
+MD5sum: e2e8ab3bb6f32add03f1e8c8f37f9e8d
+
+Package: com.futur3sn0w.classicios
+Name: Classic iOS Theme
+Depends: firmware (>= 11.0), mobilesubstrate, com.spark.snowboard
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Get the classic, skeuomorphic iOS theme on your device!
+Maintainer: Futur3Sn0w <futur3sn0w@gmail.com>
+Author: Volcy123
+Section: Themes (SnowBoard)
+Filename: ./debs/com.futur3sn0w.classicios_1.0-1_iphoneos-arm.deb
+Depiction: https://futur3sn0w.github.io/repo/depictions/?p=com.futur3sn0w.classicios
+Size: 8749568
+MD5sum: d757b9504eca3daba648dcd2ff34757c

@@ -1,0 +1,31 @@
+Package: com.beanamonster.parallax
+Version: 1.10-2.1
+Architecture: iphoneos-arm
+Maintainer: beanamonster <benjamina@zoho.com>
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.beanamonster.parallax.deb
+Size: 114507010
+MD5sum: 63e51662a93362e2bd1d2e87775480c6
+SHA1: 82f9c0da4a258c8c63e6f93135e3b1c164274ab5
+SHA256: 4a1111cec4fd44230371bceb3ccd0b72a964f2a68cbdc83dbc3026b506cb3df1
+Section: Widgets
+Description: Parallax wallpapers for iOS.
+Author: beanamonster <benjamina@zoho.com>
+Name: Parallax Wallpapers part 1
+Depiction: https://beanamonster.github.io/parallax/depic/
+
+Package: com.beanamonster.parallax2
+Version: 1.0-2.1
+Architecture: iphoneos-arm
+Maintainer: beanamonster <benjamina@zoho.com>
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.beanamonster.parallax.deb
+Size: 53248774
+MD5sum: 0C3B24F99171F8D3C7681F63A375A71B
+SHA1: FE56437C3AEA4E337E81217F046FE385EF4E8F68
+SHA256: 26D171D069517DD8113E7E84C62E5339DD77D05A213B4F608CE4746690C3BB53
+Section: Widgets
+Description: Parallax wallpapers for iOS.
+Author: beanamonster <benjamina@zoho.com>
+Name: Parallax Wallpapers part 2
+Depiction: https://beanamonster.github.io/parallax/depic/index2.html

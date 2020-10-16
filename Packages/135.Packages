@@ -1,0 +1,347 @@
+Package: com.ceadd.batteryfixcheckra1n
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>=12.0), firmware (<<14.0)
+Filename: ./debs/com.ceadd.batteryfixcheckra1n.deb
+Size: 970
+MD5sum: 2bfafcee164557a2823fe25084ece2f1
+SHA1: 29b8a0f38acf6405a61d5c96a964907f072008ef
+SHA256: a03b7b9b860dc610ef8ebe63087703fbf0f57463ed5e386e0559346777d25075
+Section: Tweaks
+Homepage: https://cydia.ceadd.ca
+Description: temp fix battery drain checkra1n
+Tag: compatible_min::ios12, compatible_max::ios14
+Author: ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.batteryfixcheckra1n
+Name: Fix Battery Drain checkra1n
+Sileodepiction: https://ceadd.ca/cydia/depictions/batteryfixcheckra1n/SileoDepiction.json
+
+Package: com.ceadd.bitesmstheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>=8.0), firmware (<<14.0)
+Filename: ./debs/com.ceadd.bitesmstheme.deb
+Size: 40934
+MD5sum: 7c4a04ea924008bcb56af1987725c370
+SHA1: 814d56c46e6bd6468df318b7075c4e64f9b4fab2
+SHA256: 788c2e5e96c7e7da0e1fdda7f00eab2fe301cd5adee80ae7f877619adef23e10
+Section: Themes
+Homepage: https://cydia.ceadd.ca
+Description: Brings the classic BiteSMS icon back form the dead!
+Tag: compatible_min::ios8, compatible_max::ios14
+Author: ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.bitesmstheme
+Name: BiteSMS Icons
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.bitesmstheme/SileoDepiction.json
+
+Package: com.ceadd.blockyoux
+Version: 3.0.9
+Architecture: iphoneos-arm
+Maintainer: Ceadd <ceadd@ceadd.ca>
+Installed-Size: 397kb
+Pre-Depends: dpkg
+Depends: firmware (>= 11.0), firmware (<<15.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock, com.git-anish.mdnsrestart
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ps.letmeblockb
+Filename: ./debs/com.ceadd.blockyoux.deb
+Size: 108260
+MD5sum: 088ea98b50b3e21db0f504f0ba7a4ba3
+SHA1: 0f9c7731e221965db1399c9db4ad843e30c9aa2f
+SHA256: ed658afcb07dc21fbf5efcc7b386d439cd5fa3d50f811185fd043ba3b3a6ac31
+Section: Ad Blocker
+Priority: standard
+Homepage: https://cydia.ceadd.ca
+Description: The Best Ad Blocker. Period.
+Tag: compatible_min::ios11, compatible_max::ios15
+Author: Ceadd <ceadd@ceadd.ca>
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.blockyoux
+Icon: https://ceadd.ca/cydia/depictions/com.ceadd.blockyoux/icon.png
+Name: BlockYouX
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.blockyoux/SileoDepiction.json
+
+Package: com.ceadd.clearnsurlsessiond
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>= 13.0)
+Filename: ./debs/com.ceadd.cleannsurlsessiond.deb
+Size: 866
+MD5sum: 37898084b06c591cdff52825619eba92
+SHA1: c7cd8193e79a8e41bec4d203d040874a1f0939b6
+SHA256: 12e2da9e47dbff03a89c73d31ced64a5b7cbb7869a86ea6569a5ace8bafd1a74
+Section: System
+Description: Deletes nsurlsessiond cache
+Tag: compatible_min::ios13, compatible_max::ios14
+Author: ceadd
+Depiction: http://ceadd.ca/cydia/depictions/?p=com.ceadd.cleannsurlsessiond
+Name: clean nsurlsessiond
+Sileodepiction: http://ceadd.ca/cydia/depictions/com.ceadd.cleannsurlsessiond/SileoDepiction.json
+
+Package: com.ceadd.flextotheosbyipadkid358
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: mobilesubstrate
+Filename: ./debs/com.ceadd.flextotheosbyipadkid358.deb
+Size: 38096
+MD5sum: aa762399910243f59965298c6b536091
+SHA1: b9171f52e7c9a78a056af4be7da43320820b6f27
+SHA256: b3c8c0dfe9c9b436a74cd90b737ccaa89f10a79788836ae964f23815635109ed
+Section: System
+Description: Turn Flex 3 patches into Theos projects
+Tag: compatible_min::ios11, compatible_max::ios13
+Author: ipad_kid
+Depiction: http://ceadd.ca/cydia/depictions/?p=com.ceadd.flextotheosbyipadkid358
+Name: Flex To Theos
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.flextotheosbyipadkid358/SileoDepiction.json
+
+Package: com.ceadd.icon
+Version: 3.0
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: ceadd
+Replaces: com.ceadd.icon
+Filename: ./debs/com.ceadd.icon.deb
+Size: 86306
+MD5sum: 8bb143bb7040210f15bd1bb133a53b37
+SHA1: 032c7d78324e98e318383a0c4ebad13ff88a064c
+SHA256: 47d351d75cde86a78dc7f66e763f2d08164e36d442ed060d360a2bae7790a94c
+Section: System
+Description: repo icon
+Tag: compatible_min::ios2, compatible_max::ios14
+Author: ceadd
+Depiction: http://ceadd.ca/cydia/depictions/?p=com.ceadd.icon
+Name: Cydia Repo Icon
+Required: yes
+Sileodepiction: http://ceadd.ca/cydia/depictions/com.ceadd.icon/SileoDepiction.json
+
+Package: com.ceadd.installer5reset
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.ceadd.installer5reset.deb
+Size: 902
+MD5sum: 6ea9cf9c586ddcf82b9384cdfa7e3a5d
+SHA1: 2d85a1b72ea5796cf3464c5fffaf2dd9218eac4a
+SHA256: cb4fd73bcf44c9f9dffda9a9261e1496299d68892b9e0dce32cf21be2be1b5d5
+Section: Tweaks
+Description: Reset Installer 5 back to stock!
+Tag: compatible_min::ios9, compatible_max::ios14
+Author: ceadd
+Depiction: http://ceadd.ca/cydia/depictions/?p=com.ceadd.installer5reset
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer 5 Reset
+Sileodepiction: http://ceadd.ca/cydia/depictions/com.ceadd.installer5reset/SileoDepiction.json
+
+Package: com.ceadd.jailbreakhistorytheme
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>=8.0), firmware (<<14.0)
+Filename: ./debs/com.ceadd.jailbreakhistorytheme.deb
+Size: 11082834
+MD5sum: e6a75f1c5dc28ffc54bdf2cd31c47829
+SHA1: 6b3d51ca8c043065aac1394db8803f8adc290565
+SHA256: 9cd12066f4a7362cbeeeda2157984fe0a06f39995cf95db5b8a7b7d5a4765cf9
+Section: Themes
+Homepage: https://cydia.ceadd.ca
+Description: Classic Jailbreak APP icons!
+Tag: compatible_min::ios8, compatible_max::ios14
+Author: ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.jailbreakhistorytheme
+Name: History of Jailbreaking
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.jailbreakhistorytheme/SileoDepiction.json
+
+Package: com.ceadd.kickuicache
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.ceadd.kickuicache.deb
+Size: 746
+MD5sum: e2028ea9a0027456d82b0f891a4d5672
+SHA1: e5111f0f1171d5df84881513f70d7bc4297fc5de
+SHA256: 66cfb603ceb08c52d6b16b3ede06ecbb839879ee849ee0c80370b5a2c28353c2
+Section: System
+Description: Runs UICache Upon Install
+Tag: compatible_min::ios9, compatible_max::ios14
+Author: ceadd
+Depiction: http://ceadd.ca/cydia/depictions/?p=com.ceadd.kickuicache
+Name: KICK UICache
+Sileodepiction: http://ceadd.ca/cydia/depictions/com.ceadd.kickuicache/SileoDepiction.json
+
+Package: com.ceadd.ldreboot
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>=11.0), firmware (<<14.0)
+Filename: ./debs/com.ceadd.ldreboot.deb
+Size: 1034
+MD5sum: f21a88582dc085d1258b5ef4ecc7ce2d
+SHA1: 4c1794472c2c7c15da8de7482438c004b3da6cdc
+SHA256: 5df3e0bcecb97ca34772c8bcf4159193244a6b15bd898b9fc843ecdaec43a416
+Section: System
+Homepage: https://cydia.ceadd.ca
+Description: kickstart ldrestart as mobile user
+Tag: compatible_min::ios11, compatible_max::ios14
+Author: ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.ldreboot
+Name: ldreboot
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.ldreboot/SileoDepiction.json
+
+Package: com.ceadd.machportalfix
+Version: 1.34
+Architecture: iphoneos-arm
+Maintainer: ceadd <no@support.com>
+Depends: firmware (>=10.0), firmware (<<10.2.1), mobilesubstrate, com.officialscheduler.mterminal, apt7, berkeleydb, com.ericasadun.utilities
+Conflicts: com.julioverne.otablocker, com.hackyouriphone.cydiarespringfix, com.julioverne.uicachefix10, me.gmoran.cydiarespringfix, com.r3st1t0u.substratefix, com.ceadd.machportalfixbeta, com.r3st1t0u.order65
+Replaces: com.ceadd.machportalfixbeta
+Filename: ./debs/com.ceadd.machportalfix.deb
+Size: 30242
+MD5sum: d11450b79190189d0ab264c11e907675
+SHA1: b37665f60f05839f7f224c7f91881103c52be2cf
+SHA256: bbac93098f847c4907a713b940d5d84f6a10eab5b5d273baf476ac75ad1a1731
+Section: Tweaks
+Homepage: https://cydia.ceadd.ca
+Description: mach_portal jailbreak fix and automated substrate enabler
+Tag: compatible_min::ios10, compatible_max::ios10.2.1
+Author: ceadd <no@support.com>
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.machportalfix
+Name: mach_portal Fix iPhone 7/7+
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.machportalfix/SileoDepiction.json
+
+Package: com.ceadd.notypingindicatorimessage12
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<13.0)
+Filename: ./debs/com.ceadd.notypingindicatorimessage12_iphoneos-arm.deb
+Size: 7846
+MD5sum: 9390bb1ce8b029c67f7cc2383c13610e
+SHA1: 947213a916dd7d77522fa7bd8ede15bc04817d2f
+SHA256: f5eb93adaba9e45e778d8c9ac896bffe889f85a58c7f2aa13c17defdee201a89
+Section: Tweaks
+Priority: standard
+Homepage: https://cydia.ceadd.ca
+Description: iMessage in peace! This tweak blocks the typing indicator bubble in the stock messages app.
+Tag: compatible_min::ios11, compatible_max::ios13
+Author: ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.notypingindicatorimessage12
+Name: No Typing Indicator 12
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.notypingindicatorimessage12/SileoDepiction.json
+
+Package: com.ceadd.notypingindicatorimessage13
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<<15.0)
+Filename: ./debs/com.ceadd.notypingindicatorimessage13_iphoneos-arm.deb
+Size: 7812
+MD5sum: 9548868538a01887da513ff773d3c561
+SHA1: 1cf1108a31edf9cd6a29fce5a06bb18c4499e8af
+SHA256: 79af7230558e3442ded49a7e5e0e052dad1055e4b7f862132f48d60aef1f10ad
+Section: Tweaks
+Priority: standard
+Homepage: https://cydia.ceadd.ca
+Description: iMessage in peace! This tweak blocks the typing indicator bubble in the stock messages app.
+Tag: compatible_min::ios13, compatible_max::ios15
+Author: ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.notypingindicatorimessagex
+Name: No Typing Indicator X
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.notypingindicatorimessagex/SileoDepiction.json
+
+Package: com.ceadd.respring
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>=8.0), firmware (<<14.0)
+Filename: ./debs/com.ceadd.respring.deb
+Size: 856
+MD5sum: ba1402d5f43ede5c979bbd1b0bdd7e1f
+SHA1: 3edfdf134187cb3116c7f9b978e9670c035ff647
+SHA256: f28abe457c548631ba4ec5a7d14d4a1edbd396118ce7f5fbc7dbbcf8928d69cb
+Section: System
+Homepage: https://cydia.ceadd.ca
+Description: respring by typing respring
+Tag: compatible_min::ios8, compatible_max::ios14
+Author: ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.respring
+Name: respring
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.respring/SileoDepiction.json
+
+Package: com.ceadd.serialsh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>=9.0), firmware (<<11.0), apt7, adv-cmds, berkeleydb, com.ericasadun.utilities, top
+Filename: ./debs/com.ceadd.serialsh.deb
+Size: 9034
+MD5sum: 246d75d5b66760d7dc45a01f17716c26
+SHA1: f04b2d68a13e233914d2ee2e24836f6770893672
+SHA256: c101bac32794018a9b385d0a3fdad8e8ae371066860208dc560daae608f6b13b
+Section: System
+Homepage: https://cydia.ceadd.ca
+Description: serialsh >< make shell great again!
+Tag: compatible_min::ios9, compatible_max::ios10.3.3
+Author: qwertyoruiop
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.serialsh
+Name: SerialSH
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.serialsh/SileoDepiction.json
+
+Package: com.ceadd.serialshx
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: ceadd
+Depends: firmware (>=11.0), firmware (<<14.0), apt7
+Filename: ./debs/com.ceadd.serialshx.deb
+Size: 8956
+MD5sum: c3b4f8ea2301583ee27ad05305010f18
+SHA1: 0d414e9c06943a8006b414dda4539de19d4a31de
+SHA256: e6d49865da753f64bee915c8a2b7e2dd94969390034e2b4702e74b91ad69f0dc
+Section: System
+Homepage: https://cydia.ceadd.ca
+Description: serialsh12 >< make shell great again and again!
+Tag: compatible_min::ios11, compatible_max::ios14
+Author: qwertyoruiop
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.serialshx
+Name: SerialSH12
+Sileodepiction: https://ceadd.ca/cydia/depictions/com.ceadd.serialshx/SileoDepiction.json
+
+Package: com.git-anish.mDNSrestart
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Anish S <anish@hey.com>
+Pre-Depends: dpkg (>= 1.15), com.ps.letmeblock
+Filename: ./debs/com.git-anish.mDNSrestart_1.4_iphoneos-arm.deb
+Size: 1616
+MD5sum: 173d50e9c51c1e9f5349d122810b0aed
+SHA1: 6107ccea399392f8f0060847d5f98bfa98540708
+SHA256: d153519f49970e0761aaf2f861ce528ae61ec50677741e65d05b501ccf539324
+Section: System
+Description: mDNSrestart relaunches mDNS related services on boot
+Author: Anish S <anish@hey.com>
+Depiction: https://repo.anishs.xyz/depictions/?p=com.git-anish.mDNSrestart
+Name: mDNSrestart
+
+Package: com.ps.letmeblock
+Version: 0.0.7.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.ps.letmeblock_0.0.7.5.deb
+Size: 5068
+MD5sum: 529fde6b36c7de2c777faf94b21f898d
+SHA1: 8f8d192410d312947681063c7092c2624d62ffa9
+SHA256: 94e0df2ebfb2ec0332bb3e23ba362c23d76fedbc67c1f158497c1fb42c62b69d
+Section: Tweaks
+Description: Make mDNSResponder care more about /etc/hosts
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+Name: LetMeBlock
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+

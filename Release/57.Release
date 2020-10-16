@@ -1,0 +1,11 @@
+Origin: AppSec-Labs.com
+Label: AppSec-Labs iOS cydia repository
+Suite: public beta
+Version: 1.0
+Codename: stable
+Architectures: darwin-arm
+Components: main
+Description: AppSec-Labs iOS Repository.
+
+MD5Sum:
+ae9fbf4177c3c503923fd4a82d4fd36e 933 Packages.bz2

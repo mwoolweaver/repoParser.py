@@ -1,0 +1,17 @@
+Package: com.logandev.dark
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Logandev_
+Depends: com.anemonetheming.anemone | com.spark.snowboard, com.skitty.dune
+Filename: ./debs/LogandevDark.deb
+Size: 4232760
+MD5sum: 7d1eb0ffc973c5d1140ee0aecb5d00fa
+SHA1: 39a4f6822dbf248308bc91fab0837ce9d698282d
+SHA256: 60477f711bf35442ec230945657cd80f8e78bb2fba4865c8beabf45eb3d74fce
+Section: Themes
+Description: A theme where all the icons are dark.
+Author: Logandev_
+Depiction: https://loganmd.github.io/repo/depictions/?p=com.logandev.dark
+Icon: https://loganmd.github.io/dark.png
+Name: Logandev Dark
+

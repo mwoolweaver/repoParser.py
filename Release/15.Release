@@ -1,0 +1,11 @@
+Origin: nitosoft AppleTV 4+ repo
+Label: nitosoft AppleTV 4+ repo
+Suite: stable
+Version: 1.0
+Codename: nitoTVRepo
+Architectures: darwin-arm64, appletvos-arm64
+Components: main
+Description: nitosoft AppleTV 4 base repository
+MD5Sum:
+ bb733efb6a5ed8bad550546f568f4ef4 61836 Packages
+ 9efb7500f28ab39adc64ab5b8f453f1c 14614 Packages.bz2

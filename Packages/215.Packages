@@ -1,0 +1,13 @@
+Package: com.ididdy.tagia
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: iDiddy <lukedidion5@gmail.com>
+Filename: /Tagia.deb
+Size: 12080884
+MD5sum: aa4c579494e736d9c1e28cb4c58e9c85
+SHA1: b051ab0fa3b053e8948537b73d0658520534a41c
+SHA256: bd9a0184075dbade161d3eb78d19f1a2a65191ba184c6037db3bcfcde61f0f93
+Section: Themes
+Description: A Simple Theme!
+Author: iDiddy <lukedidion5@gmail.com>
+Name: Tagia

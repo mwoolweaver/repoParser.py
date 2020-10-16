@@ -1,0 +1,8 @@
+Origin: Shaundegr8's Repo
+Label: Shaundegr8's Beta Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Shaundegr8's Repo

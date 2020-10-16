@@ -1,0 +1,1600 @@
+Package: com.golddavid.inspectivec
+Version: 1.3.1-2
+Architecture: appletvos-arm64
+Maintainer: David Goldman <help@golddavid.com>
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5.000)
+Conflicts: com.golddavid.inspectivec-multithreaded
+Replaces: com.golddavid.inspectivec-multithreaded
+Filename: ./debs/com.golddavid.inspectivec_1.3.1-2_appletvos-arm64.deb
+Size: 17080
+MD5sum: ca7b927c1ec351f63dd7675eb33d527b
+SHA1: a019e3572789f3d32d4d5730cca6e0175e5b58a3
+SHA256: 8a7f1d6057968bda9261f3b78a10c3c48e4205b9e256f0ba628fad6b6b9111fe
+Section: Development
+Description: objc_msgSend hook for debugging/inspection purposes.
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/InspectiveC.html
+Icon: http://joshtv.net/icon/dev.png
+Name: InspectiveC
+
+Package: com.ikilledappl3.hidemydocktv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.ikilledappl3.hidemydocktv.deb
+Size: 2600
+MD5sum: 5c3c56106fdf5c40795c5455bfabc465
+SHA1: f64a31962633ab8362ae5d37eeda40f19a72a2a8
+SHA256: 002136085f88f3e5074b514a11ba28163d03c66703e6120e765c5661771677db
+Section: Tweaks
+Description: Hide the dock from tvOS.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://joshtv.net/json/NoDockTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: HideMyDockTV
+
+Package: com.ikilledappl3.hidemydocktv
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 404
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/com.ikilledappl3.hidemydocktv_1.0.1-1.deb
+Size: 285904
+MD5sum: 24a75549eb7508045052dcb32f6a7685
+SHA1: 40dfe1d932690099132fd654cb8ca849753844e0
+SHA256: 2ad25aaed58a7101dec035545589a03567ee6f03544c48d9e8a88a5cc4e58cff
+Section: Tweaks
+Description: Hide the dock from tvOS.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://joshtv.net/json/NoDockTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: HideMyDockTV
+
+Package: com.ikilledappl3.hidemydocktv
+Version: 1.0.7-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
+Filename: ./debs/com.ikilledappl3.hidemydocktv_1.0.7-1(jtv).deb
+Size: 285780
+MD5sum: 87edbefa7d114cb2c1644961b5ac13c7
+SHA1: 9bd82ee09e4028e75edd2ff0ab7b29cad5af2a44
+SHA256: 969f1b8e62bef2a8ef74f0af5e4d0e44e1e891a83b0268ad26d6d7de92f2e6a6
+Section: Tweaks
+Description: Hide the dock from tvOS.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://joshtv.net/json/NoDockTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: HideMyDockTV
+
+Package: com.imuseum.1984tv
+Version: 1.2
+Architecture: appletvos-arm64
+Maintainer: iMuseum <realimuseum@gmail.com>
+Filename: ./debs/com.imuseum.1984tv1.2.deb
+Size: 3842176
+MD5sum: 2c8fb3ab275c8b114335d81e8e7ba08b
+SHA1: f528ede6c0f96d6f32c7757bd7a0e45b712d7529
+SHA256: fe5b7c3601b0c7df5d8d78a1cfa2770912ea126d6829b1a4280c8c5de0d26647
+Section: Themes
+Description: The Classic Macintosh experience on your Apple TV!
+Author: iMuseum & JTV
+Depiction: http://joshtv.net/json/1984.json
+Icon: http://joshtv.net/icon/theme.png
+Name: 1984TV
+
+Package: com.joshtv.litt13
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: psprrom
+Filename: ./debs/net.joshtv.litt13.deb
+Size: 7344596
+MD5sum: c5377f1040cd6557e8c87f95076d0b75
+SHA1: 908b179339131b108ea272b3d510d60d2fcdc004
+SHA256: 7bc528c904f895c2dc9d28e799a087f9ee27ee5d71a7619eaa37ecf171ab5a91
+Section: Themes
+Description: A Litt13 theme for tvOS.
+Author: psprrom
+Depiction: http://joshtv.net/json/little.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Litt13 tvOS
+
+Package: com.nahtedetihw.Catalina
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: Ethan Whited
+Filename: ./debs/com.nahtedetihw.Catalina.deb
+Size: 12574684
+MD5sum: d398d6bd8cedb31f1dac50fc37882992
+SHA1: c956393e659ccd6b10d42cdc186edb51a087840a
+SHA256: 277e2d9a727e4ec5c84f6cf429829f8c97a6d5078c205c15524f6bd9933d1570
+Section: Themes
+Description: A Catalina theme for tvOS.
+Author: Ethan Whited
+Depiction: http://joshtv.net/json/Catalina.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Catalina
+
+Package: com.nito.repo-key
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Filename: ./debs/com.nito.repo-key_1.0-1_appletvos-arm64.deb
+Size: 2334
+MD5sum: 9f0da8fc0b4dc86f2785f5d2d6a36b34
+SHA1: 9f9e185b705d8d0928e8185e2e38617c4234affc
+SHA256: f6d9a4b060dac123c067bb1987bf17b21a89c063c70ea3ecd9618c95d5d7f4be
+Section: Utilities
+Description: new gpg public key for nitoTV, this is a required package to fix an expiring signing key.
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/rk/rk.json
+Icon: https://nitosoft.com/ATV4/rk/icon.png
+Name: nitosoft gpg key
+
+Package: com.nito.repo-key
+Version: 1.0-7
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Filename: ./debs/com.nito.repo-key_1.0-7_appletvos-arm64.deb
+Size: 6374
+MD5sum: a6e07bbe8f8bd22b4fad411fdbf82448
+SHA1: 2f156f355e3a98db717fe467194a0f658762cc1d
+SHA256: cb3ff7aed00486a5aea21ded9017dd74f94654f1456ad28dee8d6c68d8973622
+Section: Utilities
+Description: new gpg public key for nitoTV, this is a required package to fix an expiring signing key.
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/rk/rk.json
+Icon: https://nitosoft.com/ATV4/rk/icon.png
+Name: nitosoft gpg key
+
+Package: com.nito.repo-key
+Version: 1.0-8
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Filename: ./debs/com.nito.repo-key_1.0-8_appletvos-arm64.deb
+Size: 9444
+MD5sum: 413b7db51d03a2c16d95c6bc5dfe084b
+SHA1: 3e1c4aa55a3a4947e97d97897826d520062a2a15
+SHA256: 644f555e1fe6b0ce7e50b0e54fcba7fab62b02e4ff637e2fe3892eed0853c3ce
+Section: Utilities
+Description: new gpg public key for nitoTV, this is a required package to fix an expiring signing key.
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/rk/rk.json
+Icon: https://nitosoft.com/ATV4/rk/icon.png
+Name: nitosoft gpg key
+
+Package: com.spark.snowboardtv
+Version: 0.0.3~Alpha1-39
+Architecture: appletvos-arm64
+Maintainer: Spark
+Installed-Size: 9624
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.snowboardtv_0.0.3Alpha1-39_appletvos-arm64.deb
+Size: 9269516
+MD5sum: a7aa778f7032df9f186d7803d09b60f6
+SHA1: 76842e83912b5aebfc51fbbd2b03a5f599104010
+SHA256: 4f63dfd8bfcd36d0727463dacfe4fd499ef48ebbb24bf6299d6a763e07926f59
+Section: Tweaks
+Description: SnowBoardTV Theming Engine
+Author: Spark
+Depiction: http://joshtv.net/json/SnowBoardTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: SnowBoardTV (ALPHA)
+
+Package: com.spark.snowboardtv
+Version: 0.0.5~Alpha1-2
+Architecture: appletvos-arm64
+Maintainer: Spark
+Installed-Size: 14760
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.snowboardtv_0.0.5Alpha1-2_appletvos-arm64.deb
+Size: 14521584
+MD5sum: 8a50143f8742325d3d3d02b3141cb24d
+SHA1: 210fe91587a6026e7f0251f7505d569501eff19e
+SHA256: 4d0b39b8ab66e1517f832dd56f162fe21ce56a0b94342b7a5ef605ad364855a7
+Section: Tweaks
+Description: SnowBoardTV Theming Engine
+Author: Spark
+Depiction: http://joshtv.net/json/SnowBoardTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: SnowBoardTV (ALPHA)
+
+Package: com.spark.snowboardtv
+Version: 0.0.5~Alpha1-3
+Architecture: appletvos-arm64
+Maintainer: Spark
+Installed-Size: 14696
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.snowboardtv_0.0.5Alpha1_appletvos-arm64.deb
+Size: 14509676
+MD5sum: 3c3481caf8ee5260c77db3041c1078d3
+SHA1: 98b0ab393e5787e5283ac05423ec5c4db4a1d6b7
+SHA256: 94da92cc5ff061e7efe446dc06cdc9c92a18487fc6e24863741037a52a92e571
+Section: Tweaks
+Description: SnowBoardTV Theming Engine
+Author: Spark
+Depiction: http://joshtv.net/json/SnowBoardTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: SnowBoardTV (ALPHA)
+
+Package: com.xandesign.FelicityTV
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Filename: ./debs/com.xandesign.FelicityTV_1.0_appletvos-arm64.deb
+Size: 31921100
+MD5sum: 9874aed76b2402f4c68c24efdf7c8bb6
+SHA1: 1dd0d16b0ac2dbb518f68697451bcf83f7034f4b
+SHA256: 233aaeef988dc9823d094987651f504162946f182f703860de54b110bab100b1
+Section: Themes
+Homepage: https://twitter.com/xerusdesign
+Description: Felicity, but Pro.
+Author: XerusDesign <unixdesignios@gmail.com>
+Depiction: http://joshtv.net/json/Felicity.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Felicity Pro
+
+Package: gawk
+Version: 4.2.1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 3024
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/gawk_4.2.1-1_appletvos-arm64.deb
+Size: 268360
+MD5sum: 29736152c29e38d9ac33d20c8925b84b
+SHA1: 6d6c8b575f6a0857b85bf442454a63cf4b78090c
+SHA256: 7717fc61daf823224c817710a08f96ee588e32f2d8501ce3cb02ebe7ba6bcf46
+Section: Utilities
+Priority: important
+Homepage: http://www.gnu.org/software/gawk/
+Description: GNU's heavy-weight implementation of awk
+Icon: http://joshtv.net/icon/utilities.png
+Name: Gawk
+
+Package: gettext
+Version: 0.19.8-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 7648
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: ./debs/gettext_0.19.8-1_appletvos-arm64.deb
+Size: 786160
+MD5sum: 781d6f7e4ed8a057fa107815d017dfa2
+SHA1: a2fbdd90491f203200d7941f321bebfe262ebb9a
+SHA256: f04aa3f9b52649a264c6bcc0ffede193c41f210d55f4df213f230aae979a8035
+Section: System
+Priority: optional
+Homepage: http://www.gnu.org/software/gettext/
+Description: internationalization helper for strings
+Icon: http://joshtv.net/icon/system.png
+
+Package: img4tool
+Version: 182
+Architecture: appletvos-arm64
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 600
+Depends: libplist3, openssl, libgeneral
+Filename: ./debs/img4tool_182_appletvos-arm64.deb
+Size: 47932
+MD5sum: 364995245ce4333c2478a45794224db7
+SHA1: 38aa86b27adda8159dbd2ea16b6b350397d8cd83
+SHA256: 9db74cd1da4d6933ad381d78ff7d0099d2b48b76e608c0eeb2add5f7e076745f
+Section: Utilities
+Priority: optional
+Description: A tool for manipulating IMG4, IM4M and IM4P files
+Tag: purpose::console, role::hacker
+Icon: http://joshtv.net/icon/utilities.png
+
+Package: libgeneral
+Version: 31
+Architecture: appletvos-arm64
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 168
+Filename: ./debs/libgeneral_31_appletvos-arm64.deb
+Size: 5804
+MD5sum: b3e4e319d09d9ec54d1de292295b1cf4
+SHA1: 7aa5a0a31505376f78cd369589438a25e9254894
+SHA256: 8d2660d6d23badedcf35450a4d027968fcc1eac3772228824d5358fcca07dd07
+Section: Development
+Priority: optional
+Description: Common library for tihmstar tools
+Tag: purpose::console, role::developer
+Icon: http://joshtv.net/icon/dev.png
+
+Package: libplist3
+Version: 2.2.0
+Architecture: appletvos-arm64
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 232
+Filename: ./debs/libplist3_2.2.0_appletvos-arm64.deb
+Size: 24868
+MD5sum: 4b9bed8b2bbc2a68a431b880026a0ba4
+SHA1: f2cabb342ae8ce633cf87170b1ee49a1269a993e
+SHA256: 6a980f12329b6a85282872b7e66c1b0bc5094ec545b2327b62426df1080be26c
+Section: Networking
+Priority: standard
+Description: Library for handling Apple binary and XML property lists
+Tag: purpose::library, role::developer
+Icon: http://joshtv.net/icon/network.png
+
+Package: neofetch
+Version: 7.1.0
+Architecture: appletvos-arm64
+Maintainer: Hayden Seay & JoshTV
+Installed-Size: 656
+Depends: bash, gawk, gettext
+Conflicts: com.matdev.neofetch-ios
+Replaces: com.matdev.neofetch-ios
+Filename: ./debs/neofetch_7.1.0_appletvos-arm64.deb
+Size: 72832
+MD5sum: 26c68899c1cf7fafa61831de8aedc9a1
+SHA1: affbc8a27ed394779c96789546d0a4bcbff1fd5e
+SHA256: 964d2a09a0eb36b09f38a3dd44e543bc6178d30a2b7c7a058b78a2cdbcf2c418
+Section: Utilities
+Priority: optional
+Homepage: https://github.com/dylanaraps/neofetch
+Description: Shows System Information with Distribution Logo
+ Neoftech is a cross-platform and easy-to-use system information
+ command line script that collects your system information
+ and display it on the terminal next to an image, it could be your
+ distributions logo or any ascii art of your choice.
+Author: Dylan Araps <dylan.araps@gmail.com>
+
+Package: neofetch
+Version: 7.1.0-2
+Architecture: appletvos-arm64
+Maintainer: Hayden Seay & JoshTV
+Installed-Size: 656
+Depends: bash, gawk, gettext
+Conflicts: com.matdev.neofetch-ios
+Replaces: com.matdev.neofetch-ios
+Filename: ./debs/neofetch_7.1-3.deb
+Size: 72876
+MD5sum: 68379e0731ff631782ef6a55f02513b2
+SHA1: 52d4e3d3d88182d62d88cedd1515a10c40b6d86b
+SHA256: 33170e18f26a962f05464c9e754c6e2516389bfe1fe43df9f6d461e577b84827
+Section: Utilities
+Priority: optional
+Homepage: https://github.com/dylanaraps/neofetch
+Description: Shows System Information with Distribution Logo
+ Neoftech is a cross-platform and easy-to-use system information
+ command line script that collects your system information
+ and display it on the terminal next to an image, it could be your
+ distributions logo or any ascii art of your choice.
+Author: Dylan Araps <dylan.araps@gmail.com>
+Depiction: http://joshtv.net/json/neofetch.json
+Icon: http://joshtv.net/icon/utilities.png
+
+Package: net.joshtv.aerial
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.aerial.deb
+Size: 9925048
+MD5sum: 233d41cbc9c907bd233b887d2cca1a4c
+SHA1: 34c2dc42aed76a5701ad8e6a5475bcdd1afce07f
+SHA256: 73ca99868b5aea88d84472f33e0a027b7d811468104d1828691b674f7ccd2437
+Section: Entertainment
+Description: A viewing of multiple screen savers for your Apple TV.
+Author: John Coates
+Depiction: http://joshtv.net/json/aerial.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Aerial
+
+Package: net.joshtv.aputility
+Version: 0.1.1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Depends: mobilesubstrate, img4tool
+Filename: ./debs/aputil0.1.1appletvos-arm64.deb
+Size: 10376
+MD5sum: 762158df1fee380fff7236f6a005228c
+SHA1: 6dc2db9bd390dd8940846d2c01df99cc2bbbed13
+SHA256: 830639713cc903e0a73bcdfe9b31d84cd5ccee716c1fb00ccf2da47e5ac42c0e
+Section: Tweaks
+Description: A utility to produce SHSH2 blobs from APtickets on-device.
+Author: JTV
+Depiction: http://joshtv.net/json/aputility.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: APUtility
+
+Package: net.joshtv.aputility
+Version: 0.1.2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Depends: mobilesubstrate, img4tool
+Filename: ./debs/aputil0.1.2appletvos-arm64.deb
+Size: 10456
+MD5sum: 510134f6b94bc8290b1a7145792e1f2a
+SHA1: 351c3fac274336cc2825ba2938c4eea1fa678591
+SHA256: 5829a05cb27821a6ea0bcaf78c5f248fb0088449a624376d7d4264970253bf6b
+Section: Utilities
+Description: A utility to produce SHSH2 blobs from APtickets on-device.
+Author: JTV
+Depiction: http://joshtv.net/json/aputility.json
+Icon: http://joshtv.net/icon/utilities.png
+Name: APUtility
+
+Package: net.joshtv.auntieplayer
+Version: 1.0-2
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.auntieplayer.deb
+Size: 157952
+MD5sum: 1101ed91c91a21ea860cff5acc223203
+SHA1: e8546fabc580d569f08f7e4407a87bf466f2b236
+SHA256: dccc4f95253d7d62626b67808ef9a6ac4983afb871c5e2fdb9e163f0c2a28ac9
+Section: Multimedia
+Description: A british television network and tv guide for Apple TV.
+Author: Phillip Caudell
+Depiction: http://joshtv.net/json/Auntie.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Auntie Player
+
+Package: net.joshtv.clutch
+Version: 2.0.5
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.clutch.deb
+Size: 76164
+MD5sum: 73f8cf10493adff1fe5b490cea2722fb
+SHA1: a921aa741d7d98b9da13c6e0345000b423432325
+SHA256: 425bf25be26ea087edf3fb82801be9f4bba2a313c4f1cc2be2b3920aafe6f71e
+Section: Utilities
+Description: A application decryption tool for the Apple TV.
+Author: KJCracks
+Depiction: http://joshtv.net/json/clutch.json
+Icon: http://joshtv.net/icon/utilities.png
+Name: Clutch tvOS
+
+Package: net.joshtv.cravefree
+Version: 1.1-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 100
+Depends: mobilesubstrate
+Conflicts: com.JoshTV.CRaveFRee
+Replaces: com.JoshTV.CRaveFRee
+Provides: com.JoshTV.CRaveFRee
+Filename: ./debs/net.joshtv.cravefree.deb
+Size: 7336
+MD5sum: d4b9a14ddb5c015676746c8a3cf39dac
+SHA1: 57f808c75e8ab53f4a1187d7f9741e3e8ddefb3e
+SHA256: fe46f4296b43dd80ccf0ae27cccd6277bc5b0dc06659a95db46492bc25acd3c3
+Section: Tweaks
+Description: A jailbreak bypass for CRave on tvOS.
+Author: JTV
+Depiction: http://joshtv.net/json/Cravefree.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: CRaveFRee
+
+Package: net.joshtv.darkneon
+Version: 0.0.1-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon.deb
+Size: 31652352
+MD5sum: 826844dd5ae50cf2897dc48405eaaaa9
+SHA1: 692fbe411d9eb7f6e272bf54ad1686b2ec02c39b
+SHA256: cef562cc98a4a336e3aed6d70b177854c15ea25e5817346de81cc3f9f84a6469
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 0.0.1-3
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon0.1-3.deb
+Size: 31652532
+MD5sum: 42be93d799dc22a1899c49982121b18e
+SHA1: 118ba3fc1d0f2220f11a9803617f4e32c3155c3d
+SHA256: a29ee43f819c82eff039a039c2749b17f5b05b0cd4475f25a222c02c85800c51
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 0.0.2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon0.2.deb
+Size: 32418236
+MD5sum: 2d01849454677be9cd1f89dbc95d3e98
+SHA1: 96f670d80030c3d2976c1912da3285027c1a8343
+SHA256: e2cb692c2c5bfb113719c602404e1c3acfb2be88ba50316c821e29d0c1669335
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 0.0.5
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon0.5.deb
+Size: 36961656
+MD5sum: 7162c00e215f2c09d59151882b920596
+SHA1: e115f0a9b6e14b4141a427eac17dfcb68e73e55d
+SHA256: 7180811b6f0eb6939c3bfc5ab57bb017320237d26caa8638b613c0f5c4c94c2a
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon1.0.deb
+Size: 37231372
+MD5sum: f9d51ac979ae52233264608ca1951e52
+SHA1: a096786ec017c00f1ebbf0042b530a3dd6a86a5a
+SHA256: bb4a2ada4a331e04ac588dd995dda21154a28a7bfe49f64395498b5f13c65900
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 1.0-2
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon1.0-2.deb
+Size: 37231660
+MD5sum: 38b1fd594c432cb4f8e2075383f5a23f
+SHA1: ee9dbe4b7c6f11f4f9adb2fae392331478be7984
+SHA256: 8a56f555ae238901d34ceaca91ac82e6849f2c47a5369632c07b92b7f938b8e1
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JoshTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 1.0-3
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon1.0-3.deb
+Size: 37231636
+MD5sum: f3b65beaddc71b48cc3923657cedd596
+SHA1: 773cdfe2868f8506b598e00e3cf0d42dd3fd78a1
+SHA256: 9d270b9e66a3022e70afe7e5597abba3e666b7c7a317e5260cdf39919f281afc
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 1.0-4
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.darkneon1.0-4.deb
+Size: 37230528
+MD5sum: 0bf8eb9fef9dc81133136e947d93fdb2
+SHA1: 7a2b0f492aecb9d1b9acc5c36f60af66212751bf
+SHA256: f324d1f109be145058a462d75287f210c30f7fe8cb0f7ab16fccb13b14b342dd
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.darkneon
+Version: 1.0-5
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate, com.spark.snowboardtv
+Filename: ./debs/net.joshtv.darkneon1.0-5.deb
+Size: 40225068
+MD5sum: d9eba4010633a2e1a42512be7288d91a
+SHA1: fed9a2783224573af90e73b9bacfbbe587cb0d18
+SHA256: df2d78b799b2076609537c89c3ba397c761bf07bf29bf4988c7f0b2f18239358
+Section: Themes
+Description: A dark neon theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/DarkNeon.json
+Icon: http://joshtv.net/icon/theme.png
+Name: Dark Neon
+
+Package: net.joshtv.doom2tv
+Version: 1.3.3
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: com.Doom2TV.ATV
+Replaces: com.Doom2TV.ATV
+Provides: com.Doom2TV.ATV
+Filename: ./debs/net.joshtv.doom2tv1.3.3.deb
+Size: 18044368
+MD5sum: d65ee26e13197ad99e9d3f5cca2f2b73
+SHA1: b001e5063456e9e454c605e507935fc0ef2421d9
+SHA256: 13cbbec8618aee6661bbd378dfbed405c054a752a67e085b9c2a507e5c1e995d
+Section: Games
+Description: Doom II for Apple TV
+Author: id Software
+Depiction: http://joshtv.net/json/Doom2.json
+Icon: http://joshtv.net/icon/game.png
+Name: Doom II TV
+
+Package: net.joshtv.doomcc
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 248
+Depends: firmware (>=13.0), mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), net.joshtv.doomtv
+Filename: ./debs/net.joshtv.doomcc1.0.deb
+Size: 181716
+MD5sum: b53dc008ebc7174f578f624d2f681b48
+SHA1: c617f133bafae381cf1fc36479baa1e9726abd1b
+SHA256: 672f4513a0b2749dcbb891f78cbc79fb32deb264f58679e0475abc51362abda4
+Section: Tweaks
+Description: Quickly play Doom from anywhere on your Apple TV with the control center!
+Author: JTV
+Depiction: http://joshtv.net/json/DoomCC.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: DoomCC
+
+Package: net.joshtv.doomtv
+Version: 1.3.3
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: com.DoomTV.ATV
+Replaces: com.DoomTV.ATV
+Provides: com.DoomTV.ATV
+Filename: ./debs/net.joshtv.doomtv1.3.3.deb
+Size: 20373488
+MD5sum: aab6c167a0409be842e517e580d4540e
+SHA1: 6daa333bdc54c64049bb74bb24ac554e4b7aad75
+SHA256: 45b9207984f87f492feeb00bb26548b76d0650108a17dd32ad633c37f6413093
+Section: Games
+Description: Doom for Apple TV
+Author: id Software
+Depiction: http://joshtv.net/json/Doom.json
+Icon: http://joshtv.net/icon/game.png
+Name: DoomTV
+
+Package: net.joshtv.finaldoomtv
+Version: 1.3.3
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: com.FinalDoomTV.ATV
+Replaces: com.FinalDoomTV.ATV
+Provides: com.FinalDoomTV.ATV
+Filename: ./debs/net.joshtv.finaldoomtv1.3.3.deb
+Size: 14676500
+MD5sum: 84940720f4a1600e4ed387ea0a6672b3
+SHA1: e79914cbfe27cfd204801c3283fb40ebd05cb737
+SHA256: 06666c81bb6fdabf180a0ed49453c9d205bf9e5063a2eab281b614de7e45a1a7
+Section: Games
+Description: Final Doom for Apple TV
+Author: id Software
+Depiction: http://joshtv.net/json/FinalDoom.json
+Icon: http://joshtv.net/icon/game.png
+Name: Final Doom TV
+
+Package: net.joshtv.hangman
+Version: 1.0.2
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.hangman.deb
+Size: 26887468
+MD5sum: 5b4deb7b4cd093c43f653dabee9f8087
+SHA1: 35967c4fe39c7097f20021f789d3d867280060ef
+SHA256: ad2ef2e5261ef0c45ab7e12f84cfbd4573572c6fa7a416a8c4d8193d812afa15
+Section: Games
+Description: Play a game of Hangman for Apple TV.
+Author: Greg Fiumara
+Depiction: http://joshtv.net/json/hangman.json
+Icon: http://joshtv.net/icon/game.png
+Name: Hangman tvOS
+
+Package: net.joshtv.justdelete
+Version: 0.2-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.justdelete_0.2-1_appletvos-arm64.deb
+Size: 3456
+MD5sum: 5904b30d11eb5dd58e80a8e0e0a7d265
+SHA1: 1c39a5c18517de530efd697917bd48bc8b731e68
+SHA256: 75c8c7fab729cc475443c05cb6c8b2db74649b2f01eb9eaea2c06dce9d976fcd
+Section: Tweaks
+Description: A tweak that simply uninstalls without confirming deletion of all the apps data.
+Author: JTV
+Depiction: http://joshtv.net/json/justdelete.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: Just Delete
+
+Package: net.joshtv.kodimatrix
+Version: 19.0-0~alpha2-41
+Architecture: appletvos-arm64
+Maintainer: Memphiz et al.
+Installed-Size: 860792
+Depends: firmware (>=11.0)
+Conflicts: net.joshtv.arinc9kodi
+Replaces: net.joshtv.arinc9kodi
+Provides: net.joshtv.arinc9kodi
+Filename: ./debs/net.joshtv.kodimatrixalpha2-41.deb
+Size: 347378216
+MD5sum: f0b85c5d59e7a4be27aad20df4a50bbc
+SHA1: 558580064ba2c256e2ce5954cfea620b5dc65351
+SHA256: 1af6cabc877ecb83984e6fb142f5134303b220d38f616b4271969cbbb92f0afb
+Section: Multimedia
+Homepage: http://kodi.tv
+Description: Kodi Entertainment Center for tvOS.
+Author: Team-Kodi
+Depiction: http://joshtv.net/json/kodi19.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Kodi Matrix
+
+Package: net.joshtv.kodimatrix
+Version: 19.0-0~alpha2-45
+Architecture: appletvos-arm64
+Maintainer: Memphiz et al.
+Installed-Size: 860792
+Depends: firmware (>=11.0)
+Conflicts: net.joshtv.arinc9kodi
+Replaces: net.joshtv.arinc9kodi
+Provides: net.joshtv.arinc9kodi
+Filename: ./debs/net.joshtv.kodimatrixalpha2-45.deb
+Size: 356505736
+MD5sum: 5d7cfa71319aac20d321762c7d535675
+SHA1: e6184cf27fbc07531182bc859c01a13465af6e3c
+SHA256: 388978bc18557d81386812b2b9a0f526047144430ba616ffea5ffaef6b2fe959
+Section: Multimedia
+Homepage: http://kodi.tv
+Description: Kodi Entertainment Center for tvOS.
+Author: Team-Kodi
+Depiction: http://joshtv.net/json/kodi19.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Kodi Matrix
+
+Package: net.joshtv.kodimatrix
+Version: 19.0-0~alpha2-46
+Architecture: appletvos-arm64
+Maintainer: Memphiz et al.
+Installed-Size: 860792
+Depends: firmware (>=11.0)
+Conflicts: net.joshtv.arinc9kodi
+Replaces: net.joshtv.arinc9kodi
+Provides: net.joshtv.arinc9kodi
+Filename: ./debs/net.joshtv.kodimatrixalpha2-46.deb
+Size: 353053236
+MD5sum: 2b383ed1201cd2c1bf2654e9a9438e41
+SHA1: 9198cafd351fac36c5897f79797e6f0cb1329cc0
+SHA256: a306ffa9e664d7084f0eea8bbde5cfa61a7469ddee47b67ef014be2898ec8f68
+Section: Multimedia
+Homepage: http://kodi.tv
+Description: Kodi Entertainment Center for tvOS.
+Author: Team-Kodi
+Depiction: http://joshtv.net/json/kodi19.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Kodi Matrix
+
+Package: net.joshtv.mcpatchtv
+Version: 0.0.3-2
+Architecture: appletvos-arm64
+Maintainer: XsF1re & JTV
+Installed-Size: 68
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.mcpatchtv.deb
+Size: 3108
+MD5sum: d909412cec9c8a6d2f2049bf9b8e07bd
+SHA1: 1a959250fa6ecb2744ce3a4026add63faa3aec3f
+SHA256: b109f31085f7acb741f42d7815d9e51b69f09467de2e388e8b84c505e24fb0f1
+Section: Tweaks
+Description: Allows installing other device beta profiles for the Apple TV. Compatible with tvOS 13.x
+Author: XsF1re & JTV
+Depiction: http://joshtv.net/json/mcpatchtv.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: MCPatchTV
+
+Package: net.joshtv.mctv
+Version: 0.0.3-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Depends: mobilesubstrate, com.spark.snowboardtv
+Filename: ./debs/net.joshtv.mctv.deb
+Size: 59329320
+MD5sum: b10ace0b0c06a882e6d276d8b0717dbc
+SHA1: c8b911f8787eb5489a64fde0154d3ed6904559b9
+SHA256: 3f2f455d78dc190d28dafc2fba38bc5800a6a2aa3efd7193879ca34bd3bc0a00
+Section: Themes
+Description: A delicious theme for SnowBoardTV.
+Author: JTV
+Depiction: http://joshtv.net/json/McTV.json
+Icon: http://joshtv.net/icon/theme.png
+Name: McTV
+
+Package: net.joshtv.moonlighttv
+Version: 1.1-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Conflicts: com.JoshTV.Moonlight, applesucks.Moonlight-tvOS
+Replaces: com.JoshTV.Moonlight, applesucks.Moonlight-tvOS
+Provides: com.JoshTV.Moonlight, applesucks.Moonlight-tvOS
+Filename: ./debs/net.joshtv.moonlighttv1.1-2.deb
+Size: 29084980
+MD5sum: 2ab50da4b61b6f3d5d842ab65642ac8e
+SHA1: 389721de5d561dfd5f118da3c569932c9e361207
+SHA256: ecdd5d008efa007443f8d9615310a99fd7430dfe6e17c785bb0b415d1bc0c9cd
+Section: Entertainment
+Description: A steam client for your Apple TV.
+Author: Diego Waxemberg
+Depiction: http://joshtv.net/json/Moonlight.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Moonlight TV
+
+Package: net.joshtv.moonlighttv
+Version: 6.1.0
+Architecture: appletvos-arm64
+Maintainer: JTV
+Conflicts: com.JoshTV.Moonlight, applesucks.Moonlight-tvOS
+Replaces: com.JoshTV.Moonlight, applesucks.Moonlight-tvOS
+Provides: com.JoshTV.Moonlight, applesucks.Moonlight-tvOS
+Filename: ./debs/net.joshtv.moonlighttv610.deb
+Size: 5021016
+MD5sum: 6fddc3134611776a6560585778022e5a
+SHA1: f1059ec6d0df1f11d75ac34a77ca0e97c5bd2878
+SHA256: 0b99c8c0e61fc69c3ca2785e1273fe9f9b4d4b39f6bbd094d3fad5aeb6ac1164
+Section: Entertainment
+Description: A steam client for your Apple TV.
+Author: Diego Waxemberg
+Depiction: http://joshtv.net/json/Moonlight.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Moonlight TV
+
+Package: net.joshtv.mrwhite
+Version: 1.1.0
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.mrwhite.deb
+Size: 25527988
+MD5sum: 4c4e2342667b0966bcaded159b693c14
+SHA1: feea0976db072ec73c606d8aa9d66b57b431d2c7
+SHA256: b1c4138aec7b94d103b2e5dfc7dad40eb8b36fea4fe29183eec6e71e27786260
+Section: Games
+Description: A tvOS game similar to 'hit the targets' in Super Smash Bros.
+Author: Ty Schultz
+Depiction: http://joshtv.net/json/mrwhite.json
+Icon: http://joshtv.net/icon/game.png
+Name: Mr. White
+
+Package: net.joshtv.nobeta
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Conflicts: com.JoshTV.NoBeta
+Replaces: com.JoshTV.NoBeta
+Provides: com.JoshTV.NoBeta
+Filename: ./debs/net.joshtv.nobeta.deb
+Size: 3052
+MD5sum: 94e40dde075761e898755e1080e463d3
+SHA1: 90268218176dee940561bad5c6adc19fededefb5
+SHA256: 64c820d08aa04e8f45a3c7e0317a78ae603548e09b5fbc5544bceee4c32becfb
+Section: Tweaks
+Description: Gets rid of the beta enrolment toggle to prevent beta OS updating.
+Author: JTV
+Depiction: http://joshtv.net/json/NoBeta.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: No Beta Updates
+
+Package: net.joshtv.noreset
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Conflicts: com.JoshTV.noreset
+Replaces: com.JoshTV.noreset
+Provides: com.JoshTV.noreset
+Filename: ./debs/net.joshtv.noreset.deb
+Size: 3124
+MD5sum: 596cfcd0bd7e58465695fcf9285a582f
+SHA1: b44aff2149a1a7e96508f10441652c8db1e56f59
+SHA256: 83eafa0c9e5b992610980334a443551f75196082baa43d5790ac1f1f3b64c0fd
+Section: Tweaks
+Description: A tweak to disable "Reset all content and settings" for Apple TV 4/4K. Compatible with tvOS 10.2.2 - 13.x
+Author: JTV
+Depiction: http://joshtv.net/json/NoReset.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: No Reset
+
+Package: net.joshtv.noreset
+Version: 1.0-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Conflicts: com.JoshTV.noreset
+Replaces: com.JoshTV.noreset
+Provides: com.JoshTV.noreset
+Filename: ./debs/net.joshtv.noreset1.0-2.deb
+Size: 3136
+MD5sum: 1e14ed6db4d5d7df989707a25b304bc4
+SHA1: 61ef180d522bf493e8c65bacc3e28127262c89e5
+SHA256: 33e7ce4d2c085f62c51370c12dc4b0790ca6d32fd3ff66b336d77d909ce0d5bb
+Section: Tweaks
+Description: A tweak to disable "Reset all content and settings" for Apple TV 4/4K. Compatible with tvOS 10.2.2 - 13.x
+Author: JTV
+Depiction: http://joshtv.net/json/NoReset.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: No Reset
+
+Package: net.joshtv.nousersbegone
+Version: 0.0.1-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/net.joshtv.nousersbegone.deb
+Size: 2856
+MD5sum: 2b3bd527508588a30bc8cd5eee5828b9
+SHA1: 05e927db74a06e12b183f77ae33efbb96723ba5e
+SHA256: a387ac1d39c71ea3bca9bc306d1ce350fde5b4b98b2b8dec966007e792d1a67d
+Section: Tweaks
+Description: This tweak will prevent anyone from removing any user accounts on your Apple TV. Requires tvOS 13.
+Author: JTV
+Depiction: http://joshtv.net/json/nouser.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: No User Removal
+
+Package: net.joshtv.octopus
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: com.octopus.atv
+Replaces: com.octopus.atv
+Provides: com.octopus.atv
+Filename: ./debs/net.joshtv.octopus.deb
+Size: 10424040
+MD5sum: b3a41aceabfefe867e1bc74b1832383f
+SHA1: 85be232c46becde34ed15f938952c83e17e4cc21
+SHA256: 954104eb02ce19e5216df0c0d61660184e2129612c35817f7c0a000b1da9ccb2
+Section: Games
+Description: Nintendo's classic Octopus for Apple TV.
+Author: Roger Wetzel
+Depiction: http://joshtv.net/json/Octopus.json
+Icon: http://joshtv.net/icon/game.png
+Name: Octopus
+
+Package: net.joshtv.oldtube
+Version: 1.4
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: ATV.OldTube
+Replaces: ATV.OldTube
+Provides: ATV.OldTube
+Filename: ./debs/net.joshtv.oldtube1.4.deb
+Size: 567000
+MD5sum: 554938973bea68a180a1e5f7cb8afa4a
+SHA1: 01565efcd779598170f5b4e890820a746260ff3f
+SHA256: 4a4d46c478b9c1bbe527cc06b5a45e459fcf7e7815717ce6071cdff884ecefd0
+Section: Entertainment
+Description: YouTube, The old version for Apple TV.
+Author: Google LLC
+Depiction: http://joshtv.net/json/OldTube.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: OldTube
+
+Package: net.joshtv.onesleep
+Version: 0.0.1-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/net.joshtv.onesleep.deb
+Size: 2884
+MD5sum: 6523a3d4f59bc4a23e52055105b52eb6
+SHA1: 831b319a08275c792445a522a0e14b0c24707126
+SHA256: 9c1d74199ca1dfa87bc1575d1a00421beef0a64bd091ecc9884d29a2ece6f3d9
+Section: Tweaks
+Description: Disables the "Sleep Now" button in Settings.
+Author: JTV
+Depiction: http://joshtv.net/json/onesleep.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: One Sleep
+
+Package: net.joshtv.onesleep
+Version: 0.0.1-3
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate
+Conflicts: com.JoshTV.OnlyOneSleep
+Replaces: com.JoshTV.OnlyOneSleep
+Provides: com.JoshTV.OnlyOneSleep
+Filename: ./debs/net.joshtv.onesleep0.0.1-3.deb
+Size: 2920
+MD5sum: 688e899b8eaa9dbc9760977db45dc0fc
+SHA1: a81f288aa6bbc37e32db2f5bead76839a7e21b34
+SHA256: db7238efa66d2bfa4f3eeaaec630502ff711e697f7671fdd7c1d9953d5a94307
+Section: Tweaks
+Description: Disables the "Sleep Now" button in Settings.
+Author: JTV
+Depiction: http://joshtv.net/json/onesleep.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: One Sleep
+
+Package: net.joshtv.pandora
+Version: 1.2-2
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.pandora1.2-2.deb
+Size: 34760628
+MD5sum: 840bf53e9209d06a07bca11870e37cb5
+SHA1: 297583de2262b4eb3d307d6f85a8c981663c85f2
+SHA256: 80555d956de19a1f16b4e3911937b63a53b9b94e1e03bfacb07ccfbc80dbb321
+Section: Entertainment
+Description: Pandora music for Apple TV.
+Author: Pandora Media, Inc.
+Depiction: http://joshtv.net/json/PandoraTV.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: PandoraTV
+
+Package: net.joshtv.plex
+Version: 1.05-1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: com.plexapp.plex
+Replaces: com.plexapp.plex
+Provides: com.plexapp.plex
+Filename: ./debs/net.joshtv.plex105.deb
+Size: 10314436
+MD5sum: 65711f3dd959a2471b1c4c2dff6bab2f
+SHA1: 88100dee8030d93688251926b7b2a651875cf979
+SHA256: 0dc9af32f46c033f0f261f39c8f1410f0c4d726c3896e34bd642db19700b76b6
+Section: Multimedia
+Description: A media playback client for Apple TV.
+Author: Plex Inc.
+Depiction: http://joshtv.net/json/Plex.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Plex
+
+Package: net.joshtv.plex
+Version: 1.19-1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: com.plexapp.plex
+Replaces: com.plexapp.plex
+Provides: com.plexapp.plex
+Filename: ./debs/net.joshtv.plex.deb
+Size: 10410680
+MD5sum: 1e8f361d4ccd3b589bf68516bbf52f7d
+SHA1: b34d2183b750b894a7a47e501d0da990ff09f575
+SHA256: 0d408d0a852879ce865ea7843a1e1ac740365a0a98b02a0321352f695c965b8e
+Section: Multimedia
+Description: A media playback client for Apple TV.
+Author: Plex Inc.
+Depiction: http://joshtv.net/json/Plex.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Plex
+
+Package: net.joshtv.plex
+Version: 7.6.1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: com.plexapp.plex
+Replaces: com.plexapp.plex
+Provides: com.plexapp.plex
+Filename: ./debs/net.joshtv.plex761.deb
+Size: 18703768
+MD5sum: e76597cb86a28193f96ec2248c7133ee
+SHA1: 7562608d3f84b5ce6bccb386c3198c2950522b24
+SHA256: 86a7a2d4d8cb2293ea4e246534f46254f5bb803a9f395df76972c6279fc8ce72
+Section: Multimedia
+Description: A media playback client for Apple TV.
+Author: Plex Inc.
+Depiction: http://joshtv.net/json/Plex.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Plex
+
+Package: net.joshtv.pokemontv
+Version: 2.2.0-1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.pokemontv.deb
+Size: 6722776
+MD5sum: 04c9674b96e0b737222177667eb392be
+SHA1: 58fa40f18c685749f672489d2672a75590488050
+SHA256: 82bac10ce88ca79e184e638379b109f6a9c2d40cf343db9c9c495d3fcfc5a07f
+Section: Entertainment
+Description: Watch the entire Pokèmon series on Apple TV.
+Author: THE POKEMON COMPANY, INC.
+Depiction: http://joshtv.net/json/PokemonTV.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: PokemonTV
+
+Package: net.joshtv.pokemontv
+Version: 3.4
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.pokemontv34.deb
+Size: 5207480
+MD5sum: 7a63e78d542e33ad6431dc0836ca051e
+SHA1: face85ec6601d3baee9a05169205b240f35c9ab8
+SHA256: 86c421f6e574df9a693b67bcffe9acec15e5cecdeaef725a5708a3683bcba695
+Section: Entertainment
+Description: Watch the entire Pokèmon series on Apple TV.
+Author: THE POKEMON COMPANY, INC.
+Depiction: http://joshtv.net/json/PokemonTV.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: PokemonTV
+
+Package: net.joshtv.quakeCC
+Version: 1.0-6
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 220
+Depends: firmware (>=13.0), mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), net.joshtv.quaketv
+Filename: ./debs/net.joshtv.quakeCC_1.0-6_appletvos-arm64.deb
+Size: 151264
+MD5sum: e32cb6721746c2186702d293ba9e842f
+SHA1: 7cb56839d0f013f4971fe5a4fa0bf5d99325917d
+SHA256: 04bf31147f811de22995e07304ffbf7f056cb76d25d2eab2077ce52e17ac633b
+Section: Tweaks
+Description: Quickly play Quake from anywhere on your Apple TV via control center!
+Author: JTV
+Depiction: http://joshtv.net/json/quakecc.json
+Icon: http://joshtv.net/icon/tweaks.png
+Name: QuakeCC
+
+Package: net.joshtv.quakeIImp1
+Version: 1.4
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.quake2tvmp1.deb
+Size: 356440312
+MD5sum: fbe45ece7538d9a34267cbb77483da64
+SHA1: 95107cc998b64e442a4a6f5790c8d030e80f216d
+SHA256: 8ba289127c405751616b8c0fa92900075e1a44989b99c6fbc7ce1b01acf8daa5
+Section: Games
+Description: Quake II Mission Pack 1 for Apple TV 4/4K.
+Author: id Software
+Depiction: http://joshtv.net/json/QuakeIITVTR.json
+Icon: http://joshtv.net/icon/game.png
+Name: The Reckoning
+
+Package: net.joshtv.quakeIImp2
+Version: 1.5
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.quake2tvmp2.deb
+Size: 381562716
+MD5sum: ba60f34b4ce377e4ab4b0f9f11a3f7cb
+SHA1: 327680f7832448ad1ce0c1352fc09090a172d551
+SHA256: ef68e14fde4a26f36728b884e83dc54cb9e669bec8b0b05200fafafd67c63e99
+Section: Games
+Description: Quake II Mission Pack 2 for Apple TV 4/4K.
+Author: id Software
+Depiction: http://joshtv.net/json/QuakeIITVGZ.json
+Icon: http://joshtv.net/icon/game.png
+Name: Ground Zero
+
+Package: net.joshtv.quakeIItv
+Version: 1.5
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.quake2tv.deb
+Size: 288262212
+MD5sum: ca1b884a874710f526a96608fdbfcf52
+SHA1: c928295fc10a6f9362459ee28b83ac56bc42423a
+SHA256: 13a0c73ebf9146146037cf87620702b9c1f371974a44214ffc1210a731cfb440
+Section: Games
+Description: Quake II for Apple TV 4/4K.
+Author: id Software
+Depiction: http://joshtv.net/json/QuakeIITV.json
+Icon: http://joshtv.net/icon/game.png
+Name: Quake II TV
+
+Package: net.joshtv.quaketv
+Version: 1.0.6
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Filename: ./debs/net.joshtv.quaketv1.0.5.deb
+Size: 200786468
+MD5sum: 7b73ab9ba9d671c32b5fc582895ec5f5
+SHA1: e77a10e3af28a3ddf78fac74cbbd3a9409112b91
+SHA256: 40d25044e753af02e5f363dd5d1a7197ca5988281e102d4c9192fdf032dba2cd
+Section: Games
+Description: Quake for Apple TV 4/4K.
+Author: id Software
+Depiction: http://joshtv.net/json/QuakeTV.json
+Icon: http://joshtv.net/icon/game.png
+Name: QuakeTV
+
+Package: net.joshtv.respringer
+Version: 0.1-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 116
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/net.joshtv.respringer.deb
+Size: 72464
+MD5sum: 192605c79d5d2862027d40dae27532da
+SHA1: a305f90e06351c345e5fe409c9eda5c8694ca258
+SHA256: 9eac2959829e36fdcfc6f7918e234f4455e115e8ba9414e97585e4f11569632d
+Section: Tweaks
+Description: A respring button for your Apple TV!
+Author: JTV
+Depiction: http://joshtv.net/json/respringer.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: Respringer
+
+Package: net.joshtv.respringercc
+Version: 0.2-6
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 144
+Depends: firmware (>=13.0), mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1)
+Filename: ./debs/net.joshtv.respringercc_0.2-6_appletvos-arm64.deb
+Size: 74644
+MD5sum: 606ee52cf39b8bfcbebcd00e9424a893
+SHA1: 9268309b3e41b056309ad10b21cebd8e410c35e8
+SHA256: 7713104a5a782294a1aaf80674213dbcd83240774506a41c283d5207018b4401
+Section: Tweaks
+Description: Respring your Apple TV via control center!
+Author: JTV
+Depiction: http://joshtv.net/json/respringercc.json
+Icon: http://joshtv.net/icon/tweaks.png
+Name: RespringerCC
+
+Package: net.joshtv.retroskate
+Version: 1.0-2
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: applesucks.RetroSkate
+Replaces: applesucks.RetroSkate
+Provides: applesucks.RetroSkate
+Filename: ./debs/net.joshtv.retroskate.deb
+Size: 26151108
+MD5sum: 7ee5e58f7598b983317faf290a65f9c3
+SHA1: 5a8887bad41a1eb922a3080824a1026fb1512c7b
+SHA256: f986c0a4ca110efcf1354ec42bbab4b42b229645c26a241ac89b3f1d6553e835
+Section: Games
+Description: A retro skateboarding game for the Apple TV.
+Author: Nicholas Pettas
+Depiction: http://joshtv.net/json/RetroSkate.json
+Icon: http://joshtv.net/icon/game.png
+Name: Retro Skate
+
+Package: net.joshtv.showme
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: JTV
+Filename: ./debs/net.joshtv.showme.deb
+Size: 7276
+MD5sum: 456e15bebdc2b4688e4c36a7a9b83cef
+SHA1: 53e6936dc29953a235828c15f523d27e33c743e9
+SHA256: 0179faf8383f4e4383eeff44c4414c753732ef2fcc2470bf39619af558e92cff
+Section: Tweaks
+Description: A jailbreak bypass for Showmax.
+Author: JTV
+Depiction: http://joshtv.net/json/showme.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: ShowMe
+
+Package: net.joshtv.specbreaktv
+Version: 1.1-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 100
+Depends: mobilesubstrate
+Conflicts: com.JoshTV.SpecbreakTV
+Replaces: com.JoshTV.SpecbreakTV
+Provides: com.JoshTV.SpecbreakTV
+Filename: ./debs/net.joshtv.specbreaktv.deb
+Size: 7168
+MD5sum: 62e28643c9b5e7f56bbba69f807fd4eb
+SHA1: 94d2132b0969b0ca01e86c3af0a169aa7324afbe
+SHA256: 9526ee32e29c869e20ecf34c8073135e7cf56be6e8eb5c1cb843108f1ee0a93e
+Section: Tweaks
+Description: Bypass Spectrum TV jailbreak detection for tvOS.
+Author: JTV
+Depiction: http://joshtv.net/json/SpecbreakTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: SpecbreakTV
+
+Package: net.joshtv.starzjb
+Version: 1.1-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 104
+Depends: mobilesubstrate
+Conflicts: com.JoshTV.STARZJB
+Replaces: com.JoshTV.STARZJB
+Provides: com.JoshTV.STARZJB
+Filename: ./debs/net.joshtv.starzjb.deb
+Size: 7924
+MD5sum: b1af919c32c56b888ef1b82805ffecad
+SHA1: 625f69bbdca6b11b563a7ec3c3d5f21f4d795792
+SHA256: 6b7801a22d313a90ff5a62000ddca16a9ece5c39324ba780467c19084823975c
+Section: Tweaks
+Description: A tweak to bypass jailbreak detection in STARZ.
+Author: JTV
+Depiction: http://joshtv.net/json/Starstruck.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: STARStruck
+
+Package: net.joshtv.stayopen
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (<<13.0)
+Conflicts: com.JoshTV.NoForceClose
+Replaces: com.JoshTV.NoForceClose
+Provides: com.JoshTV.NoForceClose
+Filename: ./debs/net.joshtv.stayopen.deb
+Size: 3060
+MD5sum: 41bcdc354caea7fb239cb475f37c476c
+SHA1: 8bb8b53d9b8b4a043275140287ab24e2856edf24
+SHA256: c4d6925b6b4b0980cddaa13e39c24e2c90a1947ed0b2c23e6a74a64c7c867aa6
+Section: Tweaks
+Description: A tweak to prevent force-closing apps within multitasker. Compatible with tvOS 10.2.2 - 12.4
+Author: JTV
+Depiction: http://joshtv.net/json/StayOpen.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: Stay Open
+
+Package: net.joshtv.tvbrowser
+Version: 4.0-2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Conflicts: com.JoshTV.tvbrowser
+Replaces: com.JoshTV.tvbrowser
+Provides: com.JoshTV.tvbrowser
+Filename: ./debs/net.joshtv.tvbrowser4.0-2.deb
+Size: 174440
+MD5sum: bb69301cdebcfa032d47b0a8a8f9e01e
+SHA1: 79ba8ecc8a944564445f9d71dcb37031bf3e3798
+SHA256: bb7dc3ffa5142837bb9007f6a6aa753ae8aca36dea85097fec2e23ba0d1d95c6
+Section: Utilities
+Description: A web browser for the Apple TV.
+Depiction: http://joshtv.net/json/TVBrowser.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: tvOS Browser
+
+Package: net.joshtv.uitzendinggemist
+Version: 1.6.0-2
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Conflicts: applesucks.UitzendingGemist
+Replaces: applesucks.UitzendingGemist
+Provides: applesucks.UitzendingGemist
+Filename: ./debs/net.joshtv.uitzendinggemist.deb
+Size: 41757728
+MD5sum: 11ebcee8709e27ba4220edebe338e4fd
+SHA1: 2290abfae87601a8a2180e5c27a4f669d7e9f0ec
+SHA256: c33c1b2fbb4193592e8050dd436ab08498424b7156a853186972857791da9eac
+Section: Entertainment
+Description: A multilingual television program for the Apple TV.
+Author: TVGiDS.tv
+Depiction: http://joshtv.net/json/UitzendingGemist.json
+Icon: http://joshtv.net/icon/entertainment.png
+Name: Uitzending Gemist
+
+Package: net.joshtv.vvvvvv
+Version: 1.0.1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Depends: firmware (>= 13.0)
+Filename: ./debs/net.joshtv.vvvvvv1.0.1.deb
+Size: 132063284
+MD5sum: 9aa095b9572926cbb4f08366632148d6
+SHA1: 671df54fd971bccfaaf68a9a44b328542913655c
+SHA256: 1648a48a30005859c1ed1c32503e0ee82d7887d5409649455c149c35ed9470a1
+Section: Games
+Description: A 2010 puzzle-platform game for the Apple TV.
+Author: Terry Cavanagh
+Depiction: http://joshtv.net/json/VVVVVV.json
+Icon: http://joshtv.net/icon/game.png
+Name: VVVVVV
+
+Package: net.joshtv.wolftv
+Version: 1.2-1
+Architecture: appletvos-arm64
+Maintainer: JoshTV
+Depends: firmware (>= 13.0)
+Conflicts: com.wolfTV.ATV
+Replaces: com.wolfTV.ATV
+Provides: com.wolfTV.ATV
+Filename: ./debs/net.joshtv.wolf3dtv1.3.deb
+Size: 41414336
+MD5sum: 903ff47da5810ce6db16aab10a69eba6
+SHA1: 81e30c376f85eb8cd018ea7d9fd5303f1153d79a
+SHA256: 57908361be48c9f6c8e8b66b2628ad1c04034491675ccdaadd01e37e62687c0a
+Section: Games
+Description: Play the classic Wolfenstein 3-D for the Apple TV.
+Author: id Software
+Depiction: http://joshtv.net/json/Wolf3D.json
+Icon: http://joshtv.net/icon/game.png
+Name: Wolfenstein 3-D
+
+Package: net.joshtv.zeldatv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 104084
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.JoshTV.ZeldaTV
+Replaces: com.JoshTV.ZeldaTV
+Provides: com.JoshTV.ZeldaTV
+Filename: ./debs/net.joshtv.zeldatv.deb
+Size: 105046296
+MD5sum: 1045d87d2cde2afba86fb15290fbb82f
+SHA1: 317f6ea1c12b95e3845285b1dc7b44f630057166
+SHA256: ac0a85cfe0290eda438994174c797e6ee93a243af556af855ebdf75d013221c0
+Section: Tweaks
+Description: Listen to the sounds of the Ocarina of Time as you browse, venture and explore your jailbroken Apple TV!
+Author: JTV
+Depiction: http://joshtv.net/json/ZeldaTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: ZeldaTV
+
+Package: net.joshtv.zeldatv
+Version: 1.1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 138520
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.JoshTV.ZeldaTV
+Replaces: com.JoshTV.ZeldaTV
+Provides: com.JoshTV.ZeldaTV
+Filename: ./debs/net.joshtv.zeldatv1.1.deb
+Size: 139898672
+MD5sum: 973b06f36d62de4fe784b45a5722425d
+SHA1: 09e5e47e1ae72ec99b52ac4972d480434a2f8a5b
+SHA256: eeca7894e781d8703917e407b3485c6e50341b37b4d36bfd8628bb4e34356629
+Section: Tweaks
+Description: Listen to the sounds of the Ocarina of Time as you browse, venture and explore your jailbroken Apple TV!
+Author: JTV
+Depiction: http://joshtv.net/json/ZeldaTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: ZeldaTV
+
+Package: net.joshtv.zeldatv
+Version: 1.2
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 138520
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.JoshTV.ZeldaTV
+Replaces: com.JoshTV.ZeldaTV
+Provides: com.JoshTV.ZeldaTV
+Filename: ./debs/net.joshtv.zeldatv1.2.deb
+Size: 137890532
+MD5sum: 8cffa4e5f7686c3b209ff37af0f01d27
+SHA1: 498d17a9e84cc3001be25281539eff6d357c2766
+SHA256: 6298e22b085ef550c86411136feeef3f62e4d2e623f6793bb8f6d3fabee382c7
+Section: Tweaks
+Description: Listen to the sounds of the Ocarina of Time as you browse, venture and explore your jailbroken Apple TV!
+Author: JTV
+Depiction: http://joshtv.net/json/ZeldaTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: ZeldaTV
+
+Package: net.joshtv.zeldatv
+Version: 1.3
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 15072
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.JoshTV.ZeldaTV
+Replaces: com.JoshTV.ZeldaTV
+Provides: com.JoshTV.ZeldaTV
+Filename: ./debs/net.joshtv.zeldatv1.3.deb
+Size: 14855468
+MD5sum: 946154aa3eabbffbd6988b638d7535b8
+SHA1: d65c8797d3bf18bb93494324698f590b09e7aed7
+SHA256: 4ff906929c866003b813aa4b272ab72b8eef66400316b0e89034e473e7fbc9c2
+Section: Tweaks
+Description: Listen to the sounds of the Ocarina of Time as you browse, venture and explore your jailbroken Apple TV!
+Author: JTV
+Depiction: http://joshtv.net/json/ZeldaTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: ZeldaTV
+
+Package: net.joshtv.zeldatv
+Version: 1.3-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 15072
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.JoshTV.ZeldaTV
+Replaces: com.JoshTV.ZeldaTV
+Provides: com.JoshTV.ZeldaTV
+Filename: ./debs/net.joshtv.zeldatv1.3-1.deb
+Size: 14855468
+MD5sum: 62076d9f05c7441f7c1e50f5e9c0f9d6
+SHA1: 0638b4c2c5a15976f8617a06264fa690e518f9bc
+SHA256: 3ecbead309b996cb1aa2b371ef606dce001bc71fc2618c9cf43684498216d926
+Section: Tweaks
+Description: Listen to the sounds of the Ocarina of Time as you browse, venture and explore your jailbroken Apple TV!
+Author: JTV
+Depiction: http://joshtv.net/json/ZeldaTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: ZeldaTV
+
+Package: net.joshtv.zeldatv
+Version: 1.5-1
+Architecture: appletvos-arm64
+Maintainer: JTV
+Installed-Size: 26392
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.JoshTV.ZeldaTV
+Replaces: com.JoshTV.ZeldaTV
+Provides: com.JoshTV.ZeldaTV
+Filename: ./debs/net.joshtv.zeldatv_1.5-1.deb
+Size: 26428444
+MD5sum: 7ab4e923efd5487b6bbcee76e7640149
+SHA1: fd34ef269c46c4362156de7811c2d638c05886e1
+SHA256: 930e844aa33d845123c0a286151c1503463bd7c7ead01a6537738a7e1debefd0
+Section: Tweaks
+Description: Listen to the sounds of the Ocarina of Time as you browse, venture and explore your jailbroken Apple TV!
+Author: JTV
+Depiction: http://joshtv.net/json/ZeldaTV.json
+Icon: http://joshtv.net/icon/tweak.png
+Name: ZeldaTV
+
+Package: re.frida.server
+Version: 12.11.12
+Architecture: appletvos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Conflicts: re.frida.server32, re.frida.server64
+Filename: ./debs/re.frida.server_12.11.12_appletvos-arm64.deb
+Size: 12420932
+MD5sum: 1ca36b19f33c38b2f44ee58daf2c347a
+SHA1: 1a9a0068e4d6f85c1e71a9389ba15ed6b1cf3782
+SHA256: cd0608755fa56f1a78b66d265e510db6a6b16f91d044502b48afdef64d536090
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS/tvOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Icon: http://joshtv.net/icon/dev.png
+Name: Frida
+

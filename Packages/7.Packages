@@ -1,0 +1,1117 @@
+Package: net.sident.rio.ios.adonymous
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.adonymous_0.2.deb
+Size: 5568
+MD5sum: e8bc60a0ae7d92f225a1885450e30341
+SHA1: de33a57308536fb3fd113c114ea0cb0c09d4ab7d
+SHA256: 28d82106cd48adf3e598ed09a4dfc41ccd29745eb31c1fb6d52ff4545488ab8d
+Section: Utilities
+Description: Block Google AdMob to access iTunesMetadata.plist like newer iOS
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.adonymous_0.2.html
+Name: Adonymous
+
+Package: net.sident.rio.ios.armv7s
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 6.0), ldid
+Filename: ./main/net.sident.rio.ios.armv7s_1.0.deb
+Size: 4812
+MD5sum: 4d7b5348c9a585d4838954169a507de5
+SHA1: c769840de0c090f7760e4efcd3f5dd5026153039
+SHA256: bdde802e5af5738b77627e201ce75d91d758687691f3abf4ea79cbf0373d6d83
+Section: Utilities
+Description: Patch arm binary to work on A6
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.armv7s_1.0.html
+Name: armv7s
+
+Package: net.sident.rio.ios.ban4invader
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.ban4invader_1.4.deb
+Size: 24722
+MD5sum: 5c527ffdee86ff9f473fad0e56f55e38
+SHA1: 8922ae145a53ee7b67fc14cab52987820261b23e
+SHA256: a7ded57cc9d3bfdc65a85c700f13c8e449b7cad68e52a35808f7c710908f9b5f
+Section: Utilities
+Description: Check the invaders. Ban! Ban! Ban! Ban! Invader!
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.ban4invader_1.4.html
+Name: Ban4Invader
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.13.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.13.0.deb
+Size: 176684
+MD5sum: deb4cfb7de0bfbeb49fb949b362943d1
+SHA1: 7441629692a1d0963da2e7ae6ffefc66dcda6a20
+SHA256: 67188d279f34665eaeb01e8a4a667c945ea89c99d8266035b8f96fd19a3fdb40
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.13.0.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.13.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.13.1.deb
+Size: 176780
+MD5sum: 7bb312c3bcf7fa5c26d1c7c8b74c6c0e
+SHA1: 44f335da8240bb036e5af4705b9964d603f92ca9
+SHA256: 9d863d3caa3a311a1a621a8f8b0b87bd2997251b0f6083ab3b894b51229ad640
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.13.1.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.13.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.13.2.deb
+Size: 177366
+MD5sum: 0c713c740bec6ac5160ef00a0f3618c4
+SHA1: 2cff1a020283b1634669a813e29f483ec0beb44a
+SHA256: aa0aa1ef5331c0523205a650df99e097303bec10d35cf747700807df0bc4c1f4
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.13.2.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.13.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.13.3.deb
+Size: 177398
+MD5sum: c3e2e07eadade39b3ba992a2daf85abd
+SHA1: a145aa4f0adbfca3f84b5576d8838c8fc7ddd71a
+SHA256: f2b33cceb2062613f395655a9d590d0a87cf292a42d2ac9506521770382c5d00
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.13.3.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.13.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.13.4.deb
+Size: 177424
+MD5sum: c7b5a481d4c5925d4f5d37e26c99d5b3
+SHA1: a11f2f18850ced4181ed7544b87e1bc5ea45b7c8
+SHA256: 439d175438e884cfe8e13327e4bfde55a5a309947824cd13ded57c8c7f161542
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.13.4.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.13.5
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.13.5.deb
+Size: 177526
+MD5sum: ed94d6afd88b368728927c508905a7d1
+SHA1: 057ad9070c4b7d025c7b62e158367577558554fc
+SHA256: eafe3f21254859e5b81cff25fd575d5ec6618855a9e8ac7c2cfbed4a1286b1e1
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.13.5.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.14.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.14.1.deb
+Size: 177390
+MD5sum: 41294498b209629d96006b27dfef60bc
+SHA1: dc8a86b470674589929dcc4d21d8d7e3cb09b98e
+SHA256: d99220ea1407f93566be3322840727f947089db98470e2f5d6821c5098093dac
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.14.1.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.14.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.14.4.deb
+Size: 177388
+MD5sum: 2d3873ceee9d51b31be9dd0304fd8041
+SHA1: eb7aeba303c58068607a8447d8909a82904c64a2
+SHA256: 8b14e7648b6a22890461bd440b8c5ac1bf4af0673fd0b06e5870ca9f19505c78
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.14.4.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.14.5
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.14.5.deb
+Size: 177104
+MD5sum: e122fb068925592258f00f18adb36711
+SHA1: 7d14aa95f2acb225672b4c1dca4855d192eac29d
+SHA256: 46c0051de38ed995b1c0a0977e1357121dddddc585783f1fb043ecb3a8258d3a
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.14.5.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.14.6
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.14.6.deb
+Size: 178354
+MD5sum: b311a56a3b228e4057f9965f4d39b71d
+SHA1: 51a42545f96dd66eb9baf65749efde67846d6e97
+SHA256: 76f3b64ddfb3bc0693445679e51fcd9c708d2021951b51f8a05dbb48c5d6bedf
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.14.6.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.14.7
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.14.7.deb
+Size: 178714
+MD5sum: 40589946588f894dc2039243ac1495d6
+SHA1: abec0b5d652ddc414bd425819b4cd312c6b0f55d
+SHA256: 8033576eaafa0f7f92944336f6385269d805421f1a36581e5006f29e76771bb8
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.14.7.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.14.8
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.14.8.deb
+Size: 178718
+MD5sum: bfaf479cb1254e3db32351a70d165d99
+SHA1: 5c8fe4fe6fe86326fb0af72791ad7f2480962a6c
+SHA256: c02d93edeb6723722bac5e24e047518abaf37794b2af62a2df112000201ba0a8
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.14.8.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.14.9
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.14.9.deb
+Size: 178714
+MD5sum: db1c4458fb64f8d42549b1579a787bba
+SHA1: 18ec741cf05cf8a0a01ac3b9b08361c9ce57e257
+SHA256: 820de40a5725719689a7f1736e8e491b7e4646e7a1e9c91b67607753f09567eb
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.14.9.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.15.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.15.0.deb
+Size: 178712
+MD5sum: 5233b06d28204886a564a7b6fe09e10f
+SHA1: f1637bd20d1c955898937a00c448b33cbbd2eaae
+SHA256: 79bc25213a113485c4b611fabc3454de92432ef60e42e24ec36eb7a5474961da
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.15.0.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.15.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.15.1.deb
+Size: 179440
+MD5sum: 0c4ffea46027de3b42e38f59c14c3f7f
+SHA1: 55f8cc841ed0ba44570f842828b9c843527d9051
+SHA256: c2e0cbced284c9282c52b0e072c38c1cdb6e82fc1ecabc162bd9e790a06ead9b
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.15.1.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.15.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.15.2.deb
+Size: 180898
+MD5sum: d37a54fcad7168c80783dedab9a95fc4
+SHA1: e0d72b166839d90ae85ffea09c8ad6285360ae19
+SHA256: 69be0cbc4f6b75644dffc6e8ed9eb306f26260e1f3041f95521b0584c0c409fc
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.15.2.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.16.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.16.0.deb
+Size: 181106
+MD5sum: 35e398fabdcdfdd1162185140bfb4283
+SHA1: 9577bc0890a1f20adb029a0a85fcec7e007c5bf1
+SHA256: a1c03f347e7579e624ab19d5ec922d420518653760f9a21239b3fa7455abb664
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.16.0.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.16.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.16.2.deb
+Size: 181160
+MD5sum: 2a72aed7e1d12f20910cf00c46288686
+SHA1: e30da98c122918c10f9563332168ccb5e9ae192b
+SHA256: 00b7b4a2c1632e1d76e911754948b2ed56e4a844bce6c1ac7cbb559e7459f853
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.16.2.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.16.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.16.3.deb
+Size: 182162
+MD5sum: cc82ef9a46e15b9e16b8ee1c38149fe1
+SHA1: dd45b6ba705065dc989559956cf7c0bf318391a0
+SHA256: 2bfedd68cc6ac800cef92e1327ef6dae2f9d417d1a5c36b741de0fb950157f2d
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.16.3.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.16.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.16.4.deb
+Size: 182154
+MD5sum: 9415b1a544f02e4dcd92647f744d2b11
+SHA1: ab52268eeacc97517c4bea7383b325a5de73d12b
+SHA256: 1abb9b46e816f4399f32aaa39f43d52ea49e796c170f9bdbe40b85450d0f0ded
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.16.4.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.16.5
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.16.5.deb
+Size: 182912
+MD5sum: 52a83cfe453d68241fe7fbd6d3a1612c
+SHA1: ff45e54957839516e2366d46068e1f79d56ba213
+SHA256: bb67f7ffba72d352a690d8f27df0577774ba0543d5b2895c3930824ba813e329
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.16.5.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.16.7
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.16.7.deb
+Size: 183710
+MD5sum: a223da6cfb325f83d20009264eaae4cb
+SHA1: e8ab97263442b34a280db33aa49aa9ce760aa1f7
+SHA256: 387a9e9a00f299e59e58540854c1789d0df98eff5427d9487fe1767cb27402bb
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.16.7.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.17.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.17.0.deb
+Size: 183700
+MD5sum: 4f00cb5668cfcf7be771ccb7e01bfa68
+SHA1: 76c6b839dfc70a4d1b2fe1900ffc49317c34b150
+SHA256: 5c4ad61d8c4bceeae14c99c1ccf6a7c8e02f45b351e82896709564af48a50d8f
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.17.0.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.17.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.17.1.deb
+Size: 187676
+MD5sum: db64cd50293eb9609ad3ca5df8053414
+SHA1: 29b35b47edf69b6147b66e1a22dc4fc5cb1271ae
+SHA256: d08141b043f77ec1aea22ae177b18307bbf987019bf4caf83c87663d9d6e1102
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.17.1.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.17.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.17.2.deb
+Size: 188224
+MD5sum: b7c7c8ddad7c46f71e241ac2cc52c1b3
+SHA1: 09e6710d880889aee956549e32ace37a9e84c5ba
+SHA256: 499ae36fb9341ef7580dbb74a7cd74f2bde6fade9c0ba0269ee125c6954ab90f
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.17.2.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.17.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.17.3.deb
+Size: 188382
+MD5sum: beb326810123798ff2a67701d97fd65c
+SHA1: ec3f8082c0e838f8cb25b3d3907013fa85c5c6a2
+SHA256: 6941d10719078613dc406717936cb0ed5163e90adabf1948d7285013ba631183
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.17.3.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.17.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.17.4.deb
+Size: 188138
+MD5sum: b476a87faf1362cf16e67bbb043bd29b
+SHA1: 55dbb136a18224974ca0fd3ecd5c4eebef212b4c
+SHA256: 893491a9ce06c7ca019b7525cc6de286db6589b04c3587682ca1480480b1f529
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.17.4.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.17.5
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.17.5.deb
+Size: 188518
+MD5sum: 22dceeb0b0e53a81758ae9718e06b1d8
+SHA1: fe578733006ad2bea9a4b66ecc9451bb7d158268
+SHA256: 088c0e7384292676613e1192ca7c9337d51f194033042817ce11c078e912c876
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.17.5.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.18.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.18.0.deb
+Size: 188996
+MD5sum: 7799be0ffd612ea1b5415ded3df4f8a1
+SHA1: 3859454ece0032b9079c21823dd7bd6306a057b9
+SHA256: ec280a83b8d49e9fc5cf68a335333b319e25b94c2549b9e7d2444a46abad7393
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.18.0.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.19.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.19.1.deb
+Size: 204636
+MD5sum: edf19a89d9ac8b43d939d531307bd943
+SHA1: 5de3711e5d619d8c357b9ea7452e111ccb8024c5
+SHA256: 0e7e85a0b4d46c8b188043c0ac305de74abb3851c188c6eb49b68014dafcd36a
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.19.1.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.19.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.19.2.deb
+Size: 204870
+MD5sum: 64c35a9fe2f698bde51c5780430d58ee
+SHA1: 395522dea45ff8ee3fd02fb6bd78894a42747594
+SHA256: 0bcf64d1a84e7d0c15a25aeb0f536f3e2cedb1ea98f6cc83f33f3c17bb933a10
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.19.2.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.19.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.19.3.deb
+Size: 205798
+MD5sum: 1bc0e6f60e9c6298cb3fec18cc5ac0ab
+SHA1: ca9ce4c2533f0d152d6c9d540acf26254f2cca75
+SHA256: edd3066d2039b238f92496105a7170aabe72f97d12ab1d82569bb3908e618e99
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.19.3.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.19.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.19.4.deb
+Size: 205804
+MD5sum: 1284d03d91380722c645d50faecbea3a
+SHA1: 15414b22b4ca7a903ec2c55bf4de3c0f3ada3a74
+SHA256: 0563670126b2df88c28659afe2fd1a5de138b5f54190ca044760d25f11fa01b7
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.19.4.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.21.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.21.1.deb
+Size: 194816
+MD5sum: 765e57ad8f9097fbb30db79f14d7ad20
+SHA1: 6391ed7c5670a5120981f10e638abdd00d9bda1b
+SHA256: 23f6aeca38faa96e815c7b178868468c7c11c3e178a54c3209f734dc4ff56804
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.21.1.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.21.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.21.2.deb
+Size: 197152
+MD5sum: a8a30bdc4b76b918f86c40ff67cf140c
+SHA1: 3917ee261f3995a84614947f416d805a07f925d3
+SHA256: 198adb381f67a7980bfa325b3c5a183a8897828732eb5dc30b201d1c6d068374
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.21.2.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.21.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), firmware (<< 11.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.21.3.deb
+Size: 185808
+MD5sum: 2dc2d6793acda361cf75ac9612337bc8
+SHA1: 90dccb280df3ea8a14d018350669c239ff02b051
+SHA256: 0c78ea5330f17ad52f5eed1ce63881c3aa2b179b3d4ed7ad426f89b932c5520e
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.21.3.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.21.5
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), firmware (<< 12.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.21.5.deb
+Size: 185972
+MD5sum: b14d3d9db476ee64a84ccded47cccebe
+SHA1: f8a71a12849608d13ff0d172c394f474f5161cbe
+SHA256: 80b711c2f01267b2985de7a0726af903dffc6294f795c7c0c78796b3544063a0
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.21.5.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.22
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), firmware (<< 12.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.22.deb
+Size: 186938
+MD5sum: f192eb6ec92e99202e2a0ec2cb4c67fa
+SHA1: 38e712e82652c89b8c2e48680dec0e14af25d457
+SHA256: fac06eb5c7163f2dddb6e551d9a1ff3384d99cbb15955f10655c849f3edf8e65
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.22.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.22.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), firmware (<< 12.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.22.1.deb
+Size: 187098
+MD5sum: 0f6f0f6ce3970fc9c05f0ba0d8e68fa6
+SHA1: 8922cc24a1434145d2378a012fbaae8eb70d2b7f
+SHA256: 2e7992cb07089773148109ee77041aed4ca7f519d7c4edfff02c4c25391d7f21
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.22.1.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.22.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), firmware (<< 12.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.22.2.deb
+Size: 187178
+MD5sum: e356f1c81e4ce758daee9144eeebb1f4
+SHA1: cda3e08cd3f9a576d7e900099b7c9288f01f2f4a
+SHA256: 0dfd790a74d0e3db4c931133140c37c93def69a8e4968340ab201df6139a0670
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.22.2.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.22.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), firmware (<< 12.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.22.3.deb
+Size: 187456
+MD5sum: 19020783e56b43ecedd411c51426e1e3
+SHA1: 5b85b3446c0bd2379a05217ae759eece41013ad0
+SHA256: 8bd8516e72d4f6c061f0a187b413ba7d92910aea8b1b7c468ab9fe02e439cbb8
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.22.3.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.22.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), firmware (<< 12.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.22.4.deb
+Size: 189556
+MD5sum: fc23429bafcd8326edfa6504c5522f42
+SHA1: 02c715e21883a2c57a4acb23a50e5b656baac5ed
+SHA256: 6ea1a55e238f98f7523dfda0bbbd91ffdffb866263c5c6f237656e5f65897c55
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.22.4.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.breakthrough
+Version: 8.22.5
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./main/net.sident.rio.ios.breakthrough_8.22.5.deb
+Size: 190250
+MD5sum: 07fbfebed50cc6400bf5e1c698b35013
+SHA1: c0dd5c629de7a78ed3f90fddb8501eb633b23411
+SHA256: 4f2f97acc55a3c6ba7424be3af2711133dc311d00936f76ee4741a3dc4d3deac
+Section: Utilities
+Description: Breaks jailbreak detection
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.22.5.html
+Name: BreakThrough
+
+Package: net.sident.rio.ios.catsanddogs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: net.sident.rio.ios.tempfixconfirm2proceed
+Filename: ./main/net.sident.rio.ios.catsanddogs_1.0.deb
+Size: 11050
+MD5sum: f090e6bf67dfb511f75489c4d49c7d86
+SHA1: dfee2968557dab79a2cd363aa368585dfe29ec76
+SHA256: 329853862d4eea810eea0ac573802332200c7241238a20b8a9cc3f4df905f5bc
+Section: Utilities
+Description: Separate cats and dogs
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.catsanddogs_1.0.html
+Name: CatsAndDogs
+
+Package: net.sident.rio.ios.catsanddogs
+Version: 1.01
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: net.sident.rio.ios.tempfixconfirm2proceed
+Filename: ./main/net.sident.rio.ios.catsanddogs_1.01.deb
+Size: 21316
+MD5sum: 05a8b2f35ad65f0cb743cf5887b67718
+SHA1: 54a3332a00d0adca489b4324c749e529921d35be
+SHA256: b3e2becab230b9b60d023011d11a7696df09a85b7d5c78652ee0f195fd95793c
+Section: Utilities
+Description: Separate cats and dogs
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.catsanddogs_1.01.html
+Name: CatsAndDogs
+
+Package: net.sident.rio.ios.customsand
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 6.1), firmware (< 7), mobilesubstrate, libactivator
+Filename: ./main/net.sident.rio.ios.customsand_3.0.deb
+Size: 38440
+MD5sum: ac205269915e0a2f88e115c00ae27fda
+SHA1: fb66081a161ae436151f347257f001c75d39f1a4
+SHA256: 9005b993dd4dce7fbb21bfebdb8897f9acaab544df388e933f587c1f1f794e1d
+Section: Utilities
+Description: Customize your sandboxes
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.customsand_3.0.html
+Name: Custom Sandbox
+
+Package: net.sident.rio.ios.disablepowervibration
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: net.sident.rio.ios.setpowernotification
+Conflicts: net.sident.rio.ios.enablepowervibration
+Filename: ./main/net.sident.rio.ios.disablepowervibration_1.0.2.deb
+Size: 1044
+MD5sum: 291ec81f72da1b8b999b147647cd8c88
+SHA1: 2d758c0e8bf8e382c7ec1f8290d1f3c82de78823
+SHA256: 852a092345e0db1590143a4c9235e92ce32308322384fa67c7b37beab7433d7a
+Section: Utilities
+Description: Disable power vibration
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.disablepowervibration_1.0.2.html
+Name: Disable Power Vibration
+
+Package: net.sident.rio.ios.disablevoicecontrol
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (< 7), net.sident.rio.ios.setvoicecontrol
+Conflicts: net.sident.rio.ios.enablevoicecontrol
+Filename: ./main/net.sident.rio.ios.disablevoicecontrol_1.0.1.deb
+Size: 1534
+MD5sum: d28262c35f817fc2c54e6ad85947da1b
+SHA1: b784ad439b507a9ed607811fd596f06da29994cb
+SHA256: 2f486dfd728253333b54966f4ad6c6f590dc2796b5b8555698bb841286b3ee74
+Section: Utilities
+Description: Disable voice control.
+ One time patch on installation - you can uninstall anytime.
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.disablevoicecontrol_1.0.1.html
+Name: DisableVoiceControl
+
+Package: net.sident.rio.ios.disablevoicecontrol7
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 7.0)
+Filename: ./main/net.sident.rio.ios.disablevoicecontrol7_1.0.2.deb
+Size: 942
+MD5sum: ccc1965b4085e3db22aa51c25621d888
+SHA1: 5159283d0ef6b0215362b180caa8d05038e98c3e
+SHA256: 1ed28927257296b1761233904a273d6b00dcf9112fd813d9467b6928445cd0a9
+Section: Utilities
+Description: Disable Voice Control
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.disablevoicecontrol7_1.0.2.html
+Name: DisableVoiceControl7
+
+Package: net.sident.rio.ios.enablepowervibration
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: net.sident.rio.ios.setpowernotification
+Conflicts: net.sident.rio.ios.disablepowervibration
+Filename: ./main/net.sident.rio.ios.enablepowervibration_1.0.2.deb
+Size: 1046
+MD5sum: 824a3afb3c5492bb11b1320e69266135
+SHA1: bc8f7e63937ce57bc86ef60af7126554b52bb0c2
+SHA256: 441a6a17d36a1fb98478d5bf83e24de4f716d67f2f5aa28623630379bc689371
+Section: Utilities
+Description: Enable power vibration
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.enablepowervibration_1.0.2.html
+Name: Enable Power Vibration
+
+Package: net.sident.rio.ios.enablevoicecontrol
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (< 7), net.sident.rio.ios.setvoicecontrol
+Conflicts: net.sident.rio.ios.disablevoicecontrol
+Filename: ./main/net.sident.rio.ios.enablevoicecontrol_1.0.1.deb
+Size: 1526
+MD5sum: bf104dde58019650bba73937558ea46b
+SHA1: df618e8c3e08c3127660f1f61d9d340b6c85209f
+SHA256: 9499ef068417ad83e93797faca357d3c04dda1ddf4d0c51bdf9bbaf41247a6a1
+Section: Utilities
+Description: Enable voice control.
+ One time patch on installation - you can uninstall anytime.
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.enablevoicecontrol_1.0.1.html
+Name: EnableVoiceControl
+
+Package: net.sident.rio.ios.fetchforemail
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: mobilesubstrate
+Filename: ./main/net.sident.rio.ios.fetchforemail_1.0.deb
+Size: 19742
+MD5sum: 199a25ad955e1cdd3506e7977c9e8359
+SHA1: 5f167ebe47473bf98fc81a5a9b4ec8b093c3a54b
+SHA256: 5d53173ad6fb490c4bb488ff3d1eee8ea997b10e03315235961241fd0c1fe682
+Section: Utilities
+Description: Fetch E-mail when Gmail arrives
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.fetchforemail_1.0.html
+Name: Fetch for Email
+
+Package: net.sident.rio.ios.fixfirewallip7
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 6.0), mobilesubstrate, com.yllier.firewall7
+Filename: ./main/net.sident.rio.ios.fixfirewallip7_0.3.deb
+Size: 6050
+MD5sum: a60571878e60fff2ebd3222788c44363
+SHA1: 69b13bb423098ac86bd6cc5c2d65eb6ded190319
+SHA256: ce84a7c2dcb7d7a14a958176c19b2b0000e7e01c60d4357bfc92e831ad23ed67
+Section: Utilities
+Description: Fix FirewallIP7 issue (crash in getnameinfo)
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.fixfirewallip7_0.3.html
+Name: FixFirewallIP7
+
+Package: net.sident.rio.ios.globalscreenshot
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: net.sident.rio.ios.setregionalsound
+Conflicts: net.sident.rio.ios.japanscreenshot
+Filename: ./main/net.sident.rio.ios.globalscreenshot_1.0.deb
+Size: 1056
+MD5sum: 2114c2b4ea247a642013b390b487c06d
+SHA1: 3803134fc343fdf60a4617fa569201552b3289b2
+SHA256: 4011192496ea1a37571aa6e25f2581d00e12a3fe955e1aaeea38b1ed499a16bd
+Section: Utilities
+Description: Set screen shot sound for Global
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.globalscreenshot_1.0.html
+Name: Global Screen Shot
+
+Package: net.sident.rio.ios.globalvideosound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: net.sident.rio.ios.setregionalsound
+Conflicts: net.sident.rio.ios.japanvideosound
+Filename: ./main/net.sident.rio.ios.globalvideosound_1.0.deb
+Size: 1042
+MD5sum: cc4fe3ac915a3b47ddfa844b45c1db6c
+SHA1: c91fac00431e19426456a5df72e7402c7bdce57b
+SHA256: 5aba530c84374d5ec4c3ef84a9121d846755fbe4055ab88e578c624b2393bdfa
+Section: Utilities
+Description: Set video sound for Global
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.globalvideosound_1.0.html
+Name: Global Video Sound
+
+Package: net.sident.rio.ios.japanscreenshot
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: net.sident.rio.ios.setregionalsound
+Conflicts: net.sident.rio.ios.globalscreenshot
+Filename: ./main/net.sident.rio.ios.japanscreenshot_1.0.deb
+Size: 1048
+MD5sum: 4660f2c596620c321db4f1da14823cfb
+SHA1: 92d5b6c1a255c1acf497aabeecc9b26d201541f1
+SHA256: 7cd2152ae8e7fb4a4ab0292b60db48df47bcc01b36ec0c90d5a8be11322e8324
+Section: Utilities
+Description: Set screen shot sound for Japan
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.japanscreenshot_1.0.html
+Name: Japan Screen Shot
+
+Package: net.sident.rio.ios.japanvideosound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: net.sident.rio.ios.setregionalsound
+Conflicts: net.sident.rio.ios.globalscreenshot
+Filename: ./main/net.sident.rio.ios.japanvideosound_1.0.deb
+Size: 1042
+MD5sum: 17119dbfe9d9aab42407791eade64162
+SHA1: d2196ae33b1469f7ddae98f67dce5c1efab3cdb6
+SHA256: bac19bf092f98a95b5e2e7556ec6e7cbb2a671b4271eeca18c3b364ca159dc75
+Section: Utilities
+Description: Set video sound for Japan
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.japanvideosound_1.0.html
+Name: Japan Video Sound
+
+Package: net.sident.rio.ios.noybang
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 7.0)
+Filename: ./main/net.sident.rio.ios.noybang_1.0.deb
+Size: 852
+MD5sum: 1a5ec81b9e4ef79cc224d8f7059eb65b
+SHA1: da8a9e56552eca501386bfff3142feed08ecd633
+SHA256: 426a42bbd007fd555f451e021adc415b7561f405e10b1817752b26117b8d5cdb
+Section: Utilities
+Description: Supress Y! from Notification Center
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.noybang_1.0.html
+Name: NoYBang
+
+Package: net.sident.rio.ios.protectmyprivacyfix
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: org.protectmyprivacy.pmp (<= 3.0.3)
+Conflicts: org.protectmyprivacy.pmp (>= 3.0.4)
+Filename: ./main/net.sident.rio.ios.protectmyprivacyfix_0.1.deb
+Size: 1188
+MD5sum: e36f7e0500c19a73fa814cb9ebb6ee3a
+SHA1: fc2c155e223ff4b7fe5900de1f6e2f885eb87bf7
+SHA256: 3fb998bb8bee6924ef346a9315c8e4e7d3664de6fbe10041772ec79e44b6d4d9
+Section: Utilities
+Description: Fix for ProtectMyPrivacy
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.protectmyprivacyfix_0.1.html
+Name: ProtectMyPrivacy-Fix
+
+Package: net.sident.rio.ios.quickmassage
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 5.0),sqlite3
+Filename: ./main/net.sident.rio.ios.quickmassage_0.4.deb
+Size: 462056
+MD5sum: bb5cfbd33038263917f18928a2422f53
+SHA1: 163f21440d2f6f3f3ed790feba6cdcab2dc4368e
+SHA256: fee11aac08c85e56d601835d82b543b8b2c2ffbb8b96d7123156a787064db9cd
+Section: Utilities
+Description: Tiny tools for iOS
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.quickmassage_0.4.html
+Name: QuickMassage
+
+Package: net.sident.rio.ios.resubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 6)
+Filename: ./main/net.sident.rio.ios.resubstrate_0.1.deb
+Size: 11146
+MD5sum: 5a7af4cec28d5965e9f892a5c34bb565
+SHA1: f5e922818075c95ae721b4a4e84ff4d6d53adeb2
+SHA256: d9f227386dcba8abe6a2e0a2492d2d450c706b298dc91675943c37a8fe8f5966
+Section: Utilities
+Description: Reactivate MobileSubstrate
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.resubstrate_0.1.html
+Name: ReSubstrate
+
+Package: net.sident.rio.ios.setpowernotification
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: coreutils,com.ericasadun.utilities
+Filename: ./main/net.sident.rio.ios.setpowernotification_1.0.2.deb
+Size: 1516
+MD5sum: bea226d3a20e6e92c3ef47e2b372fa3d
+SHA1: 4a312b1178899919ffa81ea5b0e2b0f3ddb108dc
+SHA256: 12d2c2bb21289b490c9ae09afb0f6118b02d00a1210081adfb7f60ab375a6e8f
+Section: Utilities
+Description: Sub-program to set power notification
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.setpowernotification_1.0.2.html
+Name: Set Power Notification
+
+Package: net.sident.rio.ios.setregionalsound
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: coreutils,com.ericasadun.utilities
+Filename: ./main/net.sident.rio.ios.setregionalsound_1.0.2.deb
+Size: 1386
+MD5sum: efed93bb84b8daf2984347c5cf6a1ef7
+SHA1: 038330df1becd2be09287ebdeb119377317581a0
+SHA256: f46bfd336dc0dfaffb81d0a7fb66268b1303d0a2954259004528214c9a114ecf
+Section: Utilities
+Description: Sub-program to set regional sound parameter
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.setregionalsound_1.0.2.html
+Name: Set Regional Sound
+
+Package: net.sident.rio.ios.setvoicecontrol
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: coreutils,com.ericasadun.utilities
+Filename: ./main/net.sident.rio.ios.setvoicecontrol_1.0.deb
+Size: 1234
+MD5sum: 26c02af90867df682a5204712042075f
+SHA1: 65a261333d595971c0d2fec4619db47a115fe5d3
+SHA256: 6ed682881671e9e9090c237a67d1ac6820072fb02a0de88e6198e487e62b06c6
+Section: Utilities
+Description: Sub-program to set voice control
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.setvoicecontrol_1.0.html
+Name: Set Voice Control
+
+Package: net.sident.rio.ios.shakehands
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: firmware (>= 6.0), mobilesubstrate, libactivator, com.ichitaso.ltetoggle
+Filename: ./main/net.sident.rio.ios.shakehands_1.0.deb
+Size: 9896
+MD5sum: e0d30374dd9889c844e59d71052d5e4d
+SHA1: 451d1694d24b4adb57c9666b6d69a4939f7ad392
+SHA256: 3a8c302c55cb718e50f0bc8fadb5ca5f8edca25174247493b78780983750b181
+Section: Utilities
+Description: Shake to reconnect LTE
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.shakehands_1.0.html
+Name: ShakeHands
+
+Package: net.sident.rio.ipj.sshboot
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Depends: mobilesubstrate,sbsettings
+Filename: ./main/net.sident.rio.ipj.sshboot_1.0.3_iphoneos-arm.deb
+Size: 3708
+MD5sum: 15d3c29cb0b6953ef3d6a510c54798a5
+SHA1: bcb84fa13042ccf332a337dbf07912e137314be5
+SHA256: 4d14204e74e4dbc90563e8d462b5e601862b7c442e978ceca0342a33382cba28
+Section: SBSettings Addons
+Description: Toggle to Control SSH Startup
+Author: Rio <rio+ipj@sident.net>
+Depiction: http://ftp.sident.net/cydia/dep/SSHBoot.html
+Name: SSHBoot Toggle
+

@@ -1,0 +1,16 @@
+Package: com.matrix.requirefull
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Zhigang Fang
+Installed-Size: 248
+Depends: mobilesubstrate, applist
+Filename: ./debs/com.matrix.requirefull_0.0.3_iphoneos-arm.deb
+Size: 6488
+MD5sum: d907e129dc6d8579c9840cf6b1bd2021
+SHA1: 430e1bc6ee67b113d3c5addb6299b865594c83a6
+SHA256: b84e99712b8b901c74089eeb08bba92f4bdd5e30006d74754df0e43381a05974
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Zhigang Fang
+Name: RequireFull
+

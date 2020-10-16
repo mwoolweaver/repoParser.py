@@ -1,0 +1,817 @@
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.5-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files/ml.festival.notchsimulator_0.5-1_iphoneos-arm.deb
+MD5sum: 69d04085cd6238f1700d5a29955036dc
+SHA1: 3004098915038a13fe591f540eb8b4589dd7fe18
+SHA256: d0a6cd3bc308c893a77ce796c59ce055290b0307c677980247c11dd23e90197c
+Section: Tweaks
+Size: 131740
+Installed-Size: 804
+
+
+
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.7
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.notchsimulator_0.7_iphoneos-arm.deb
+MD5sum: 732441ed2861fb1e34025c966eac7471
+SHA1: 2b5baadf2cd86ef2d40ae227a887fe05f265d1de
+SHA256: 5213a1d644b5dd89bb3205db100a2345b4b21bcaabccd110c55415cbcb00c170
+Section: Tweaks
+Size: 466502
+Installed-Size: 1728
+
+Package: ml.festival.proudlockxr
+Name: ProudLock Xr
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlockxr
+Description: Be proud of that lock – Reloaded!
+Version: 0.1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.proudlockxr_0.1_iphoneos-arm.deb
+MD5sum: fdbc8e70b6f1963158e65ecbd3292739
+SHA1: 00bbf2b411209e88c99221feb2e77528db59d86c
+SHA256: b9e15592ef517c5e1c7e8d32a74a1e3c451cf201cfcd2cc7382b07f4fa44d010
+Section: Tweaks
+Size: 1249886
+Installed-Size: 4728
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b3-u1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files/ml.festival.lockwatch2_2.0b3-u1_iphoneos-arm.deb
+MD5sum: cd8aa107dc49ffeca170e93988d57d3b
+SHA1: ad3bac9b4d511ee187c3291a099732d3e0bf0e4c
+SHA256: 893ae6bf0660af62dc1398a355c1e714618ce274e42e44aafa8d4a2c5fdc3e39
+Section: Tweaks
+Size: 7095016
+Installed-Size: 8828
+
+Package: ml.festival.lockwatch10
+Name: LockWatch Internal
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch10
+Description: Display watch faces on your iOS Lock Screen – inspired by Apple Watch
+Version: 18w07b.lw-internal.180218
+Author: Sniper_GER
+Maintainer: Sniper_GER
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: ml.festival.lockwatch
+Filename: ./files/ml.festival.lockwatch10_18w07b.lw-internal.180218_iphoneos-arm.deb
+MD5sum: b93faffa3947ccd975e777636c5cadf2
+SHA1: b1adae534158b0311ef14e97f15a979d2175ee3a
+SHA256: 64f2d24fcf348227f6cc18b4cfca2883d23860df140fbf7c671a638b108404d5
+Section: Tweaks
+Size: 1270440
+Installed-Size: 3984
+
+Package: ml.festival.globalwarmingnomore
+Name: GlobalWarmingNoMore
+Depiction: https://repo.festival.tf/#/package/ml.festival.globalwarmingnomore
+Description: Well boys, we did it. Global Warming is no more!
+Version: 1.0
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: cy+model.ipad
+Filename: ./files/ml.festival.globalwarmingnomore_1.0_iphoneos-arm.deb
+MD5sum: 0914a9554df76617dae58b268f59d17b
+SHA1: 6d9505b67e7db16129a899c4a84c63a592172a46
+SHA256: 8eb8203f2de408ca874ed68721dc946e9f4dccd713b138a4abb2f3fceab0ee3e
+Section: Tweaks
+Size: 31188
+Installed-Size: 148
+
+Package: ml.festival.lockwatch10
+Name: LockWatch
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch10
+Description: Display watch faces on your iOS Lock Screen – inspired by Apple Watch
+Version: 18w12a.lw-release.180320
+Author: Sniper_GER
+Maintainer: Sniper_GER
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: ml.festival.lockwatch, firmware (>= 11.0)
+Filename: ./files/ml.festival.lockwatch10_18w12a.lw-release.180320_iphoneos-arm.deb
+MD5sum: 127768ee714ae7b574d04799564821f8
+SHA1: a9c4c0f8f5b55d3227f29abd244a5ccca94dd89b
+SHA256: 49895f0f26c6e095353a1aab798542e29889a0dcec080b9160cd41a8493b3ee8
+Section: Tweaks
+Size: 1387102
+Installed-Size: 4628
+
+Package: ml.festival.proudlock
+Name: ProudLock
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlock
+Description: Be proud of that lock!
+Version: 0.2-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./files/ml.festival.proudlock_0.2-1_iphoneos-arm.deb
+MD5sum: 2d131c2d1f3280bcb46526e9ef9a2d77
+SHA1: e812e759c7be4f9c8cb5e50f849b715898b4f98c
+SHA256: 46743b77532efab887e32ac4cbfedb1eccc694f39881b6104f0bbdd31a55220f
+Section: Tweaks
+Size: 89264
+Installed-Size: 656
+
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.2-6
+Author: Sniper_GER
+Maintainer: Sniper_GER
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./files/ml.festival.notchsimulator_0.2-6_iphoneos-arm.deb
+MD5sum: 40e49204a6443f584c4845f5a89b498d
+SHA1: 94f08ee11bc02fc90f53297d563c9b96b5ad63c7
+SHA256: 40cf8435f6d24f66cd0ca77d225cf0d45ec0fac5f275a6e38e1305d0fdc0c085
+Section: Tweaks
+Size: 32442
+Installed-Size: 260
+
+Package: ml.festival.signal
+Name: Signal
+Depiction: https://repo.festival.tf/#/package/ml.festival.signal
+Description: Fake a cellular connection on your iPad or iPod touch
+Version: 1.3
+Author: Sniper_GER <submissions@festival.ml>
+Maintainer: Sniper_GER <submissions@festival.ml>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.signal_1.3_iphoneos-arm.deb
+MD5sum: 9a8226baf2c1cc57fbe4d4b5298f4607
+SHA1: 4cab8140ca977e52355e7297e4ae55e3933f7285
+SHA256: 36e81befe80617ee6656d1d081e8efe9d20f21c885264c5b4aefce694ccee157
+Section: Tweaks
+Size: 48036
+Installed-Size: 348
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.lockwatch2_2.0b1_iphoneos-arm.deb
+MD5sum: b52c0ec31ccc65a105f6b84876d53c38
+SHA1: bb31c31632e23130e1c41bab530ba4364e865c2b
+SHA256: 1a7b4c9be6518cbbc9eee84db46c1d9dbc4db2b6c7cd5f77cc6cc57ca4e5cd4f
+Section: Tweaks
+Size: 52768
+Installed-Size: 288
+
+Package: ml.festival.proudlockxr
+Name: ProudLock Xr
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlockxr
+Description: Be proud of that lock – Reloaded!
+Version: 0.3-1
+Author: Sniper_GER <sniperger@festival.ml>
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./files/ml.festival.proudlockxr_0.3-1_iphoneos-arm.deb
+MD5sum: 910998bc50de9013d3f99caae7cfff3f
+SHA1: 496e62cfb21b3a0cb66af7cbe33bf315378d4589
+SHA256: cc995efbe7f8410889056d078f54ea2807f4f656111b0d7e3716f6c4811e066d
+Section: Tweaks
+Size: 1239992
+Installed-Size: 4872
+
+Package: ml.festival.erie
+Name: Erie
+Depiction: https://repo.festival.tf/#/package/ml.festival.erie
+Description: Haptic feedback when pressing buttons – Inpspired by iPhone 7
+Version: 0.7
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./files/ml.festival.erie_0.7_iphoneos-arm.deb
+MD5sum: cf2efc5c838c6af4c2309dfb6dff6f3e
+SHA1: 104699a84f8ea7343f9f71f819de4419b8b4a070
+SHA256: b2fa52e6343d5a5e0b6be83f102931e72150cfb9e35180bc3f21593f09f7e4da
+Section: Tweaks
+Size: 16862
+Installed-Size: 176
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b2-2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.lockwatch2_2.0b2-2_iphoneos-arm.deb
+MD5sum: 7b774481c2d06b91fdd172ab09d6158e
+SHA1: d1d89bb49615235127eaaacfa2fe98d820c11f7f
+SHA256: bb773fa4da35df883f6637b474ea2124f0fbe8dd87783f88f0b829556a8f6c5b
+Section: Tweaks
+Size: 235944
+Installed-Size: 1436
+
+
+
+
+
+
+
+Package: ml.festival.globalwarmingnomore
+Name: GlobalWarmingNoMore
+Depiction: https://repo.festival.tf/#/package/ml.festival.globalwarmingnomore
+Description: Well boys, we did it. Global Warming is no more!
+Version: 1.1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: cy+model.ipad
+Filename: ./files/ml.festival.globalwarmingnomore_1.1_iphoneos-arm.deb
+MD5sum: 558e719f493a6923d62cff63f2ac46ef
+SHA1: 72c37153c55765797d207d007227e485d01514b4
+SHA256: 618734a0a8c30c503829da863b87c10cf2b30f75213e6b058366f50e7c63c26b
+Section: Tweaks
+Size: 65160
+Installed-Size: 440
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b3-u2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files/ml.festival.lockwatch2_2.0b3-u2_iphoneos-arm.deb
+MD5sum: fe3b44002bb4701a014d4c2c369d2af5
+SHA1: fa7da83269c5f2ed5d667cc9fdd8642e3f4ae6f2
+SHA256: 06447ad473503e4641c842d8d1686176c6e962afa43c72b66d49bde9b0c75351
+Section: Tweaks
+Size: 7144928
+Installed-Size: 9096
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b4
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files/ml.festival.lockwatch2_2.0b4_iphoneos-arm.deb
+MD5sum: d29ddd871a837a83537bd03d30b31ccd
+SHA1: f2d65378d3c5004fdf1efe107773d211e8a57e11
+SHA256: 5905239318338a80eb21fcb35ee82b5a28a50e6d291af695afd11a0b569a55e0
+Section: Tweaks
+Size: 7157548
+Installed-Size: 9148
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b4-u1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files/ml.festival.lockwatch2_2.0b4-u1_iphoneos-arm.deb
+MD5sum: 69cfa2d6d3e771d406dcef572925bbaf
+SHA1: c30598ac65363830c620b6e555adba48e7f134db
+SHA256: d5b08ee3bcbd670931b4fc36e3d2e1f9e5cf5969ba538a4c16963ee9d5927ff1
+Section: Tweaks
+Size: 7159056
+Installed-Size: 9152
+
+Package: ml.festival.erie
+Name: Erie
+Depiction: https://repo.festival.tf/#/package/ml.festival.erie
+Description: Haptic feedback when pressing buttons – Inpspired by iPhone 7
+Version: 0.5-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./files/ml.festival.erie_0.5-1_iphoneos-arm.deb
+MD5sum: 71e1867be43c39ea61ec527d772a42bc
+SHA1: 0179aefcc2f744ecdebf8079fde70f02682f2d18
+SHA256: cce4a9237757ae65e7282a12c2085a1f4c11700455c909a1d4be08eb6fdb0d81
+Section: Tweaks
+Size: 21398
+Installed-Size: 296
+
+Package: ml.festival.proudlockxr
+Name: ProudLock Xr
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlockxr
+Description: Be proud of that lock – Reloaded!
+Version: 0.1-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.proudlockxr_0.1-1_iphoneos-arm.deb
+MD5sum: a235ed700f7d9553dcc8092d261db025
+SHA1: d58c9fc904da2d12dc2018498aaaf956852997d8
+SHA256: e51e3896949101d69227e5cb063de75efdcf0d055d5898d2cbd907bb9db8a5ff
+Section: Tweaks
+Size: 1251094
+Installed-Size: 4732
+
+Package: ml.festival.medusa
+Name: Medusafied
+Depiction: https://repo.festival.tf/#/package/ml.festival.medusa
+Description: Enable Slide Over on iPhone and unsupported iPads
+Version: 0.1
+Author: Sniper_GER
+Maintainer: Sniper_GER
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.medusa_0.1_iphoneos-arm.deb
+MD5sum: b2c2265ada4248d0c28f0b00f0199891
+SHA1: 2e7aca007394cfa4aaab0bcbf944af9428cdbc3f
+SHA256: 13adc38995749f2aeb0dc8a8abcf4f42bd8c2a760e7978097c4bd198952c6a1b
+Section: Tweaks
+Size: 4360
+Installed-Size: 136
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b2-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.lockwatch2_2.0b2-1_iphoneos-arm.deb
+MD5sum: bb07ebd5c3fab4baaa365b57d12de895
+SHA1: aac908c27e33ed1be2d9273bc6c8637e6773d7d3
+SHA256: f8e848f079ba9b1cdfd5b08c74c6b1631b4c69bbe8e1d2692db62a64c8aea681
+Section: Tweaks
+Size: 235912
+Installed-Size: 1432
+
+Package: ml.festival.erie
+Name: Erie
+Depiction: https://repo.festival.tf/#/package/ml.festival.erie
+Description: Haptic feedback when pressing buttons – Inpspired by iPhone 7
+Version: 0.5
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./files/ml.festival.erie_0.5_iphoneos-arm.deb
+MD5sum: 859b805e3527436fced0956f5a327808
+SHA1: d76f9f249d1578be6f317034ac77fc00ad34bcf9
+SHA256: a84fb45c2df29b62eda2c68ddab2469ea6d2a45526ef3f06d60572c6e0f02566
+Section: Tweaks
+Size: 21408
+Installed-Size: 296
+
+Package: ml.festival.proudlockxr
+Name: ProudLock Xr
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlockxr
+Description: Be proud of that lock – Reloaded!
+Version: 0.3-3
+Author: Sniper_GER <sniperger@festival.ml>
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./files/ml.festival.proudlockxr_0.3-3_iphoneos-arm.deb
+MD5sum: 1d8e06651eedb185a6941683a5bef4f2
+SHA1: ad814047b99765ddc9a10ba09c6b37d29bd27656
+SHA256: d42d6fb82c2ad0d6cd2bc82dac5fccbe5b062994f2fc250b479147eef609e005
+Section: Tweaks
+Size: 1240092
+Installed-Size: 4872
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0f
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files/ml.festival.lockwatch2_2.0f_iphoneos-arm.deb
+MD5sum: acdf2372845990e9ff4eae0f1ac5835d
+SHA1: c48db918e864732dfbded45e60c37ec02095c5ba
+SHA256: 2b752208c09d76fb7bffbc5d6a8b93aab4a45c0ec3b5f2e4d06a8228c882bbd5
+Section: Tweaks
+Size: 46928684
+Installed-Size: 48612
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.lockwatch2_2.0b2_iphoneos-arm.deb
+MD5sum: fe7337be85104761d47aa1e4f2a2bc85
+SHA1: 60a755f876ab5b8bc975ebcb8713dfec79db5cc8
+SHA256: 18ab7908993b60e5e520ad46a6651e7e155f2e5e1e2c3c1d0bd1735f73fcc88e
+Section: Tweaks
+Size: 233140
+Installed-Size: 1376
+
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.6-RC1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.notchsimulator_0.6-RC1_iphoneos-arm.deb
+MD5sum: 17116aed33d705609f31ddc99231470e
+SHA1: a6f34ee2a809a8b2aecbb252565c9f1f355ae0e2
+SHA256: d1cc9b99750b894859812a24aded7839a6687e840f1bef6b176795e3d9efd43b
+Section: Tweaks
+Size: 116572
+Installed-Size: 720
+
+Package: ml.festival.proudlockxr
+Name: ProudLock Xr
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlockxr
+Description: Be proud of that lock – Reloaded!
+Version: 0.3
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./files/ml.festival.proudlockxr_0.3_iphoneos-arm.deb
+MD5sum: 243d5c759d73f4a323f87dcbe9a6aaf4
+SHA1: 0271adf575ba0c5cfcc1360ad81d82878e05f018
+SHA256: 0b0f5dc47eebb49cb8ef7c75eef9c6736c742b8a35b8e68018a52c2f412d8a6a
+Section: Tweaks
+Size: 1252642
+Installed-Size: 4736
+
+Package: ml.festival.mgcopyanswerdump
+Name: MGCopyAnswerDump
+Depiction: https://repo.festival.tf/#/package/ml.festival.mgcopyanswerdump
+Description: Dump MobileGestalt keys
+Version: 0.1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Filename: ./files/ml.festival.mgcopyanswerdump_0.1_iphoneos-arm.deb
+MD5sum: 1b04709888ab5ee4975ff6b6fe79d95d
+SHA1: b3a76beb9006c7b3f8becb8e64e9d8052f92639a
+SHA256: b086f54dc3bd15714363ed26e01716a97480f27f6ee079c65253ab88417edd79
+Section: Utilities
+Size: 36926
+Installed-Size: 172
+
+Package: ml.festival.mgcopyanswerdump
+Name: MGCopyAnswerDump
+Depiction: https://repo.festival.tf/#/package/ml.festival.mgcopyanswerdump
+Description: Dump MobileGestalt keys
+Version: 1.1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Filename: ./files/ml.festival.mgcopyanswerdump_1.1_iphoneos-arm.deb
+MD5sum: cf984ef27b53ec92d7df78a3ec0a1936
+SHA1: e7b1c5e941aff4555be27920f6f8f1344ee07cd6
+SHA256: 63fbff532f9346bce6b8984c52e31ad7c2a8a9ef5ad2db80d1941b2cf39d822a
+Section: Utilities
+Size: 85578
+Installed-Size: 304
+
+
+
+Package: ml.festival.globalwarmingnomore
+Name: GlobalWarmingNoMore
+Depiction: https://repo.festival.tf/#/package/ml.festival.globalwarmingnomore
+Description: Well boys, we did it. Global Warming is no more!
+Version: 1.0-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: cy+model.ipad
+Filename: ./files/ml.festival.globalwarmingnomore_1.0-1_iphoneos-arm.deb
+MD5sum: 4245f33af94c1a173a1590e7f1d9961f
+SHA1: 1c0683faa79b0ce45a199dfcbe4f61fb2ddfcb22
+SHA256: ae2fb1a4f8aebeaaecdcd67b126efef3c6c77e4a28f8b8081c9f9bfc3fa4cbd6
+Section: Tweaks
+Size: 44472
+Installed-Size: 220
+
+Package: ml.festival.proudlock
+Name: ProudLock
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlock
+Description: Be proud of that lock!
+Version: 0.2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./files/ml.festival.proudlock_0.2_iphoneos-arm.deb
+MD5sum: 70f2d59cfb1efabb4589696a4b91498c
+SHA1: 009517bc9dbe287961d0c3b1610f77f054a896e7
+SHA256: 5ca256a1d05b0fbb4e65745c8c6b8e28938e5067a7e9aa4b1761437f170a67da
+Section: Tweaks
+Size: 88060
+Installed-Size: 648
+
+Package: ml.festival.proudlock
+Name: ProudLock
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlock
+Description: Be proud of that lock!
+Version: 0.1-2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./files/ml.festival.proudlock_0.1-2_iphoneos-arm.deb
+MD5sum: 48aec53193870519457742c008958cf8
+SHA1: 75d3f035335c2fa101a9fe965d7e1cf673c761ba
+SHA256: 057a012cb8d1af3b3c6bdca48edbdd113accaba38bec2fd30aa1027aa282ce2b
+Section: Tweaks
+Size: 78750
+Installed-Size: 512
+
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.7-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.notchsimulator_0.7-1_iphoneos-arm.deb
+MD5sum: 594304548ffbea45409bb037c28bc5e6
+SHA1: 09e64f7ae92c65360f5d80d864da45989f118914
+SHA256: d6d847fd1039175f859962fcaf80eb9ddc0ab784d56b3f0d28990e16def0680f
+Section: Tweaks
+Size: 477726
+Installed-Size: 1772
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 Beta (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0b3
+Author: Sniper_GER <sniperger@festival.ml>
+Maintainer: Sniper_GER <sniperger@festival.ml>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.lockwatch2_2.0b3_iphoneos-arm.deb
+MD5sum: 75871f7eb2179b5bcf5cc913cdcebded
+SHA1: eac8a8685102f2023c82fc2a537169be2c02b4af
+SHA256: 8ac2853ab9fa7d5e52adb8a93333317ee9b2cbbe75e3d8f82c1470a730ed4448
+Section: Tweaks
+Size: 267550
+Installed-Size: 1708
+
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.5
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.notchsimulator_0.5_iphoneos-arm.deb
+MD5sum: 87ceb87e440311f3ae57fa7e5e45c260
+SHA1: a00de13602b4ff0beaad3615cad81a0c70d39ef0
+SHA256: f684d720425ffc4f9a478dfb78b826a8ed1782a112e17b02f34b9817b2755afa
+Section: Tweaks
+Size: 131742
+Installed-Size: 804
+
+Package: ml.festival.signal
+Name: Signal
+Depiction: https://repo.festival.tf/#/package/ml.festival.signal
+Description: Fake a cellular connection on your iPad or iPod touch
+Version: 1.4
+Author: Sniper_GER <submissions@festival.ml>
+Maintainer: Sniper_GER <submissions@festival.ml>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: gcs.cellular-data
+Filename: ./files/ml.festival.signal_1.4_iphoneos-arm.deb
+MD5sum: 67f346c95c7ccd523717a3ce081c3718
+SHA1: f916b9dcde94c95b4d409dd2a7f8b50170e0d993
+SHA256: 4f0d6f1e4f430e86dd78194dcf9bbd8beff131bc13e8dc809a4aa42d7924316d
+Section: Tweaks
+Size: 48500
+Installed-Size: 348
+
+Package: ml.festival.lockwatch2
+Name: LockWatch 2 (iOS 13)
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2
+Description: The idea of having an Apple Watch on your lock screen – continued
+Version: 2.0f-2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files/ml.festival.lockwatch2_2.0f-2_iphoneos-arm.deb
+MD5sum: 893e1a4aa0d4b9767fd0d4e1e07494cf
+SHA1: 54cc8c7eb8b963e62dd16efaede9090770fb9535
+SHA256: bfc4b52d2e33043eb38d01d7a210db32728834c80f46c94285799a1bcc0cfd50
+Section: Tweaks
+Size: 30768768
+Installed-Size: 33832
+
+Package: ml.festival.4kdegkelvin
+Name: Kelvin
+Depiction: https://repo.festival.tf/#/package/ml.festival.4kdegkelvin
+Description: All Aperture technologies remain safely operational up to 4000 degrees Kelvin
+Version: 0.0.2
+Author: Sniper_GER
+Maintainer: Sniper_GER
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.4kdegkelvin_0.0.2_iphoneos-arm.deb
+MD5sum: db6f1e791946150079479f08da2b8b73
+SHA1: ad63b9f753012f2750ac972c19d55fd368055737
+SHA256: dd94cb262b013b925b469449e8c740fa863dd650c0c2a4905add99d71151e25c
+Section: Tweaks
+Size: 5412
+Installed-Size: 124
+
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.6-RC2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.notchsimulator_0.6-RC2_iphoneos-arm.deb
+MD5sum: 33ea38b7fc004ad9c3fc9aec4c58b024
+SHA1: 3a21105c719b25ea1d54af790f4262893d7a7bc8
+SHA256: 6c1942c7bf08943b03a410748bc47cf63a06531a230c42d1b5c2a2486d33c84e
+Section: Tweaks
+Size: 122680
+Installed-Size: 716
+
+Package: tf.festival.pointercontrolenabler
+Name: PointerControlEnabler
+Depiction: https://repo.festival.tf/#/package/tf.festival.pointercontrolenabler
+Description: Enables Pointer Control settings for every accessory
+Version: 1.0
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/tf.festival.pointercontrolenabler_1.0_iphoneos-arm.deb
+MD5sum: 203832b5d59a57f7b1c81acb3120ddb8
+SHA1: b2066ebf08766c730485ecddd3dcc27fe614cb01
+SHA256: a9619a444a58216d170a24361f9cc940f3b80e2ad3bdcc7e8b8667d09a59a188
+Section: Tweaks
+Size: 2976
+Installed-Size: 168
+
+Package: ml.festival.mgcopyanswerdump
+Name: MGCopyAnswerDump
+Depiction: https://repo.festival.tf/#/package/ml.festival.mgcopyanswerdump
+Description: Dump MobileGestalt keys
+Version: 0.1-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Filename: ./files/ml.festival.mgcopyanswerdump_0.1-1_iphoneos-arm.deb
+MD5sum: f9037c89a95c4586f1b804fd40eb84f9
+SHA1: 3e7dbbde47555364fac7b4d69f371ff70d128a6f
+SHA256: dd0b4e3fb53e3f3c4f788a70e2770c0cce23c02d788bd4fa155431bf3f99416f
+Section: Utilities
+Size: 36902
+Installed-Size: 172
+
+
+
+Package: ml.festival.erie
+Name: Erie
+Depiction: https://repo.festival.tf/#/package/ml.festival.erie
+Description: Haptic feedback when pressing buttons – Inpspired by iPhone 7
+Version: 0.6
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, gsc.telephony, ws.hbang.common
+Filename: ./files/ml.festival.erie_0.6_iphoneos-arm.deb
+MD5sum: b0ce8fe5c90847be66d1a216d41fa2fc
+SHA1: dbbad0c2de2eba5302695a73a19e589376b944f6
+SHA256: 86c68f47e45686ea513b393a0ba12a837e3f7bd7533fb3e30757f1c4255c3a15
+Section: Tweaks
+Size: 20834
+Installed-Size: 276
+
+Package: ml.festival.lockwatch10
+Name: LockWatch Internal
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch10
+Description: Display watch faces on your iOS Lock Screen – inspired by Apple Watch
+Version: 18w09a.lw-internal.180228
+Author: Sniper_GER
+Maintainer: Sniper_GER
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: ml.festival.lockwatch
+Filename: ./files/ml.festival.lockwatch10_18w09a.lw-internal.180228_iphoneos-arm.deb
+MD5sum: 6024c4f3168b40875a74831a1d98f4cf
+SHA1: ac74e6dc2d119f051568c418bc7e9fde828063c7
+SHA256: 49dd143fdbd49cdd84fe6345eddb170a35f27cbf3ad43e710080068180d9de68
+Section: Tweaks
+Size: 1350200
+Installed-Size: 4064
+
+Package: ml.festival.notchsimulator
+Name: Notch'd
+Depiction: https://repo.festival.tf/#/package/ml.festival.notchsimulator
+Description: Simulate that iPhone Xs notch!
+Version: 0.3-1
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./files/ml.festival.notchsimulator_0.3-1_iphoneos-arm.deb
+MD5sum: a24cd7a0121d724961a29013b0a3dfb3
+SHA1: 9865ba8b8456ce2da340c5da5261b7f099d8c1a2
+SHA256: 580b7be4b20b70d411bb3334ca108c579af8534b169f22c064ad5571a3a9e11c
+Section: Tweaks
+Size: 120676
+Installed-Size: 728
+
+Package: ml.festival.lockwatch2.faces
+Name: LockWatch2CustomFaces
+Depiction: https://repo.festival.tf/#/package/ml.festival.lockwatch2.faces
+Description: Custom faces for LockWatch 2, created by Team FESTIVAL
+Version: 1.0
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: ml.festival.lockwatch2 (>= 2.0b4)
+Filename: ./files/ml.festival.lockwatch2.faces_1.0_iphoneos-arm.deb
+MD5sum: 9d3b389d81bfa73855b956903c18f89b
+SHA1: 0e54e9d7533fa1dad76112eec30adbc458c98c4e
+SHA256: 0a3f6742c221fb34aec4292b57cab74ca9332cf277738d2b3f1d03563cf9de9e
+Section: Watch Faces (LockWatch 2)
+Size: 72926
+Installed-Size: 244
+
+Package: ml.festival.proudlockxr
+Name: ProudLock Xr
+Depiction: https://repo.festival.tf/#/package/ml.festival.proudlockxr
+Description: Be proud of that lock – Reloaded!
+Version: 0.2
+Author: Sniper_GER <sniperger@festival.tf>
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./files/ml.festival.proudlockxr_0.2_iphoneos-arm.deb
+MD5sum: b578bbb444d5755dd19b96ab0fc8cb10
+SHA1: a68cbd42de2e12684ee89400d455d1ccd0367a4d
+SHA256: 023d81e7c3b6ed8277c7b2ee4c8cd66041316f24f153f22b99eb1516a11326af
+Section: Tweaks
+Size: 1251776
+Installed-Size: 4732

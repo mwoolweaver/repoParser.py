@@ -1,0 +1,48 @@
+Package: com.bo.CompteEstBon
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Manof
+Depends: firmware(>= 7.0)
+Filename: ./debs//com.bo.compteestbon_2.1_iphoneos-arm.deb
+Size: 278198
+MD5sum: 87e4806c69dfd1a9bff725c6912f7ad4
+SHA1: d419693f75c439d3d469e545f3c0535f20a89593
+SHA256: 7f2fe71701fb22c898cfe872b7a407020c84e4ca06bafa6c63ea26099b938dab
+Section: Tweaks
+Description: A simple app to resolve The Total is Right
+Author: Manof
+Depiction: http://obenchekroun.github.io/depictions/index.html?p=com.bo.CompteEstBon
+Name: CompteEstBon
+
+Package: com.bo.FBIcon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Manof
+Depends: winterboard
+Filename: ./debs//com.bo.fbicon_1.0_iphoneos-arm.deb
+Size: 27144
+MD5sum: 27e14a066d8d18f5f59eb1608b5c3eee
+SHA1: da648b462d5029a9263fe0b0d2b9360df12cba25
+SHA256: a3dcb4b6e659218a883915680949c34b95f53ce88e53291241cdf3f7bf7a7dc0
+Section: Themes (Springboard)
+Description: A simple purple icon for Facebook app
+Author: Manof
+Depiction: http://obenchekroun.github.io/depictions/index.html?p=com.bo.FBIcon
+Name: FBIcon
+
+Package: com.bo.SimpleMCChat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Manof
+Depends: firmware(>= 7.0)
+Filename: ./debs//com.bo.simplemcchat_1.0_iphoneos-arm.deb
+Size: 523892
+MD5sum: 8e363c8efb25352dc441885370a8b9b8
+SHA1: 34b2e84813c01b2896df8796b8a8005e4276fe9a
+SHA256: 5ec41d43de711f4f26d972bfac1393ecb83a287819d510bb2d001b7b05bad7f1
+Section: Tweaks
+Description: A simple chatting app using Multipeer Connectivity Framework
+Author: Manof
+Depiction: http://obenchekroun.github.io/depictions/index.html?p=com.bo.SimpleMCChat
+Name: SimpleMCChat
+

@@ -1,0 +1,110 @@
+Package: com.harrisonapps.fastforward
+Version: 5.0.2
+Architecture: iphoneos-arm
+Maintainer: Harrison Apps, LLC <support@harrisonapps.com>
+Depends: mobilesubstrate, applist, firmware(>= 4.3)
+Filename: debs/FastForward_5.0.2.deb
+Size: 417168
+MD5sum: c4972c5525c24b0e8af1da7d4acb5487
+SHA1: dadbfa73b6f15335fdb15f9707c9ee00d9bc4250
+SHA256: 58824c807a86fb393bc468292cb1e66720d439c452865b853b10035193f472d0
+Section: Tweaks
+Homepage: http://www.harrisonapps.com/repo/fastforward.html
+Description: Watch videos faster with FastForward!
+ Watch videos faster with FastForward!
+Author: Harrison Apps, LLC <support@harrisonapps.com>
+Depiction: http://www.harrisonapps.com/repo/fastforward.html
+Name: FastForward
+
+Package: com.harrisonapps.multitunes
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Harrison Apps, LLC <support@harrisonapps.com>
+Filename: debs/MultiTunes_1.0.2.deb
+Size: 321674
+MD5sum: f234aac54e4c0d5dd6215a8cdcf011ac
+SHA1: 255148b137c8f874ee2a4f81fd144dc6ff691ab2
+SHA256: ceed24a5e2915438d032316bc30584d3c3bc2dca2d3369b59953ff721a5f0b55
+Section: Multimedia
+Homepage: http://www.harrisonapps.com/repo/multitunes.html
+Description: Sync with multiple iTunes libraries!
+ MultiTunes is an app that allows you to sync with as many iTunes libraries as you want!
+Author: Harrison Apps, LLC <support@harrisonapps.com>
+Depiction: http://www.harrisonapps.com/repo/multitunes.html
+Name: MultiTunes
+
+Package: com.harrisonapps.mytube
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Harrison Apps, LLC <support@harrisonapps.com>
+Depends: firmware(>= 4.3)
+Filename: debs/MyTube_1.3.1.deb
+Size: 519400
+MD5sum: 139cfb740586f5b3d4cc865108aaae0c
+SHA1: 0fc8bd2b7cec3fd6008dca706f0182ec0a8349aa
+SHA256: f06040d9d7e0cc3079a0f9d8a171fb18a52adbd1b42b0dfc8f5a7a2e1a0e7cf7
+Section: Multimedia
+Homepage: http://www.harrisonapps.com/repo/mytube.html
+Description: Download YouTube videos!
+ DOWNLOAD YouTube videos with MyTube!
+Author: Harrison Apps, LLC <support@harrisonapps.com>
+Depiction: http://www.harrisonapps.com/repo/mytube.html
+Name: MyTube
+
+Package: com.harrisonapps.pandoradownloader
+Version: 3.5.6
+Architecture: iphoneos-arm
+Maintainer: Harrison Apps, LLC <support@harrisonapps.com>
+Depends: firmware(>= 4.3), mobilesubstrate
+Conflicts: com.sull.pandoradownloader, com.xsellize.pandoradownloader, com.sinfuliphone.pandoradownloader, com.ihacksrepo.pandoradownloader, repo.biteyourapple.net.pandoradownloader, org.thebigboss.videolock, com.sull.videolock, com.xsellize.videolock, com.ihacksrepo.videolock, repo.biteyourapple.net.videolock
+Filename: debs/Pandora_Downloader_3.5.6.deb
+Size: 4644460
+MD5sum: 48a45c848defd5aceca796105a670a1b
+SHA1: bf64c2b22d36f1a8e9611b684035f39f1e1f70af
+SHA256: 41470445dc93fcde896adbfb408f3f9200bc42f3cb5016a38437229aad867ae8
+Section: Multimedia
+Homepage: http://www.harrisonapps.com/repo/pandora-downloader.html
+Description: Download music from Pandora!
+ Pandora Downloader allows you to download ANY Pandora song at the touch of a button! This app also gives you UNLIMITED skips and the ability to disable ALL of the ads in Pandora. This app is completely free and compatible with the iPhone, iPod touch, and iPad. It’s like Pandora One for free, but better! Once you’ve downloaded a song, you can listen to it from the Pandora Downloader app any time you want, even without an Internet connection! For your convenience, this app runs in the background, just like the native Music app. Instructions are included if you need help.
+ This app works best when your device is running the latest firmware version and the latest version of Pandora.
+Author: Harrison Apps, LLC <support@harrisonapps.com>
+Depiction: http://www.harrisonapps.com/repo/pandora-downloader.html
+Name: Pandora Downloader
+
+Package: com.harrisonapps.songzadownloader
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Harrison Apps, LLC <support@harrisonapps.com>
+Depends: firmware(>= 4.3), mobilesubstrate, com.fizk.ffmpeg
+Conflicts: org.thebigboss.videolock, com.sull.videolock, com.xsellize.videolock, com.ihacksrepo.videolock, repo.biteyourapple.net.videolock
+Filename: debs/Songza_Downloader_1.0.2.deb
+Size: 1831474
+MD5sum: 0fb301338fae4c258dd4d05f53988618
+SHA1: 30c08e48621dbd37b0ea82db4c78ef7782ed1fab
+SHA256: b2472c521419c5e6574e6f1b14e766cab6e1d0490c3cfbd2cea5322ede413455
+Section: Multimedia
+Homepage: http://www.harrisonapps.com/repo/songza-downloader.html
+Description: Download music from Songza!
+ Songza Downloader allows you to download ANY Songza song at the touch of a button! This app also gives you unlimited skips in the Songza app. It is completely free and compatible with the iPhone, iPod touch, and iPad. Once you’ve downloaded a song, you can listen to it from the Songza Downloader app any time you want, even without an Internet connection! For your convenience, this app runs in the background, just like the native Music app. Instructions are included if you need help.
+Author: Harrison Apps, LLC <support@harrisonapps.com>
+Depiction: http://www.harrisonapps.com/repo/songza-downloader.html
+Name: Songza Downloader
+
+Package: com.harrisonapps.universalvideodownloader
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Harrison Apps, LLC <support@harrisonapps.com>
+Depends: mobilesubstrate, applist, firmware(>= 4.3)
+Filename: debs/Universal_Video_Downloader_1.1.3.deb
+Size: 846690
+MD5sum: 8feb44dafc162f58ae0654fff47b8446
+SHA1: 66e79c1159727701eb924ca5f53deb624e3a9720
+SHA256: ee1faf092c4d137ad0b53d2b8003e6b85d095309fdad025f7e6bb28ad2a63560
+Section: Multimedia
+Homepage: http://www.harrisonapps.com/repo/universal-video-downloader.html
+Description: Download videos from almost any app!
+ Download almost any video stream or video file from many different apps with the Universal Video Downloader! This app will allow you to save video content from many different apps so you can watch it later, even without an Internet connection! Simply play a video you want to save and an alert will be shown asking if you would like to download the video.
+Author: Harrison Apps, LLC <support@harrisonapps.com>
+Depiction: http://www.harrisonapps.com/repo/universal-video-downloader.html
+Name: Universal Video Downloader
+

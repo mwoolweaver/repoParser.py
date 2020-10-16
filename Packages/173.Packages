@@ -1,0 +1,172 @@
+Package: com.ethanrdoesmc.tpdepictiontest
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.ethanrdoesmc.tpdepictiontest_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2104
+MD5sum: c68e0d8c26a8fe190cb501d4242104e6
+SHA1: 3fa43159c1e4d84847a57a7049031cf76f573868
+SHA256: da68fd98424866f1e95f01a5c2b67c7420ec478293e1e7d57cd80df0b7c426a9
+Section: Tweaks
+Description: just testing a new depiction
+Author: EthanRDoesMC
+Depiction: https://translucencyparallax.onuniverse.com
+Name: TPDepictionTest
+
+Package: io.github.ethanrdoesmc.ekolu
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/io.github.ethanrdoesmc.ekolu.deb
+Size: 4016360
+MD5sum: cd0f1ba89bfc3b71f653509133f46906
+SHA1: 9a8ad9519d8820c4b14e36ad8744d169a17d153c
+SHA256: bff26fcd849d7b5bae1938ed74384db90f8b2071a2ea1cbcecb4f5a8506fcd14
+Section: Themes
+Description: 'ekolu is a tropical-themed 100%-free setup.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.ekolu/
+Name: 'ekolu
+
+Package: io.github.ethanrdoesmc.ekolureposrcs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Filename: debs/io.github.ethanrdoesmc.ekolureposrcs.deb
+Size: 950
+MD5sum: 6e1d3110a7906621cc7815936de6461c
+SHA1: afcb06d782c1cb7efa71f42a09f08886aabc9eb4
+SHA256: cac8fb2eca3d6df9aa245e9770346f2cbbf56142344486787d34acb20497a552
+Section: Repositories
+Description: 'ekolu is a tropical-themed 100%-free setup. This is the first package.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.ekolureposrcs/
+Name: 'ekolu Required Repos
+
+Package: io.github.ethanrdoesmc.ekolutweaks
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depends: com.xtm3x.asquared, org.thebigboss.blurrybadges, applebetas.ios.tweak.blurrycc10, com.cabralcole.blurrydock, com.antique.blurst, com.wizages.bab, com.thecasle.ccdark, com.skylerk99.chargepulse, com.fromderik.ccc, applebetas.ios.tweak.cleannotifications10, com.fromderik.darkios10, com.sticktron.darkmessages, com.golddavid.dontstoptheparty.lite, com.spark.easyrecord, com.aditkamath.flame, com.skylerk99.floater, com.joshdoctors.freeloader, com.xtm3x.integrate, com.sinfool.kbblurbackground, xyz.evilgoldfish.lockglyphx, com.bushe.lockhtml4, com.bushe.lockscreengesturecleanup, com.aditkamath.lscrease, com.wizages.bae, io.c0ldra1n.mitsuha, me.dreamdesign.moderndock, com.officialscheduler.mterminal, com.sinfool.ncfrostedblur, com.candoizo.onion, com.skylerk99.rembat, org.thebigboss.respringprogress, com.ps.roundedtable, com.xtm3x.sleekkey, com.wizages.springchanger, com.rishanan.springplus, com.atwiiks.stillhere, org.thebigboss.swipeformore, com.gilshahar7.taptoopen, com.spark.tinysiri, com.samstone.translucentcydia, applebetas.ios.tweak.translucentmessages, com.yourepo.haste.wave, com.spark.wiilovemusic, com.ps.sixtyfps, io.github.ethanrdoesmc.ekolureposrcs, com.tigisoftware.filza, ws.hbang.typestatus2
+Filename: debs/io.github.ethanrdoesmc.ekolutweaks.deb
+Size: 1234
+MD5sum: c37566b34f7a7a3533a489f00cf1c8ca
+SHA1: 51bd3d3b52ef2bbf0c5dd1c648ccde603e08b730
+SHA256: 1160cf6829aeb02437a09f75a6489f389b37cc0238f5364c95a169f790e05216
+Section: Addons
+Description: 'ekolu is a tropical-themed 100%-free setup. This is the second package.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.ekolutweaks/
+Name: 'ekolu Tweaks
+
+Package: io.github.ethanrdoesmc.gandalf
+Version: 2
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Filename: debs/io.github.ethanrdoesmc.gandalf.deb
+Size: 798
+MD5sum: 39a7e8d4cf45cbb73a1561a8be5212af
+SHA1: 8d8ff9c5b14914a3c1a31cadef6496c668ecdd63
+SHA256: 6b0fd1b3371e35caa644ef01fe0f8036709035cc9e22bc7f9b55073a95150153
+Section: Misc
+Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak. Adds Gandalf repo.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Name: Gandalf
+
+Package: io.github.ethanrdoesmc.icons
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Filename: debs/io.github.ethanrdoesmc.icons.deb
+Size: 158032
+MD5sum: 686973afeaf04045ed5eb9cc61db814e
+SHA1: 85f1add66116d3d1d8bff7e1db92fe92b31f0881
+SHA256: 1697ce9b4ff2d0bb7ae3415de0405d6e27d4368a51c4c95e1fed7b9c31c64c54
+Section: Packaging
+Priority: required
+Description: Installs repository icons.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.icons
+Name: Repo Icons
+
+Package: tk.ethanrdoesmc.parallaxbgblur
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/tk.ethanrdoesmc.parallaxbgblur_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3430
+MD5sum: fa120b9c8c47421913e24af92433a6b7
+SHA1: 9b4880be32e1076e9f599b388955bb23c8c2739e
+SHA256: 06be4f3bf0bc1169b827047b46c332a2ee8517af1a77d95fc026c79878c670b5
+Section: Tweaks
+Description: Fixes blurred background on iOS versions that don't like my implementation
+Author: EthanRDoesMC
+Name: TPLX-BackgroundBlur
+
+Package: tk.ethanrdoesmc.projectx.topnotch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC
+Depends: mobilesubstrate, com.alexzielenski.zeppelin
+Filename: debs/tk.ethanrdoesmc.projectx.topnotch_1.0.1_iphoneos-arm.deb
+Size: 8830
+MD5sum: 1f150118f12eb7945e6354bb08439fd7
+SHA1: c5bd0838aabe763729f834aa9a9630f619aee95d
+SHA256: 6a5de92db38f89e998390ed53b6425970085f64ca194bd2c17bfc5a488400950
+Section: Addons (Zeppelin)
+Description: The first of many tweaks and themes in the Project X series! This tweak ports the notch from the iPhone X to several devices. It comes in 3 sizes. Download Moveable9 and have Carrier be the only item in the center.
+Author: EthanRDoesMC
+Name: TopNotch
+
+Package: tk.ethanrdoesmc.stonks
+Version: 1.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/tk.ethanrdoesmc.stonks_1.0.2-1+debug_iphoneos-arm.deb
+Size: 5688
+MD5sum: cb5fc05315cd3bc8dc5b5634c41e08d7
+SHA1: c0c6f91e6d5d27b02c2788e6e18b7352985c8a7a
+SHA256: 8fac7a1a6a7f67a500fb3abd7debf53e44b0e282d60033c7ac99073b533e773b
+Section: Tweaks
+Description: You should invest in stonks.
+Author: EthanRDoesMC
+Depiction: https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg
+Name: Stonks
+
+Package: tk.ethanrdoesmc.translucencyparallax
+Version: 0.1.8-EarlyAccess-1+debug
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC
+Installed-Size: 652
+Depends: applist, mobilesubstrate | substitute
+Filename: debs/tk.ethanrdoesmc.translucencyparallax_0.1.8-EarlyAccess-1debug_iphoneos-arm.deb
+Size: 45502
+MD5sum: 297d41bf0c31a4689703da4c37d079da
+SHA1: 0fba85ad9807a8f4c91dbbe9ca0f217a0f84f75a
+SHA256: a50c66214df01f7b9f029209204e5b2965cbe2df47dba5cf7ddec4bca5f1ad92
+Section: Tweaks
+Description: Make your apps translucent. Add a personal touch to iOS.
+Author: EthanRDoesMC
+Name: Translucency Parallax
+
+Package: tk.ethanrdoesmc.viewaccountsh3lix
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: debs/tk.ethanrdoesmc.viewaccountsh3lix_1.0_iphoneos-arm.deb
+Size: 636
+MD5sum: c66989a55ad229de6347c18bff141529
+SHA1: c32be7cdbc61dbb8f5cbc9565660ddbd8155d2f9
+SHA256: 3eade79e96c2d98ece3cce1ce9382fc31217a9d8cfdb08bb39b53d0b6d9583ae
+Section: System
+Description: The depiction loads Cydia Accounts
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: http://cydia.saurik.com/account
+Name: H3lix - Cydia Accounts
+

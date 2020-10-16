@@ -1,0 +1,12 @@
+Origin: Ninji's Repo
+Label: Ninji's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: assorted tweaks and stuff
+
+SHA256:
+ 521585af83187b29827679bc4286b02c33e57ee2ac17ac24d3ddc8d97c37392c 791 Packages.bz2
+ f268617c088da61b91f42d8569a1cb7a0198455967a4555eb52cb48743b8e02a 744 Packages.xz

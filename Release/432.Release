@@ -1,0 +1,8 @@
+Origin: Rikumi's repo
+Label: Rikumi's repo
+Suite: stable
+Version: 1.0
+Codename: main
+Architectures: iphoneos-arm
+Components: main
+Description: Rikumi 自用插件源

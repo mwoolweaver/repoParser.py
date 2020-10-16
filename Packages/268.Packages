@@ -1,0 +1,71 @@
+Package: com.kunderscore.avertas
+Version: 7-1
+Architecture: iphoneos-arm
+Maintainer: kunderscore
+Installed-Size: 228
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/com.kunderscore.avertas_7-1_iphoneos-arm.deb
+Size: 40834
+MD5sum: 21fd1dc7fffb52de9b4ea9dddc243592
+SHA1: dcf2eeaf606f852db7bc92d3ebfc73190eb89f94
+SHA256: 2b0d179fd24528e21cbd4358e09594b311d2197ac88781765c955812c4be776a
+Section: Tweaks
+Priority: optional
+Description: Quick Switcher and Hot Corners
+Tag: purpose::extension
+Author: kunderscore <kunderscore3@gmail.com>
+Depiction: https://kunderscore.gitlab.io/repo/depictions/?p=com.kunderscore.avertas
+Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas.png
+Name: Avertas
+
+Package: com.kunderscore.priorityhub
+Version: 0.0.8-1
+Architecture: iphoneos-arm
+Maintainer: kunderscore <kunderscore3@gmail.com>
+Installed-Size: 280
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Filename: debs/com.kunderscore.priorityhub_0.0.8-1_iphoneos-arm.deb
+Size: 53530
+MD5sum: 65a4c8698a571b1aa82119d25a3096af
+SHA1: 2b46731c99575cb4041f8c2ed894621b3f2a30d4
+SHA256: 1fa56b6194e7bd453a327497e5fe8ef95acc1be8ac3607a978607ac189b6dea7
+Section: Tweaks
+Description: Organize your notifications!
+Author: Thomas Finch <tomf64@gmail.com>
+Depiction: https://kunderscore.gitlab.io/repo/depictions/?p=com.kunderscore.priorityhub
+Name: Priority Hub
+
+Package: com.kunderscore.priorityhub
+Version: 0.0.8-1
+Architecture: iphoneos-arm
+Maintainer: kunderscore <kunderscore3@gmail.com>
+Installed-Size: 284
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Filename: debs/com.kunderscore.priorityhub_0.0.9-1_iphoneos-arm.deb
+Size: 53878
+MD5sum: 4c730844bbdffee94017a71252378ee3
+SHA1: 353f7b391812c61de46d7afca056b5d1e9634dc4
+SHA256: 42df786e1e466807c88830537ed649796f709c71d3854e5a8d6a60efa21d7f85
+Section: Tweaks
+Description: Organize your notifications!
+Author: Thomas Finch <tomf64@gmail.com>
+Depiction: https://kunderscore.gitlab.io/repo/depictions/?p=com.kunderscore.priorityhub
+Name: Priority Hub
+
+Package: com.kunderscore.priorityhub
+Version: 0.0.9-2
+Architecture: iphoneos-arm
+Maintainer: kunderscore <kunderscore3@gmail.com>
+Installed-Size: 284
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Filename: debs/com.kunderscore.priorityhub_0.0.9-2_iphoneos-arm.deb
+Size: 54142
+MD5sum: 3c7ccfe40663e6907f7c61697f35ef86
+SHA1: 3fbca50c19d4037c0c0ed048180b06868d9bc8dc
+SHA256: dd2240eb743e898f796b5c28409cccdce7cb45404ffa0040a9b124b337767589
+Section: Tweaks
+Description: Organize your notifications!
+Author: Thomas Finch <tomf64@gmail.com>
+Depiction: https://kunderscore.gitlab.io/repo/depictions/?p=com.kunderscore.priorityhub
+Name: Priority Hub
+

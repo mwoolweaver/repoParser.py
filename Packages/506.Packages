@@ -1,0 +1,112 @@
+Package: com.tr1fecta.avplayerplus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.avplayerplus/com.tr1fecta.avplayerplus_1.0_iphoneos-arm.deb
+Size: 1466
+MD5sum: 1ca2e80c015f4830d77ade248a9ca7b6
+SHA1: 49804e7f7e323a802605a3d98c9f0189c9859c5a
+SHA256: 92d6abc18cac093d7f79bc346b4a056dcc577a429181b23146745e866c7a0d08
+Section: Tweaks
+Description: A tweak to add extra functionality to the AVPlayer in iOS, IOS 11 and up are supported.
+Author: Tr1Fecta
+Name: AVPlayerPlus
+
+Package: com.tr1fecta.getdatpfp
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.getdatpfp/com.tr1fecta.getdatpfp_1.1.0_iphoneos-arm.deb
+Size: 28426
+MD5sum: 0816ff7d6069473ee15ddbb05ad1d75e
+SHA1: 2348ab211ce822201adaa04ba6c79b8f6961cc0e
+SHA256: 1cc7de7299de72a8b25511e0be91646660ffb980125f0e57a0eb4a101c260e58
+Section: Tweaks
+Description: A tweak for Discord to copy someone's profile picture link by double tapping on their profile picture
+Author: Tr1Fecta
+Name: GetDatPFP
+
+Package: com.tr1fecta.nocallblur
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.nocallblur/com.tr1fecta.nocallblur_1.0.1_iphoneos-arm.deb
+Size: 3234
+MD5sum: 94313499a8b4539e8af18ea595b74075
+SHA1: d1a47316e77475136dc3a08b6cc61c3e4cc8df9d
+SHA256: 9e2308bebb85bde7d541db068121527f91c2a88fb0d55df55334c00f8bb39538
+Section: Tweaks
+Description: A tweak to remove the blur from the call background.
+Author: Tr1Fecta
+Name: NoCallBlur
+
+Package: com.tr1fecta.nolockblur
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.nolockblur/com.tr1fecta.nolockblur_1.0_iphoneos-arm.deb
+Size: 5746
+MD5sum: 4e2e1711ff451d0f7bb70c80b560cc3d
+SHA1: 779f5598c1b3d03339f8f7d4fadc660e7ea960e5
+SHA256: fd7157e0ed22bc903d9bea3f8829a1d09ca495f92a774d01144180cbddedaf15
+Section: Tweaks
+Description: Removes the blur from the passcode view!
+Author: Tr1Fecta
+Name: NoLockBlur
+
+Package: com.tr1fecta.nomorelabels
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.nomorelabels/com.tr1fecta.nomorelabels_1.0_iphoneos-arm.deb
+Size: 2320
+MD5sum: eb093ef8853d0001989d02f3973f211b
+SHA1: fd5c0e9a5e868a67d6e325a4cec56697b3017810
+SHA256: a6aeb4b54772f8cd341c0c51a001f7c19fa11b9793d783d869117934815efbe8
+Section: Tweaks
+Description: A tweak to remove apps and folder name labels
+Author: Tr1Fecta
+Name: NoMoreLabels
+
+Package: com.tr1fecta.transparentdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.transparentdock/com.tr1fecta.transparentdock_1.0_iphoneos-arm.deb
+Size: 2312
+MD5sum: dedd39b52ee4f5aa57dd89d355c74e20
+SHA1: 3ef5c3215fb88cc39d13269b9fce41e257adc830
+SHA256: 54caf588b4f4651faad32a3d66c1d2d01dcf73a99068b7d61dff13ce2dd2403a
+Section: Tweaks
+Description: A tweak to make the background of the dock transparent
+Author: Tr1Fecta
+Name: TransparentDock
+
+Package: com.tr1fectaandcameren.bruhkeystm
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Cameren & Tr1Fecta
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fectaandcameren.bruhkeystm/com.tr1fectaandcameren.bruhkeystm_1.0.1_iphoneos-arm.deb
+Size: 87114
+MD5sum: 119edf84858a835f98fdedbd15225086
+SHA1: 961cb7fbad38675c125cd2522096bb7a0e2eaacc
+SHA256: be5495e093fb81d767708c309bb6d33c62ee64dd50fc92c217c445720d06c107
+Section: Tweaks
+Description: BruhKeysTM, The official BruhKeys! Copyright: Cameren & Tr1Fecta
+Author: Cameren & Tr1Fecta
+Name: BruhKeysTM
+

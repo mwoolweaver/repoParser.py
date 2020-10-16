@@ -1,0 +1,117 @@
+Package: com.z.gxslite
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: z
+Depends: mobilesubstrate
+Filename: debs2/gxslite_0.0.1.deb
+Size: 5146
+MD5sum: 7a9d606904a4cb7c303cfb4a07cb7d1b
+SHA1: 1041dd3a5012aa2c6813df0e750ca6335ed41371
+SHA256: 4ce7cd9fb679d797cf3c81f6721049e92afd3682cb76b1b388b873fe25fb1dca
+Section: Tweaks
+Description: GXS lite !
+Author: z
+Name: GXS lite
+
+Package: com.z.gxslite.homebar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: z
+Depends: mobilesubstrate
+Filename: debs2/gxslite.homebar_0.0.1.deb
+Size: 4850
+MD5sum: 8f6d014879a97ffd5f2239ea344a61c1
+SHA1: e52c3358ed062e997835bd5768d2ea797e7c6ebf
+SHA256: 065dd7ce40be5a05715dd2319fbbe495557b5d9b25b78bc759febf5512b311aa
+Section: Tweaks
+Description: GXS lite homebar!
+Author: z
+Name: GXS lite homebar
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: debs2/cocoatop64_2.0.2-1.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop
+
+Package: z.fengnoad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs2/z.fengnoad_1.0_iphoneos-arm.deb
+Size: 2884
+MD5sum: 27b48c01331659beade7e3de99a5c585
+SHA1: 7fe4d52010c87e50b9e2a76c7d236d19affe83fc
+SHA256: 5d0ed57457cbd4b34690b31160e8f5e8c79b17844575ff468dad6f634808c7f4
+Section: Tweaks
+Description: 威锋6.0.1去广告~
+Author: 真皮
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: fengNoAd
+
+Package: z.tweakz
+Version: 0.0.10-3
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 296
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: debs2/z.tweakz_0.0.10-3_iphoneos-arm.deb
+Size: 15018
+MD5sum: ba84a62252ea84d34fbc63883d52d8aa
+SHA1: adc601ee145bd790337bce10e62f8baf4418a1fc
+SHA256: 9c6a03645a8fc93dbbe777bec99a183a01ec69c7fc98cf6dbb141cd3e2aabc2a
+Section: Tweaks
+Homepage: https://wz1129.github.io/cydia/html/tweakz.html
+Description: 时间显示网速+双击桌面锁屏+数字电量+屏蔽homebar+Dock透明~
+Author: 真皮
+Depiction: https://wz1129.github.io/cydia/html/tweakz.html
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: tweakZ
+
+Package: z.wxfix
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs2/wxfix_0.0.2-1.deb
+Size: 3074
+MD5sum: 1032f89d1c82730e3377aad6e2fdecac
+SHA1: 2f5d8fc1d861a07ebb8ba1b448f110d30905e4db
+SHA256: 1b143ce545caf9a8a78f16d3353d9cfb5fc7affe2b2e0a4004668c02d0c3edb2
+Section: Tweaks
+Homepage: https://wz1129.github.io/cydia/html/ds.html
+Description: 微信聊天界面底部抬高!
+Author: z
+Depiction: https://wz1129.github.io/cydia/html/ds.html
+Name: wxFix
+
+Package: z.zfbbs
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs2/z.zfbbs_0.0.3-1_iphoneos-arm.deb
+Size: 2574
+MD5sum: cfbc08967a603cfd3954a24d336d18f5
+SHA1: e8c67f98d83d04e89212aae03bcb712f4ee9f568
+SHA256: 201b448f484b3beb04ae714a03c67bc63b979327ac12153f9bb526cccf85607d
+Section: Tweaks
+Description: 正常步数基础上增加（20000-26666）范围随机~
+Author: 真皮
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: zfbbs
+

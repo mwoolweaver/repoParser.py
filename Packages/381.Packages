@@ -1,0 +1,875 @@
+Package: com.eswick.ondeviceconsole
+Version: 1.0.0-2
+Section: System
+Maintainer: Evan Swick
+Architecture: iphoneos-arm
+Filename: ./debs/133.deb
+Size: 11578
+Installed-Size: 132
+Description: Tool to view system log from the shell.
+Name: ondeviceconsole
+Author: Evan Swick
+Depiction: https://repo.d4ni.nl/index.php?pid=133
+Tag: role::hacker
+MD5sum: e36abfe7071826b20efffcb0018223fa
+SHA1: f85dd60fc406bc01ff60323eed555b134c47e0d5
+SHA256: 0a3cf2338ad8b295765c92b59f6d9c48eced2bba83f9147f62b4b3f643aa9931
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=com.eswick.ondeviceconsole
+
+Package: com.phillipt.toketime
+Version: 1.2-1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/141.deb
+Size: 698608
+Installed-Size: 800
+Description: Tokin'
+Name: TokeTimeXI
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=141
+MD5sum: 78ed6f1905537071a2b4af8472941ced
+SHA1: a4f5d2f398d5d222c65c03c5a98d7f5ac565fecf
+SHA256: f6b550c28eef30ba4b249f95ed9e07994e8efeb34c185731d25707d0c28838c0
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=com.phillipt.toketime
+
+Package: fr.lululombard.certremaintime
+Version: 2.2.7
+Section: Utilities
+Maintainer: D4ni <mail@d4ni.nl>
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, net.limneos.libbulletin
+Architecture: iphoneos-arm
+Filename: ./debs/99.deb
+Size: 517476
+Installed-Size: 1048
+Description: Basic App to know when you'll need to resign your Jailbreak tool
+Name: CertRemainTime
+Author: lululombard <contact@lululombard.fr>
+Depiction: https://repo.d4ni.nl/index.php?pid=99
+MD5sum: ee2ff77843b6b67ba5a13ef82bbc086c
+SHA1: 9a06e86298ef31e3dabcbd113f5dc6a5d64d072a
+SHA256: c33974aeb72ef6931f98c019b0f3626d03c7efdb99afd56ac35ca7ef8ef77fc5
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=fr.lululombard.certremaintime
+
+Package: it.dreamcode.picobanners
+Version: 0.1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/146.deb
+Size: 49254
+Installed-Size: 185
+Description: Smaller iOS 10 banners
+Name: PicoBanners
+Author: Michele Primavera <support@dreamcode.it>
+Depiction: https://repo.d4ni.nl/index.php?pid=146
+MD5sum: 4936ed1f1c57aea450e12858b74c501a
+SHA1: 9421a2a2157efbfd852365f951048cda99fe1200
+SHA256: ba18d3cf1e0e6dfdd6ba7a83a3ec0e4ee61cf31fbcf7db2411efcff2d0d11366
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=it.dreamcode.picobanners
+
+Package: it.dreamcode.picobanners2
+Version: 0.0.1b2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/147.deb
+Size: 19376
+Installed-Size: 108
+Description: Smaller iOS 11 banners
+Name: PicoBanners 2
+Author: Michele Primavera <support@dreamcode.it>
+Depiction: https://repo.d4ni.nl/index.php?pid=147
+MD5sum: 60a4ce4ef6a0391cb69f0bff6021ab8b
+SHA1: 85b84cbdf11fc357664df2dc85c350ab50d1626e
+SHA256: 6ae4281a2df5989901346fc87be09961362ef69775a4592e65d1a8ac0897a58f
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=it.dreamcode.picobanners2
+
+Package: it.dreamcode.tao
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/145.deb
+Size: 5940
+Installed-Size: 117
+Description: Turns off tethering on usb disconnect, hides tethering bar if only tethering on usb
+Name: TetheringAutoOff
+Author: Michele Primavera <support@dreamcode.it>
+Depiction: https://repo.d4ni.nl/index.php?pid=145
+MD5sum: c80b15ca6c619f7330c7e191582c9f8f
+SHA1: 04064a45a706c16ee5131e5f05ffd7dd40818b02
+SHA256: 00d473d34a49eed5d68ec941f94dea91a4e728af477a1a0368356ac34725468c
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=it.dreamcode.tao
+
+Package: nl.d4ni.69nice
+Version: 1.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/57.deb
+Size: 4724
+Installed-Size: 136
+Description: Show 'nice' as the battery percentage at 69%
+Name: 69Nice
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=57
+MD5sum: 09243ff812dbcd9640273fe991688a8d
+SHA1: a0dfcc7a75cb2e3735d212a256d44f5c153506f7
+SHA256: f0097a0490b87054ab1c771c7ca2b577eec3ed36a236bc453751d5b55a31ed81
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.69nice
+
+Package: nl.d4ni.bingdaily
+Version: 0.0.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), jp.ashikase.techsupport (>= 1.5.0.1), net.limneos.libbulletin
+Conflicts: nl.d4ni.vellumdaily
+Architecture: iphoneos-arm
+Filename: ./debs/124.deb
+Size: 95844
+Installed-Size: 416
+Description: Sets the Bing daily wallpaper as your wallpaper everyday!
+Name: BingDaily
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=124
+MD5sum: b45cdc982245358277b9996417af8f14
+SHA1: 54102331e4e2eb45368f23fdf76829cf40f1eab5
+SHA256: 42a44bd707fb13d3565a3eba62db831fec96b9de07903b7978c5fede572e30d8
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.bingdaily
+
+Package: nl.d4ni.blazeit
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/59.deb
+Size: 4602
+Installed-Size: 136
+Description: Show 'Blaze It' as the statusbar time at 4:20.
+Name: BlazeIt
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=59
+MD5sum: bf41f3f12f0081a4992eb64a10e075be
+SHA1: f66df36d925744d29e5117536c6bd185d5f1abd5
+SHA256: fceaf3ecbfde386b8397084d2244bd73707aa6e82ef4514c2dd86cbdf4fdcf24
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.blazeit
+
+Package: nl.d4ni.bunqantijb
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/143.deb
+Size: 5306
+Installed-Size: 120
+Description: Jailbreak detection bypass for the bunq banking app.
+Name: bunq Anti JB
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=143
+MD5sum: cc766d1dc74df7bf4811b240682cb3ce
+SHA1: 94a56b23b9f9356912b6a244a33bd4ede5d1570a
+SHA256: 50755f29d0ef5b2bc788be56d3bfb8c29fd440955e9a670a4141a0961ab9963a
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.bunqantijb
+
+Package: nl.d4ni.confirmlaunchxi
+Source: https://git.d4ni.nl/daniwinter/ConfirmLaunchXI
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), jp.ashikase.techsupport (>= 1.5.0.1), preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/128.deb
+Size: 33020
+Installed-Size: 312
+Description: Do you really want to open that app?
+Name: ConfirmLaunchXI
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=128
+Icon: file:///Library/PreferenceBundles/ConfirmLaunchXI.bundle/icon@3x.png
+MD5sum: d5045dde83411b4a155e00900cae55a6
+SHA1: 2d732bb9a2ffc1423aba37bda4afc1717bdf1b51
+SHA256: d03e8c348c791821d20d04e2109e39b4ab7afbbb7503d879ac486bee6c57dabe
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.confirmlaunchxi
+
+Package: nl.d4ni.culvert
+Version: 0.0.5-1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), jp.ashikase.techsupport (>= 1.5.0.1), net.limneos.libbulletin
+Conflicts: nl.d4ni.vellumdaily, nl.d4ni.bingdaily
+Architecture: iphoneos-arm
+Filename: ./debs/142.deb
+Size: 863998
+Installed-Size: 1208
+Description: Get a nice wallpaper every day!
+Name: Culvert
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=142
+Icon: file:///Library/PreferenceBundles/Culvert.bundle/icon@2x.png
+MD5sum: 16f33dd5f52ce9db710b42991af3bf58
+SHA1: 23109abf1098cda20335c9f8dc71040ec332a6b5
+SHA256: 4c5d97828b5cda46f5d81ae6a336b86fddf6220aa48066c13d273cd8eaf41bc3
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.culvert
+
+Package: nl.d4ni.cydiainstall
+Version: 2.1
+Section: Utilities
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: ./debs/2.deb
+Size: 1811870
+Installed-Size: 2308
+Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
+Name: Cydia Failsafe
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/view/2
+MD5sum: 94a81c509c6e89fac784f0a37ddae605
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.cydiainstall
+
+Package: nl.d4ni.deviceinfo
+Version: 1.0
+Section: Utilities
+Maintainer: D4ni <mail@d4ni.nl>
+Architecture: iphoneos-arm
+Filename: ./debs/98.deb
+Size: 146160
+Installed-Size: 560
+Description: View information about your iDevice.
+Name: DeviceInfo
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=98
+MD5sum: b196c98c5a1f3526c08de80b31f5c291
+SHA1: ccb18128ff7ceaccc7dff5ae63c3bab35deea34c
+SHA256: 24507b5e74df8a2144ab136e543823a92575ccdbb302f6b7f5eb25873bd4f1c0
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.deviceinfo
+
+Package: nl.d4ni.disconnected
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Architecture: iphoneos-arm
+Filename: ./debs/87.deb
+Size: 4132
+Installed-Size: 136
+Description: Display a notification when your WIFI connection drops.
+Name: Disconnected
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=87
+MD5sum: c47989f4267a249361fb7c26ead56b22
+SHA1: 7820a4a8b89789fd7e57a7d7327499265e0c346f
+SHA256: e558e5bcd6e8a6092a17af13bd3b5b9cf35b5ab05c0086198b10150c16081380
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.disconnected
+
+Package: nl.d4ni.homeswitcher
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/89.deb
+Size: 3640
+Installed-Size: 136
+Description: Always open the app switcher to the home page.
+Name: HomeSwitcher
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=89
+MD5sum: dfdc02771f960447d630793fc3d05c36
+SHA1: a86b0e070bc0c4bca02c70495e4480fcefa1e173
+SHA256: c0811065c7ff263899a5b0efac6879c96accd1675aa8364a12c9dfbbd265d7a2
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.homeswitcher
+
+Package: nl.d4ni.hotspotusage
+Version: 0.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/74.deb
+Size: 9068
+Installed-Size: 136
+Description: Show the used download and upload data in the statusbar while tethering.
+Name: HotspotUsage
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=74
+MD5sum: ef10905194718908c1a76be26f76aa75
+SHA1: 2137c7f597a07e276f8ee0ab1b6e6d597514cebf
+SHA256: e0067383813364a38ea471ebca4a3a3619c046e552d711f3cb4ace2c344fa9bd
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.hotspotusage
+
+Package: nl.d4ni.ikeylogger
+Version: 0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/97.deb
+Size: 3754
+Installed-Size: 136
+Description: A Keylogger for your iDevice!
+Name: iKeyLogger
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=97
+MD5sum: 87c313a5974f2a4f4edffed72d2601b8
+SHA1: c814c9a418d7c8fe8e11dfa1923f7fe048e0de1c
+SHA256: a7caf7a6da8342a1e42de3e9c60b7f76a536cc7ec8757ae21f309f8b4cbfa786
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.ikeylogger
+
+Package: nl.d4ni.jaumovip
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/111.deb
+Size: 4126
+Installed-Size: 120
+Description: Enable VIP features in the Jaumo dating app.
+Name: Jaumo VIP
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=111
+MD5sum: 6188782b1dfc287f873daad9860e14b7
+SHA1: e7c301bcd05c9c031a583684d39a2e0f3a7c3191
+SHA256: d05495dbffd5ea22d8f00333f56aed331aa1686d17b499fa9f179fd2607f2719
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.jaumovip
+
+Package: nl.d4ni.killcomms
+Version: 1.2
+Section: Utilities
+Maintainer: D4ni <mail@d4ni.nl>
+Architecture: iphoneos-arm
+Filename: ./debs/78.deb
+Size: 7682
+Installed-Size: 244
+Description: Runs killall CommCenter
+Name: KillComms
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=78
+MD5sum: 73c9dc558b22682c265dc929f213ccdf
+SHA1: d404a5385fa5c2d3c2e812d5422d22875bc98207
+SHA256: 9ed9083f3664cd60e435af87985409dca1987f172e093024bf029397dc839fa0
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.killcomms
+
+Package: nl.d4ni.menowrite
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/6.deb
+Size: 3426
+Installed-Size: 136
+Description: Disable handwriting in messages app.
+Name: MeNoWrite
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/view/6
+MD5sum: 0a7c8bb9bbc9638042b8bf94cce043dd
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.menowrite
+
+Package: nl.d4ni.mirrorlesscamera
+Version: 0.9.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/21.deb
+Size: 115554
+Description: Awesome mirrorless camera shuttersound!
+Name: MirrorlessCamSound
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=21
+MD5sum: 902c5c83c209c11274def828ea200b1b
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.mirrorlesscamera
+
+Package: nl.d4ni.nofacebookads
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/148.deb
+Size: 14900
+Installed-Size: 152
+Description: This package blocks all Facebook video ads.
+Name: NoFacebookAds
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=148
+MD5sum: b96824b99627bc3a03f7e996921f96e7
+SHA1: e86faefdba836fb0de54fdcc8b7eb7e84aa4eb26
+SHA256: 143c6abeae95c1fbc63fbba929ca9102924c627a7140c3b82d6ad1078459180d
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.nofacebookads
+
+Package: nl.d4ni.noiconlabels
+Version: 3.0.0-2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), jp.ashikase.techsupport (>= 1.5.0.1)
+Architecture: iphoneos-arm
+Filename: ./debs/144.deb
+Size: 44844
+Installed-Size: 336
+Description: Disable all icon/folder labels.
+Name: NoIconLabels
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=144
+MD5sum: 82fb6146defe9491276a9e2e99afc5a4
+SHA1: bf3cfed2901a6b47f7091d70d137f5f1bf22c274
+SHA256: 16a76c40ea693282db1cae13bde6167dec3131d77187788debbd909e16f4be12
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.noiconlabels
+
+Package: nl.d4ni.noliveclock
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/7.deb
+Size: 3524
+Installed-Size: 136
+Description: Disable the live clock.
+Name: NoLiveClock
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/view/7
+Icon: file://https://appicons.nl/uploads/big/5f8ab647620cda73f31d5d72808879c8.png
+MD5sum: e413808bf1b169307e325ae8248d0617
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.noliveclock
+
+Package: nl.d4ni.nolockscreensb
+Version: 1.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: ./debs/13.deb
+Size: 3680
+Installed-Size: 136
+Description: Hide statusbar on lockscreen.
+Name: NoLockscreenSB
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=13
+MD5sum: 4f3ee93a3898f7a8d83d7b8ea8425154
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.nolockscreensb
+
+Package: nl.d4ni.nolockscreenshot
+Version: 0.0.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/115.deb
+Size: 3642
+Installed-Size: 120
+Description: Disable screenshots when device is locked.
+Name: NoLockscreenShot
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=115
+MD5sum: c7f0929bf6cbc6ad17043cf43f8d166a
+SHA1: 9fc7fb07cadd98215b68f068eb879ae65b772f29
+SHA256: 50f6403be34e2dd61ac040889688c9419d7e41e73a21c8857c63f5fae0616e44
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.nolockscreenshot
+
+Package: nl.d4ni.nolowstorage
+Version: 0.9
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/18.deb
+Size: 3400
+Installed-Size: 136
+Description: No more 'Low storage' alerts.
+Name: NoLowStorage
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=18
+MD5sum: d038c617f4e21e6b76013a488b294547
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.nolowstorage
+
+Package: nl.d4ni.nomorefbstories
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/106.deb
+Size: 3500
+Installed-Size: 136
+Description: Disable the annoying camera when swiping from the left.
+Name: NoMoreFBStories
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=106
+MD5sum: 1ec85b885e5a23b2fbee1cccdef3e208
+SHA1: d961cf7e56f9bd62111cf6f397eb092138171efb
+SHA256: 73875e09782d684732c09d4628a704f9887974bcb385652ff88a74e62dffbb90
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.nomorefbstories
+
+Package: nl.d4ni.noscreenshotflash
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/92.deb
+Size: 3442
+Installed-Size: 136
+Description: Don't flash the screen when taking a screenshot.
+Name: NoScreenshotFlash
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=92
+MD5sum: 18298abbe11dae7893d2a80487cdb53e
+SHA1: c16fdaf9a1aa63146de0081d81f747d4ac310fe1
+SHA256: 990955adcac4fe358b5bc4b998296f7ebc37c003cd812397452121a0cb4d15a7
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.noscreenshotflash
+
+Package: nl.d4ni.nospotlightcredits
+Source: https://github.com/DaniWinter/NoSpotlightCredits/
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/52.deb
+Size: 3506
+Installed-Size: 136
+Description: Remove the credits at the bottom of Spotlight.
+Name: NoSpotlightCredits
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=52
+MD5sum: e3f01e4a042e074e5467763ef402974a
+SHA1: b06dc8f2532bc0ee3ffe825f5c4eaebef34868b5
+SHA256: bcc2155108a618135623b58d281bfad7bedfb2c6534c3ee0e8cadaffa9766c60
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.nospotlightcredits
+
+Package: nl.d4ni.notificationtester
+Source: https://git.d4ni.nl/daniwinter/NotificationTester
+Version: 1.3.3.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Architecture: iphoneos-arm
+Filename: ./debs/91.deb
+Size: 62458
+Installed-Size: 420
+Description: Send test notifications.
+Name: NotificationTester
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=91
+MD5sum: 7cbef553efcbe2b052860a7709a61344
+SHA1: 20809f7bdbbd45470ee3e8d5fbdcac3256019736
+SHA256: 11a094c1dd229934e8876b3ab7e22a7f176bfb2569522cef69b4203b7abf3d82
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.notificationtester
+
+Package: nl.d4ni.notispace
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/58.deb
+Size: 5508
+Installed-Size: 136
+Description: Show Used/Free space instead of 'No Notifications'.
+Name: NotiSpace
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=58
+MD5sum: 70bf304c37c02ec9fdf2adccffd1029d
+SHA1: 32faa79557cb8cc39f6404f64409a0a0bea8f577
+SHA256: ec1b1e36420c6a43779af2ed045ecb0ee424aa8b38cece8d5a75fd56a6bd746a
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.notispace
+
+Package: nl.d4ni.noworddeletion
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/94.deb
+Size: 2902
+Installed-Size: 136
+Description: Disable auto word deletion when holding backspace.
+Name: NoWordDeletion
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=94
+MD5sum: c1160c850517800d074aa61300f41853
+SHA1: 95fb35cf38249f342a9a61d2f6a1b8ee291605c4
+SHA256: 136909a470a0e51675cbb518a3fa80b42efb7c2720fb8d424fc98da93a7fd0e9
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.noworddeletion
+
+Package: nl.d4ni.osxvolumesound
+Source: https://github.com/DaniWinter/OSXVolumeSound
+Version: 1.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Conflicts: com.darwindev.volumenotifier
+Architecture: iphoneos-arm
+Filename: ./debs/24.deb
+Size: 7806
+Installed-Size: 140
+Description: Plays the OSX volume sound when changing the volume.
+Name: OSXVolumeSound
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=24
+MD5sum: 742e50db2a4e0bc324e841fbf37d6e06
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.osxvolumesound
+
+Package: nl.d4ni.plsnoreset
+Version: 1.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/17.deb
+Size: 35458
+Installed-Size: 336
+Description: Disable the reset options in settings.
+Name: PlsNoReset
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=17
+MD5sum: b231a86093430e4baddc076874cb86cb
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.plsnoreset
+
+Package: nl.d4ni.pornblocker
+Version: 1.0.5
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker, nl.d4ni.pornblockerplus, com.rishanan.hostadblocker, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb, com.thireus.untrustedhostsblocker9
+Architecture: iphoneos-arm
+Filename: ./debs/125.deb
+Size: 15404
+Description: Tired of finding yourself on a porn site again?
+Name: Porn Blocker
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=125
+MD5sum: ca47ff402118522b7cf3111af0c724e5
+SHA1: 7dbfea1131c486dd695f4efb3456a7fa593f914f
+SHA256: c8b08f33917ed5c4790d901f91bcf1b1f3e62a1b07f412a9267b80fc947e1509
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.pornblocker
+
+Package: nl.d4ni.pornblockerplus
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, nl.d4ni.pornblocker, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb
+Architecture: iphoneos-arm
+Filename: ./debs/53.deb
+Size: 18968
+Description: Tired of finding yourself on a porn site again?
+Name: Porn Blocker +
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=53
+MD5sum: d9eb7a05f94254e4011382efc3ac80a3
+SHA1: 6145337c144b59bc5870c4650bf170446a1186c2
+SHA256: f70a13b3601efb80b8806f76022dda03884d6e2196f500b74e08e3b8ef49b9fe
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.pornblockerplus
+
+Package: nl.d4ni.respring
+Version: 1.1-1
+Section: Utilities
+Maintainer: D4ni <mail@d4ni.nl>
+Architecture: iphoneos-arm
+Filename: ./debs/3.deb
+Size: 101550
+Installed-Size: 188
+Description: App icon to restart springboard.
+Name: Respring
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/view/3
+MD5sum: 82a7b68df8ec523e872d331fc68a6b7c
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.respring
+
+Package: nl.d4ni.soundcloudplus
+Source: https://git.d4ni.nl/daniwinter/SoundCloudPlus
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/108.deb
+Size: 6742
+Installed-Size: 128
+Description: No ads in SoundCloud
+Name: SoundCloud+
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=108
+MD5sum: ffa522c03c2b5b521378b5faca94be3e
+SHA1: 25a271f3814292f54e67d303694129a48a70aef1
+SHA256: 29481b7246a04dee5f1bcf00827fe719ab04e15f07257386b8dd4291a666efca
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.soundcloudplus
+
+Package: nl.d4ni.statusbardate
+Source: https://github.com/DaniWinter/StatusbarDate
+Version: 1.3.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Conflicts: info.rpdev.dateinstatusbar
+Architecture: iphoneos-arm
+Filename: ./debs/38.deb
+Size: 48814
+Installed-Size: 384
+Description: This package has been integrated in Vanae.
+Name: StatusbarDate
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=38
+MD5sum: b26720ac1cbbeae84f78e90227af335a
+SHA1: 378ae75003206e90643ef62b4ae3b7a4c4c92042
+SHA256: 3035a0d135bb3c6223606b88ae9bb9abf9e0ba324abeee6a202c62eac37d2042
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.statusbardate
+
+Package: nl.d4ni.statuscalendar
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/93.deb
+Size: 5712
+Installed-Size: 136
+Description: Show next calendar event in the statusbar.
+Name: StatusCalendar
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=93
+MD5sum: 75147e854a71fa1899ca4eb781d0a256
+SHA1: 6aa89b1b099b33668ec0a7da64c36f339ddb2451
+SHA256: 4f6df8779d013b6e8cbca9cc323c3bc37f62d995cc3e905ee054f495ae1140dd
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.statuscalendar
+
+Package: nl.d4ni.stealthsafari
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/65.deb
+Size: 5062
+Installed-Size: 136
+Description: Force safari private mode.
+Name: StealthSafari
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=65
+MD5sum: f2fddc0d0451dc72051fc4a77e2724a5
+SHA1: a4594d9d60066b1647fe56cd640e085572a384dc
+SHA256: f265d95f13bc111c8016d83cbbfe3ad01a4053f15284c98347e388faad3dc756
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.stealthsafari
+
+Package: nl.d4ni.switchlock
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/29.deb
+Size: 52306
+Description: Plays the Nintendo Switch locksound when locking your device.
+Name: SwitchLock
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=29
+MD5sum: a706a451d6c7e42b0d182fc6f8de7c5a
+SHA1: 659f03f8109d5600242ac5f0287d11d4d1195409
+SHA256: 99f1aec3f946b423919b929f0b7a6125e8b27cd8770e6f123a7e0c4f0f091f46
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.switchlock
+
+Package: nl.d4ni.vanae
+Version: 1.5
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Conflicts: info.rpdev.dateinstatusbar, nl.d4ni.statusbardate
+Architecture: iphoneos-arm
+Filename: ./debs/45.deb
+Size: 51856
+Installed-Size: 388
+Description: Add date/time to the 'No Notifications' screen.
+Name: Vanae
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=45
+MD5sum: 26d27c941c2f4b48053f55d279281b1d
+SHA1: 67741e7a44483a9ddf3d9737083179b183d86401
+SHA256: 9040bd6f7b42973e388299993068b5d151a2e30fa5fec1724dbdd112748296f8
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.vanae
+
+Package: nl.d4ni.videoplayerrotatable
+Version: 0.0.15
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: ./debs/75.deb
+Size: 27578
+Description: Disables rotation lock when the default video player starts playing and restores lock when it stops. You will need to quit and re-launch any app you want to use this in.
+Name: VideoPlayerRotatable
+Author: David Glinski
+Depiction: https://repo.d4ni.nl/view/75
+MD5sum: 692322276e61dcea76bc9bfd86071291
+SHA1: 95763fbf39a588a24710334b0b535baeba7550ab
+SHA256: 3c9b862ad2f73e58c9786dafafe1d8bd7396e05fe7b847c6f073c8ce1dfd0103
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.videoplayerrotatable
+
+Package: nl.d4ni.weatherpropremium
+Source: https://git.d4ni.nl/daniwinter/WeatherProPremium
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/109.deb
+Size: 3526
+Installed-Size: 120
+Description: Enable premium subscription in the WeatherPro app.
+Name: WeatherProPremium
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=109
+MD5sum: 48f945fb1351c6f021f0ec70c44616ad
+SHA1: d9eadab6fa3ec95be527470ea17bb550f6afc670
+SHA256: c198897b7a9cac71660612dcbb147fc6d5f67b896e603230d43a1a6f2eacae19
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.weatherpropremium
+
+Package: nl.d4ni.widgextend
+Version: 0.0.1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/118.deb
+Size: 4666
+Installed-Size: 124
+Description: Always extend widgets.
+Name: Widgextend
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=118
+MD5sum: cc7d160d2041bed101fa29d82e57f00b
+SHA1: 44064b5e904e32238f16cbbaf9227b8e96972315
+SHA256: 476e7ceed6656ffd78de30f5d3768c9c4638b3405876a7912e354ae4ea7101b4
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=nl.d4ni.widgextend
+
+Package: org.thebigboss.snooscreens
+Version: 1.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, libactivator
+Architecture: iphoneos-arm
+Filename: ./debs/127.deb
+Size: 221106
+Installed-Size: 1280
+Description: Set your wallpaper to an image from a subreddit!
+Name: SnooScreensXI
+Author: D4ni <mail@d4ni.nl>
+Depiction: https://repo.d4ni.nl/index.php?pid=127
+Icon: file:///Library/PreferenceBundles/SnooScreens.bundle/SnooScreens@3x.png
+MD5sum: 04257502e4254db6f9f0e7c0deb55322
+SHA1: 6ffe8691e9e6462188daf372bdb542284811179f
+SHA256: 71137305e6cbb60e83f0ab9eb0b53ec8096e2e450ab4348b421cfc6cd1bf4807
+SileoDepiction: https://repo.d4ni.nl/sileo-depiction.php?view=depiction&pid=org.thebigboss.snooscreens
+

@@ -1,0 +1,8 @@
+Origin: rio-doro
+Label: rio-doro
+Suite: stable
+Version: 1.0
+Codename: rio-doro public repo
+Architectures: iphoneos-arm
+Components: main
+Description: my personal repository with public releasesy

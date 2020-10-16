@@ -1,0 +1,53 @@
+Package: com.ic0nic0de.excelbypass
+Version: 1.1-2+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.excelbypass_1.1-2+debug_iphoneos-arm.deb
+Size: 4610
+MD5sum: ba8c7fdf1a8f9042e3da27b07a6943b2
+SHA1: cd88dedf2db1e43495f87741a20b8e7f635aad96
+SHA256: f2b8adcce6c0bbeb1f2b5ada817907adb4be98fc9b1a72b59fa620a76b7733bf
+Section: Tweaks
+Description: Microsoft Excel JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
+Name: Excel JB Bypass
+Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
+
+Package: com.ic0nic0de.outlookbypass
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 228
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.outlookbypass_1.1-1+debug_iphoneos-arm.deb
+Size: 15108
+MD5sum: 65f359f6c13fff6fb91151857ed33a2c
+SHA1: 9da41709bf6281e59acce77dd3fc975ba02652c5
+SHA256: 6fa3dd53685f22e5dee9e53bff9e31098ab628247534c7ac01e3e8f8d43ba772
+Section: Tweaks
+Description: Microsoft Office JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
+Name: Outlook JB Bypass
+
+Package: com.ic0nic0de.taptaplock
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
+Filename: ./debs/com.ic0nic0de.taptaplock_1.2_iphoneos-arm.deb
+Size: 34592
+MD5sum: c396e393992552d83aa5b22b81710515
+SHA1: 329187c84fa4ee71c2674587f5464e7580713c6d
+SHA256: d88ff6f99e3c097d322cfe52a93de53c9ceb293e636434f71d5392493dbacbd9
+Section: Tweaks
+Description: Tap on the homescreen to lock your device
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.taptaplock/index.html
+Icon: file:///Library/PreferenceBundles/taptaplockPrefs.bundle/icons/icon@3x.png
+Name: Tap Tap Lock
+

@@ -1,0 +1,38 @@
+Package: com.applevegas.betensignal
+Version: 2.3
+Section: System
+Maintainer: AppleVegas <applevegassl@gmail.com>
+Author: AppleVegas <applevegassl@gmail.com>
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate, firmware (<= 12.4.1)
+Description: This tweak brings back iOS 10-like signal dots to iOS 12. Please do not try to install this on iOS 11 or 13.
+Filename: ./debs/com.applevegas.betensignal_2.3_iphoneos-arm.deb
+Size: 1266850
+MD5sum: 4b730511733f82a90325f46c28b5ebbd
+Name: Be10Signal 12
+
+Package: com.applevegas.lazysign
+Version: 1.1
+Section: Administration
+Maintainer: AppleVegas <applevegassl@gmail.com>
+Author: AppleVegas <applevegassl@gmail.com>
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0)
+Description: signbin - sign single binary, signfolder - scan folder for binaries and sign them, signipa - scan ipa for binaries and sign them. Only for systems with CoreTrust (iOS 12+)
+Filename: ./debs/com.applevegas.lazysign_1.1_iphoneos-arm.deb
+Size: 1272
+MD5sum: b8533f0c453c3255a49777f848791dae
+Name: LazySign
+
+Package: com.applevegas.betensignalunified
+Version: 1.2
+Section: Themes
+Maintainer: AppleVegas <applevegassl@gmail.com>
+Author: AppleVegas <applevegassl@gmail.com>
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, com.spark.snowboard.statusbar, com.spark.snowboard
+Description: This theme brings back iOS 10-like signal dots to newer iOS. Apply as SnowBoard theme. SnowBoard StatusBar extention is necessary!
+Filename: ./debs/com.applevegas.betensignalunified_1.0_iphoneos-arm.deb
+Size: 12814
+MD5sum: 507631d6d246eb6e063ca9bbbd0d2769
+Name: Be10Signal Unified

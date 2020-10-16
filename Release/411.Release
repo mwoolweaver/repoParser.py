@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Fri, 04 Sep 2020 02:04:43 +0000
+Description: Nightly Updates and the latest upstream for Renaitare software
+Label: Renaitare Nightly
+Origin: Renaitare Nightly
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 51eba5a0ce38609617b30c10127022ff              979 Packages
+ 653c27f3a493ea2923d2858718e93c1b              606 Packages.bz2
+ 9685b277f64bcd6597dfed4e748a693c              546 Packages.gz
+ e3479e98afa57ed22458b4a182a0c688              612 Packages.xz
+ 8bb666e0024d25be470465e47d2705a3              542 Packages.zst
+ ca8c4762e36c84c1b38a52978f801192              251 Release
+SHA1:
+ b6f883ade40253652084504273acc56bfed167bc              979 Packages
+ 7526539e88a2fe97b833a8bd8497d5abb24a8590              606 Packages.bz2
+ 4c66f13a7466ee3d0a90a817e15ae3a0f40cdb45              546 Packages.gz
+ 1d8b9c095b3f1ec9ec182bfbe425f66a58c99820              612 Packages.xz
+ a26b239684950e23a715119a52a9ef1b284b1c68              542 Packages.zst
+ d78b883a4e944a33dae546950aae153841dec62a              251 Release
+SHA256:
+ c2e8c59799759c46b392564ae5c1098d0b09c0cab07e443c99e676745a90b415              979 Packages
+ 6c02a0351bb910217ead9923d8afbdc90769f0adbb13f0528766fa42b1eed44b              606 Packages.bz2
+ 7cdde27c9cdca17962d0bb90924a67efa84f31ab6fd92de0472c2bf326b8d33a              546 Packages.gz
+ 3d61e128781cd3062e03934f43d8d38b36ef06b37ab9620e5183854a13c1ad65              612 Packages.xz
+ e8d76f16cfd251c9afde6a25af1ae0f4d4c406fd3db3823089eea759a6080148              542 Packages.zst
+ d8b62fc2ece28d98765113dc52b183674b58c55f3ae3b147b3c2e48915ae4216              251 Release
+SHA512:
+ 0983879268150edcdaafd051c86e4ec1f9b10f0cb4bcb02f43c6f92c0f81f6c58d55cb16e2b368869f09c28a635622dfcd248b53be604f43f95f08368413fef0              979 Packages
+ f61dbc959e45243fa970a40d7da34b6bb165e23d20cf807d50b1481743e08e410cbe7e300db639bc8b479a3a08225db0c18199303b3dedad838085689783e86a              606 Packages.bz2
+ 38ffe98a4a4bf31c7f5540bb843d3e88f35ed59b5bfadc26cd377b5cd11b88f5f2d284ff3dd14233c497d08d2dbb530ccbb8575bfa3df5ed0d14d219db1eb309              546 Packages.gz
+ da52f10fef419bbfd5833801f0c6b9ce46972b92909959525408e07d83d8ccef3530c16c694c53a99a43bd616b5191d128d4bd310d938a3c51979193ca4ac4cc              612 Packages.xz
+ 5fa3489653540d80de91ae300e0fe162c90164caf5ce999c7b1cf8ab678cce3fca21ca9e75cb8b574c5b3a0af0636dd26b06f4f177dbe304ef104e712a1915f4              542 Packages.zst
+ 0cf4435572df4fb9f9a72987f91b8902bc7efa15ef00892babe9b4e85514e69672dc342279d2e33066a9ecddc7ac12eca43796b9497b7cd2ed1831e5dbdc76cf              251 Release

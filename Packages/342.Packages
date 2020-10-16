@@ -1,0 +1,19 @@
+Package: com.pancakeufo.noforcedsounds
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Pancakeufo <pancakeufo@icloud.com>
+Filename: ./pkg/com.pancakeufo.noforcedsounds.deb
+Size: 1062
+MD5sum: 0a4e26a1f6113297805d1521cfd87371
+SHA1: 47faf079fefee23779d51f53d6de65857bd630d5
+SHA256: e71f71a03c91490951e2a79e0bcbbb4f6600aaefe31786645db9e7e72aa1d615
+Section: Tweaks
+Homepage: https://pancakeufo.github.io/repo
+Description: Disable Shutter, Video Recording & Screenshot Sounds
+Author: Pancakeufo <pancakeufo@icloud.com>
+Depiction: https://pancakeufo.github.io/repo/depiction/web/com.pancakeufo.noforcedsounds.html
+Icon: https://pancakeufo.github.io/repo/assets/com.pancakeufo.noforcedsounds/icon.png
+Moderndepiction: https://pancakeufo.github.io/repo/depiction/native/com.pancakeufo.noforcedsounds.json
+Name: NoForcedSounds
+Sileodepiction: https://pancakeufo.github.io/repo/depiction/native/com.pancakeufo.noforcedsounds.json
+

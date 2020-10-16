@@ -1,0 +1,64 @@
+Package: yt.paz.hswidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paz <paz@paz.yt>
+Filename: ./yt.paz.hswidget.deb
+Size: 1868060
+MD5sum: c1f6db783190a26ab00471ad55a49f66
+SHA1: 06bd7e569099fc6b548e0b7c76bfc442f41556a1
+SHA256: 2388304da00d35d153e448f31518954d273c7fdaa48c20e12b8ac307725889f2
+Section: Widgets
+Homepage: https://paz.yt
+Description: A homescreen widget.
+Author: Paz <paz@paz.yt>
+Depiction: https://paz.yt/repo/depictions/?p=yt.paz.hswidget
+Name: HS Widget
+
+Package: yt.paz.lotusdarkextra
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: Paz <paz@paz.yt>
+Filename: ./yt.paz.lotusdarkextra.deb
+Size: 1805780
+MD5sum: 313f2572efcd338879bcb262bd8a88c5
+SHA1: 20b42d0c0933170024e1a6ed4dd389278fbb8dfe
+SHA256: 6fb2b4cf26db1fb69f4de6610670d7a32c8ff8192caed08658af056b0c676aa6
+Section: Themes
+Homepage: https://paz.yt
+Description: An open-source extension to lotus dark. (Free)
+Author: Paz <paz@paz.yt>
+Depiction: https://paz.yt/repo/depictions/?p=yt.paz.lotusdarkextra
+Name: Lotus Dark Extra (Free)
+
+Package: yt.paz.lotusdarkplus
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Paz <paz@paz.yt>
+Filename: ./packix/yt.paz.lotusdarkplus.deb
+Size: 194826
+MD5sum: 0265ab8bac7bdf7b41e57d9527f1abb1
+SHA1: 18b110cd32e1ac9ae677634b362acddc6b477dd7
+SHA256: 9807c10b087f9f9663e3684529ef96b2bf9948719decb1c0f0ef1a7d5d6dd96f
+Section: Themes
+Homepage: https://paz.yt
+Description: An premium extension to lotus dark.
+Author: Paz <paz@paz.yt>
+Depiction: https://paz.yt/repo/depictions/?p=yt.paz.lotusdarkplus
+Name: Lotus Dark Plus
+
+Package: yt.paz.simpleclock
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Paz <paz@paz.yt>
+Filename: ./yt.paz.simpleclock.deb
+Size: 1252690
+MD5sum: 8bef25084f6ae77fe9451a2ac9c8207a
+SHA1: 732b8f04af29e654ea9d33bec56a75fd1710cb46
+SHA256: 9a5d714477aef346edef12cac3746565a9ae0ab278852e503b1c727358740666
+Section: Widgets
+Homepage: https://paz.yt
+Description: A simple clock widget.
+Author: Paz <paz@paz.yt>
+Depiction: https://paz.yt/repo/depictions/?p=yt.paz.simpleclock
+Name: Simple Clock
+

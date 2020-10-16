@@ -1,0 +1,12 @@
+Origin: AnthoPak's Repo
+Label: AnthoPak's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: AnthoPak Tweak Repository
+
+SHA256:
+ c43894200e2003794d180d274dafd3d7bf27657ea6b6a4a58d3b8bb7234d9653 1379 Packages.bz2
+ ee3a83986cbe22224dcddb6ef9e1445b8111353a98045dd06e4f41ddc8bdef8e 1272 Packages.xz

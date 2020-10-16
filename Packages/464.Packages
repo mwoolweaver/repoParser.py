@@ -1,0 +1,49 @@
+Package: me.siriusdev.lakeside
+Version: 0.8-14
+Architecture: iphoneos-arm
+Maintainer: Sirius24
+Installed-Size: 3992
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/me.siriusdev.lakeside_0.8-14_iphoneos-arm.deb
+Size: 2520026
+MD5sum: 0552913216ba9a7b11a9029c6af88c4a
+SHA1: c84ae906e5da5c1cc77717865ca8b477b73ec7bc
+SHA256: a95f1f84c826575e051704c4be0c1b789f2e9811d7e610ffc1c9aea7b2323104
+Section: Tweaks
+Description: Customize the Dock, YOUR way!
+Author: Sirius24
+Icon: file:///Library/PreferenceBundles/Lakeside.bundle/lakesideIcon-BIG.png
+Name: Lakeside
+
+Package: me.siriusdev.savestate
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Sirius24
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/me.siriusdev.savestate_0.0.1-2_iphoneos-arm.deb
+Size: 4062
+MD5sum: f1ba2c3f9f8de7e659ddd958b30a5a63
+SHA1: 7d60c23e3b10a53e5bdc6e2dfc88d28e792c09b1
+SHA256: 899f44859b0df5554962a7854ba6fe35bad50156dc9b78d8848e45275ee8f27b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sirius24
+Name: SaveState
+
+Package: org.digitalknightz.erebus
+Version: 0.0.1-7
+Architecture: iphoneos-arm
+Maintainer: Sean Caissie
+Installed-Size: 912
+Depends: mobilesubstrate
+Filename: ./debs/org.digitalknightz.erebus_0.0.1-7_iphoneos-arm.deb
+Size: 434760
+MD5sum: 27e79881f495ee786bd5761162c333cf
+SHA1: 184b660b60490575134541bab36eb99d5edef5de
+SHA256: 75045c9e304e187f9f8a74722d553f1cb9df8dca447a95f885cc5c02e6f3a398
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sean Caissie
+Name: Erebus
+

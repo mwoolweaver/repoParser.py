@@ -1,0 +1,256 @@
+Package: me.nepeta.owo
+Name: OwO
+Version: 0.2.2
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: OwO what's this!? (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 284
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Filename: packages/me.nepeta.owo_0.2.2_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.owo
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.owo
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.owo
+Icon: https://repo.nepeta.me/CydiaIcon.png
+Size: 14422
+MD5Sum: 0a247cfb2ab32cb375ec0f78d05fb704
+SHA1: b64bb845f9af39baa23e3a8b6f7999a58f5e1246
+SHA256: faeb8b397111832352c505538cc2706c378d2b843cf47de3c40e2814c9b170aa
+SHA512: f2c1b154111362cf3429bd80c72bf4754c96ce638e6e6e88a5e68355fd08480e864e7fd365c58d6d7069374e8091f9264f502ff1c98bb64eda6418a8a938abd6
+
+Package: me.nepeta.relocatereborn
+Name: Relocate Reborn
+Version: 1.0.0
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Minimalist GPS spoofer (free, iOS 13+) (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 492
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Conflicts: me.nepeta.relocate
+Filename: packages/me.nepeta.relocatereborn_1.0.0_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.relocatereborn
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.relocatereborn
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.relocatereborn
+Icon: https://repo.nepeta.me/icons/me.nepeta.relocatereborn.png
+Size: 70554
+MD5Sum: ac0c5fa111bf61dc6157f26bfb2791ad
+SHA1: fbf018e8751d23aa4b32a031fb2a4066d656927f
+SHA256: 53b5c8636ee3681b24183bc4291aff71582c7914e663b63adf24f737226416c3
+SHA512: c51d3f2b210bd00a0fd4412d641803fe2462313566dde7bfbbe6f0d1448655c915b474d6d5d9c0645007dde8925615ee4e4004617b80c87128cc69ab866f2043
+
+Package: me.nepeta.iconstate
+Name: IconState
+Version: 0.1.0
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Preserve custom icon layouts between reboots (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 200
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: packages/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.iconstate
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.iconstate
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.iconstate
+Icon: https://repo.nepeta.me/CydiaIcon.png
+Size: 4618
+MD5Sum: 3e4b6beb0282378e2fe33d9f03da4cf5
+SHA1: e7e6f4f94e7067364c1d9059e9e65efae8b6e0ae
+SHA256: 24dfde881451a6285793e7d346ea7a58a6138112fc93c90a78847fec3ccb4aaf
+SHA512: 0cb1d1535f86323a0981e184f9190656a7db3c96ea6c63fbf799c4f9bcd76bd01763240320ce542836e0ad0d4f1b890a867fceb55f83ad335e4fafb634b94278
+
+Package: me.nepeta.relocatereborn
+Name: Relocate Reborn
+Version: 1.0.1
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Minimalist GPS spoofer (free, iOS 13+) (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 492
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
+Conflicts: me.nepeta.relocate
+Filename: packages/me.nepeta.relocatereborn_1.0.1_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.relocatereborn
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.relocatereborn
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.relocatereborn
+Icon: https://repo.nepeta.me/icons/me.nepeta.relocatereborn.png
+Size: 69736
+MD5Sum: bf55710ace3c2bff0f1280e3de3df2ef
+SHA1: c93c139845b2fbc6169faecc85e79215e3483fc7
+SHA256: c38e629228315dbda468aa566ffc192cb9d61800ca10bc6aa89ac8a1b76b4614
+SHA512: ac92e94c1f697300cda47ba41f2e8b8a6b7eb7e7db2339e3bcacfc422bd108858be9ffade875948049af45b9007e1157a1fe31395656a235745cce7b00be7d6c
+
+Package: me.nepeta.libnepeta
+Name: libnepeta
+Version: 0.1.1
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Nepeta's color utils (If you can't see the depiction, please use Cydia or Zebra).
+Section: Development
+Installed-Size: 208
+Architecture: iphoneos-arm
+Filename: packages/me.nepeta.libnepeta_0.1.1_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.libnepeta
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.libnepeta
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.libnepeta
+Icon: https://repo.nepeta.me/CydiaIcon.png
+Size: 15942
+MD5Sum: 9c6b0244143ed613e6d4b2394b165545
+SHA1: 297f7b56a8ab255334e8d9cc5f82a20c711222de
+SHA256: 80e4c31f17da3748deb9c329ad41ea6eae6fdf609547125f9e729ffb16b113d2
+SHA512: 93b0f33d3b263480fd8ee087257c6e05d2609de5aba0b5f7dddbec155c51a328b59844dee02de0c63fcb6bebb95525e3f3cbb5c8f2fb1bf7e8620ec494a6fa72
+
+Package: me.nepeta.nereidreborn
+Name: Nereid Reborn
+Version: 0.1.0
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Lock screen music player redesign (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 460
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis | org.thebigboss.libcolorpicker (>= 1.6), me.nepeta.libnepeta, firmware (>= 13.0), preferenceloader
+Conflicts: me.nepeta.nereid
+Filename: packages/me.nepeta.nereidreborn_0.1.0_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.nereidreborn
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.nereidreborn
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.nereidreborn
+Icon: https://repo.nepeta.me/icons/me.nepeta.nereidreborn.png
+Size: 89544
+MD5Sum: 62b31db3e1b211c5c67842dec57b86d9
+SHA1: 3e64ecb79e0a2fd47c15793e4b56664ed20905fd
+SHA256: 8eb9526f4fc53549800da669a9ccef2b39d9e9f97a4153bde42149318a021803
+SHA512: 65418ee42e7cfba15528183ff33fc49cbe8cf26d11ca5b43582a319e66f6c11a95e83ada3fa1e0d35c318f4f86d341f8346186c91d5ea466b30c42ef77517617
+
+Package: 0xcc.woodfairy.cantreachme
+Name: CantReachMe
+Version: 1.1.2
+Maintainer: woodfairy
+Author: woodfairy
+Description: Custom actions for the reachability gesture (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 792
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: packages/0xcc.woodfairy.cantreachme_1.1.2_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/0xcc.woodfairy.cantreachme
+SileoDepiction: https://repo.nepeta.me/modern/0xcc.woodfairy.cantreachme
+ModernDepiction: https://repo.nepeta.me/modern/0xcc.woodfairy.cantreachme
+Icon: https://repo.nepeta.me/icons/0xcc.woodfairy.cantreachme.png
+Size: 596066
+MD5Sum: 0bb321518dc485777555858641bb113f
+SHA1: 9198081132271aaf78babd6a0e6ed311f2e833d2
+SHA256: 1e4d61914f60ac8e710f8fd1c34b53c975cb9e88848e9731806bdbb2ddd0118c
+SHA512: d3930b56803765b83e770ab1ef5b257e65d1ec72171d914906d385826693b2c40ba7512addbef0abafa78233e6bee3c78a20ace34ce526167a091f9b7be7ea22
+
+Package: me.nepeta.axonreborn
+Name: Axon Reborn
+Version: 2.0.0
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Priority Hub for iOS 13 (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 576
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: packages/me.nepeta.axonreborn_2.0.0_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.axonreborn
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.axonreborn
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.axonreborn
+Icon: https://repo.nepeta.me/icons/me.nepeta.axonreborn.png
+Size: 140396
+MD5Sum: b5462fa67a21bb9df6999af011e77fe6
+SHA1: a1087e31d967d8c4717fd1e66811f6206ae86f2f
+SHA256: 3c54f6e202a317cf939392a18216fc51e7628ca1451293e751a674fa8d0e8598
+SHA512: 78b28bd94d55b9d5e0bafbbb1df571187278c926d1f2ed385a9374e032f7fa04c7467de1e9d48f88a0aab48f21defdeefe24621152edefe1101f47b541527466
+
+Package: 0xcc.woodfairy.cantreachme
+Name: CantReachMe
+Version: 1.1.3
+Maintainer: woodfairy
+Author: woodfairy
+Description: Custom actions for the reachability gesture (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 944
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: packages/0xcc.woodfairy.cantreachme_1.1.3_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/0xcc.woodfairy.cantreachme
+SileoDepiction: https://repo.nepeta.me/modern/0xcc.woodfairy.cantreachme
+ModernDepiction: https://repo.nepeta.me/modern/0xcc.woodfairy.cantreachme
+Icon: https://repo.nepeta.me/icons/0xcc.woodfairy.cantreachme.png
+Size: 613344
+MD5Sum: 3792138c24d9d07e838d80b227045320
+SHA1: ee4cdf0b1b8c78eeabfa3123422ad3e971ce7474
+SHA256: eec05385090d587058332c97271bced10fb5e82dcd4ab2dd1521861b3703cf45
+SHA512: 7338f17835d96b02991670e02941e2253737f732a0458bb817cfbe26fad9052cd2621010272c9e9b48df5c830c49f456b160ce4e60df540838a0e1591edd395c
+
+Package: me.nepeta.sirivoicesettings
+Name: SiriVoiceSettings
+Version: 1.0.0
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Tweak Siri's voice. (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 292
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: packages/me.nepeta.sirivoicesettings_1.0.0_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.sirivoicesettings
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.sirivoicesettings
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.sirivoicesettings
+Icon: https://repo.nepeta.me/icons/me.nepeta.sirivoicesettings.png
+Size: 14882
+MD5Sum: f3fbe23e32ad7fa293fc84f151928fd9
+SHA1: 8d18aca3da48f18aec819cffc649493641f517d9
+SHA256: daf2adfc8168b8b8ced396c2fed9c3ae7c7fbaf4b13293b539523825e56cb7f3
+SHA512: 9113948edb5c244b9ed77ce46bd4323ab89cec099e4346459f6e88cdad320b92ba6fd26f9eefa58b508c1337b0151bcb3cc427c3e1ce09f587a70a8fd9eb5c21
+
+Package: 0xcc.woodfairy.cantreachme
+Name: CantReachMe
+Version: 1.2
+Maintainer: woodfairy
+Author: woodfairy
+Description: Custom actions for the reachability gesture (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 948
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Filename: packages/0xcc.woodfairy.cantreachme_1.2_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/0xcc.woodfairy.cantreachme
+SileoDepiction: https://repo.nepeta.me/modern/0xcc.woodfairy.cantreachme
+ModernDepiction: https://repo.nepeta.me/modern/0xcc.woodfairy.cantreachme
+Icon: https://repo.nepeta.me/icons/0xcc.woodfairy.cantreachme.png
+Size: 616040
+MD5Sum: 5d22ec0d99df9866902cd8f5059c1ba2
+SHA1: 7ea0daca547ba830fdfdf965893bf536598368e4
+SHA256: e36910231e23dad8efce16b410ddd1289ad1d8849a702b6e3c696a7983ad6428
+SHA512: 4caa225869ade901daa4a5ff1ef541b61f03b3a5649197bb664310d91b0d2b52a88ee7d120430bb663543fb75bd6ce073e0a946139874a0be27fd930944139ab
+
+Package: me.nepeta.wasabi
+Name: Wasabi
+Version: 0.1.0
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Minimalist clipboard manager (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 372
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Conflicts: me.nepeta.copypasta
+Filename: packages/me.nepeta.wasabi_0.1.0_iphoneos-arm.deb
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.wasabi
+SileoDepiction: https://repo.nepeta.me/modern/me.nepeta.wasabi
+ModernDepiction: https://repo.nepeta.me/modern/me.nepeta.wasabi
+Icon: https://repo.nepeta.me/icons/me.nepeta.wasabi.png
+Size: 46852
+MD5Sum: 35d323c7f35d366e78154a68949975d8
+SHA1: 1a58112d78b4264a50942d29e4c38163f858d740
+SHA256: 6e78aadb44ee351c6bc4b6d53a5d365a5cb97f674877a1aee370d471a1f2b87a
+SHA512: c6e7db23f90d52822c2ddfb23fe8bd2b3b9f364824cf6e3ffcea8346b733c1c7222bf53cb2302830b00d051a30333a04eb8dc406227bf425c8373d4720dbb638
+

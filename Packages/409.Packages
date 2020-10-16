@@ -1,0 +1,31 @@
+Package: com.rbt.batteryLife
+Version: 1.8.0~b24
+Architecture: iphoneos-arm
+Maintainer: rbt <batterylife1.8.x@rbtdigital.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, iokittools
+Conflicts: BatteryLife
+Replaces: BatteryLife
+Filename: deb/com.rbt.batteryLife_1.8.0~b24_iphoneos-arm.deb
+Size: 41115354
+MD5sum: 334a6175834f8380d18f0f84a3598b54
+SHA1: b5ff891733fd4bffc3ef6410929a62699230c95f
+SHA256: 384d5ce0b75661a021dc643e510d451f7c176cb9dafff0fcd8362a0b4b51549e
+Section: Utilities
+Description: Displays useful information about your device's battery health [b1] Completely replaced the main app with the official App Store version. Please report ANY bugs and missing languages to batterylife1.8.x@rbtdigital.com. Thank you very much! [b2] Several fixes. [b3] Possible fix for iOS 8 crash. General bug fixes. [b4] iOS 8 bug fixes. [b5] Updated app a lot. [b6] See b5. [b7] See b6. [b8] App is now compatible with iOS 11. [b9] Bugfixes. [b10] Fix for missing app icon. [b11] Possible fix for the status bar options. [b12] Fix for b11. [b13] Bugfixes. [b14] Bugfixes. [b15] Bugfixes. [b16] Fixed settings not opening. Fixed ads not disappearing. General bugfixes. [b17] Quick crashfix. [b18] Bugfixes & updated translations. Automatically saves battery stat history without the need to open the app. [b19] Bugfixes. [b20] Fixes for iOS 9 and 10. [b21] Fixed temperature unit in app. Changed App Icon to distinguish from the App Store version. [b22] Bugfixes. Should be close to final now. [b23] Preliminary iOS 12 support [b23] Preliminary iOS 13 support
+Author: rbt <batterylife1.8.x@rbtdigital.com>
+Name: BatteryLife for iOS 9 to 13
+
+Package: com.rbtdigital.safariDesktopMode
+Version: 1.0~a3
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: deb/com.rbtdigital.safariDesktopMode_1.0~a3_iphoneos-arm.deb
+Size: 139278
+MD5sum: 4c6f748fe0115b519cf198eb7c844d42
+SHA1: 1e024484b2a92d52e4a72c9f8068d6adb7cbea1e
+SHA256: c826307de8815503c1346373cb087c39865d1ff9b537fc0657b4b8454637184e
+Section: System
+Description: [ALPHA VERSION] Safari Desktop Mode allows you to browse Desktop sites using Safari. You can choose to enable the tweak for all websites or restrict it to specific URLs. Set your options at Preferences -> Safari Desktop Mode. [a1] Initial Release. You can't restrict the tweak to specific URLs in this version. [a2] Added preliminary support for filtering and targetting specific URLs. Changed to iOS 9+ (support for iOS 8 may follow). [a3] Added Blacklist support.
+Author: rbt <info@rbtdigital.com>
+Name: Safari Desktop Mode
+

@@ -1,0 +1,12 @@
+Origin: Thenatis
+Label: Thenatis
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: a sileo/cydia repo
+
+SHA256:
+ f7654268c0e0ad0fd37b97251e31f2fdb142fab630152f05327e0f2bcabe74d3 1230 Packages.bz2
+ 36795111574b9d75cfc91f7897b3cf86176a0ef87e5e23280d33a2c69f206ffc 1144 Packages.xz

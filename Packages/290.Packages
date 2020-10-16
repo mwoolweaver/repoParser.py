@@ -1,0 +1,97 @@
+Package: com.maryel1.loet
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MARYEL1
+Filename: ./debs/Loet.deb
+Size: 2881310
+MD5sum: ec916ec84b3106e11409ce404eaed719
+SHA1: b330aabf27b743b30267ea34e204a579fad53dfc
+SHA256: 3f098c208c60592284979a4b4af7b3aed0c85f44a35de67b683c15182e296e43
+Section: Themes
+Author: MARYEL1
+Name: Loet
+Depiction: https://maryel1.github.io/depictions/?p=com.maryel1.loet
+
+Package: com.maryel1.loetglyphs
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MARYEL1
+Filename: ./debs/LoetGlyphs.deb
+Size: 5847776
+MD5sum: 1f3d3a94bd7a389d1c979253af8a346f
+SHA1: 9a76bbb502eb4d4b12eeabc672b57b7cbb1de4b9
+SHA256: 2a3572b89cf11c9d7181bc895d5ecdbb754bf4a9ac56f1bb2e649c6a42c0242e
+Section: Themes
+Author: MARYEL1
+Name: Loet Glyphs
+Depiction: https://maryel1.github.io/depictions/?p=com.maryel1.loetglyphs
+
+Package: com.maryel1.loetglyphswhite
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MARYEL1
+Filename: ./debs/LoetGlyphsWhite.deb
+Size: 4383354
+MD5sum: f80018c673fc32a7e2193ad3acee7775
+SHA1: 30b410baa4e5b46c281ca21079e4373e8ef9ab1d
+SHA256: 82d477daa0f61448a8c7d71d77bc6b1a1fdf0936485fdf115ef4961817087fb8
+Section: Themes
+Author: MARYEL1
+Name: Loet Glyphs White
+Depiction: https://maryel1.github.io/depictions/?p=com.maryel1.loetglyphswhite
+
+Package: com.maryel1.loetlight
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MARYEL1
+Filename: ./debs/LoetLight.deb
+Size: 3223748
+MD5sum: 62a336421133b240a21bde7736999702
+SHA1: 98bcc8d3fb83ff9fb9daf4882db6e2bb4dbaff6b
+SHA256: 1d0f9786446f782bb46d951ecf33b2d524f609964dddc1ed4513087d318a830f
+Section: Themes
+Author: MARYEL1
+Name: Loet Light
+Depiction: https://maryel1.github.io/depictions/?p=com.maryel1.loetlight
+
+Package: com.maryel1.loetdark
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MARYEL1
+Filename: ./debs/LoetDark.deb
+Size: 3067230
+MD5sum: 4e4aabd6d1c627d61833fb23e2b37ba1
+SHA1: 36737155ab0cddde217aaa4ab8356d97cd66c0cd
+SHA256: 8550724229bfbef97713d9d237dbdf700861c7a8b710138fdb7928ea7c616df1
+Section: Themes
+Author: MARYEL1
+Name: Loet Dark
+Depiction: https://maryel1.github.io/depictions/?p=com.maryel1.loetdark
+
+Package: com.maryel1.JordanOS
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: MARYEL1
+Filename: ./debs/JordanOS.deb
+Size: 1951370
+MD5sum: b3ed7387c828c613a1dccab8178649b6
+SHA1: fd2bf33f62f72b07a4444dc8cfca283d67ba93c4
+SHA256: 49ece7f21843d54407b45bf8afb0a70788d9958575a4065de0fb9c5e670afe1a
+Section: Themes
+Author: MARYEL1
+Name: JordanOS
+Depiction: https://maryel1.github.io/depictions/?p=com.maryel1.jordanos
+
+Package: com.maryel1.eyes
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: MARYEL1
+Filename: ./debs/Eyes.deb
+Size: 7527032
+MD5sum: cbe89537d6ef594f3899b05011763555
+SHA1: a0497131fa09ea600333fe2dfa8fd07819e5bddb
+SHA256: 9f891fb15acfb3912057ab5183f33f3220f80c3eb2714fd81d69198d282f85f2
+Section: Themes
+Author: MARYEL1
+Name: Eyes
+Depiction: https://maryel1.github.io/depictions/?p=com.maryel1.eyes

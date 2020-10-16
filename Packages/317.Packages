@@ -1,0 +1,112 @@
+Package: com.mtac.centauri
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtac@mtac.app>
+Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./pkg/com.mtac.centauri.deb
+Size: 49214
+MD5sum: 4fb59efb84c0323b3ccfb5ed13486165
+SHA1: b37323fc96b27cbe7e476773b023c49cb70872e4
+SHA256: d625a94d0fb0e9b98f7dad6065c7cf4b688e6e7558bc2caba7e2b7cf29d80e47
+Section: Tweaks
+Description: Apple gave us Widgets, make your Battery one useful
+Tag: role::enduser
+Author: MTAC <mtac@mtac.app>
+Depiction: https://mtac.app/beta/depiction/web/com.mtac.centauri.html
+Icon: https://mtac.app/beta/assets/com.mtac.centauri/icon.png
+Moderndepiction: https://mtac.app/beta/depiction/native/com.mtac.centauri.json
+Name: Centauri
+Sileodepiction: https://mtac.app/beta/depiction/native/com.mtac.centauri.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios14.0, compatible_max::ios14.3
+
+Package: com.mtac.hera
+Version: 1.0-beta
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtac@mtac.app>
+Depends: firmware (>=13.0), mobilesubstrate, firmware (>= 13.0), com.spark.libsparkapplist
+Filename: ./pkg/com.mtac.hera.deb
+Size: 1108484
+MD5sum: 5da8d953179bfaf356b111c24fb14894
+SHA1: ed109824fdd73999ba6da14a7f3327bcc0123f34
+SHA256: 1d0848e757c13f563e8cba3bd77ab142b43e93e59fd0fe18472ffef52758200e
+Section: Tweaks
+Description: Focus in the best way
+Tag: role::enduser
+Author: MTAC <mtac@mtac.app>
+Depiction: https://mtac.app/beta/depiction/web/com.mtac.hera.html
+Icon: https://mtac.app/beta/assets/com.mtac.hera/icon.png
+Moderndepiction: https://mtac.app/beta/depiction/native/com.mtac.hera.json
+Name: Hera (Beta)
+Sileodepiction: https://mtac.app/beta/depiction/native/com.mtac.hera.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios13.7
+
+Package: com.mtac.lynx
+Version: 1.9-beta3
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtac@mtac.app>
+Depends: firmware (>=12.0), mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./pkg/com.mtac.lynx.deb
+Size: 1129860
+MD5sum: 6f348bedb849a1bc6090bd8b9b6c21ca
+SHA1: 4dbab419db7119ac7f061fb419dc944e78646505
+SHA256: 61e871d715d79b1bee81631b603e7dabfd3b19dafdfe98fb61a57f9069a98421
+Section: Tweaks
+Homepage: https://repo.twickd.com/package/com.twickd.mtac.lynx
+Description: Ultimate device customization
+Tag: role::enduser
+Author: MTAC <mtac@mtac.app>
+Depiction: https://mtac.app/beta/depiction/web/com.mtac.lynx.html
+Icon: https://mtac.app/beta/assets/com.mtac.lynx/icon.png
+Moderndepiction: https://mtac.app/beta/depiction/native/com.mtac.lynx.json
+Name: Lynx (BETA)
+Sileodepiction: https://mtac.app/beta/depiction/native/com.mtac.lynx.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios12.0, compatible_max::ios13.7
+
+Package: com.mtac.symbols
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtac@mtac.app>
+Depends: firmware (>=13.0), firmware (>= 13.0)
+Filename: ./pkg/com.mtac.symbols.deb
+Size: 198332
+MD5sum: 9ed9d9368b076ad161cb284366e04996
+SHA1: bdf5859c6622f04f6d9e08ded2cceaaab127e089
+SHA256: 130b403c8fab1fd5de4142512b558437764d8d4988b4731384fcd811c35dada9
+Section: Utilities
+Homepage: https://github.com/MTACS/Symbols
+Description: Easy access to Apple's SF Symbols
+Tag: role::enduser
+Author: MTAC <mtac@mtac.app>
+Depiction: https://mtac.app/beta/depiction/web/com.mtac.symbols.html
+Icon: https://mtac.app/beta/assets/com.mtac.symbols/icon.png
+Moderndepiction: https://mtac.app/beta/depiction/native/com.mtac.symbols.json
+Name: Symbols
+Sileodepiction: https://mtac.app/beta/depiction/native/com.mtac.symbols.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios13.7
+
+Package: com.nahtedetihw.magsafe
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtac@mtac.app>
+Depends: firmware (>=12.0), firmware (>= 12.0)
+Filename: ./pkg/com.nahtedetihw.magsafe.deb
+Size: 156730
+MD5sum: 11bf5149bac10b13110837e2f67a2fea
+SHA1: 72e66a376d9be795c1325652b7de189be01b2dc6
+SHA256: 243bd898fd969106ef5093e38190edba309d87a8b9a47cb4ff0cd046952255f0
+Section: Tweaks
+Description: MagSafe charging indicator just like iOS 14!
+Tag: role::enduser
+Author: Ethan Whited & MTAC <mtac@mtac.app>
+Depiction: https://mtac.app/beta/depiction/web/com.nahtedetihw.magsafe.html
+Icon: https://mtac.app/beta/assets/com.nahtedetihw.magsafe/icon.png
+Moderndepiction: https://mtac.app/beta/depiction/native/com.nahtedetihw.magsafe.json
+Name: MagSafe
+Sileodepiction: https://mtac.app/beta/depiction/native/com.nahtedetihw.magsafe.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios12.0, compatible_max::ios14.0.1
+

@@ -1,0 +1,86 @@
+Package: com.randomblock1.jbicons
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Randomblock1 <randomblock1@pm.me>
+Depends: firmware (>=10.0), com.alexzielenski.zeppelin
+Filename: ./pkg/com.randomblock1.jbicons.deb
+Size: 21322
+MD5sum: dbfef74f41191532605eb5232bb1f56a
+SHA1: 4257224f40b3e47b570ce8461d293d489e3aeac0
+SHA256: ebc3673750a7a77aad16caa3b647e65a407838bb2c31a12bc032d5311b3cf7bd
+Section: Themes
+Homepage: https://randomblock1.github.io
+Description: Jailbreak icons in your status bar!
+Author: Randomblock1 <randomblock1@pm.me>
+Depiction: https://randomblock1.github.io/repo/depiction/web/com.randomblock1.jbicons.html
+Icon: https://randomblock1.github.io/repo/assets/com.randomblock1.jbicons/icon.png
+Moderndepiction: https://randomblock1.github.io/repo/depiction/native/com.randomblock1.jbicons.json
+Name: Jailbreak Status Bar Icons
+Sileodepiction: https://randomblock1.github.io/repo/depiction/native/com.randomblock1.jbicons.json
+Tags: compatible_min::ios10.0, compatible_max::ios13.0
+
+Package: com.randomblock1.neofetch
+Version: 7.0.0
+Architecture: iphoneos-arm
+Maintainer: Randomblock1 <randomblock1@pm.me>
+Depends: firmware (>=10.0), bash, coreutils-bin, coreutils, darwintools, system-cmds, gawk, grep
+Replaces: com.matdev.neofetch-ios
+Filename: ./pkg/com.randomblock1.neofetch.deb
+Size: 83912
+MD5sum: c885dc346e4722bc892faace6abd4204
+SHA1: f52730ce196e3d7d8c20fac005564f809cb4d5f5
+SHA256: 4d461c2ba14c57b896eba4b79258f317f16cd1b3f6e7090a411707bcf31a899c
+Section: Tools
+Homepage: https://github.com/dylanaraps/neofetch
+Description: A command-line system information tool written in bash
+Author: Randomblock1 <randomblock1@pm.me>
+Depiction: https://randomblock1.github.io/repo/depiction/web/com.randomblock1.neofetch.html
+Icon: https://randomblock1.github.io/repo/assets/com.randomblock1.neofetch/icon.png
+Moderndepiction: https://randomblock1.github.io/repo/depiction/native/com.randomblock1.neofetch.json
+Name: Neofetch
+Sileodepiction: https://randomblock1.github.io/repo/depiction/native/com.randomblock1.neofetch.json
+Tags: compatible_min::ios10.0, compatible_max::ios
+
+Package: jp.akusio.kernbypassbeta
+Version: 0.0.3b
+Architecture: iphoneos-arm
+Maintainer: Randomblock1 <randomblock1@pm.me>
+Depends: firmware (>=12.0), mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Replaces: jp.akusio.kernbypass
+Filename: ./pkg/jp.akusio.kernbypassbeta.deb
+Size: 30214
+MD5sum: 9e10707ce702c3d24738b4dd7fd238f3
+SHA1: 0fee37a1a8e80cc4db4496f66e73c5dd5031b98d
+SHA256: ced80b8da0bd2b7bc56733039166851ac903b2266e3662d5054e12f6c94aeded
+Section: System
+Homepage: https://github.com/akusio/KernBypass-Public
+Description: Beta Version
+Author: akusio
+Depiction: https://randomblock1.github.io/repo/depiction/web/jp.akusio.kernbypassbeta.html
+Icon: https://randomblock1.github.io/repo/assets/jp.akusio.kernbypassbeta/icon.png
+Moderndepiction: https://randomblock1.github.io/repo/depiction/native/jp.akusio.kernbypassbeta.json
+Name: KernBypass Beta
+Sileodepiction: https://randomblock1.github.io/repo/depiction/native/jp.akusio.kernbypassbeta.json
+Tags: compatible_min::ios12.0, compatible_max::ios14.0
+
+Package: jp.akusio.kernbypassd
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Randomblock1 <randomblock1@pm.me>
+Depends: firmware (>=12.0), jp.akusio.kernbypass
+Filename: ./pkg/jp.akusio.kernbypassd.deb
+Size: 1142
+MD5sum: 5b53d6721e83c9fc27b74a4c65a7a110
+SHA1: 0144dc12ceb3d9078c2a9da5c8f504ff75f5d6dd
+SHA256: 253537d7749f83d7218b47f2026a28359256231abead3f95caee507a2363990e
+Section: System
+Homepage: https://randomblock1.github.io
+Description: DO NOT USE
+Author: Randomblock1 <randomblock1@pm.me>
+Depiction: https://randomblock1.github.io/repo/depiction/web/jp.akusio.kernbypassd.html
+Icon: https://randomblock1.github.io/repo/assets/jp.akusio.kernbypassd/icon.png
+Moderndepiction: https://randomblock1.github.io/repo/depiction/native/jp.akusio.kernbypassd.json
+Name: KernBypass Daemon (DO NOT USE)
+Sileodepiction: https://randomblock1.github.io/repo/depiction/native/jp.akusio.kernbypassd.json
+Tags: compatible_min::ios12.0, compatible_max::ios14.0
+

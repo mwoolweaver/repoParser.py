@@ -1,0 +1,586 @@
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com>
+Maintainer: Capt Inc <captinc37@gmail.com>
+Depends: mobilesubstrate, gawk, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 3.0.1
+Installed-Size: 496
+Filename: download/com.captinc.batchomatic_3.0.1_iphoneos-arm.deb
+Size: 47116
+MD5sum: 944c59325c07bb3cfdde2e940c1fab88
+SHA256: 4cff9145797becaaeb6bb54c18c7247391daa1b5611ddb978699ea9577ba4d6e
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com>
+Maintainer: Capt Inc <captinc37@gmail.com>
+Depends: mobilesubstrate, gawk, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 3.0
+Installed-Size: 496
+Filename: download/com.captinc.batchomatic_3.0_iphoneos-arm.deb
+Size: 47040
+MD5sum: d7b1f0ad2b9eb300985069eb19e8ad8a
+SHA256: f0cac647ab9af172a786b08be49a039246549afe0c52b095d1b718da3c5623b3
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com>
+Maintainer: Capt Inc <captinc37@gmail.com>
+Depends: mobilesubstrate, gawk, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 3.1
+Installed-Size: 500
+Filename: download/com.captinc.batchomatic_3.1_iphoneos-arm.deb
+Size: 52524
+MD5sum: d6a41ce4d823369ad7a1cdeb7e6748b3
+SHA256: 876c1e3b10a9dfc067554a00ea7f920c6808366308c73976022e14ba5d6ae949
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com>
+Maintainer: Capt Inc <captinc37@gmail.com>
+Depends: mobilesubstrate, gawk, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 3.2
+Installed-Size: 504
+Filename: download/com.captinc.batchomatic_3.2_iphoneos-arm.deb
+Size: 53354
+MD5sum: 411c93150ebaf00f8b74b1dfaea191ea
+SHA256: b6aebfbe47d5f2246f283742a78b3e7ed5c26f424cf22e5fa73a5f8c7412521c
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 4.0
+Installed-Size: 440
+Filename: download/com.captinc.batchomatic_4.0_iphoneos-arm.deb
+Size: 50380
+MD5sum: 1f69e8e721bb072f12524607684a21fa
+SHA256: de5bc302f7650a7ea41c26e75aeb69a29d170551236c11979a57c7e5ee1cfd37
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 4.1.1
+Installed-Size: 440
+Filename: download/com.captinc.batchomatic_4.1.1_iphoneos-arm.deb
+Size: 52256
+MD5sum: 02fea52ec754daf241040150c648aecb
+SHA256: c2ed7a3bd5b1e1cdad574d34c57081f32f31ba0952764328d0193b5c99454490
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Version: 4.1
+Installed-Size: 440
+Filename: download/com.captinc.batchomatic_4.1_iphoneos-arm.deb
+Size: 52396
+MD5sum: 909da1532a84ffabf12793117f4dbd52
+SHA256: 5dc89c63291fc2e8c14bf492482e2f8a7c00d3874aafbf173826170b49d16da1
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Version: 4.2.1
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Installed-Size: 448
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Depiction: https://captinc.github.io/depictions/batchomatic/batchomatic.html
+Filename: download/com.captinc.batchomatic_4.2.1_iphoneos-arm.deb
+Size: 60576
+MD5sum: 849428fbcf1f37e5ac9e5636622c9f58
+SHA256: 94821c7f41502ef7092e6598725ed7138e4befc481ec697b89cc2a8aeefa5650
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Version: 4.2
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Installed-Size: 448
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Depiction: https://captinc.github.io/depictions/batchomatic/batchomatic.html
+Filename: download/com.captinc.batchomatic_4.2_iphoneos-arm.deb
+Size: 60456
+MD5sum: fe8774c671a978dd88ad200b1564ffbd
+SHA256: f045283b70289fa84344ff7fda9e346a45a687e22104d85e3ef94c041d0403fe
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Depiction: https://captinc.github.io/depictions/batchomatic/batchomatic.html
+Version: 4.3.1
+Installed-Size: 484
+Filename: download/com.captinc.batchomatic_4.3.1_iphoneos-arm.deb
+Size: 65730
+MD5sum: 93cf6f68f1ba675e57f8a734e46deb59
+SHA256: 4a946a2fdc325247c02b05f39a509a62d751a159d89a8f3cd2e66b842592813d
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Version: 4.3.2
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Installed-Size: 484
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Depiction: https://captinc.me/batchomatic
+Filename: download/com.captinc.batchomatic_4.3.2_iphoneos-arm.deb
+Size: 66016
+MD5sum: 71c19497dd43a033c5bc64fe27783f9f
+SHA256: b008ef75c60fdf3b5f84c1cf50bf25ddd05e2d5dd3361dac92a9a46ffb322b2a
+
+Package: com.captinc.batchomatic
+Name: Batchomatic
+Version: 4.3
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Installed-Size: 484
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Depiction: https://captinc.github.io/depictions/batchomatic/batchomatic.html
+Filename: download/com.captinc.batchomatic_4.3_iphoneos-arm.deb
+Size: 65868
+MD5sum: f3f3fc9dece76be59f1eef0a7adf682d
+SHA256: 86be1814b43d9f352af27ee5ffd52c452292bf76fe7bf159b7fb7c2637f7593c
+
+Package: com.captinc.cercubedarkmode
+Name: CercubeDarkMode
+Depends: firmware (>=11.0), mobilesubstrate, me.alfhaily.cercube
+Author: Capt Inc
+Maintainer: Capt Inc
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Dark mode in Cercube for YouTube
+Depiction: https://captinc.github.io/depictions/CercubeDarkMode/cercubedarkmode.html
+Version: 1.0
+Installed-Size: 136
+Filename: download/com.captinc.cercubedarkmode_1.0_iphoneos-arm.deb
+Size: 6452
+MD5sum: dd67e6a39431d4266c1756cb77150278
+SHA256: 6bcf65642b88a1204e1532537aeff270e1d82a9a0647e3d83874f79ff784f0dc
+
+Package: com.captinc.cercubedarkmode
+Name: CercubeDarkMode
+Version: 1.1.1
+Depends: firmware (>=11.0), mobilesubstrate, me.alfhaily.cercube
+Installed-Size: 136
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Dark mode in Cercube for YouTube
+Depiction: https://captinc.me/cercubedarkmode
+Filename: download/com.captinc.cercubedarkmode_1.1.1_iphoneos-arm.deb
+Size: 9196
+MD5sum: 078272e60468a28dec35bd76df6ea919
+SHA256: dac406d65b38c6b63376d6cacaae1a3e8c1e39a5b5cc227cc963bfee03f9a636
+
+Package: com.captinc.cercubedarkmode
+Name: CercubeDarkMode
+Version: 1.1
+Depends: firmware (>=11.0), mobilesubstrate, me.alfhaily.cercube
+Installed-Size: 136
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Dark mode in Cercube for YouTube
+Depiction: https://captinc.github.io/depictions/cercubedarkmode/cercubedarkmode.html
+Filename: download/com.captinc.cercubedarkmode_1.1_iphoneos-arm.deb
+Size: 9136
+MD5sum: 072ec08a783d81800c6d436a1e61a933
+SHA256: 34203eb181d9299a6ec668bf298a6a33c9b0439a58f676d0cce5749593ffefb6
+
+Package: com.captinc.commandmodule
+Name: CommandModule
+Version: 1.0.1
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Installed-Size: 420
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to run a shell script
+Depiction: https://captinc.github.io/depictions/commandmodule/commandmodule.html
+Filename: download/com.captinc.commandmodule_1.0.1_iphoneos-arm.deb
+Size: 16264
+MD5sum: 668f76f282c03367fdbbb1ecd7719a97
+SHA256: 2c0c7ac15448f673d3fac5a89dd819857541967cd9d7c04dd08053f5eb6f4075
+
+Package: com.captinc.commandmodule
+Name: CommandModule
+Version: 1.0.2
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Installed-Size: 420
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to run a shell script
+Depiction: https://captinc.github.io/depictions/commandmodule/commandmodule.html
+Filename: download/com.captinc.commandmodule_1.0.2_iphoneos-arm.deb
+Size: 16284
+MD5sum: 86ab645161f763e4305b4f8503a44772
+SHA256: 27d3adec2c1d57c9be43dafd26b954e04211b617cd7e0d1d11993455f2f16b9a
+
+Package: com.captinc.commandmodule
+Name: CommandModule
+Version: 1.0.3
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Installed-Size: 420
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to run a shell script
+Depiction: https://captinc.me/commandmodule
+Filename: download/com.captinc.commandmodule_1.0.3_iphoneos-arm.deb
+Size: 16264
+MD5sum: 883c9f7420e64cc0e83a6db4d7287de6
+SHA256: 8472ddbfaea5e2e56f139a081bbe4b55dca3d01a2b47bdf97148342700588bc6
+
+Package: com.captinc.commandmodule
+Name: CommandModule
+Version: 1.0
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Installed-Size: 420
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to run a shell script
+Depiction: https://captinc.github.io/depictions/commandmodule/commandmodule.html
+Filename: download/com.captinc.commandmodule_1.0_iphoneos-arm.deb
+Size: 16292
+MD5sum: 7678dffca86a7c81d2096078d5a1f2dd
+SHA256: 50ab32f7d3d30155f71c94ea18cf47f6e91dd6079bf06b6f02522ce35ab7a5e1
+
+Package: com.captinc.darkmodetoggle
+Name: DarkModeToggle
+Version: 1.0
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Installed-Size: 748
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Enable/disable specific tweaks when toggling dark mode
+Depiction: https://captinc.github.io/depictions/darkmodetoggle/darkmodetoggle.html
+Filename: download/com.captinc.darkmodetoggle_1.0_iphoneos-arm.deb
+Size: 50648
+MD5sum: 9a3a03352409c3f8ff05848c1a6f4f71
+SHA256: 9912f92650c2bce398f8859fc0f2168d0c30787d9c58994330bbc6ee083f31ae
+
+Package: com.captinc.darkmodetoggle
+Name: DarkModeToggle
+Version: 1.1
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 792
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Enable/disable specific tweaks when toggling dark mode
+Depiction: https://captinc.github.io/depictions/darkmodetoggle/darkmodetoggle.html
+Filename: download/com.captinc.darkmodetoggle_1.1_iphoneos-arm.deb
+Size: 59936
+MD5sum: e79dc1ad27ee2e78514474ea02a8edec
+SHA256: cf11b4f5671d22a1c8aacd63e9c7e45c8cc16f2e05bc1ce238d2a1805e971d68
+
+Package: com.captinc.darkmodetoggle
+Name: DarkModeToggle
+Version: 1.2.1
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 832
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Enable/disable specific tweaks when toggling dark mode
+Depiction: https://captinc.github.io/depictions/darkmodetoggle/darkmodetoggle.html
+Filename: download/com.captinc.darkmodetoggle_1.2.1_iphoneos-arm.deb
+Size: 68692
+MD5sum: 953393cb294bf7653ad8c4a6e684d492
+SHA256: e298303674cf8828430b2ad03f22ae09767f7bb4bcfcf6fe80b6723f94375e94
+
+Package: com.captinc.darkmodetoggle
+Name: DarkModeToggle
+Version: 1.2.2
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 832
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Enable/disable specific tweaks when toggling dark mode
+Depiction: https://captinc.me/darkmodetoggle
+Filename: download/com.captinc.darkmodetoggle_1.2.2_iphoneos-arm.deb
+Size: 68300
+MD5sum: 3e94fcc1b21b6312dcea367289c45f3f
+SHA256: bb51b32ae6a6cfe148f894be00f90834e1086dad809749534915aaa3c2ee81a2
+
+Package: com.captinc.darkmodetoggle
+Name: DarkModeToggle
+Version: 1.2
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 832
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Enable/disable specific tweaks when toggling dark mode
+Depiction: https://captinc.github.io/depictions/darkmodetoggle/darkmodetoggle.html
+Filename: download/com.captinc.darkmodetoggle_1.2_iphoneos-arm.deb
+Size: 68720
+MD5sum: 465d6e2c3ef704b464bf1ec993ff95f0
+SHA256: ea77ec1cf49204515b42e68a2b20072fff4f3cbabbae12d3d3cfea7ecc08d7cd
+
+Package: com.captinc.mobilegoosemodule
+Name: MobileGooseModule
+Version: 1.0.1
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, com.pixelomer.mobilegoose
+Installed-Size: 160
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to toggle MobileGoose
+Depiction: https://captinc.github.io/depictions/mobilegoosemodule/mobilegoosemodule.html
+Filename: download/com.captinc.mobilegoosemodule_1.0.1_iphoneos-arm.deb
+Size: 14228
+MD5sum: 2984e912ee5488256560857f1a08f75b
+SHA256: 01d823f3bafefe58a796950240366acab55dd51517fbe8471a38ab1b15a38157
+
+Package: com.captinc.mobilegoosemodule
+Name: MobileGooseModule
+Version: 1.0.2
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, com.pixelomer.mobilegoose
+Installed-Size: 160
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to toggle MobileGoose
+Depiction: https://captinc.github.io/depictions/mobilegoosemodule/mobilegoosemodule.html
+Filename: download/com.captinc.mobilegoosemodule_1.0.2_iphoneos-arm.deb
+Size: 14228
+MD5sum: b0c088133fd41717398e5803c23b7abb
+SHA256: 3cfe7d61429140ce67e060a5eafc9e36f4a56dc1b82500033e5ec24790adc6f3
+
+Package: com.captinc.mobilegoosemodule
+Name: MobileGooseModule
+Version: 1.0.3
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, com.pixelomer.mobilegoose
+Installed-Size: 160
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to toggle MobileGoose
+Depiction: https://captinc.me/mobilegoosemodule
+Filename: download/com.captinc.mobilegoosemodule_1.0.3_iphoneos-arm.deb
+Size: 14216
+MD5sum: 7d107fb2f29a26d1d510d4a9df761bb4
+SHA256: efeae61eaa656933cad34e1f0f1f288f16c216e6c09db5a5f7be369857f213e1
+
+Package: com.captinc.mobilegoosemodule
+Name: MobileGooseModule
+Version: 1.0
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Installed-Size: 160
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to toggle MobileGoose
+Depiction: https://captinc.github.io/depictions/mobilegoosemodule/mobilegoosemodule.html
+Filename: download/com.captinc.mobilegoosemodule_1.0_iphoneos-arm.deb
+Size: 14496
+MD5sum: 3e2bf02a2de6142b83c8dcd247850105
+SHA256: ab9a1cb4e615d6c7067a4acfe21f940e757c138139a3aaca5430d77a342dc1b3
+
+Package: com.captinc.typecentury
+Name: TypeCentury
+Version: 1.0.9
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Installed-Size: 1748
+Author: Capt Inc <captincrepo@gmail.com>
+Maintainer: Capt Inc <captincrepo@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: See who's typing directly from the status bar!
+Depiction: https://captinc.me/typecentury
+Icon: https://captinc.me/screenshots/typecentury/icon.png
+Filename: download/com.captinc.typecentury_1.0.9_iphoneos-arm.deb
+Size: 622132
+MD5sum: 5847c6e117a05fc4a3e55f5e2db123cf
+SHA256: 3c0ffb8852775836dba7e66bc2ec5c4a08ce78662df13dacc1ac688150af911c
+
+Package: com.captinc.wallpaperchanger
+Name: WallpaperChanger
+Version: 1.0.1
+Depends: firmware (>=11.0)
+Installed-Size: 132
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Change wallpaper from command line
+Depiction: https://captinc.github.io/depictions/wallpaperchanger.html
+Filename: download/com.captinc.wallpaperchanger_1.0.1_iphoneos-arm.deb
+Size: 6788
+MD5sum: 0568da0976996633be73f42bd1f89628
+SHA256: eff4a1e05cbedc8aa982d042949e533ad76ca44ac421cda7ff8b6a3584045118
+
+Package: com.captinc.wallpaperchanger
+Name: WallpaperChanger
+Version: 1.0.2
+Depends: firmware (>=11.0)
+Installed-Size: 132
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Change wallpaper from command line
+Depiction: https://captinc.me/wallpaperchanger
+Filename: download/com.captinc.wallpaperchanger_1.0.2_iphoneos-arm.deb
+Size: 6828
+MD5sum: c54a17c7e6e8cb247c293c2730370276
+SHA256: bb13ab9b47c8d4b3f022c13a144170591dce2ad2edb84c70a9823b23803165da
+
+Package: com.captinc.wallpaperchanger
+Name: WallpaperChanger
+Depends: firmware (>=11.0)
+Author: Capt Inc
+Maintainer: Capt Inc
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Change wallpaper from command line
+Depiction: https://captinc.github.io/depictions/wallpaperchanger.html
+Version: 1.0
+Installed-Size: 132
+Filename: download/com.captinc.wallpaperchanger_1.0_iphoneos-arm.deb
+Size: 6656
+MD5sum: 1986c5cb9e9405081ee859aef3179919
+SHA256: 967d798a2ffd123c1843716d2eb9b25c314b73f02f5c99227cdc067d87f439a0
+
+Package: com.captinc.youtubedarkmodesync
+Name: YouTubeDarkModeSync
+Version: 1.0
+Depends: firmware (>=13.0), mobilesubstrate
+Installed-Size: 168
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Toggle YouTube's built-in dark mode with iOS 13's dark mode
+Depiction: https://captinc.github.io/depictions/youtubedarkmodesync.html
+Filename: download/com.captinc.youtubedarkmodesync_1.0_iphoneos-arm.deb
+Size: 5004
+MD5sum: e5e6cd2b8898cd3a3ae461d834501273
+SHA256: b9e90eddd811e53d6c93e05d47e7f2d5e05c4dfa8917c8ff23a54468534c5fb9
+
+Package: com.captinc.youtubedarkmodesync
+Name: YouTubeDarkModeSync
+Version: 1.1
+Depends: firmware (>=13.0), mobilesubstrate
+Installed-Size: 168
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Toggle YouTube's built-in dark mode with iOS 13's dark mode
+Depiction: https://captinc.github.io/depictions/youtubedarkmodesync.html
+Filename: download/com.captinc.youtubedarkmodesync_1.1_iphoneos-arm.deb
+Size: 4564
+MD5sum: e6b29f45a6944152405ed8619773409c
+SHA256: 9084fd433e5a67b0f4b12673d79a3bbc148218cfa02ac47a064c8335ecad6c67
+
+Package: com.captinc.youtubedarkmodesync
+Name: YouTubeDarkModeSync
+Version: 1.2
+Depends: firmware (>=11.0), mobilesubstrate
+Installed-Size: 136
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Toggle YouTube's built-in dark mode with iOS 13's dark mode, DarkModeToggle, and Noctis
+Depiction: https://captinc.github.io/depictions/youtubedarkmodesync.html
+Filename: download/com.captinc.youtubedarkmodesync_1.2_iphoneos-arm.deb
+Size: 7884
+MD5sum: faa9e540ee57afdf554a2503da6a31fc
+SHA256: 0b5ec591164015aa70611d1bdc16338db9c4206ff7966d05cbfd118b925d37da
+
+Package: com.captinc.youtubedarkmodesync
+Name: YouTubeDarkModeSync
+Version: 1.3.1
+Depends: firmware (>=11.0), mobilesubstrate
+Installed-Size: 136
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Toggle YouTube's built-in dark mode with iOS 13's dark mode, DarkModeToggle, and Noctis
+Depiction: https://captinc.me/youtubedarkmodesync
+Filename: download/com.captinc.youtubedarkmodesync_1.3.1_iphoneos-arm.deb
+Size: 7856
+MD5sum: 9a6e0e357017e04328fab5f15ead24ad
+SHA256: 524a4dfa63f6f023545d77506f2ce0b95d2d37dfb0e7a24116d596552036638e
+
+Package: com.captinc.youtubedarkmodesync
+Name: YouTubeDarkModeSync
+Version: 1.3
+Depends: firmware (>=11.0), mobilesubstrate
+Installed-Size: 136
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Toggle YouTube's built-in dark mode with iOS 13's dark mode, DarkModeToggle, and Noctis
+Depiction: https://captinc.github.io/depictions/youtubedarkmodesync/youtubedarkmodesync.html
+Filename: download/com.captinc.youtubedarkmodesync_1.3_iphoneos-arm.deb
+Size: 7856
+MD5sum: 5fa77627398aa0b6bb0f3edc82831ef9
+SHA256: d2e10bd384d18fad166b5c40ab883eea4ad37d4515710b4f5c5de952a2f26909
+

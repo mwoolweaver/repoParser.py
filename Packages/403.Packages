@@ -1,0 +1,44 @@
+Package: com.orangebananaspy.nudekeysios12
+Version: 1.0.0~b7
+Architecture: iphoneos-arm
+Maintainer: Orangebananaspy <admin@orangebananaspy.com>
+Installed-Size: 11444
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.nudekeys
+Filename: ./debs/com.orangebananaspy.nudekeysios12_1.0.0~b7_iphoneos-arm.deb
+Size: 4449086
+MD5sum: 5ea329f60161842f6d31b1c0e2695385
+SHA1: 923508856d7a14eeeeea8c0fdc9f650f09cf0a81
+SHA256: 9179030dbb78e12889c2347eab647ea4bcd40c1fe35e74b35977c89e47650c25
+Section: Tweaks
+Homepage: https://repo.orangebananaspy.com/nudekeys
+Description: Strip those sexy keys!
+Tag: purpose::extension, compatible::ios12
+Author: Orangebananaspy <support@orangebananaspy.com>
+Depiction: https://repo.orangebananaspy.com/depiction.php?id=1
+Dev: orangebananaspy
+Icon: file:///Library/PreferenceBundles/NudeKeys.bundle/NudeKeys@3x.png
+Name: NudeKeys (iOS 12)
+
+Package: com.orangebananaspy.nudekeysios12
+Version: 1.0.0~b8
+Architecture: iphoneos-arm
+Maintainer: Orangebananaspy <admin@orangebananaspy.com>
+Installed-Size: 2808
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.nudekeys
+Filename: ./debs/com.orangebananaspy.nudekeysios12_1.0.0~b8_iphoneos-arm.deb
+Size: 1824160
+MD5sum: 026631ba3a85d60694c4e8b04cad0c46
+SHA1: d95c414ccf2406e018aed6403ef4bc7b635993c1
+SHA256: ef3cbd75a210d4a9cd909574e91353a6177245639e63112854a47ff843a0426e
+Section: Tweaks
+Homepage: https://repo.orangebananaspy.com/nudekeys
+Description: Strip those sexy keys!
+Tag: purpose::extension, compatible::ios12
+Author: Orangebananaspy <support@orangebananaspy.com>
+Depiction: https://repo.orangebananaspy.com/depiction.php?id=1
+Dev: orangebananaspy
+Icon: file:///Library/PreferenceBundles/NudeKeys.bundle/NudeKeys@3x.png
+Name: NudeKeys (iOS 12)
+

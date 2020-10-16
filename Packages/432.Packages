@@ -1,0 +1,144 @@
+Package: io.github.rikumi.TinySpring
+Name: TinySpring
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 桌面微调集合：通知大圆圈变小圆点；单页时关闭弹性；图标标签下移；下拉搜索不移动图标
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.1.1-1
+Installed-Size: 120
+Filename: debs/io.github.rikumi.TinySpring_1.1.1-1_iphoneos-arm.deb
+Size: 4196
+MD5sum: 21aaaecd4f9f347a574279f25ad65abb
+SHA1: 1a061934813758e9d170b41911aa282ea9c5796e
+SHA256: 6fdeb514935da33182407d40a4a8def83583277eb179b954d4bbdaff9b77c1e6
+
+Package: io.github.rikumi.rikumi-iwidget
+Name: Rikumi iWidget
+Depends: io.github.rikumi.xeninfo | com.junesiphone.xeninfo
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: 桌面时间+网易云歌词+旋转封面
+Maintainer: Rikumi
+Author: Rikumi
+Section: Widgets
+Installed-Size: 372
+Filename: debs/io.github.rikumi.rikumi-iwidget_1.1.0-iphoneos-arm.deb
+Size: 131181
+MD5sum: 1536174896b14e2387d2bed3bea6fafd
+SHA1: 5e6c87bbc1365c6332ae15973c6b1841836de898
+SHA256: a4858bd92dd183a641a103403a150c909615b11a65da9053cce2bb7776a99bca
+
+Package: io.github.rikumi.NoDoubleStatus
+Name: NoDoubleStatus
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 双高状态栏(热点/通话/定位/录音)变单高 自适应颜色
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.1.0-1
+Installed-Size: 120
+Filename: debs/io.github.rikumi.NoDoubleStatus_1.1.0-1_iphoneos-arm.deb
+Size: 5692
+MD5sum: d48b3d7ffdf7c23d1af51ce9a971f825
+SHA1: 97fc68f9fd380614e6896545ae3b73852412ab65
+SHA256: 90ca1149b58f825e7474ace66411307ca9fef356f635058ad5b78d26731a1392
+
+Package: io.github.rikumi.HapticScreen
+Name: HapticScreen
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: (6s 以上) 屏幕触摸震动，音游必备
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 120
+Filename: debs/io.github.rikumi.HapticScreen_1.0.0-1_iphoneos-arm.deb
+Size: 2830
+MD5sum: d45a6b94ee9adf71bb52caece67d5678
+SHA1: ef65c46ffb7a38e486ede88e920f0c4670de8d59
+SHA256: 7cd11dbe804d07f522d13074aba8737b472eaee9a9b91ef1d72f1801c743fe5b
+
+Package: io.github.rikumi.ByeDock
+Name: ByeDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 隐藏Dock 点击穿透 提取自ST4
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 120
+Filename: debs/io.github.rikumi.ByeDock_1.0.0-1_iphoneos-arm.deb
+Size: 2546
+MD5sum: bd8913a85ae0310161fb7e6561f2773a
+SHA1: ea07f2e863039a6d838b30e4c215c2b8fcbc12ad
+SHA256: 1cadc7a43f15a2defff12557c16f49a53d9c4f20600b79ab470cfefb4832d655
+
+Package: io.github.rikumi.HapticKeyboard
+Name: HapticKeyboard
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: (6s 以上) 键盘按键短震动
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 120
+Filename: debs/io.github.rikumi.HapticKeyboard_1.0.0-1_iphoneos-arm.deb
+Size: 2642
+MD5sum: a962fc3e5cd8bc5eee5043b934124a5c
+SHA1: 33506ae6a2f5b71161cc6374fc9afc98cecf134b
+SHA256: 9fce12476b0f8a016ecd76894af06255954db5136c01678f9bac6f42afd45c29
+
+Package: io.github.rikumi.XenInfo
+Name: XenInfo @Rikumi
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Description: XenInfo 网易云支持增强版
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.1.1-1
+Installed-Size: 156
+Filename: debs/io.github.rikumi.XenInfo_1.1.1-1_iphoneos-arm.deb
+Size: 25402
+MD5sum: eeea314ce0f0c01b26859dc819f71ee7
+SHA1: ff6f2ddca7fe04e2600697b8b3397f36889ed061
+SHA256: 73491b86dc3b37aceb83de8436f22adce83ca52c4232f1588191fa0bc9940ea1
+
+Package: io.github.rikumi.CloudMusic
+Name: AwesomeCloud
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 网易云音乐播放界面美化
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 120
+Filename: debs/io.github.rikumi.CloudMusic_1.0.0-1_iphoneos-arm.deb
+Size: 4590
+MD5sum: 0fb1f8570107e857a3025726de544cfc
+SHA1: 70fdb349c8904cd6f1149a83b9d6a66558120315
+SHA256: b06f627b6111c086235ff0ec920b535a95753eda4a86ccbb1f3f2ed5e1f57d38
+
+Package: io.github.rikumi.AutoOrientation
+Name: AutoOrientation
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 对支持竖屏的应用禁止横屏
+Maintainer: Rikumi
+Author: Rikumi
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 120
+Filename: debs/io.github.rikumi.AutoOrientation_1.0.0-1_iphoneos-arm.deb
+Size: 2588
+MD5sum: eaac56c564bcc72e9c3aaaa3d4411b3b
+SHA1: eece9ff891c6e5c8ed842a1967452e646b3fc456
+SHA256: c5048e39b98c2b92f67bb54945dbe63987588d3614f022c6d11a9683a6d1f3c6
+

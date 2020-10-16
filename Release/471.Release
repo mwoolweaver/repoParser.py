@@ -1,0 +1,9 @@
+Origin: Skylerk99
+Label: Skylerk99
+Suite: stable
+Version: 1.0
+Codename: Skylerk99
+Architectures: iphoneos-arm
+Components: main
+Description: Skylerk99 Repo
+Maintainer: Skyler Kansala <skylerk99@gmail.com>

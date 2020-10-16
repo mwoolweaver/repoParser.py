@@ -1,0 +1,245 @@
+Package: com.gilesgc.cccalc
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.cccalc_1.0.0_iphoneos-arm.deb
+Size: 24608
+MD5sum: 9546ea2e7dccdffe3e18c7985f419a51
+SHA1: edbc6e973943ad4a873703387f2589ce764319f9
+SHA256: 16e731bd98f706fd9a3bb085987dd8b01096b2e9f729a6af6cae8a7ff3c65b5e
+Section: Tweaks
+Description: Turn your calculator module into a real calculator
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Installed-Size: 204
+Name: CCCalc
+
+Package: com.gilesgc.cccalc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.cccalc_1.0.1_iphoneos-arm.deb
+Size: 24764
+MD5sum: f41b95cdfbf90cc0ed7ed83adca5e6cf
+SHA1: 0db286771e69e88f3a38c5b75387d474b2452b98
+SHA256: 708ce61f4397412e11b5f767d09f1c3a01266e739f860757d12c5be899f989f6
+Section: Tweaks
+Description: Turn your calculator module into a real calculator
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Installed-Size: 204
+Name: CCCalc
+
+Package: com.gilesgc.cccalc
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.cccalc_1.1.1_iphoneos-arm.deb
+Size: 28514
+MD5sum: 33e7a342598475394847098b86493dee
+SHA1: 894a499d96b637e3a796439204afe4e366e630ea
+SHA256: c7b76c42eea462bd6b8661e779cd4e8c38f7993e1820c8f77f12e3dc0330f357
+Section: Tweaks
+Description: Turn your calculator module into a real calculator
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Installed-Size: 204
+Name: CCCalc
+
+Package: com.gilesgc.cccalc
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.cccalc_1.1.2_iphoneos-arm.deb
+Size: 31450
+MD5sum: 21ad081c9449be4bf853a1e4fe45e1da
+SHA1: ebce9d8baec7448965596b07b508c70bb4cba58c
+SHA256: 70aefe25398a36d0e92dd0cb640302b86d71e08f7e8642b5b2fbc02651e38e2c
+Section: Tweaks
+Description: Turn your calculator module into a real calculator
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Installed-Size: 260
+Name: CCCalc
+
+Package: com.gilesgc.cccalc
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.cccalc_1.2.1_iphoneos-arm.deb
+Size: 90636
+MD5sum: 830bd773c486afc2469270f6d9755cb7
+SHA1: f71d9b7ceda12df9670cdd488ff1f74f3b830b7e
+SHA256: 4be3bf0b3e69c45ec52b4901dbcb95e749b62d3895a4f163c5a8ebfc4aa4c0c6
+Section: Tweaks
+Description: Turn your control center's calculator module into a real, working calculator
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Installed-Size: 444
+Name: CCCalc
+
+Package: com.gilesgc.easybrightness
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.easybrightness_1.0.0_iphoneos-arm.deb
+Size: 15440
+MD5sum: 4c53ee01cf187cd2136f4c609ac47788
+SHA1: 8136fe200618c240466196a7379945e725b91479
+SHA256: 53d2463e0f6963baefea94cd59a720b2530442cee7feaa896e8ecee7ea868dc2
+Section: Tweaks
+Description: Set a default brightness value and revert back to it by tapping the CC brightness slider
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightness
+Installed-Size: 420
+Name: EasyBrightness
+
+Package: com.gilesgc.easybrightness
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.easybrightness_1.1.0_iphoneos-arm.deb
+Size: 15608
+MD5sum: 1ce5cd5ee7646d9ddf1e4a3615caed5e
+SHA1: df50ac2353011944c48d565aa3bb6d0247026669
+SHA256: c37b7034709ce3d1a8ed9ee819347499a0e1f67975bc9c3bfe04850adea13a0c
+Section: Tweaks
+Description: Set a default brightness value and revert back to it by tapping the CC brightness slider
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightness
+Installed-Size: 420
+Name: EasyBrightness
+
+Package: com.gilesgc.easybrightness
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.easybrightness_1.1.2_iphoneos-arm.deb
+Size: 15960
+MD5sum: 0c252ab96e12b1a1e6c919e065eb095c
+SHA1: 09f49809c05cb2f9bcc8491bd8c5fbd521f6178f
+SHA256: a432ecccc47747f8c6ca9d56ba3d3f9d3f0fc8133826f6c937f9d7d0e01e7241
+Section: Tweaks
+Description: Set a default brightness value and revert back to it by tapping the CC brightness slider
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightness
+Installed-Size: 420
+Name: EasyBrightness
+
+Package: com.gilesgc.easybrightness
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.easybrightness_1.1.3_iphoneos-arm.deb
+Size: 18198
+MD5sum: 8154a65dca5b40d8d3f6a7bd3b4dc807
+SHA1: 60472a53f321f96f773e383deb97c537ee94996a
+SHA256: 0d98412523305913a4e403f0e471630e72562c2a2d108afa6ae0f0902b837458
+Section: Tweaks
+Description: Set a default brightness value and revert back to it by tapping the CC brightness slider
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightness
+Installed-Size: 580
+Name: EasyBrightness
+
+Package: com.gilesgc.freemote
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.freemote_1.0.0_iphoneos-arm.deb
+Size: 19462
+MD5sum: be49e0da62c87626ff3513d70004c2d5
+SHA1: 3edbbdb8ff5a9a10c84bc9ae5cd33a8e1a057f7b
+SHA256: 389a9f256afb942b88de9b7c8b9f74770d4d2cbc1c555873d2796416cf4c2234
+Section: Tweaks
+Description: Bring BTTV emotes to the iOS Twitch app. PogU.
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.freemote
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.freemote/freemote-icon.png
+Installed-Size: 200
+Name: Freemote
+
+Package: com.gilesgc.pivot
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.pivot_1.0.0_iphoneos-arm.deb
+Size: 132338
+MD5sum: 008adac8f36b0fc0900f030b1cbdd5bb
+SHA1: d938b862053bcb52297d0b116d83aa435724fbac
+SHA256: 12ec5bff6c253113e99d2641528b69112db7ceaf8fb0c404abae05fd0c3b7ba4
+Section: Tweaks
+Description: Customize the Firefox Focus gradient colors
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.pivot
+Installed-Size: 1188
+Name: Pivot
+
+Package: com.gilesgc.pivot
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.pivot_1.1.0_iphoneos-arm.deb
+Size: 132402
+MD5sum: 25426f72be2a081fbdb37333f0f9a4bf
+SHA1: 9bca123e9520580aec731383b71e4c3fe009b54b
+SHA256: 750876b175255ce40abbe831d54511edae6226a3a5aa981b977a6181b5fe6370
+Section: Tweaks
+Description: Customize the Firefox Focus gradient colors
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.pivot
+Installed-Size: 1188
+Name: Pivot
+
+Package: com.gilesgc.vibe
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: debs/com.gilesgc.vibe_1.0.0_iphoneos-arm.deb
+Size: 37752
+MD5sum: 0038c9be13f3de655de2f1445df2c8e5
+SHA1: 28198105a4053cb86ac44ae57b471471eeea23ae
+SHA256: d2749a4e6638685ea11ded4dc65b56b96e319e73dafc0ab02ce54fff8ae9f318
+Section: Tweaks
+Description: Give any app notification a custom vibration pattern
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.vibe
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.vibe/vibe-icon.png
+Installed-Size: 440
+Name: Vibe
+
+Package: com.gilesgc.youplayer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, com.muirey03.libimagepicker
+Filename: debs/com.gilesgc.youplayer_1.0.0_iphoneos-arm.deb
+Size: 133198
+MD5sum: 6a8eb341112d27f5cdde49f7cc4c6371
+SHA1: bec6dbe2dd1100b5982e3968125c5e1b1a14342c
+SHA256: ebcdec1be5ac1365bde6c4613b9ce3b7d64a3a17c557215960955cd983d6a950
+Section: Tweaks
+Description: Customize the YouTube video player icon and colors
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.youplayer
+Installed-Size: 2060
+Name: YouPlayer
+

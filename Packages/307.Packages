@@ -1,0 +1,1952 @@
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_2020.4_iphoneos-arm.deb
+Size: 60800
+MD5sum: 4f67915f189a004948b9590a441d3df3
+SHA1: a1b4657af004aec1aedb9defc4c85823b74e4e45
+SHA256: 4be3e7b18090b1bf917e5cadbb2faede43e685f573aff328934c3a347caf6216
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.4.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_2020.4.1_iphoneos-arm.deb
+Size: 60840
+MD5sum: f9eb1bc894a0299fe4db0b560d0ca065
+SHA1: 7626fe1bbf8d4d8e26911944f083fb3ede2819f5
+SHA256: 386536223173378ba09c63cf1635e9899fb6373983195384baee093db0e03141
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.4.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_2020.4.2_iphoneos-arm.deb
+Size: 60992
+MD5sum: 4c4989d0316a58ed43e6eb33011fc0cf
+SHA1: d9bf14923613ef1567c67eadcb1bb5397aa34a7b
+SHA256: 3f0873cf04dbb26002261cbb95bd23ac8059b156277df9336ace3f38f6110fcb
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.5
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.4.3
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_2020.4.3_iphoneos-arm.deb
+Size: 61036
+MD5sum: f8c93b16b027a3bbcc8d6f70661b82fe
+SHA1: 17883468a07076cbf2d2a5cf3b57a57492ea7a4c
+SHA256: ddf9f67f5f7c34790c196cf70efb78ae086fe3d126230544d94b255940f82c05
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.5
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.4.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_2020.4.4_iphoneos-arm.deb
+Size: 62524
+MD5sum: d7e12ef51edef30caf408e09eacb4285
+SHA1: f9fb3ac3b03c125571772cd1980dc89031ef07ce
+SHA256: 6fecbe9567c6ca34304c9e5b9b7a93d21f1920c17a3a75295bc3fa47015f224e
+Section: Tweaks
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.5
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: Quick Emoji Access Bar
+Name: Barmoji
+
+Package: com.miro.8ballplus
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.miro.8ballplus_0.0.1_iphoneos-arm.deb
+Size: 2920
+MD5sum: 8b04a4504dd76c66c420f3e5ecebcfa1
+SHA1: c8b90532525de0ca3a781bbfe8634eb5f4130559
+SHA256: d2cc224c4695c088c337b1a9930ae4f84defa51705ac9171b71fd869d25b8ff7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: MiRO
+Name: 8 Ball Pool ++
+
+Package: com.miro.8ballplus
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: MiRO
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.miro.8ballplus_0.0.2_iphoneos-arm.deb
+Size: 3204
+MD5sum: 1169d0203e630c0a19f03cc2cc09e79c
+SHA1: c5b49ec8297f522ca5b3c6111cd488e3a384f2ac
+SHA256: f7d3f7a1450777e77f006d922c516701ac84cb3b6258b80dcdefa9475dd4f88a
+Section: Tweaks
+Description: 8 Ball Pool Extended Cue!, Support v4.9.0, Note: It could get you banned so I am not responsible for its.
+Author: MiRO
+Name: 8 Ball Pool ++
+
+Package: com.miro.alwaysautofill
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 140
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/com.miro.alwaysautofill_1.0_iphoneos-arm.deb
+Size: 4722
+MD5sum: f5b0981a633768c6f471923e0c737b17
+SHA1: d1148a2946c45df07a4f487ac74127f43912e925
+SHA256: 0a35684e50a8bcf95d74762e416e92e6d801f85a7e008db6d12d3e50063441c8
+Section: Tweaks
+Description: Always show Autofill Passwords in Predictive Bar.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.alwaysautofill
+Name: AlwaysAutoFill
+
+Package: com.miro.appbutton
+Version: 1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1432
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro
+Filename: ./debs/com.miro.appbutton_1.0~beta1_iphoneos-arm.deb
+Size: 265290
+MD5sum: 0817361510832d757a0edd9beb8fead1
+SHA1: cdde19c3764a17fac74f28dccdadb07d80dd4818
+SHA256: 418d3a23c22281f9d07e914320d9ac212fb1c1541e6963d0d869e74bd51f35a0
+Section: Tweaks
+Description: Multitasking at your fingertips.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.appbutton
+Name: AppButton
+
+Package: com.miro.appbutton
+Version: 1.0~beta2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1436
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro
+Filename: ./debs/com.miro.appbutton_1.0~beta2_iphoneos-arm.deb
+Size: 265316
+MD5sum: ba46977036d2d35a07192b6ee58222b3
+SHA1: e34962aecb01e5177f4ca7d688d38e66efe812fe
+SHA256: 0ac0b38ac5c903b67097eb599695fffe31113c8c5b5473bd97505bf717b5b917
+Section: Tweaks
+Description: Puts an app switcher at your finger tips.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.appbutton
+Name: AppButton
+
+Package: com.miro.appbutton
+Version: 1.0~beta3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1436
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Filename: ./debs/com.miro.appbutton_1.0~beta3_iphoneos-arm.deb
+Size: 265262
+MD5sum: 12ac30af666e3e79cb51121be5f6fcf2
+SHA1: 94bd1838997007da8051579dbbec7a3d69b906dc
+SHA256: 6536a891d6394c5a66b2a5d0f50107ea40ca0f2007534459dd05882543f07fb9
+Section: Tweaks
+Description: Puts an app switcher at your finger tips.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.appbutton
+Name: AppButton
+
+Package: com.miro.appbutton
+Version: 1.0~beta4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1496
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.chewmieser.appbutton
+Filename: ./debs/com.miro.appbutton_1.0~beta4_iphoneos-arm.deb
+Size: 276056
+MD5sum: 82a2a07acb84f0fcfe4415ca1253ba0a
+SHA1: 6d13ce07d96e2e0ea144cca771e8f75d3e46b131
+SHA256: b90a2565e182ed71ca0f7d90dd2f77a24eb0df49b4205bdd56ebb04cdf492c8b
+Section: Tweaks
+Description: Puts an app switcher at your finger tips.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.appbutton
+Name: AppButton
+
+Package: com.miro.byebyeend
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 136
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/com.miro.byebyeend_0.0.1_iphoneos-arm.deb
+Size: 3438
+MD5sum: ec74f3f28835fcec1ae86fada9e9312f
+SHA1: e4958a2817e74b40179f2f7e0984e23fc7183002
+SHA256: ba96286a25a14892a24e14e2489ca28184a2a59e6cf2fa2d5b791d485069ee06
+Section: Tweaks
+Description: Removes the annoying "You're All Caught Up" from Instagram.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.byebyeend
+Name: ByeByeEnd
+
+Package: com.miro.byebyeend
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 136
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/com.miro.byebyeend_0.0.2_iphoneos-arm.deb
+Size: 4460
+MD5sum: 3ab46feb981d3a46ba7766df783e9b4f
+SHA1: d38001a2fd5cd11a27415c7d8c2910b73c63bf9d
+SHA256: 38d66ff47e332c8cfc1eef39745be11f837d5a4224dbb485825f9380aab284e0
+Section: Tweaks
+Description: Removes the annoying "You're All Caught Up" from Instagram and keep you scrolling the old posts.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.byebyeend
+Name: ByeByeEnd
+
+Package: com.miro.citrixbypass
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.miro.citrixbypass_1.1_iphoneos-arm.deb
+Size: 3996
+MD5sum: 4d0e9195e60a955c092f81937a952ab5
+SHA1: 0ae45de6ca2bdbd2c7d5085090e6e7b9387edad7
+SHA256: df515ac343a37a781ce4b4014e8940881992a230d665ba2d29f5de5b167d65b6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: MiRO
+Name: Citrix JB Bypass
+
+Package: com.miro.easyyt
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 684
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.muirey03.libmryipc
+Filename: ./debs/com.miro.easyyt_1.0_iphoneos-arm.deb
+Size: 67220
+MD5sum: 2c99759f45bb7c52ff8ba107e4bd7fc9
+SHA1: 36813833b74517dcd653e1e3f74e65b4b618ec6d
+SHA256: 9bc78420cf2d2b473c5e10be14a6b965751049f0c45c60a50675da6d9baf7f54
+Section: Tweaks
+Description: Ports VLC gestures to the YouTube app.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.easyyt
+Name: Easy YouTube
+
+Package: com.miro.easyyt
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 684
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.muirey03.libmryipc
+Filename: ./debs/com.miro.easyyt_1.1_iphoneos-arm.deb
+Size: 67714
+MD5sum: b32e9d9acae2f32b275cab00a570c8ce
+SHA1: a1a534f48538ad5a127f3e2d9e4bbd9aea103346
+SHA256: 1c86629319e2d123cdee8b93a1aafb1388786cda1b5638b71801b66513ac09ee
+Section: Tweaks
+Description: Ports VLC gestures to the YouTube app.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.easyyt
+Name: Easy YouTube
+
+Package: com.miro.fancyselection
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 228
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.miro.fancyselection_0.1-3_iphoneos-arm.deb
+Size: 19094
+MD5sum: cc5811078d69a48e84f282dce6f737b5
+SHA1: 8b2f00e0c271aed4a680c30c60ea40c94c89434e
+SHA256: 8147d4c760f9f7dfbf5c3cda1d76885ad04e74da742fa794db51e6d37a906d58
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 0.1-4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 212
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.miro.fancyselection_0.1-4_iphoneos-arm.deb
+Size: 18926
+MD5sum: 60a28eb07e5b5087c88e25bcb03634b9
+SHA1: 2b0c36e5ee906900518a8166bcd340ece0831949
+SHA256: 86decbcdf430033b22de0d6026a46acfce0b5fbcb37857e917b72444eb05e50b
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2052
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.miro.fancyselection_1.0_iphoneos-arm.deb
+Size: 348340
+MD5sum: 53d08680a54be95c7a8d76f7775436b2
+SHA1: 3cdd8e39e722e36a5de760df222a18f8e5fafd1b
+SHA256: d35198ba47f7a7678f2dbea6d1dc8b5bf60b01213c18f832315057f678e8a92c
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2052
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.fancyselection_1.0-1_iphoneos-arm.deb
+Size: 348384
+MD5sum: 61cd8f4355d53eb4d895c43c87c6f1e6
+SHA1: 7cdc05f51f1ee7c4ccca908b63d30fde46cf715b
+SHA256: 33b69eaa0de4e5a6f5b3eedb69237135b68115a70a9cc154661ad136b2b90cb7
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2052
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturecoding.libcspreferences
+Filename: ./debs/com.miro.fancyselection_1.0-2_iphoneos-arm.deb
+Size: 348334
+MD5sum: f691a3e2d155f77af974180ef2df182f
+SHA1: 9414fcba52c65de379f2a811e4bff70d4437a359
+SHA256: 8b306562bebf101673e0141cd5d1da3ca5b26b2f0af28d1d17a6d723fe2f237e
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2052
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.fancyselection_1.0-3_iphoneos-arm.deb
+Size: 348342
+MD5sum: 51026f9349b1a7233e9eb671019b6702
+SHA1: a6ca8b72345fdae7bd39c1c63707e8fa4bc3d99c
+SHA256: 5b55c9834b4615cd7581c1fc87100b0611a7e3dfd39a472780f9cdd0a9a3149a
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2080
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.fancyselection_1.1_iphoneos-arm.deb
+Size: 361700
+MD5sum: 1431b83b65764f928f3ee45c25d7be37
+SHA1: 31c93e6ce80075e67503046561c1f40d66ae0d48
+SHA256: 28fdca547b33fed1a9e697db96d38336e42e271ec63c8e6502dc372acd11347b
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2112
+Depends: firmware (>=13.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.fancyselection_1.2_iphoneos-arm.deb
+Size: 365084
+MD5sum: 95ee5323ed62d4579e93b9da2132b746
+SHA1: 4655cf8c28ab50750c78ea69a588446db53e1ff8
+SHA256: b0869aa87983569d41f0fb74d5c1e58525612eee73137b2098a7a0dcb5f859ba
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13.5, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2112
+Depends: firmware (>=13.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.fancyselection_1.3_iphoneos-arm.deb
+Size: 365166
+MD5sum: 3274d1e974df6eb9a24bb1d31c4c9db1
+SHA1: 3ca31e99809b195328b088a0146d98714a8577e1
+SHA256: d1e52de2e6776b0c9577d79a43636f1ddfb70ae3f898407e545dcfc4f0923700
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13.5, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2112
+Depends: firmware (>=13.4.1), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.fancyselection_1.3.1_iphoneos-arm.deb
+Size: 365174
+MD5sum: 213471ea0f168c1262a85ebf55356197
+SHA1: 9820be3e0394aa6098d9499d20bd9f065329ed91
+SHA256: f5e0da07cf911ca3ca884a3d34b102841ddf7fb39860b9a76821bf0b225c3731
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13.4.1, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.fancyselection
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2112
+Depends: firmware (>=13.4), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.fancyselection_1.4_iphoneos-arm.deb
+Size: 366680
+MD5sum: df8109514b54b48ca462dc0c8ebf1e4a
+SHA1: 33a375e6b6bcbe7e48ba5f1ad59d5378da12f3b4
+SHA256: 94f6f4f80f3a8359c4e89a1125b1ed449436478ae09888359413d2457781baff
+Section: Tweaks
+Description: Change the iOS text selection menu to something fancy :)
+Tag: purpose::extension, compatible_min::ios13.4, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.fancyselection
+Name: FancySelection
+
+Package: com.miro.gr
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: MiRO
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.miro.gr_0.0.3_iphoneos-arm.deb
+Size: 9584
+MD5sum: 68268c0a313a09c30495d2e26254c140
+SHA1: 89a949740bdf93ca87aa916525a6c607bdabfdef
+SHA256: 1c2bc1aa86b8ec018923f5ec440f0d4fd973fd50ef4fa7f9421c764a93deba25
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: MiRO
+Name: GR
+
+Package: com.miro.igotblind
+Version: 1.0-beta1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.muirey03.libmryipc
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_1.0-beta1_iphoneos-arm.deb
+Size: 78942
+MD5sum: 4a8d91e34fc07fa2b0dd0dffcfdd3405
+SHA1: 5921258948d86b1cb45056ba9284ad2c38431d3e
+SHA256: 6c95d247b31ded09cbf71994d35e3cb8b1c0eb24e886339e79d69e7d31753ee7
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: I Got Blind
+
+Package: com.miro.igotblind
+Version: 1.0-beta2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.muirey03.libmryipc
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_1.0-beta2_iphoneos-arm.deb
+Size: 78944
+MD5sum: f78a7fe56b2aaa0d264696d7fa57cc77
+SHA1: bbed74d86d257279a92f4ea6e697f11a97bc0b45
+SHA256: 072fa16f4639a3455324a8a664db8d36d5b69672294f241f1f2fec3977f3e709
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: I Got Blind
+
+Package: com.miro.igotblind
+Version: 1.0-beta3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.muirey03.libmryipc
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_1.0-beta3_iphoneos-arm.deb
+Size: 80902
+MD5sum: 12ab246501b40f2dd41546725ab502dc
+SHA1: fa2edd9533bfa7df5f58367ff9cd3fa26d5eb040
+SHA256: 8ab810c120007c1456f39b71076aaacf44f2502d97c60b40030dbda650aa0ab8
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: I Got Blind
+
+Package: com.miro.igotblind
+Version: 1.0-beta4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.muirey03.libmryipc
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_1.0-beta4_iphoneos-arm.deb
+Size: 80868
+MD5sum: 8a10c42d1186fae7b933e4455341a270
+SHA1: 2059ffaeeb51b8aaabbf8057086ca8b4b1ffc90b
+SHA256: 76ed764d5559ea4026a50a4c98b8bedd6f6b28daf5d5d4bc99a9d5772bce72d4
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: iGotBlind
+
+Package: com.miro.igotblind
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.muirey03.libmryipc
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_1.0.1_iphoneos-arm.deb
+Size: 81688
+MD5sum: c7d1c11416cd8c61434b77b88acaed86
+SHA1: c64784a80b9f3423001f06816d0aef53d6de7474
+SHA256: b5cca0fe49ec508dfa9c170132eb58ffcf9e54ef9ac7c4e190eeb753b7a90321
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: iGotBlind
+
+Package: com.miro.igotblind
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.muirey03.libmryipc
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_1.0.2_iphoneos-arm.deb
+Size: 81974
+MD5sum: 96131aac91141aa4097df7e57a8abe3b
+SHA1: 2089eb3761673219eca367236c24ab277e26f4a0
+SHA256: 5eaca1645a0ee5d334dc6ee27105d340f64165f280d018737cea5022b8c946e4
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: iGotBlind
+
+Package: com.miro.igotblind
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_2.0_iphoneos-arm.deb
+Size: 82792
+MD5sum: b6b96b8e25abfd0ac8f486ae0ca8bc15
+SHA1: 928442c78acbb86e99b232aba1c3f3c5d20f4206
+SHA256: ba4fb8054252e59cfb5d5c541b46df535a969e22965259a320fa6622b3ce02ad
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: iGotBlind
+
+Package: com.miro.igotblind
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 696
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Conflicts: com.miro.igotblind
+Filename: ./debs/com.miro.igotblind_2.1_iphoneos-arm.deb
+Size: 83706
+MD5sum: 17a27a78d3236db04efdd1a43f1b75ab
+SHA1: b3026ae48b730dffaa37ec6063c2e53b319f20ab
+SHA256: 8a4d5ce363a4b684b8d13fc54965d6d1c44ea2cbf50b5676e7279f1bc85c8641
+Section: Tweaks
+Description: Find your app icon's location from Spotlight search.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.igotblind
+Name: iGotBlind
+
+Package: com.miro.keychaineditor
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: Nitin Jami <nitin.jami@gmail.com>
+Depends: firmware (>=13.5), com.bingner.plutil
+Conflicts: com.nitin.keychaineditor, com.shfdev.keychaineditor, com.shfdev.libswift, com.miro.keychaineditor64e
+Filename: ./debs/com.miro.keychaineditor_2.5.1_iphoneos-arm.deb
+Size: 276514
+MD5sum: 9d29fee88ad51e6ebe71a24e75838486
+SHA1: d65bf1de349e2b2b78ba773d6881be96e7744b79
+SHA256: 7d098ed6f9cd16f4bad1c55e7dc384f45d44533255c1116adc4f92c9a9d26821
+Section: Utilities
+Homepage: https://github.com/NitinJami/keychaineditor
+Description: CLI to dump keychain items including the new access controls. Supports only arm64, Suports iOS 13.5.
+Tag: purpose::console
+Author: Nitin Jami <nitin.jami@gmail.com>
+Name: Keychain Editor (arm64)
+
+Package: com.miro.keychaineditor64e
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: Nitin Jami <nitin.jami@gmail.com>
+Depends: firmware (>=13.5), com.bingner.plutil
+Conflicts: com.nitin.keychaineditor, com.shfdev.keychaineditor, com.shfdev.libswift, com.miro.keychaineditor
+Filename: ./debs/com.miro.keychaineditor64e_2.5.1_iphoneos-arm.deb
+Size: 276378
+MD5sum: 167ae1b3d5e83273192c30ce5584d63a
+SHA1: cb9e0c3f8f06e57898423626ce99a6b9be5a6703
+SHA256: d362b671f8d9fef93b6d9f37c73984483f91ae707aaab96a3a7d371304a662ce
+Section: Utilities
+Homepage: https://github.com/NitinJami/keychaineditor
+Description: CLI to dump keychain items including the new access controls. Supports only arm64e, Suports iOS 13.5.
+Tag: purpose::console
+Author: Nitin Jami <nitin.jami@gmail.com>
+Name: Keychain Editor (arm64e)
+
+Package: com.miro.langswipe
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 176
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.miro.langswipe_0.0.1_iphoneos-arm.deb
+Size: 11418
+MD5sum: 3a6b98e9849d033207b1973b6f7c9aa8
+SHA1: c666c9d2782c0ca9bdc41db5ceb1c86f2ae4a855
+SHA256: 0b14a7e3cb03eae5181e65673cdd1c2336523988c18ebb414695923441729a31
+Section: Tweaks
+Description: Swipe up/down on the keyboard to switch between keyboard input languages.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.langswipe
+Name: LangSwipe
+
+Package: com.miro.langswipe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 624
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.miro.langswipe_1.0_iphoneos-arm.deb
+Size: 94166
+MD5sum: 0de70432be79657232f8ac69f5d96db1
+SHA1: d41d9cb111ac715347da536795e1ebead84e646d
+SHA256: 58761ff62076bda95e8b6500fbbfc4072cf6645117dad31c56c0f713e422282c
+Section: Tweaks
+Description: A better way to switch between keyboard languages.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.langswipe
+Name: LangSwipe
+
+Package: com.miro.langswipe
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 628
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.miro.langswipe_1.1_iphoneos-arm.deb
+Size: 96338
+MD5sum: bda9e9c6b2ad9cda26c4aa0776ac3dc0
+SHA1: 51014348ac97850e6fdcde80d11ede699bdcf4de
+SHA256: 4bfd7698cfbd4cd2554d56647d8681d3d8fdb645e42eec6088b4acf2f73d8fc7
+Section: Tweaks
+Description: A better way to switch between keyboard languages.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.langswipe
+Name: LangSwipe
+
+Package: com.miro.langswipe
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 628
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.miro.langswipe_1.1.1_iphoneos-arm.deb
+Size: 96356
+MD5sum: 9221fdfafec20ae6f502cef7cffbbb2d
+SHA1: e051878f777c25b3f007d946a75d104389d32f39
+SHA256: 333a537c7a26115b35096c3e9f19484d5853a7ef3af0d063fea25e41f0b57514
+Section: Tweaks
+Description: A better way to switch between keyboard languages.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.langswipe
+Name: LangSwipe
+
+Package: com.miro.livelistenflipswitch
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 352
+Depends: firmware (>= 13.0), mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.miro.livelistenflipswitch_0.1_iphoneos-arm.deb
+Size: 15304
+MD5sum: f621226ef15f3343aeb3d3afc9011cad
+SHA1: 730825f3e51ef90fc355f2a911c1741ef9d1fbb4
+SHA256: 6a72e46a2df9cee271b8ef278a4490365b7af1d1b3b4f32bf34d8a9d42320deb
+Section: Addons (Flipswitch)
+Description: Flipswitch toggle for Live Listen.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.livelistenflipswitch
+Name: Live Listen Flipswitch
+
+Package: com.miro.rgboard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 740
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.rgboard_1.0_iphoneos-arm.deb
+Size: 281824
+MD5sum: f2efe818cf044ef076405f52e51800e9
+SHA1: 811c0aa3d7c71bf959a9a135c2a972ca96110e7a
+SHA256: 70f831885e817563f8ec0a88fb259d765e24f0ce8bd897919aaf42f0b9fdc2e2
+Section: Tweaks
+Description: Razer Chroma RGB keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Name: RGBoard
+
+Package: com.miro.rgboard
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 740
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.rgboard_1.0.1_iphoneos-arm.deb
+Size: 282340
+MD5sum: 6e29f0f7b8ac2ea59aaedff54102a33d
+SHA1: 3fc8e7ddcc2ea6e677d7cefb1995a9215eba27fc
+SHA256: c2b6b44af557a6eeceddf0f8df41e774f88883cde7c7e7cf048ee2b9d5d9d21b
+Section: Tweaks
+Description: Razer Chroma RGB keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Name: RGBoard
+
+Package: com.miro.rgboard
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 740
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.rgboard_1.0.2_iphoneos-arm.deb
+Size: 282142
+MD5sum: 7c8953597f48a6176de1006943106d0a
+SHA1: 68cafb9719f35a31cf55328e90c7275931939615
+SHA256: b4fc09b214960f0342fbc5ee905d614ee03874aceb77f96ac51e67ac088b3562
+Section: Tweaks
+Description: Razer Chroma RGB keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Name: RGBoard
+
+Package: com.miro.rgboard
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 740
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.rgboard_1.0.3_iphoneos-arm.deb
+Size: 282230
+MD5sum: fee11b991bb94af364168fd0230562a1
+SHA1: 5d829acccfd242d04e90b201ba05009689962ede
+SHA256: dfe919e17c293c945fc8c40dea06150c291c9a98a797e9dc46f078362fba4665
+Section: Tweaks
+Description: Razer Chroma RGB keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Name: RGBoard
+
+Package: com.miro.rgboard
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 740
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.rgboard_1.0.4_iphoneos-arm.deb
+Size: 281864
+MD5sum: 2b64c981bf2d364a2b7309e68d731b3b
+SHA1: 4aba45e8bac0279a2504a3697a2c19f003fa5176
+SHA256: aa57485e2f0b310e8e166133bf2704ee125d5bd9604933469d7ef2f5d18e6811
+Section: Tweaks
+Description: Razer Chroma RGB keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Name: RGBoard
+
+Package: com.miro.rgboard
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 680
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.miro.rgboard_1.0.5_iphoneos-arm.deb
+Size: 283900
+MD5sum: d9dea6df8c12dc37e6104960e070807c
+SHA1: 8a20d070e51a620a5cb8e0a786b4a3b755ba46bf
+SHA256: bd67e18b7cb3ff2894c159e6c1b486ddcc7a11d809a3c782b8f35f11d75213e4
+Section: Tweaks
+Description: Razer Chroma RGB keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Name: RGBoard
+
+Package: com.miro.sharepostimage
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 140
+Depends: firmware (>=11.0), mobilesubstrate
+Filename: ./debs/com.miro.sharepostimage_0.0.1_iphoneos-arm.deb
+Size: 8924
+MD5sum: 1d1eaa59b0856435a9a9604e8098a39b
+SHA1: 6c44f12ac1e02f7d831314942c643614379c8a54
+SHA256: b3f938c3b31faf2a1359d1147c23ff508d7f39366fb86c6dfc7987551be6dfe0
+Section: Tweaks
+Description: Adds the ability to share posts images in Reddit official app.
+Tag: purpose::extension, compatible_min::ios11, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.sharepostimage
+Name: SharePostImage for Reddit
+
+Package: com.miro.shortmoji
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 788
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.0_iphoneos-arm.deb
+Size: 254230
+MD5sum: 3da47b024f974981c0583c0c83a8d147
+SHA1: 6ddf68a0e149e8f4c991c64ea261bd78b6741579
+SHA256: 6b623e5122a4bf665b8a80ea922a802b564b0cdacf7245767368d62f3a027453
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1076
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.0.1_iphoneos-arm.deb
+Size: 290410
+MD5sum: 20eb75a8d34e24802d1ae24130d305d9
+SHA1: 9503c94784d572666b52e62b942d84dcd299d982
+SHA256: ac864986172a5f459ee5846edcbedf183b0b9c8272c52151a22d3e7fd9654217
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1076
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.0.2_iphoneos-arm.deb
+Size: 291176
+MD5sum: 20bcc316a3872989ae16d0045ce2a574
+SHA1: 19913d24c47713e046d6bf84b8778b9264a5cc6d
+SHA256: 49b059bb95d7543f6c80a95fdfedc3ce6827ff3f73390317dabe0dd91c7bb259
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1072
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.0.3_iphoneos-arm.deb
+Size: 287618
+MD5sum: 927079732124aefb216856ebf76c0474
+SHA1: c5f86210a220b8aa88197df83e55c84c54303f34
+SHA256: 0a4ce4b0b7443e9dd02a35c716f15e9ca9330f4f439610c448955393e0e6d99c
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1072
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.0.4_iphoneos-arm.deb
+Size: 287526
+MD5sum: 79baf2c8c565cac9b368845368d57512
+SHA1: 390b109f1b588c861c7788c3f8125489094133d2
+SHA256: 68fa03654cd0dbad0a5df57cd6b517fd92b3035a0e927bd62c42c9074c59defc
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1124
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.1_iphoneos-arm.deb
+Size: 294056
+MD5sum: 51c54bda83c947889f1181e98da19e6f
+SHA1: 60684343c5590f31d2dff2d3f580b90e1eb79404
+SHA256: 28e488f57f97d9222c9813cccf887a393531859c47172173d761844746af6e26
+Section: Tweaks
+Description: Shortmoji adds quick access to emojis & pasteboard shortcuts to the stock keyboard, so simple to use and doesn't require complex gestures ❤️ You're absolutely gonna love it ❤️
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1124
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.1.1_iphoneos-arm.deb
+Size: 295296
+MD5sum: 2a5b30e1b2cdad198875e8bbc1e03be0
+SHA1: ff383bbc3da089c8b5337a8908bc38e7f71d6909
+SHA256: 2e30567ca0a975acb3a6cc31dd71cb1036aa50150ac2f64a4153ba4c94d69caa
+Section: Tweaks
+Description: Shortmoji adds quick access to emojis & pasteboard shortcuts to the stock keyboard, so simple to use and doesn't require complex gestures ❤️ You're absolutely gonna love it ❤️
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1128
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.2_iphoneos-arm.deb
+Size: 298712
+MD5sum: 8a38138f396f28dbe0e708ebffbe7df4
+SHA1: d9072196b28b0e2ca399fb5342252390722fddab
+SHA256: a64b26a546ebbd194528a7d2b61873c852de4ba5d9bc8ba66c7bd2fe93940f3e
+Section: Tweaks
+Description: Shortmoji adds quick access to emojis & pasteboard shortcuts to the stock keyboard, so simple to use and doesn't require complex gestures ❤️ You're absolutely gonna love it ❤️
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1128
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.2.1_iphoneos-arm.deb
+Size: 298690
+MD5sum: e85dcd2a895a45622aa7b3e47995c4d9
+SHA1: 0962452b541e0e315202e14217df950e383d3c0c
+SHA256: 6f5c2460630e233b54a151bbbb363410d9306748b4a885535390f0eb869fed0b
+Section: Tweaks
+Description: Shortmoji adds quick access to emojis & pasteboard shortcuts to the stock keyboard, so simple to use and doesn't require complex gestures ❤️ You're absolutely gonna love it ❤️
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1108
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_1.2.2_iphoneos-arm.deb
+Size: 296950
+MD5sum: 43b06d639f711364d709c0b7bdc88c43
+SHA1: 7cb906649555028a20f144ee5d2531829f6dc340
+SHA256: 478cb9b3d3b9ca93bb2a969e485ca624afe6fc494461f0d7176fb8b12e4596ac
+Section: Tweaks
+Description: Shortmoji adds quick access to emojis & pasteboard shortcuts to the stock keyboard, so simple to use and doesn't require complex gestures ❤️ You're absolutely gonna love it ❤️
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1112
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_1.3_iphoneos-arm.deb
+Size: 300616
+MD5sum: b51a8f3bf5db0495a79c202d8b56a8b8
+SHA1: cdfc905978d2aaafaeb8b4c51d28dc754c477cc1
+SHA256: 920a0423782c344fc9409e2665fb9ea7e3711949c922c416db6e38df6ebcf704
+Section: Tweaks
+Description: .
+    Shortmoji adds quick access to
+    emojis & pasteboard shortcuts to the stock keyboard,
+    so simple to use and doesn't require complex gestures
+    ❤️ You're absolutely gonna love it ❤️
+    .
+    Change Log:
+    .
+    v1.3:
+    - Added CopyLog shortcut
+    .
+    v1.2.2:
+    - Fixed Always Predictive Bar
+    - Added ColorBoard compatibility 
+    .
+    v1.2:
+    - Reenabled prediction text in Predictive Bar. 
+    - Added Prediction text to Predictive View. 
+    - Added swipe gestures to Predictive Bar: switch between Predictive, Emojis, and Shortcuts by swiping 
+    - Up/down if scroll set to Horizontal. 
+    - Left/right if scroll set to Vertical Predictive Bar. 
+    - Now you can set the left and right offset in Both View. 
+    - More fixes for RTL languages. 
+    - Bug fixes.
+    .
+    v1.1:
+    - Added new text buttons to display pasteboard shortcuts in text buttons instead of icons. 
+    - Full support for RTL languages (e.g Arabic). 
+    - Fixed the delay when tapping on buttons. 
+    - Increased Shortcuts number per page up to 7 buttons. (as requested) 
+    - Bug fixes. 
+    .
+    v.1.0.1
+    - Support third party keyboards (eg. Gboard and SwiftKey)
+    - Added more shortcuts
+    .
+    v.1.0
+    - Initial release
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1132
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_1.3.1_iphoneos-arm.deb
+Size: 300224
+MD5sum: 35674e4401439f56803d05c059f89eca
+SHA1: 7c38b467ecc959c91d741224cce8083208bac73d
+SHA256: cd538f5dcb6397ac707055dbc467b81d37ba6b36c97c106fdda1f57a0d9fd34f
+Section: Tweaks
+Description: .
+    Shortmoji adds quick access to
+    emojis & pasteboard shortcuts to the stock keyboard,
+    so simple to use and doesn't require complex gestures
+    ❤️ You're absolutely gonna love it ❤️
+    .
+    Change Log:
+    .
+    v1.3.1:
+    - Fixed Copy,Cut and Paste actions.
+    .
+    v1.3:
+    - Added CopyLog shortcut
+    .
+    v1.2.2:
+    - Fixed Always Predictive Bar
+    - Added ColorBoard compatibility 
+    .
+    v1.2:
+    - Reenabled prediction text in Predictive Bar. 
+    - Added Prediction text to Predictive View. 
+    - Added swipe gestures to Predictive Bar: switch between Predictive, Emojis, and Shortcuts by swiping 
+    - Up/down if scroll set to Horizontal. 
+    - Left/right if scroll set to Vertical Predictive Bar. 
+    - Now you can set the left and right offset in Both View. 
+    - More fixes for RTL languages. 
+    - Bug fixes.
+    .
+    v1.1:
+    - Added new text buttons to display pasteboard shortcuts in text buttons instead of icons. 
+    - Full support for RTL languages (e.g Arabic). 
+    - Fixed the delay when tapping on buttons. 
+    - Increased Shortcuts number per page up to 7 buttons. (as requested) 
+    - Bug fixes. 
+    .
+    v.1.0.1
+    - Support third party keyboards (eg. Gboard and SwiftKey)
+    - Added more shortcuts
+    .
+    v.1.0
+    - Initial release
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 1.3.1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <marwansaad_92@yahoo.com>
+Installed-Size: 1164
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_1.3.1.1_iphoneos-arm.deb
+Size: 307186
+MD5sum: fd68e2d9d04cfd7482021b21ed7208e5
+SHA1: f65e142cf7c3eb5402e3fb0be59be87a3bc223ba
+SHA256: 362788d9b1fda51045cd285dab840b8564e3a96b931e8a27bfa304dc51ae0c5c
+Section: Tweaks
+Description: .
+    Shortmoji adds quick access to
+    emojis & pasteboard shortcuts to the stock keyboard,
+    so simple to use and doesn't require complex gestures
+    ❤️ You're absolutely gonna love it ❤️
+    .
+    Change Log:
+    .
+    v1.3.1:
+    - Fixed Copy,Cut and Paste actions.
+    .
+    v1.3:
+    - Added CopyLog shortcut
+    .
+    v1.2.2:
+    - Fixed Always Predictive Bar
+    - Added ColorBoard compatibility 
+    .
+    v1.2:
+    - Reenabled prediction text in Predictive Bar. 
+    - Added Prediction text to Predictive View. 
+    - Added swipe gestures to Predictive Bar: switch between Predictive, Emojis, and Shortcuts by swiping 
+    - Up/down if scroll set to Horizontal. 
+    - Left/right if scroll set to Vertical Predictive Bar. 
+    - Now you can set the left and right offset in Both View. 
+    - More fixes for RTL languages. 
+    - Bug fixes.
+    .
+    v1.1:
+    - Added new text buttons to display pasteboard shortcuts in text buttons instead of icons. 
+    - Full support for RTL languages (e.g Arabic). 
+    - Fixed the delay when tapping on buttons. 
+    - Increased Shortcuts number per page up to 7 buttons. (as requested) 
+    - Bug fixes. 
+    .
+    v.1.0.1
+    - Support third party keyboards (eg. Gboard and SwiftKey)
+    - Added more shortcuts
+    .
+    v.1.0
+    - Initial release
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <marwansaad_92@yahoo.com>
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1184
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.0_iphoneos-arm.deb
+Size: 309892
+MD5sum: bada924b3e953660921b9499392d302c
+SHA1: 356300dd2d3cab29d67d9fb41624c716f408453f
+SHA256: d9c450fd85fa1e6eb926778629a7c4ecf9ad863b6aa00949eaa0164120f62916
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1280
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.1_iphoneos-arm.deb
+Size: 339348
+MD5sum: 9657ef571bf264b75f34a5e1ce7bb77b
+SHA1: 41e1431e379a9413070e7b9aaf78dd20466acabb
+SHA256: dad1c7285ee33f287ec35df2d8d47400294dcfb418f0dc40209fa97d1a751cfc
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1292
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.2_iphoneos-arm.deb
+Size: 346906
+MD5sum: 221b35ebd619868821eb5757638ceb0b
+SHA1: 49a41dbaeee7c5ac5c6cba910e4466f738fb8a90
+SHA256: 90153655bb6c4211771901e692615d9d01bb914d30ba18095a50b2a92a77323b
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.2.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1300
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.2.2_iphoneos-arm.deb
+Size: 347364
+MD5sum: 1dba5c14290a4437eed49f889d42081c
+SHA1: 8baf2aa02eb39ecbc7aad9bc60e2d2819ecf5928
+SHA256: 2f238a989ff2bd4082b9d8771948f5e254fac09895a91489fa542f7b7374a63c
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1368
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.3_iphoneos-arm.deb
+Size: 352008
+MD5sum: 74bd0a10661df170e6d2b3d75de02d17
+SHA1: c4550286c078a04e1de5c3c0b3b645e3c00e6fd9
+SHA256: a22c8d10188acc178e1754f0d4b9146593d170f11549f82b24cee0a553a200e7
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 6112
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.4_iphoneos-arm.deb
+Size: 2784614
+MD5sum: de56353e50f8852a8c0e37e498ae625c
+SHA1: 7607621565acd63ddd4fb40b508197b65e59a506
+SHA256: b94432ee2ef0f5836e4d8eb5f1e57e2ca6e5c27278e41ec9eef015be4c58b9c8
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1808
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.4.1_iphoneos-arm.deb
+Size: 707768
+MD5sum: 1eb5d8870733294e5f00c083e96df95b
+SHA1: 25d96494f4418715f7f155ed98dad7e31f1da434
+SHA256: a0980ef378236a7bb6828b4640829502c71a6192582a545b617c25bcd8995028
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1752
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.5_iphoneos-arm.deb
+Size: 663736
+MD5sum: ff3c1a73fbdcd9fea01fefc4fe2aa7c8
+SHA1: ead0f4f0608df3a87a736d7b71953ad98022d4f4
+SHA256: f4b27e787b750a23a073c24b22984e7f58e73a0b4567716d90327429a820cf9e
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1872
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debs/com.miro.shortmoji_2.6_iphoneos-arm.deb
+Size: 671292
+MD5sum: b89ffe1cfd792c58a7cda4acaa6fe378
+SHA1: ea27ac7370df699cf3a60404da01dd48efb578ee
+SHA256: 8a2567011309fed9568e327a4067bf37c97a6a1ea5ac70457d9771fdf8349b9a
+Section: Tweaks
+Description: Adds quick access to emojis & pasteboard shortcuts in the stock keyboard.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.5
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2176
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.0_iphoneos-arm.deb
+Size: 716794
+MD5sum: a5ac7ff91d37c65451d8510040d0c8b3
+SHA1: 6498b4d51a445ec47888c135ec8cf1598143b372
+SHA256: 40bf2a03188f834da1eeeacb7bbcc6b55f2eb890777952572f0eb45746e7d611
+Section: Tweaks
+Description: is the Swiss Army Knife keyboard that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2176
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.0.1_iphoneos-arm.deb
+Size: 715706
+MD5sum: 52347afc30086cdd9c27ac4d3b8ba354
+SHA1: 460e5dd2399841efc21d11adfd2fefe0a2c5d510
+SHA256: 775411b89d1136f57997e219f17d7f14a01bba778779b8210abcfad1f8aa2a94
+Section: Tweaks
+Description: is the Swiss Army Knife keyboard that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2300
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.1_iphoneos-arm.deb
+Size: 800162
+MD5sum: 18558936f2a3744aa7d5e579b4340c98
+SHA1: cce1a45f90f7f5d49c4b91a36c988a4099d9f9ac
+SHA256: b46c48a56fcf8bd8c7b294f035e9eb14643391108e04c4c0809d7edb27c405c5
+Section: Tweaks
+Description: is the Swiss Army Knife keyboard that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2544
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.2_iphoneos-arm.deb
+Size: 844534
+MD5sum: be5acb1985a7fa18b0ab900bda025a12
+SHA1: e485aac7fc27bc00c81bbf020356ba7b16e1f0e2
+SHA256: cea6a104ba777caae522ef6f8348083dfbc9adce8975cbea92b946d913b44ad0
+Section: Tweaks
+Description: is the Swiss Army Knife keyboard that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2604
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, ws.hbang.alderis
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.3_iphoneos-arm.deb
+Size: 858180
+MD5sum: 3d14d19ca1d825dd1882d46ddbafe80f
+SHA1: 7aa7d2f742d0a3fdb439610c9bebacdc30343475
+SHA256: c3efcbbf6273aa0e08c7ec96e4a3084f96abe234f9191cbfa69206a1b67123c2
+Section: Tweaks
+Description: is the Swiss Army Knife keyboard that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.3.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2604
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, ws.hbang.alderis
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.3.1_iphoneos-arm.deb
+Size: 858864
+MD5sum: c0f6ece5cbce17567bf020f7d223fb62
+SHA1: 3efd5da3f439bfcec4a1781c0f7a2280cf78fbf3
+SHA256: 67b829d11a734782a6f7827b4f3ac5ca9b54705d7905738bd43fdb797e4de28c
+Section: Tweaks
+Description: is the Swiss Army Knife keyboard that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2668
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, ws.hbang.alderis
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.4_iphoneos-arm.deb
+Size: 874568
+MD5sum: 0b90557bdb9cd1ca91b397507717e315
+SHA1: 0bd344d94c486823f1c9fb05e9ba8b1a3fdb66e9
+SHA256: 5f7fc325fed176f55156d40d45d05ed2cc1f3d06a3eb1ba181b0697f64087447
+Section: Tweaks
+Description: All in one keyboard tweak.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2852
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx
+Filename: ./debs/com.miro.shortmoji_3.5_iphoneos-arm.deb
+Size: 900704
+MD5sum: aa1bbd6e00b9ebdea507704c11ba6aa7
+SHA1: 19724041a502dd1bb42ebe5f09d4f1583d897013
+SHA256: 9794b0ddd9829fe067d1a358ae4a090003dc1f39f44629a10adab71986c21f4b
+Section: Tweaks
+Description: All in one keyboard tweak.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.6
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2928
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard
+Filename: ./debs/com.miro.shortmoji_3.6_iphoneos-arm.deb
+Size: 1013252
+MD5sum: 4fc975c504c4ee3fa8104a9657c2299f
+SHA1: ea7fa708f98b7bde8aff83a2ee6cadaaf279cc8d
+SHA256: 850407bca3f1e49908127812665f12acbab9fafb4fe5392f17258fd21cc59e84
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.6.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2928
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard
+Filename: ./debs/com.miro.shortmoji_3.6.1_iphoneos-arm.deb
+Size: 1012428
+MD5sum: a91e676f83e84a241c5ef3eb4e3fc97a
+SHA1: 687888b192aa8dd0b075fc2b1fa27b40dc81e610
+SHA256: 046abdbc47a781181dd1eb25fed06c562dc8504bec7421d5509e05fef8011042
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.7
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2928
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.julioverne.spotilife
+Filename: ./debs/com.miro.shortmoji_3.7_iphoneos-arm.deb
+Size: 1012044
+MD5sum: ebf265e3556f03dffde2762996d2e0f9
+SHA1: fb84ade100c3f6cd881ddb24a384610bf95b275f
+SHA256: 83ba3ecf3e9384704a547d01d5eeb65715485718130e01d337498b7549d6d335
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 3.7.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 2928
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard
+Filename: ./debs/com.miro.shortmoji_3.7.1_iphoneos-arm.deb
+Size: 1012034
+MD5sum: 26fad228655e592b47ae0b61c2a50ba0
+SHA1: 6bfcf9310d4a2076ab5efb5eb50ec643ee1b5c0c
+SHA256: d1dac1b6050a3280ca71c4a6914a614d69a34205a43fbdd9871af21498126742
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.0.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 3828
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard
+Filename: ./debs/com.miro.shortmoji_4.0.0_iphoneos-arm.deb
+Size: 1069076
+MD5sum: 31817105eaaf78bdaff0bae62c34da5a
+SHA1: 8c3a181d4ac25232e4be72124321b9668eb42b15
+SHA256: e0dabadcd891f51a550988c800f96efb776c971f4a5b606209ed2519b4541299
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4036
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard
+Filename: ./debs/com.miro.shortmoji_4.0.1_iphoneos-arm.deb
+Size: 1107052
+MD5sum: 11882824d74c5b5912148402cdf9f827
+SHA1: 3a456bdc91b61db11cf781e43c042df9796bea4e
+SHA256: c6663cf60f3e7dbb0b09127eadff6fae230446f483b601ef3bdd2201468e5562
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4908
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard
+Filename: ./debs/com.miro.shortmoji_4.1_iphoneos-arm.deb
+Size: 1353260
+MD5sum: 203a6adbd809dfe3b48caeed02dfaee7
+SHA1: c2280269464871e5007392a67dbb88ba3861fce5
+SHA256: 3a230cc669b2a3819c7524f133a65ead899cfd80d039533f3f7060eb8d26b4b4
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4908
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard
+Filename: ./debs/com.miro.shortmoji_4.1.1_iphoneos-arm.deb
+Size: 1353352
+MD5sum: 58773491cc23f8cd2aa8c7c1e0dda24f
+SHA1: 0686f349af1a1fad3f82c7f4a7642b4a2e444ca0
+SHA256: 66a4f41938fd920807dbdafd2e538090a5cf079b5c2bcbfdd8677d74160b2f39
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 5072
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Filename: ./debs/com.miro.shortmoji_4.2_iphoneos-arm.deb
+Size: 1381098
+MD5sum: 8cfa1c970f27aa6865e6430a3d37bbbc
+SHA1: a983624ae4d4b9ea1ba39c9b01075e2252d0941d
+SHA256: faacc85df806cf4b6bf316f9e118a663fc762ed7527bbaee9ce2d6253423e7a0
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.6
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 7068
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Filename: ./debs/com.miro.shortmoji_4.4_iphoneos-arm.deb
+Size: 1565184
+MD5sum: 3970f0ce569a581d2e8ea3030531c247
+SHA1: cdb3e178a2e636e19af0af13278bdfe57e1f3886
+SHA256: 946395ca5e3b9e78fe3f9930ef6d05f649aa646c2508afdf39cf5508bd68db8d
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 7072
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Filename: ./debs/com.miro.shortmoji_4.4.1_iphoneos-arm.deb
+Size: 1570076
+MD5sum: d3043f12ba28a2121330767cc45c19e8
+SHA1: 8b206991e71415d6330fa0e1a0886b4abca9a6ce
+SHA256: d2d19d3b8310fc75e14c6adbe7c66b277117271e7cbdad15b471916b0118fd94
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.5
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 7096
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Filename: ./debs/com.miro.shortmoji_4.5_iphoneos-arm.deb
+Size: 1587188
+MD5sum: 8fe530b4b02db7d2cd21b6ec63b57398
+SHA1: 1996db4ebb1ea470f75307dbf02cd00dbfcd0aa5
+SHA256: b0b0692c940878ce3c87d4781d417bddafdf120ad86494077331c141604ffb45
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.shortmoji
+Version: 4.5.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 7096
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Filename: ./debs/com.miro.shortmoji_4.5.1_iphoneos-arm.deb
+Size: 1587144
+MD5sum: 4c921fb94226a543df8be6281e10a2b4
+SHA1: ea68104e0ad7ac648d9ae68e6f61982b04359f40
+SHA256: 6d162023d67a6fa06a2e47e3d7bd7722be40278c1d11960a77ada60189513d1c
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Name: Shortmoji
+
+Package: com.miro.superhornet
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.miro.superhornet_0.0.1_iphoneos-arm.deb
+Size: 10910
+MD5sum: 3016d69912771a31a967889039b8957a
+SHA1: d2273680641049ce247010d4e2ae3b6e4ae0fb96
+SHA256: 3ec707057a90491c17317df5025eda1a4ecc3ccd985478dfc0dbf7d853de0ba2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: MiRO
+Name: Super Hornet
+
+Package: com.miro.swipeselection
+Version: 1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 672
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.iky1e.swipeselection
+Filename: ./debs/com.miro.swipeselection_1.0~beta1_iphoneos-arm.deb
+Size: 169980
+MD5sum: 499a5b53f0b16043057a1421194d66c2
+SHA1: 97e2858ddcd9c1f43da97af06717a9f0636a7b65
+SHA256: 3b2dfe02b1d83a1d4557d998abeff6d454770d32769eb6f62522d3fb8bad2656
+Section: Tweaks
+Description: Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Name: SwipeSelection
+
+Package: com.miro.swipeselection
+Version: 1.0~beta2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 672
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.iky1e.swipeselection
+Filename: ./debs/com.miro.swipeselection_1.0~beta2_iphoneos-arm.deb
+Size: 170198
+MD5sum: 27323de5845edeb341ad42854f5a2d90
+SHA1: 9c420f6c2085737620483f26586e3f0f81c4c192
+SHA256: 9283dd6fe6ae0da653e5af8c267092ec1deb2013cf194bfdadda4f0816a347c9
+Section: Tweaks
+Description: Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Name: SwipeSelection
+
+Package: com.miro.swipeselection
+Version: 1.0~beta3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 672
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.iky1e.swipeselection
+Filename: ./debs/com.miro.swipeselection_1.0~beta3_iphoneos-arm.deb
+Size: 170566
+MD5sum: 0835132f2912af1be124ea303c1d7ea1
+SHA1: c613a14ef67bc04a1d0226f840c6be115486d2c3
+SHA256: 551ee13bab7a32f12076025467993f0b83531a40c0f25818f981351c03677f2f
+Section: Tweaks
+Description: Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios13.7
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Name: SwipeSelection
+
+Package: com.miro.swipeselection
+Version: 1.0~beta4
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 756
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro
+Filename: ./debs/com.miro.swipeselection_1.0~beta4_iphoneos-arm.deb
+Size: 176018
+MD5sum: d7d9609abea4cc09d11b9bf13afe7762
+SHA1: bccc7d3efd1c034b72b6e3282d47cc106c255ac2
+SHA256: 827293ae5ebd1c65d2e7a61e1afa5a0a0e22f97941b4276ea14b60f3b2155bd1
+Section: Tweaks
+Description: Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Name: SwipeSelection
+
+Package: com.miro.swipeselection
+Version: 1.0~beta5
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 756
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro
+Filename: ./debs/com.miro.swipeselection_1.0~beta5_iphoneos-arm.deb
+Size: 176668
+MD5sum: 045c4acb70008a1e811d5d429208f388
+SHA1: 61e8b855d32a3e46ef3fdad2dd3516479395b9d5
+SHA256: 5a5575324f158b23a7b5fc82bdbf3fe68637a37aa3973dee66462ccb7ebd531b
+Section: Tweaks
+Description: Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Name: SwipeSelection
+

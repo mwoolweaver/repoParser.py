@@ -1,0 +1,225 @@
+Package: com.cpdigitaldarkroom.addsource
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 132
+Depends: actionmenu
+Filename: debs_subscriber/com.cpdigitaldarkroom.addsource_1.0_iphoneos-arm.deb
+Size: 3724
+MD5sum: da34e0c635b7ab8a28a9b7b405cc762d
+SHA1: 55f6b3ceba2ca906384f154ded137967cb36d767
+SHA256: c7fa6729610b0ace56c1c9f716670bab89f14c25fcf5d176f705c5f59e362614
+Section: Addons
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.addsource/
+Description: Quickly add Cydia Repo's
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.addsource/
+Name: AddSource for ActionMenu
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.3.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: debs_subscriber/com.cpdigitaldarkroom.barmoji_2020.3.1_iphoneos-arm.deb
+Size: 55002
+MD5sum: 86ec021cefe21825a72ecb4b84234d69
+SHA1: 305d191ded2cb072c8a48089e2da00e42bb93ebb
+SHA256: ed7c31fd6a79d26b53ad049f6988cd9d88d03d08a2e796e18b16fab5536aad7f
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.4
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Name: Barmoji
+
+Package: com.cpdigitaldarkroom.customcctimers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: debs_subscriber/com.cpdigitaldarkroom.customcctimers_1.0_iphoneos-arm.deb
+Size: 23042
+MD5sum: 678abb378e26dc0ac11b32773eab1344
+SHA1: 7f834dbaab7e8f935d81701f6b383105f34c6645
+SHA256: 757f0df3f09ea167054d64cd92c5240ded3fbe1d9b630ad1553b334f71f6d238
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.customcctimers/
+Description: Custom Control Center Timers
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.customcctimers/
+Name: CustomCCTimers
+
+Package: com.cpdigitaldarkroom.facoal
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs_subscriber/com.cpdigitaldarkroom.facoal_1.1.1_iphoneos-arm.deb
+Size: 4064
+MD5sum: 6bd9df047017cd3007220c35e96c7ad8
+SHA1: 53cc89db1682fac81fb11b9ab0a5fdacbd677257
+SHA256: d7e58b93a784215b5bd54bd1a6f05ff08241dff67c1366ce2b715b1141b635ab
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.facoal/
+Description: Folder Auto Close On App Launch
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.facoal/
+Name: FACOAL
+
+Package: com.cpdigitaldarkroom.gridiculous
+Version: 2019.1~beta2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 248
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.muirey03.iconsupportfix | firmware (<< 13.0)
+Filename: debs_subscriber/com.cpdigitaldarkroom.gridiculous_2019.1~beta2_iphoneos-arm.deb
+Size: 25898
+MD5sum: e70ecab1398513b2cdc5c36016809582
+SHA1: caded56c4bc8ba1f3e3dfd9aac3aebf4d03f8a81
+SHA256: d6ded4e8a6bb3f698c15bed95dba8a7bb5b86be92fc282814f224fd0f79a9dad
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gridiculous/
+Description: Icons Anywhere? That's Gridiculous
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gridiculous/
+Name: gridiculous
+
+Package: com.cpdigitaldarkroom.itsevanesco
+Version: 2020.10.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Conflicts: com.cpdigitaldarkroom.evanesco, com.1conan.evanescoxi
+Filename: debs_subscriber/com.cpdigitaldarkroom.itsevanesco_2020.10.1_iphoneos-arm.deb
+Size: 66662
+MD5sum: b3b93cd6beece90dcef66337afc0f145
+SHA1: 005948440bfa02c30c3e5bc5e6797e6bbb562667
+SHA256: ff0da030e5f941eb7d585721f80d62d222e5d9bb010473a8957eb70e8463d359
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.itsevanesco/
+Description: Clear Your Screen After Inactivity
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.itsevanesco/
+Icon: file:///Library/PreferenceLoader/Preferences/Evanesco@3x.png
+Name: Evanesco!
+
+Package: com.cpdigitaldarkroom.kairos3
+Version: 2020.4
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 1380
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader
+Filename: debs_subscriber/com.cpdigitaldarkroom.kairos3_2020.4_iphoneos-arm.deb
+Size: 176952
+MD5sum: e72ea15418bfe464a3b15532cb36de92
+SHA1: 38e12ee43da087c7b91f45c1b3d3140a98ecfbea
+SHA256: 1e5dad859639a5dc1dbc976627e41489dffc0a572b9c827c214adefe5f2e8bd8
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.kairos3/
+Description: Message Scheduling for iOS Messages
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.kairos3/
+Icon: file:///Library/PreferenceBundles/Kairos.bundle/Kairos@3x.png
+Name: Kairos 3
+
+Package: com.cpdigitaldarkroom.kairos3.debug
+Version: 2019.1~debug1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 1744
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader
+Conflicts: com.cpdigitaldarkroom.kairos3
+Filename: debs_subscriber/com.cpdigitaldarkroom.kairos3.debug_2019.1~debug1_iphoneos-arm.deb
+Size: 251794
+MD5sum: 240b0a727c9c02d42c561a2ad663804a
+SHA1: 39b08b35e411d3e63c9a8b914b75e34035729b07
+SHA256: e1af9abf8651e4ecc426d9490ebd5019fb530c803332f9acb4f4570ba0d7b4b9
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.kairos3.debug/
+Description: Message Scheduling for iOS Messages
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.kairos3.debug/
+Icon: file:///Library/PreferenceBundles/Kairos.bundle/Kairos@3x.png
+Name: Kairos 3 (Debug)
+
+Package: com.cpdigitaldarkroom.ping
+Version: 2020.1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 964
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap(>= 1.0.7~beta3), com.spark.libsparkapplist(>= 1.0.4)
+Filename: debs_subscriber/com.cpdigitaldarkroom.ping_2020.1_iphoneos-arm.deb
+Size: 129900
+MD5sum: 35dd8b017e13c913ae186feba9da82fd
+SHA1: 3916374178ce4559f4edcf84ba02946b332bccd6
+SHA256: 59a6c4f84ee10f34e0cd48897a203fe0e4d910ea65d2320066351d6e13ecae31
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.ping/
+Description: A last.fm Scrobbler
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.ping/
+Icon: file:///Library/PreferenceBundles/Ping.bundle/Ping@3x.png
+Name: Ping
+
+Package: com.cpdigitaldarkroom.platters
+Version: 0.3.5
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks+platters@cpdigitaldarkroom.support>
+Installed-Size: 332
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs_subscriber/com.cpdigitaldarkroom.platters_0.3.5_iphoneos-arm.deb
+Size: 67050
+MD5sum: 496d0423bac69a3290acb2805d09302b
+SHA1: 0f5ff482760fea5fae66948c08f4f28890bb774a
+SHA256: 954fec83a319ec2ab1d798fa67f77a848ddb284fa650590c1c98cc0c6b7e880b
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.protocc/
+Description: Supercharged Control Center Pages
+Author: CP Digital Darkroom <tweaks+platters@cpdigitaldarkroom.support>
+Depiction: http://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.protocc/
+Icon: file:///Library/PreferenceBundles/Platters.bundle/platters@3x.png
+Name: Platters
+
+Package: com.cpdigitaldarkroom.trucido
+Version: 0.0.1.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 728
+Depends: mobilesubstrate, com.cpdigitaldarkroom.catalyst
+Filename: debs_subscriber/com.cpdigitaldarkroom.trucido_0.0.1.2_iphoneos-arm.deb
+Size: 181382
+MD5sum: a5dcc35fc456601ddad5b13b056ce9c5
+SHA1: 34a0747bedcf83c3c1d60da675b1c6e1a8c0905f
+SHA256: 3b4de31cb565f005a44717e9179e2f677f7cdc4e04c7e1778e672f5f463c1519
+Section: Tweaks
+Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.trucido/
+Description: A Grid Styled App Switcher
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.trucido/
+Name: Trucido
+
+Package: com.cpdigitaldarkroom.underboard
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Installed-Size: 1360
+Depends: mobilesubstrate
+Filename: debs_subscriber/com.cpdigitaldarkroom.underboard_0.0.2_iphoneos-arm.deb
+Size: 607660
+MD5sum: bff5035ad3abb5baaa8354aac472659b
+SHA1: 8ddcac7ecc3ac9caa01a99beea92cda5e6163152
+SHA256: 07a5db6609d91734130122f299c93111876120d22827f54447bb2ce9e16bec0f
+Section: Tweaks
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.underboard/
+Description: Centralized hub For Apps & Shortcuts
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://supporter.cpdigitaldarkroom.com/repo/depiction.php?iframe=https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.underboard/
+Name: UnderBoard
+

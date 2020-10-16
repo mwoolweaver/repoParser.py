@@ -1,0 +1,20 @@
+Origin: ElectricEspeon's Beta Repo
+
+Label: E's Beta Repo
+
+Suite: stable
+
+Version: 0.1
+
+Codename: FurryFucker
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: This is a repo, right?
+
+MD5Sum:
+6f970137f3f16458614b3d16412f3057 3579 Packages
+4407509ec41a0902f6a91d26208d5039 1304 Packages.gz
+7fe6fcc8447ad05ca1a4d6de74f72065 1426 Packages.bz2

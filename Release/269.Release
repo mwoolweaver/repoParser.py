@@ -1,0 +1,8 @@
+Origin: Kurrt's Repo
+Label: Kurrt's Repo
+Suite: stable
+Version: 0.1
+Codename: iOS
+Architectures: iphoneos-arm
+Components: main
+Description: Kurrt's Cydia Repo

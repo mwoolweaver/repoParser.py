@@ -1,0 +1,84 @@
+Package: com.ao.digital
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AdventureOwl <borgen180@gmail.com>
+Depends: com.matchstic.infostats
+Filename: .//com.ao.digital.deb
+Size: 36914
+MD5sum: 897106e0e140c03fb346ba82f36477ea
+SHA1: 33f2b19e6626e92fd86213e5ab1782761d56f40f
+SHA256: 7ab1c16f63d9ddeae98cf272f4dce29184dbbdaf61e2866e24e759907564d020
+Section: Themes
+Homepage: http://adventureowl.github.io/
+Description: A super cool LS Widget showing time and battery and a matching SBHTML partner.
+Author: AdventureOwl <borgen180@gmail.com>
+Depiction: http://adventureowl.github.io/web/depictions/digital.html
+Name: LS Digital
+
+Package: com.ao.lime
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: AdventureOwl <borgen180@gmail.com>
+Depends: com.matchstic.infostats
+Filename: .//com.ao.lime.deb
+Size: 191640
+MD5sum: 1bda57d184f1379d3b3884ede8b1c675
+SHA1: 49f80a3b77ea52dc7c42978d2da7cecf03910879
+SHA256: b8e8d33c9fe80b85b91a56b032be35b745ec779d89ce7d2c198d069a446e3eba
+Section: Themes
+Homepage: http://adventureowl.github.io/
+Description: An awesome LS Widget showing time and date with a battery bar with inbuilt tap to unlock!
+Author: AdventureOwl <borgen180@gmail.com>
+Depiction: http://adventureowl.github.io/web/depictions/lime.html
+Name: LS Lime
+
+Package: com.ao.sbdigital
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AdventureOwl <borgen180@gmail.com>
+Depends: com.matchstic.infostats
+Filename: .//com.ao.sbdigital.deb
+Size: 36878
+MD5sum: 9d6584fbdef95a43eb3312e29f4e1ac2
+SHA1: 59e76a44b2621125550f64de89bfd08f79ca6f2e
+SHA256: 896981d7b7c26ae68b3eb7d333f72678a2b70d847451e6286d0fff786e5ea074
+Section: Themes
+Homepage: http://adventureowl.github.io/
+Description: A sweet SBHTML to match LS Digital.
+Author: AdventureOwl <borgen180@gmail.com>
+Depiction: http://adventureowl.github.io/web/depictions/sbdigital.html
+Name: SB Digital
+
+Package: com.ao.slanted
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: AdventureOwl <borgen180@gmail.com>
+Depends: com.matchstic.infostats
+Filename: .//com.ao.slanted.deb
+Size: 137802
+MD5sum: 3be5ee5478d514b29c34dfe4d589e98e
+SHA1: 0b1792b2ee7d3e6b5f1998da75d5ef2c11226bf1
+SHA256: e5eab90c3e34dbe545e9915787e6d03bf505c85bd9ef3282d08a77daa45f81c5
+Section: Themes
+Homepage: http://adventureowl.github.io/
+Description: A sexy LS Widget showing time, date and battery level with inbuilt tap to unlock!
+Author: AdventureOwl <borgen180@gmail.com>
+Depiction: http://adventureowl.github.io/web/depictions/slanted.html
+Name: LS Slanted
+
+Package: com.ao.windowwidth
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: AdventureOwl <borgen180@gmail.com>
+Filename: .//com.ao.windowwidth.deb
+Size: 1454
+MD5sum: b6bd4faad36bb37e7a60e36c9dc5e70c
+SHA1: d013902d4a162b94256d4230ff370a95444c70d6
+SHA256: 994dabc3c5f83a1f91ff37bc4c9233806609614fc95cbe64863b5123dd74291b
+Section: Themes
+Homepage: http://adventureowl.github.io/
+Description: More of an experiment than a theme.
+Author: AdventureOwl <borgen180@gmail.com>
+Depiction: http://adventureowl.github.io/web/depictions/windowwidth.html
+Name: LS WindowWidth
+

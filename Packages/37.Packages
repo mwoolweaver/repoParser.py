@@ -1,0 +1,111 @@
+Package: com.electricespeon.ezbattery
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: ElectricEspeon
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: deb/com.electricespeon.ezbattery_0.0.1-2+debug_iphoneos-arm.deb
+Size: 6744
+MD5sum: be2b04338566025ceac18a19656c6b69
+SHA1: 11e7dcf9e926fe3a7ed838546df142e093fcf5f5
+SHA256: eca0ec2b566f64c5368305bde1a824930fb019eb11f64800e7d293510536684d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ElectricEspeon
+Name: EzBattery
+
+Package: com.electricespeon.justdrawsomething
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Ethan Hargus
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: deb/com.electricespeon.justdrawsomething_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3156
+MD5sum: 1afe5b397d707fd61d57696a7d8b1487
+SHA1: 85d91af224dbaa4a374b823e096dcf6c7f60055c
+SHA256: 53d0b43e85cee28682d18229877bb4ddb1a12d4a1e9819fbb15059b18d4dd1e5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Hargus
+Name: JustDrawSomething
+
+Package: com.electricespeon.mterminalelectrafied
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ethan Hargus
+Filename: deb/MTerminal.deb
+Size: 220068
+MD5sum: 452240cfb56658d6336c06bc96ea9455
+SHA1: 07e093e63af1514277c37d53c91a47bf5fad3929
+SHA256: 9856f495840a8c13c155b0865b52b48f1915ef30a6033b621ad706a1d4214997
+Section: Utilities
+Description: Terminal for electra!
+Author: Ethan Hargus
+Name: MTerminalElectrafied
+
+Package: com.electricespeon.palertxi
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Ethan Hargus
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: deb/com.electricespeon.palertxi_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3116
+MD5sum: 9cd2bbf9db0f5454fe18e073d2fc0828
+SHA1: 545afdbc3a1119ff846dbc64914cd01312e18ec0
+SHA256: dc2f1da9380a4631be9d1dbcff942ecb832a2d605b49ee026c96772f3af68e26
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Hargus
+Name: PalertXI
+
+Package: com.electricespeon.simpletweak
+Version: 0.0.2-14+debug
+Architecture: iphoneos-arm
+Maintainer: Ethan Hargus
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: deb/com.electricespeon.simpletweak_0.0.2-14+debug_iphoneos-arm.deb
+Size: 3496
+MD5sum: 966b3d972a5d7619531de4607ef5ddfe
+SHA1: 3ca6955d8c8322af368145add3d5df0d623a471f
+SHA256: c0250a5f6e523c21266a1aeb129ac7c091d56e01f0a73a9d5a469fb727c7d7f0
+Section: Tweaks
+Description: Tells you you took a screenshot
+Author: Ethan Hargus
+Name: simpletweak
+
+Package: com.yourcompany.simpletweak
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Ethan Hargus
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: deb/com.yourcompany.simpletweak_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3450
+MD5sum: 239006498cd8b223905252b601803d81
+SHA1: 8c93d59bacfc129d879cfac4abdf7e1b364b91f2
+SHA256: 82c0d409a3e84bae4f501a983acb51ba7022a77e5e6624761af889210af96d93
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Hargus
+Name: simpletweak
+
+Package: net.limneos.bioprotect
+Version: 2.2-3
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1804
+Depends: mobilesubstrate, preferenceloader
+Filename: deb/BioProtect.deb
+Size: 585632
+MD5sum: 3238b28c8fe17aa68eca7947f0a72d0a
+SHA1: c55957746d5b2b9bc66866264c400183de216429
+SHA256: 60c8a925db7bb2cee371c83f91f852419bf78d22c57542fcc7e1b0783fc9eace
+Section: Tweaks
+Description: Protect your apps with Touch/Face ID!
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Name: BioProtect
+

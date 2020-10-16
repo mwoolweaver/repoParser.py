@@ -1,0 +1,8 @@
+Origin: SarahH12099 Burrito Mirror
+Label: SarahH12099 Burrito Mirror
+Suite: stable
+Version: 1.0
+Codename: sarahh12099repomirror
+Architectures: iphoneos-arm
+Components: main
+Description: A no piracy mirror of the SarahH12099 repo before it shut down.

@@ -1,0 +1,80 @@
+Package: com.creatix.peek-a-boo-legacy
+Version: 10.0.2-1
+Architecture: iphoneos-arm
+Maintainer: FaZe IlLuMiNaTi <kieran@fazeilluminati.com>
+Depends: firmware (>=9.0), mobilesubstrate, firmware (<< 11.0)
+Conflicts: com.creatix.motus, com.creatix.hoppn, com.creatix.peek-a-boo
+Filename: ./pkg/com.creatix.peek-a-boo-legacy.deb
+Size: 28876
+MD5sum: bb4682dec5e8885d35aa188bf660946b
+SHA1: 2e656b012bd0638795285fd920b05dc5e4fe0a42
+SHA256: b4fb502ef19d8ef4085184b97a061004d41b0a74f3d80d7dd88876dd8e0a46a6
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Peek-a-Boo enables Peek and Pop on older devices.
+Author: Creatix <ioscreatix@gmail.com>
+Depiction: https://repo.dongo.pro/depiction/web/com.creatix.peek-a-boo-legacy.html
+Icon: https://repo.dongo.pro/assets/com.creatix.peek-a-boo-legacy/icon.png
+Moderndepiction: https://repo.dongo.pro/depiction/native/com.creatix.peek-a-boo-legacy.json
+Name: Peek-a-Boo (Legacy)
+Sileodepiction: https://repo.dongo.pro/depiction/native/com.creatix.peek-a-boo-legacy.json
+
+Package: pro.dongo.ios9locksound
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: FaZe IlLuMiNaTi <kieran@fazeilluminati.com>
+Depends: firmware (>=10.0)
+Filename: ./pkg/pro.dongo.ios9locksound.deb
+Size: 85518
+MD5sum: 2803cdffa211ab673c2cb8e9f03948bb
+SHA1: ba92a3a97d50a83b187daa2d3d8aaa901b265c52
+SHA256: a58376fcc84649eecd9d70b94d2b734ecb0c64ed80213c24d210294de9c4708a
+Section: Themes (SpringBoard)
+Homepage: https://shuga.co/
+Description: iOS 9 Lock Sound
+Author: FaZe IlLuMiNaTi  <kieran@fazeilluminati.com>
+Depiction: https://repo.dongo.pro/depiction/web/pro.dongo.ios9locksound.html
+Icon: https://repo.dongo.pro/assets/pro.dongo.ios9locksound/icon.png
+Moderndepiction: https://repo.dongo.pro/depiction/native/pro.dongo.ios9locksound.json
+Name: iOS 9 Lock Sound
+Sileodepiction: https://repo.dongo.pro/depiction/native/pro.dongo.ios9locksound.json
+
+Package: pro.dongo.repo.switchlanplay
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: FaZe IlLuMiNaTi <kieran@fazeilluminati.com>
+Filename: ./pkg/pro.dongo.repo.switchlanplay.deb
+Size: 2295792
+MD5sum: bd8c660157cdb594ae4a2ac21a4feafb
+SHA1: 453a2f26007fe18f55d6970754ca96ea4d211c7c
+SHA256: 39b3c609561f38ed7e8e07f3891f273ebaa8f679cd0ceefa584e2d6d56d78460
+Section: Themes
+Homepage: https://repo.dongo.pro
+Description: switch-lan-play built for iOS (arm664 only).
+Author: spacemeowx2 <spacemeowx2@gmail.com>
+Depiction: https://repo.dongo.pro/depiction/web/pro.dongo.repo.switchlanplay.html
+Icon: https://repo.dongo.pro/assets/pro.dongo.repo.switchlanplay/icon.png
+Moderndepiction: https://repo.dongo.pro/depiction/native/pro.dongo.repo.switchlanplay.json
+Name: switch-lan-play
+Sileodepiction: https://repo.dongo.pro/depiction/native/pro.dongo.repo.switchlanplay.json
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: FaZe IlLuMiNaTi <kieran@fazeilluminati.com>
+Conflicts: ru.domo.cocoatop
+Filename: ./pkg/ru.domo.cocoatop64.deb
+Size: 148356
+MD5sum: c1b12181d57836cbf281ae45c63cbc3c
+SHA1: 0f620f9b94173b7b0ee70d27cc9ce6307ff33437
+SHA256: b99b060393971a3cd22f40e248c71f929a27cde24accc4749e75a581fb350027
+Section: Utilities
+Homepage: https://shuga.co/
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo <domo@rambler.ru>
+Depiction: https://repo.dongo.pro/depiction/web/ru.domo.cocoatop64.html
+Icon: https://repo.dongo.pro/assets/ru.domo.cocoatop64/icon.png
+Moderndepiction: https://repo.dongo.pro/depiction/native/ru.domo.cocoatop64.json
+Name: CocoaTop
+Sileodepiction: https://repo.dongo.pro/depiction/native/ru.domo.cocoatop64.json
+

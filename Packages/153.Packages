@@ -1,0 +1,2573 @@
+Package: com.dbk1ng.ios8testfont
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.ios8testfont_1.0_iphoneos-arm.deb
+Size: 6172808
+MD5sum: f436abb4812ab7c0e00f5be94efdee1a
+SHA1: e905d73848d1398028ee60c7b24692d10d9a2a63
+Section: Fonts (iOS 8)
+Description: Upgrade & Rename Test
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios8testfont/index.html
+Name: iOS 9 test Font
+
+Package: com.dbk1ng.sanfranciscoios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoios8_1.0_iphoneos-arm.deb
+Size: 21724404
+MD5sum: 78b3fe793531918b8bacbca0b87882d1
+SHA1: 4f17bdb0b32659237370cb8868c336d06121a0ca
+SHA256: 0f2fd04dffa1a13f9b971f810e3e4191e2fd8034e11f2e1df9d04e52c7ec0349
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoios8/index.html
+Name: San Francisco iOS 8
+
+Package: com.dbk1ng.avenirios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirios8_1.0_iphoneos-arm.deb
+Size: 13178480
+MD5sum: b46f387347115fb3b7ba9ee0412407a7
+SHA1: 9e034140c8380099d56fd367cb736f60151ed8fd
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirios8/index.html
+Name: Avenir iOS 8
+
+Package: com.dbk1ng.ptsansnarrowios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.ptsansnarrowios8_1.0_iphoneos-arm.deb
+Size: 12783806
+MD5sum: 3b6b986d51582039708ce9159fbac4f5
+SHA1: 49a468a312cce86eec5429c03616c80a7823cea3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ptsansnarrowios8/index.html
+Name: PT Sans Narrow iOS 8
+
+Package: com.dbk1ng.sanfranciscoroundedios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedios8_1.0_iphoneos-arm.deb
+Size: 20718212
+MD5sum: e130bd17d8e01d548d5256a143ce5101
+SHA1: bbc62061aa7ca5c38f5395099eb04343eb4695f6
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedios8/index.html
+Name: San Francisco Rounded iOS 8
+
+Package: com.dbk1ng.ios7beta1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.ios7beta1_1.0_iphoneos-arm.deb
+Size: 12939282
+MD5sum: e34cca2e61e97b177974f5c0a9f3de4a
+SHA1: a19a349ad866cbd953f67e0d41acca04a85e8c44
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios7beta1/index.html
+Name: iOS 7 beta1
+
+Package: com.dbk1ng.cicleios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.cicleios8_1.0_iphoneos-arm.deb
+Size: 12829114
+MD5sum: 91b4536c42e9ba51a2b4be77953b4080
+SHA1: 9411de92821b4e40229c433929cdfb1c3b5b674b
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.cicleios8/index.html
+Name: Cicle iOS 8
+
+Package: com.dbk1ng.beatsbydreios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.beatsbydreios8_1.0_iphoneos-arm.deb
+Size: 13499264
+MD5sum: 41db8953cfd0e0efc68bbb59bc80cbaa
+SHA1: f7682c2516d9e6fafae1eca8edbf26e251136dc3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydreios8/index.html
+Name: Beats By Dre iOS 8
+
+Package: com.dbk1ng.myriadproset
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadproset_1.0_iphoneos-arm.deb
+Size: 17743872
+MD5sum: 9ec57961a43ae889b9b86ab315af0c4e
+SHA1: 9dd2b8ed447c3acf2caaa5d2ae21167edeb24b5e
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadproset/index.html
+Name: Myriad Pro Set
+
+Package: com.dbk1ng.sanfranciscodisplayios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscodisplayios8_1.0_iphoneos-arm.deb
+Size: 19838676
+MD5sum: e4e3a8b1422f565f34fb55984d32ba4d
+SHA1: 7002130c0bbb861526d9f8af2e0045b798434c6d
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscodisplayios8/index.html
+Name: San Francisco Display iOS 8
+
+Package: com.dbk1ng.gothamregular
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gothamregular_1.0_iphoneos-arm.deb
+Size: 13296218
+MD5sum: c307906ad891d421ca1a5ad0e8407d9a
+SHA1: a846856a6a5a06eaf01179641a5fa18aa5a71541
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gothamregular/index.html
+Name: Gotham Regular
+
+Package: com.dbk1ng.texta
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.texta_1.0_iphoneos-arm.deb
+Size: 13851006
+MD5sum: b6e4215a77ecbe5937e08659d9d039f5
+SHA1: da0f2498cbe00e6bf57acbd36e0f9f255f2dbd7b
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.texta/index.html
+Name: Texta
+
+Package: com.dbk1ng.calibri
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.calibri_1.0_iphoneos-arm.deb
+Size: 21630166
+MD5sum: 29cb9bddf4c39ed1498abb0df97e7ce5 
+SHA1: 0e7d1bf190ff5760066621f29ce432039642aa03
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.calibri/index.html
+Name: Calibri
+
+Package: com.dbk1ng.clearsansscreen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.clearsansscreen_1.0_iphoneos-arm.deb
+Size: 13635308
+MD5sum: 684d5a30489c5579857f8a0a2166fe87
+SHA1: 3d4c17278a02b38d57648f8fafa1516fe8b7f917
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.clearsansscreen/index.html
+Name: Clear Sans Screen
+
+Package: com.dbk1ng.neutraface
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutraface_1.0_iphoneos-arm.deb
+Size: 14256322
+MD5sum: 665d5036dac561e09cd0c7855f61b6f0 
+SHA1: 2f6596e46c4e6e5eb01a34d5a447c3e02859ea17
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutraface/index.html
+Name: Neutraface
+
+Package: com.dbk1ng.neotech
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotech_1.0_iphoneos-arm.deb
+Size: 13686406
+MD5sum: 1eda97f196b99a611e5c551ee426cfd0
+SHA1: cbb2e075663805003ab148dddbe330b30314d907
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotech/index.html
+Name: Neo Tech
+
+Package: com.dbk1ng.gothamrounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gothamrounded_1.0_iphoneos-arm.deb
+Size: 15512548
+MD5sum: b896badc230c023a41c811012d400c40 
+SHA1: bdf393b9426dfcd1adeb941fd2d90cf9ec8de822
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gothamrounded/index.html
+Name: Gotham Rounded
+
+Package: com.dbk1ng.neutrafacesc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutrafacesc_1.0_iphoneos-arm.deb
+Size: 13277714
+MD5sum: f3afd7c4be30493a45bc8d03f0a683b4 
+SHA1: 35338c1ef56b37896a3025ab77c91d3057fde69d
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafacesc/index.html
+Name: Neutraface SC
+
+Package: com.dbk1ng.prelude
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.prelude_1.0_iphoneos-arm.deb
+Size: 16055510
+MD5sum: 896304e89ea19cbcb98c84d8c9831b28  
+SHA1: a86f827e7b4c189c96b9deecf29dca51549e6b09
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.prelude/index.html
+Name: Prelude
+
+Package: com.dbk1ng.textaalt
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.textaalt_1.0_iphoneos-arm.deb
+Size: 14358678
+MD5sum: b2321048b152eb20851d54a8c07e0f14  
+SHA1: cc47c57a5f6481654ae1c0395fbc66cfd4551f9c
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.textaalt/index.html
+Name: Texta Alt
+
+Package: com.dbk1ng.proximanova
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.proximanova_1.0_iphoneos-arm.deb
+Size: 13632652
+MD5sum: d0dfa807f24a7b6541bb0403228b198b   
+SHA1: 7b67a7e11913a6eaa10248e5e70dc4d9c881619a
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.proximanova/index.html
+Name: Proxima Nova
+
+Package: com.dbk1ng.roboto2014
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.roboto2014_1.0_iphoneos-arm.deb
+Size: 16508512
+MD5sum: d2c33d938b09db4c4e9bf13a5e8a5f7b   
+SHA1: 88ca117b9f56fe203ff7c509daea048be70b9c7a
+Section: Fonts (iOS 8)
+Description: A non profit port by Mike Van Eeckhoutte for the jailbreak community
+Author: Mike van Eeckhoutte <mvan68@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.roboto2014/index.html
+Name: Roboto 2014
+
+Package: com.dbk1ng.avantgardegothic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avantgardegothic_1.0_iphoneos-arm.deb
+Size: 9720658
+MD5sum: 05568a3ac6f4e684ac58544f1198b6b9   
+SHA1: 835eb28cc98b3c68da7c8e14cbc71cad3bf3b597
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avantgardegothic/index.html
+Name: Avant Garde Gothic
+
+Package: com.dbk1ng.museosans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.museosans_1.0_iphoneos-arm.deb
+Size: 11563718
+MD5sum: 155ac9b101751b6ba9043c5aeddb14f6   
+SHA1: 8111e69e65106eacc9780da7c765812b9a7b985a
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosans/index.html
+Name: Museo Sans
+
+Package: com.dbk1ng.glober
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.glober_1.0_iphoneos-arm.deb
+Size: 16820904
+MD5sum: 89e5a3df4ed244c7bd21897e7c5f78b1   
+SHA1: 21a927ae862061f07e4bfa3ad60aa5a853bd1bf3
+Section: Fonts (iOS 8)
+Description: A non profit port by Mike Van Eeckhoutte for the jailbreak community
+Author: Mike van Eeckhoutte <mvan68@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.glober/index.html
+Name: Glober
+
+Package: com.dbk1ng.futura
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.futura_1.0_iphoneos-arm.deb
+Size: 10671386
+MD5sum: 4c3e58e40b871dacc4685c9ac5f80746   
+SHA1: f6929f586871dfb36d7f60cda4880ddc7e1136e3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.futura/index.html
+Name: Futura
+
+Package: com.dbk1ng.realistwide
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.realistwide_1.0_iphoneos-arm.deb
+Size: 13010058
+MD5sum: febdd97ba7eff6b8266beeccfbe846ab   
+SHA1: 1341713c37d5bf272e7ac243cfcce8f5956913fe
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.realistwide/index.html
+Name: Realist Wide
+
+Package: com.dbk1ng.geomanist
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.geomanist_1.0_iphoneos-arm.deb
+Size: 13425304
+MD5sum: dbedb692dad899220b4b45ebca5603e4   
+SHA1: 2096a6bdbe827600dc7e7c6b9ad4f6315f7a3ee3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.geomanist/index.html
+Name: Geomanist
+
+Package: com.dbk1ng.gothamnarrow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gothamnarrow_1.0_iphoneos-arm.deb
+Size: 15092598
+MD5sum: 8d75cf3b8d0f5ee3254adb445ac2fbd4   
+SHA1: afcd63f9b8867f5689b837ead36c6578911bb1c9
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gothamnarrow/index.html
+Name: Gotham Narrow
+
+Package: com.dbk1ng.maaxrounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.maaxrounded_1.0_iphoneos-arm.deb
+Size: 14498972
+MD5sum: 9509732719fc46decf820f958df8e122   
+SHA1: bf2dd49a7cd651740ee036ceefeddaf8f50f0b9a
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.maaxrounded/index.html
+Name: Maax Rounded
+
+Package: com.dbk1ng.klavika
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.klavika_1.0_iphoneos-arm.deb
+Size: 13654978
+MD5sum: c26f4b2ec05c4cb34e8d12702e5e4005
+SHA1: 2653ac146ab12ebc1628c429ca0eba7afb4d4860
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.klavika/index.html
+Name: Klavika
+
+Package: com.dbk1ng.labsanspro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.labsanspro_1.0_iphoneos-arm.deb
+Size: 12831294
+MD5sum: 72139dfdc15aa86d3bbc2dd4d1323c58
+SHA1: c3db2d340a69b22f512683a9f3426157d63309f0
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.labsanspro/index.html
+Name: Lab Sans Pro
+
+Package: com.dbk1ng.oxo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.oxo_1.0_iphoneos-arm.deb
+Size: 13825990
+MD5sum: 8706924b56839a4ce2b75bc1153981a9
+SHA1: 031212b67c489fcb5a177b074930f7db8ba29213
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.oxo/index.html
+Name: Oxo
+
+Package: com.dbk1ng.planer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.planer_1.0_iphoneos-arm.deb
+Size: 14228376
+MD5sum: 8200d8e7e96814bafabae17d9768c5d1
+SHA1: fc5393f4174f36ec511c91535b6b60edb9ea22f4
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.planer/index.html
+Name: Planer
+
+Package: com.dbk1ng.robotocondensed
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.robotocondensed_1.0_iphoneos-arm.deb
+Size: 16304674
+MD5sum: 50a5184d898bae0ec20b56212100345d
+SHA1: 338537816bf01fcf19f7c5ac7bc542ba6018a7d2
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.robotocondensed/index.html
+Name: Roboto Condensed
+
+Package: com.dbk1ng.zosimo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.zosimo_1.0_iphoneos-arm.deb
+Size: 14049960
+MD5sum: 3950cbe5d355ddab0c7a1a6a2194e873
+SHA1: cb9cd3e2739b949cb9acc4481212d80e693b0a98
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.zosimo/index.html
+Name: Zosimo
+
+Package: com.dbk1ng.aldine
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.aldine_1.0_iphoneos-arm.deb
+Size: 9612866
+MD5sum: 03c699f22212e2354d4c5e2ab1f52d11   
+SHA1: 55f52f1f79018a26f1d96ac2b68461f26284badc
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.aldine/index.html
+Name: Aldine
+
+Package: com.dbk1ng.avenirnext
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnext_1.0_iphoneos-arm.deb
+Size: 11077222
+MD5sum: 839c09dae5ae3266b1bdb75da7a7efe3   
+SHA1: 5e2debc2eae5dc46f4b4110b6547cfcf68e0a230
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnext/index.html
+Name: Avenir Next
+
+Package: com.dbk1ng.avenirnextcondensed
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnextcondensed_1.0_iphoneos-arm.deb
+Size: 10217830
+MD5sum: 4f27449aa8281bb69ecc6ce3d5004a17   
+SHA1: 426f72b4457452ff43b783d0fa16638f7f64e113
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextcondensed/index.html
+Name: Avenir Next Condensed
+
+Package: com.dbk1ng.metronovapro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.metronovapro_1.0_iphoneos-arm.deb
+Size: 12279200
+MD5sum: 6024579009c7392db9d4de7e371564a0   
+SHA1: 66899f0fca74fe13d4e2dc72bd5473940be746ca
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.metronovapro/index.html
+Name: Metro Nova Pro
+
+Package: com.dbk1ng.mspultralight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.mspultralight_1.0_iphoneos-arm.deb
+Size: 10327098
+MD5sum: 89633613784defc834ac6c53b92511be   
+SHA1: 808e8e3e1fba49d4accd595f5d145c64196a746b
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.mspultralight/index.html
+Name: MSP UltraLight
+
+Package: com.dbk1ng.myriadprooriginal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadprooriginal_1.0_iphoneos-arm.deb
+Size: 11369896
+MD5sum: df46d3f4f67558528d45cc740f371afa   
+SHA1: fc5f96e3a2cf2fe5ae2fc4c3c3430caa8eba6a9b
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadprooriginal/index.html
+Name: Myriad Pro Original
+
+Package: com.dbk1ng.30aalockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.30aalockglyph_1.0_iphoneos-arm.deb
+Size: 281626
+MD5sum: ad0b3688f63b4895e2e72d1e1fc3b110   
+SHA1: 192a146865d2c13bee4684a062a5922869ebd3e8
+Section: Themes (LockGlyph)
+Description: LockGlyph themes to be included in the next 30aa update.
+Author: tdmd <tdmd@outlook.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.30aalockglyph/index.html
+Name: 30aa LockGlyph
+
+Package: com.dbk1ng.illest
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.illest_1.0_iphoneos-arm.deb
+Size: 11894
+MD5sum: cd6957e478f144ca7386f29352c77bd9   
+SHA1: bc53f42237c14a95d2ad5999634a07c01f1e5086
+Section: Themes (Zeppelin)
+Description: Illest logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illest/index.html
+Name: Illest
+
+Package: com.dbk1ng.neuehaasunicapro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neuehaasunicapro_1.0_iphoneos-arm.deb
+Size: 15648566
+MD5sum: 44a7ebaf601cb17fa567337efa197d89
+SHA1: 08fe441dafbdd76bb36bd4b260fe80577806fef6
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neuehaasunicapro/index.html
+Name: Neue Haas Unica Pro
+
+Package: com.dbk1ng.macristocracycrownclassic
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.macristocracycrownclassic_1.0_iphoneos-arm.deb
+Size: 6562
+MD5sum: 992186023c06a71debca810a3d422645   
+SHA1: 7de04ec2f71f40d9365ffddf2e3e80ba47109b37
+Section: Themes (Zeppelin)
+Description: M* Crown logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.macristocracycrownclassic/index.html
+Name: Macristocracy Crown Classic
+
+Package: com.dbk1ng.museosansrounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.museosansrounded_1.0_iphoneos-arm.deb
+Size: 15977462
+MD5sum: 87796a7e162de0fe97f8367a982d8bdd
+SHA1: 4af395c878853d9cadc836924ee82b6f4f3021b8
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosansrounded/index.html
+Name: Museo Sans Rounded
+
+Package: com.dbk1ng.bariol
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.bariol_1.0_iphoneos-arm.deb
+Size: 8591028
+MD5sum: 2e57aa27c0261f3792b33a707d6d1759
+SHA1: 36b9fc3268a4f02ded5e461353dae396681d3c58
+Section: Fonts (iOS 7)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariol/index.html
+Name: Bariol
+
+Package: com.dbk1ng.fsmepro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.fsmepro_1.0_iphoneos-arm.deb
+Size: 13633140
+MD5sum: a6778400627e4b5c5609660684c876dd
+SHA1: e5762130379c7c31542d114c696cd2b138c88e64
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.fsmepro/index.html
+Name: FS Me Pro
+
+Package: com.dbk1ng.sanfranciscolight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscolight_1.0_iphoneos-arm.deb
+Size: 21667096
+MD5sum: 25a8d2df60a9a273b91e3084cfaa4036
+SHA1: a103d6132f2502b222cb943387bdec131cb75f4e
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolight/index.html
+Name: San Francisco Light
+
+Package: com.dbk1ng.customcovers8
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.customcovers8_1.0_iphoneos-arm.deb
+Size: 1272724
+MD5sum: baa1d6b2a56f63841bc4edfbe761808e   
+SHA1: 7dfc12b42f584b2ccce6d0895870be694503ef62
+Section: Themes (CustomCover)
+Description: Three amazing CustomCover themes by Daniel B King and Elias Keppens
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.customcovers8/index.html
+Name: CustomCovers 9
+
+Package: com.dbk1ng.sanfranciscoios6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoios6_1.0_iphoneos-arm.deb
+Size: 7687750
+MD5sum: 02448159595036a1c4b59c75aa287a90
+SHA1: e89e9fce92f3d60104fdcefaf4e85bc99ba0521d
+Section: Fonts (iOS 6)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoios6/index.html
+Name: San Francisco iOS 6
+
+Package: com.dbk1ng.vinkel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.vinkel_1.0_iphoneos-arm.deb
+Size: 14266856
+MD5sum: 101a87ea0c380d98c3277aed588f7567
+SHA1: a1fa7e1e5b8ff479ceeacaa0417a6a4983c0ddb7
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vinkel/index.html
+Name: Vinkel
+
+Package: com.dbk1ng.elegant
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.elegant_1.0_iphoneos-arm.deb
+Size: 7605434
+MD5sum: d4d4cfef9bfe67041b01e8f13d4fdc3b   
+SHA1: 06db600a224f8ac8904f15f782cdb4d3d57f4d10
+Section: Themes (CustomCover)
+Description: An amazing CustomCover theme for the iPhone 6 and 6 Plus by balderoine
+Author: balderoine <balderoine@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.elegant/index.html
+Name: Elegant
+
+Package: com.dbk1ng.colfax
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.colfax_1.0_iphoneos-arm.deb
+Size: 14694524
+MD5sum: 8e30974cbb98200acbd8fbae41126409
+SHA1: 210dbe5e57a644afde9e0514a2c5c981a1708be1
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.colfax/index.html
+Name: Colfax
+
+Package: com.dbk1ng.americane
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.americane_1.0_iphoneos-arm.deb
+Size: 14353902
+MD5sum: 00579c6849e14ee51ada9045608f1c2d
+SHA1: 3b310062a0883caf91f738043ad01611a72d477f
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.americane/index.html
+Name: Americane
+
+Package: com.dbk1ng.illestv2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.illestv2_1.0_iphoneos-arm.deb
+Size: 7960
+MD5sum: c847a55495a13ed730d7ea074985d82e   
+SHA1: 98229e3ec9d4e3bc29c32a5adb951e2d9e0223ae
+Section: Themes (Zeppelin)
+Description: Version two of the Illest logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illestv2/index.html
+Name: Illest v2
+
+Package: com.dbk1ng.gameofthrones
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gameofthrones_1.0_iphoneos-arm.deb
+Size: 14895416
+MD5sum: 9f3a344d4ca404422c70996a001080bc
+SHA1: c9c8d9f5718a34e3c5c59c5aa1cd9296d5ca92d1
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gameofthrones/index.html
+Name: Game of Thrones
+
+Package: com.dbk1ng.macristocracylockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.macristocracylockglyph_1.0_iphoneos-arm.deb
+Size: 16334
+MD5sum: 6143742d20eb0f80ca77e3868f6a22a1
+SHA1: c515387a04f1bdf289b0897e10ef6a6537bf6b88
+Section: Themes (LockGlyph)
+Description: Macristocracy crown theme for LockGlyph by balderoine
+Author: balderoine <balderoine@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.macristocracylockglyph/index.html
+Name: Macristocracy LockGlyph
+
+Package: com.dbk1ng.neutraface7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutraface7_1.0_iphoneos-arm.deb
+Size: 10275884 
+MD5sum: 179af40121fe609be0bcb01edf10be20
+SHA1: 1a07777f0fddd72429bd8a3f20db6dec374eb11f
+Section: Fonts (iOS 7)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutraface7/index.html
+Name: Neutraface iOS 7
+
+Package: com.dbk1ng.raggedways
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.raggedways_1.0_iphoneos-arm.deb
+Size: 13820400
+MD5sum: aded3dd3661e168e894bc403daa4cccd
+SHA1: ba89101535872d3612f4b570d7cb2b2591d35954
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.raggedways/index.html
+Name: Raggedways
+
+Package: com.dbk1ng.bariol9
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.bariol9_1.0_iphoneos-arm.deb
+Size: 681354
+MD5sum: febdc5c6541563439d5bcaa79f9ddd9b
+SHA1: c119d0f793d48fc768fa62f2a2ea49ba92b401f0
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariol9/index.html
+Name: Bariol9
+
+Package: com.dbk1ng.calibri9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.calibri9_1.0_iphoneos-arm.deb
+Size: 384116
+MD5sum: 1a7d32cfe8848db9891b8ffdb5170628
+SHA1: 291e8f114ac5880c485f5303fe3cf0555efcdf62
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.calibri9/index.html
+Name: Calibri9
+
+Package: com.dbk1ng.helveticaneuelight9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.helveticaneuelight9_1.0_iphoneos-arm.deb
+Size: 291282
+MD5sum: 3a7b9d609ca442f8f755b095d94a5fa4
+SHA1: 1390b5085cdd8ed2195ae7c31b6f0f3ccc6ddb15
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.helveticaneuelight9/index.html
+Name: Helvetica Neue Light9
+
+Package: com.dbk1ng.sanfranciscolight9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscolight9_1.0_iphoneos-arm.deb
+Size: 436256
+MD5sum: 16b7b94abd9d8705886b61d6de3bb64c
+SHA1: 394d4ae6c37a55e41d4e541ad2ea780da977e98f
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolight9/index.html
+Name: San Francisco Light9
+
+Package: com.dbk1ng.myriadsetpro9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadsetpro9_1.0_iphoneos-arm.deb
+Size: 422504
+MD5sum: f0fe2f7e10291366e9307cb6e07ecb25
+SHA1: c16765ee0b95f60898c22686e205862da4a8b009
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadsetpro9/index.html
+Name: Myriad Set Pro 9
+
+Package: com.dbk1ng.neotech9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotech9_1.0_iphoneos-arm.deb
+Size: 325408
+MD5sum: 5288a2992a42d1f328453705ae1b05ff
+SHA1: fdf1596a0097fb5f7705e1b3b09ab1708c5a56ba
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotech9/index.html
+Name: Neo Tech 9
+
+Package: com.dbk1ng.beatsbydre9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.beatsbydre9_1.0_iphoneos-arm.deb
+Size: 234808
+MD5sum: af6e17037f18b19b8c4fdb0bd3c0e2f2
+SHA1: cd4d95ad7b042df7cfbbfe1c72dbe0821a0ed68d
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydre9/index.html
+Name: Beats By Dre 9
+
+Package: com.dbk1ng.museosansrounded9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.museosansrounded9_1.0_iphoneos-arm.deb
+Size: 456034
+MD5sum: 7974104f9094f3c311c3556e9a610e63
+SHA1: b74f1b5a5f188a95017f5ea4f913d1cc083a7171
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosansrounded9/index.html
+Name: Museo Sans Rounded 9
+
+Package: com.dbk1ng.sanfranciscorounded9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscorounded9_1.0_iphoneos-arm.deb
+Size: 420352
+MD5sum: 8738208de4a8be1c33eb630a9f508b24
+SHA1: a6e89f9e2f76aec4477fd178dfe87246ee6292f9
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscorounded9/index.html
+Name: San Francisco Rounded 9
+
+Package: com.dbk1ng.avenir9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenir9_1.0_iphoneos-arm.deb
+Size: 278960
+MD5sum: 33e1daa4e6eff66a15ad316d1ee35f73
+SHA1: ea2d3ec2ee57f33e6b0e631fe58ed30884c4c638
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenir9/index.html
+Name: Avenir 9
+
+Package: com.dbk1ng.futura9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.futura9_1.0_iphoneos-arm.deb
+Size: 250620
+MD5sum: 8abafe9157e8f1901eb021d1e7e7e301
+SHA1: 6cf2525e59e242caa924015bb195895aa87d92a5
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.futura9/index.html
+Name: Futura 9
+
+Package: com.dbk1ng.neutraface9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutraface9_1.0_iphoneos-arm.deb
+Size: 332318
+MD5sum: 8ef19cebb08cb039cd24ffc9e9ae9560
+SHA1: 9bd69da48d14afc917bc9291712a54c607968560
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutraface9/index.html
+Name: Neutraface 9
+
+Package: com.dbk1ng.texta9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.texta9_1.0_iphoneos-arm.deb
+Size: 348470
+MD5sum: 92e7454897933072857ae5a95cd23c5c
+SHA1: f32a836a1016d90f5d2ebbc694a959efb13e9b4a
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.texta9/index.html
+Name: Texta 9
+
+Package: com.dbk1ng.applewatch9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.applewatch9_1.0_iphoneos-arm.deb
+Size: 507858
+MD5sum: 6d8bb10cf64683fa776204b95e5c5b3a
+SHA1: 8037a5904174d8d23b10714ccd5258ec85ed37db
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.applewatch9/index.html
+Name: Apple Watch 9
+
+Package: com.dbk1ng.gotham9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gotham9_1.0_iphoneos-arm.deb
+Size: 370572
+MD5sum: e3dc70338943405b8ca1765be624f122
+SHA1: 76a0e26139a63a4846d888af23490ad52c428432
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gotham9/index.html
+Name: Gotham 9
+
+Package: com.dbk1ng.vagrounded9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.vagrounded9_1.0_iphoneos-arm.deb
+Size: 359280
+MD5sum: 821b7877bd75bd648515670e36177b80
+SHA1: 96e17f397093622438b12ba38dbcd49d99e41985
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vagrounded9/index.html
+Name: Vag Rounded 9
+
+Package: com.dbk1ng.myriadsetproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadsetproios9_1.0_iphoneos-arm.deb
+Size: 12357606
+MD5sum: ccb26b14979902ebc729bc5bdfa9d2d9
+SHA1: 901616253a818997886ccdbf68f764736b9a3129
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadsetproios9/index.html
+Name: Myriad Set Pro iOS 9
+
+Package: com.fontme.exo2ios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.fontme.exo2ios9_1.0_iphoneos-arm.deb
+Size: 10439126
+MD5sum: 62a794b7e6aaee286e719c6043d5c517
+SHA1: 7fbcb9a6ca3bc6a36633618f0704a2fed6231b31
+Section: Fonts (iOS 9 Swap Mode by FontMe)
+Description: Exo 2 is a complete redrawing of Exo, a contemporary geometric sans serif typeface.
+Author: Mike Van Eeckhoutte <mvan68@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.fontme.exo2ios9/index.html
+Name: Exo 2 iOS 9
+
+Package: com.drojaspro.avenirnextcondensedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.drojaspro.avenirnextcondensedios9_1.0_iphoneos-arm.deb
+Size: 10574348
+MD5sum: c0402fa49f77458e3ad32d54a6448601
+SHA1: 5817a79cf91b16296c261a92d82983127764fc56
+Section: Fonts (iOS 9 Swap Mode by drojaspro)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.drojaspro.avenirnextcondensedios9/index.html
+Name: Avenir Next Condensed iOS 9
+
+Package: com.dbk1ng.helveticaneueios9
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.helveticaneueios9_1.0_iphoneos-arm.deb
+Size: 13301654
+MD5sum: 7138d5a990101841b0baaa31053ab516
+SHA1: 1998e4faed54726d719ee4ba068607bd3ee51be2
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.helveticaneueios9/index.html
+Name: Helvetica Neue iOS 9
+
+Package: com.dbk1ng.ios7beta1ios9
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.ios7beta1ios9_1.0_iphoneos-arm.deb
+Size: 13061708
+MD5sum: e501de3e2e7674260957da0009ec9730
+SHA1: 71dbffd47d9ba0e484c88341a92dbadffd8962fa
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios7beta1ios9/index.html
+Name: iOS 7 Beta1 iOS 9
+
+Package: com.dbk1ng.sanfranciscolightios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscolightios9_1.0_iphoneos-arm.deb
+Size: 9611894
+MD5sum: 1e6e834df5a73e13080132b6a008036c
+SHA1: 0bec077ebcd9d5e4fb3dc76f73f054f9ab3bb6f3
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolightios9/index.html
+Name: San Francisco Light iOS 9
+
+Package: com.dbk1ng.neotechios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotechios9_1.0_iphoneos-arm.deb
+Size: 13305686
+MD5sum: bcfb68d86be5ee3d8afa2295b6c5e9ec
+SHA1: 51c78d2ae28d56351d04befc576aad07d43a3421
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotechios9/index.html
+Name: Neo Tech iOS 9
+
+Package: com.dbk1ng.neutrafaceios9
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutrafaceios9_1.0_iphoneos-arm.deb
+Size: 12427346
+MD5sum: 8187781f331a66a7eae2b2b824815b59
+SHA1: 686a8a4126f11ee1c9a4a7754ffe0afde383eeaa
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafaceios9/index.html
+Name: Neutraface iOS 9
+
+Package: com.dbk1ng.calibriios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.calibriios9_1.0_iphoneos-arm.deb
+Size: 18085304
+MD5sum: 12a208511c9a30e66aa3a3c366220ee5
+SHA1: 8f1c8bd60ad6d0a3d0d8bc77d971c39ce84bd149
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.calibriios9/index.html
+Name: Calibri iOS 9
+
+Package: com.dbk1ng.robotocondensedlightios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.robotocondensedlightios9_1.0_iphoneos-arm.deb
+Size: 12304614 
+MD5sum: a96a538bc283e513a9ec3406d761547c
+SHA1: cb3dd66ba8c9e6e04764fe9acd4d3e47a50d63d9
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.robotocondensedlightios9/index.html
+Name: Roboto Condensed Light iOS 9
+
+Package: com.drojaspro.proximanovaios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.drojaspro.proximanovaios9_1.0_iphoneos-arm.deb
+Size: 10656958
+MD5sum: 57753cfb0e8668de975236ead72c3c5a
+SHA1: d3d314c0f88ffe99bba7454ab4fec302115c1c51
+Section: Fonts (iOS 9 Swap Mode by drojaspro)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.drojaspro.proximanovaios9/index.html
+Name: Proxima Nova iOS 9
+
+Package: com.dbk1ng.museosansroundedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.museosansroundedios9_1.0_iphoneos-arm.deb
+Size: 13556476 
+MD5sum: fa1a0048f7d21d449e4966806d46b225
+SHA1: f4f3e4fad36ec7665fe4b4374d7471b7db77ad92
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosansroundedios9/index.html
+Name: Museo Sans Rounded iOS 9
+
+Package: com.dbk1ng.neutrafacescios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutrafacescios9_1.0_iphoneos-arm.deb
+Size: 12385022 
+MD5sum: 37805de36e48ff6bf9d295da229cee5e
+SHA1: b0d366bf5ae21d7ab0339dff1120a58573c74412
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafacescios9/index.html
+Name: Neutraface SC iOS 9
+
+Package: com.dbk1ng.billabongios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.billabongios9_1.0_iphoneos-arm.deb
+Size: 17264456 
+MD5sum: 80c36103c4b9fa9eb83d3c93e0a6a065
+SHA1: dfd0dcce58bee5eec39425a8a45ba51150da1c9c
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.billabongios9/index.html
+Name: Billabong iOS 9
+
+Package: com.dbk1ng.frutigercondensedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.frutigercondensedios9_1.0_iphoneos-arm.deb
+Size: 12383612 
+MD5sum: 651f69f70a1dc1762dcd8cbde4e84a44
+SHA1: 1ad7f35bb0b0850f4029c21baa93d97bf6198d9c
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.frutigercondensedios9/index.html
+Name: Frutiger Condensed iOS 9
+
+Package: com.dbk1ng.frutigercondensedlightios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.frutigercondensedlightios9_1.0_iphoneos-arm.deb
+Size: 12409876 
+MD5sum: 07c44b8f43ffafce63b7ea2c11309887
+SHA1: c567a7310dc3bed885543ec950f1cf19cfc71ad2
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.frutigercondensedlightios9/index.html
+Name: Frutiger Condensed Light iOS 9
+
+Package: com.dbk1ng.natalbadgeios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.natalbadgeios9_1.0_iphoneos-arm.deb
+Size: 6342
+MD5sum: 720f33da7c2074ec3a33219e710e1ca2
+SHA1: 15bb7ca40ff419dd25cb275d1fff6b9681053d30
+Section: Themes (Badges)
+Description: Icon badge for Natal by Danny Waugh, updated for iOS 9 by Daniel B King
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.natalbadgeios9/index.html
+Name: Natal Badge iOS 9
+
+Package: com.dbk1ng.undefeated
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.undefeated_1.0_iphoneos-arm.deb
+Size: 8248
+MD5sum: 0e1e8edd5f5eb4906843408cee4b970c   
+SHA1: 44979932e7150e59b5e674c469ecc41020fb2429
+Section: Themes (Zeppelin)
+Description: Undefeated logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.undefeated/index.html
+Name: Undefeated
+
+Package: com.dbk1ng.preludeios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.preludeios9_1.0_iphoneos-arm.deb
+Size: 16573810 
+MD5sum: 7032b7ad8291fd3aede7a596c8ccdf30
+SHA1: 8e74fa1799378d8b039d727ce610c67e1999045e
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.preludeios9/index.html
+Name: Prelude iOS 9
+
+Package: com.dbk1ng.pilcrowsoftios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.pilcrowsoftios9_1.0_iphoneos-arm.deb
+Size: 13645456 
+MD5sum: a28001a1085d63a65e10c26446c93a0d
+SHA1: 7f2fa9f9ce94a47bb2418d8ad5b8bc09f38ce66e
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.pilcrowsoftios9/index.html
+Name: Pilcrow Soft iOS 9
+
+Package: com.dbk1ng.segoeuiios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.segoeuiios9_1.0_iphoneos-arm.deb
+Size: 11619428 
+MD5sum: 576cafa73ba12f8a4587a1e6ce71f6fe
+SHA1: 8992ab11336ba4872d79766d32078da6ff74604e
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.segoeuiios9/index.html
+Name: Segoe UI iOS 9
+
+Package: com.fontme.solidoios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.fontme.solidoios9_1.0_iphoneos-arm.deb
+Size: 11177628
+MD5sum: 664643d23ea88e977b0250da3619ae01
+SHA1: d04307c6696be3ff0ae4e2af9c41e0c329f04cf7
+Section: Fonts (iOS 9 Swap Mode by FontMe)
+Description: Solido is an opentype font that includes both lining and oldstyle figures.
+Author: Mike Van Eeckhoutte <mvan68@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.fontme.solidoios9/index.html
+Name: Solido iOS 9
+
+Package: com.dbk1ng.avenirnextios9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnextios9_1.0_iphoneos-arm.deb
+Size: 13377234
+MD5sum: dd916c8f4f88f923bf086fbfcf18e813
+SHA1: 078b8905b499f289cea6c816442a15bdccdc6f77
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextios9/index.html
+Name: Avenir Next iOS 9
+
+Package: com.dbk1ng.geomanistios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.geomanistios9_1.0_iphoneos-arm.deb
+Size: 10584982 
+MD5sum: 88ff828d2da233934a5534541a34df0e
+SHA1: 70c8fa0af66d95f1675ac26f91ef5767a9956d9f
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.geomanistios9/index.html
+Name: Geomanist iOS 9
+
+Package: com.dbk1ng.gothamnarrowios9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gothamnarrowios9_1.0_iphoneos-arm.deb
+Size: 10869322
+MD5sum: 906c148212a586d753448d0604bd6840
+SHA1: 696c0afa374980bec9d16c76a8ee52e6e5a03c90
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gothamnarrowios9/index.html
+Name: Gotham Narrow iOS 9
+
+Package: com.dbk1ng.sanfranciscoroundedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedios9_1.0_iphoneos-arm.deb
+Size: 14294494 
+MD5sum: 6fddbf44f014207816a23b1f0690d064
+SHA1: 10b62d3bd04a7dbae6db4edbb2037351d5ab1aa2
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedios9/index.html
+Name: San Francisco Rounded iOS 9
+
+Package: com.dbk1ng.sanfranciscoroundedlightios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedlightios9_1.0_iphoneos-arm.deb
+Size: 17064772 
+MD5sum: c2bc73f423036c687ffa14256d48a75e
+SHA1: 70e9a70a5dd49cc9680e9bc361b7effc34384450
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedlightios9/index.html
+Name: San Francisco Rounded Light iOS 9
+
+Package: com.dbk1ng.zosimoios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.zosimoios9_1.0_iphoneos-arm.deb
+Size: 11213294 
+MD5sum: 338e09d631367422789df487b8e3ad60
+SHA1: 427e23d566896667dcbcd7d730d971853741ad3d
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.zosimoios9/index.html
+Name: Zosimo iOS 9
+
+Package: com.dbk1ng.beatsbydreios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.beatsbydreios9_1.0_iphoneos-arm.deb
+Size: 11332900 
+MD5sum: 53b7afb9d9334bb24bd30e94cf43a5ff
+SHA1: 1c3e42a77b99f7f31a68015e7e7380d4cd3e6ef4
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydreios9/index.html
+Name: Beats by Dre iOS 9
+
+Package: com.dbk1ng.circularios9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.circularios9_1.0_iphoneos-arm.deb
+Size: 12020604
+MD5sum: db4ab131dac0d56ef777379c9bdf54a4
+SHA1: 4eae8ee19e56835c1678a2340d591a37773afb34
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.circularios9/index.html
+Name: Circular iOS 9
+
+Package: com.dbk1ng.neuehaasunicaproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neuehaasunicaproios9_1.0_iphoneos-arm.deb
+Size: 11464636 
+MD5sum: c30ea795d9cbe7bf9d4d10940cf5c7fc
+SHA1: 182aab2b1fe8ea5c775927aa802e1b8fbe486bfb
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neuehaasunicaproios9/index.html
+Name: Neue Haas Unica Pro iOS 9
+
+Package: com.dbk1ng.illestv3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.illestv3_1.0_iphoneos-arm.deb
+Size: 9284
+MD5sum: 614f3711be5b146b483669f90db18ac0   
+SHA1: 205fd144e6916ed51ecd636bdff0115577a6bd69
+Section: Themes (Zeppelin)
+Description: Version three of the Illest logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illestv3/index.html
+Name: Illest v3
+
+Package: com.dbk1ng.cicleios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.cicleios9_1.0_iphoneos-arm.deb
+Size: 12045298 
+MD5sum: 8cb531a57901954c27513e500e300b37
+SHA1: b3058caa01f4091807b12bc054cfc122ca017964
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.cicleios9/index.html
+Name: Cicle iOS 9
+
+Package: com.dbk1ng.klavikaios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.klavikaios9_1.0_iphoneos-arm.deb
+Size: 11395774
+MD5sum: 92c0e9bb70f0fef268f5d3c654859bf8
+SHA1: 15c7e21ec061d9f6e08468e87687d88f179d1ec7
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.klavikaios9/index.html
+Name: Klavika iOS 9
+
+Package: com.dbk1ng.gameofthronesios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gameofthronesios9_1.0_iphoneos-arm.deb
+Size: 14829870 
+MD5sum: da8ee5924c2f9bd023b7f327c0d2aef9
+SHA1: 80386b467426351dc8dcea513f20563f6605a6b0
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gameofthronesios9/index.html
+Name: Game of Thrones iOS 9
+
+Package: com.dbk1ng.parispro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.parispro_1.0_iphoneos-arm.deb
+Size: 14193276
+MD5sum: 191bcf1ed83eb7dbb06b9ed55e8712f9
+SHA1: 9ad07fd2aae1052bcc0a594649bc47bc9caa4a70
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.parispro/index.html
+Name: Paris Pro
+
+Package: com.dbk1ng.dindisplayproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.dindisplayproios9_1.0_iphoneos-arm.deb
+Size: 11706682 
+MD5sum: 26174523697e17f349269c2d641efd53
+SHA1: 61e3ad9437ebe631e7a2ca460f45a509f873f06d
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.dindisplayproios9/index.html
+Name: Din Display Pro iOS 9
+
+Package: com.dbk1ng.gillsansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gillsansios9_1.0_iphoneos-arm.deb
+Size: 12028310
+MD5sum: 81c740058d73894898bafc8a0a889240
+SHA1: 776bc5cf1986e52dee7ea07d4cd06ec8f13f541d
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gillsansios9/index.html
+Name: Gill Sans iOS 9
+
+Package: com.dbk1ng.labsansproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.labsansproios9_1.0_iphoneos-arm.deb
+Size: 11316924
+MD5sum: a0efae2725612467f3f72be44b7bedbf
+SHA1: dbeee653213e9b815a61ee6ad9d64621f125895f
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.labsansproios9/index.html
+Name: Lab Sans Pro iOS 9
+
+Package: com.dbk1ng.textaaltios9
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.textaaltios9_1.0_iphoneos-arm.deb
+Size: 11912228 
+MD5sum: c98cf97370a682635209a5c2fc71b791
+SHA1: 51bdf882c954f0a4f8b02228efd69bdcd7cfb096
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.textaaltios9/index.html
+Name: Texta Alt iOS 9
+
+Package: com.dbk1ng.blanchios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.blanchios9_1.0_iphoneos-arm.deb
+Size: 12052174
+MD5sum: d07aef9d1ce2683c66e53054e92088f7
+SHA1: 3ee34c6797a4537b950a40dc2c71c6f5d88b00cc
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.blanchios9/index.html
+Name: Blanch iOS 9
+
+Package: com.dbk1ng.encoresansproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.encoresansproios9_1.0_iphoneos-arm.deb
+Size: 12743960 
+MD5sum: 83a2237fab391ed64bec96d36744fffe
+SHA1: f3332309ce1172eaa00f1118af3e835a2945f1b2
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.encoresansproios9/index.html
+Name: Encore Sans Pro iOS 9
+
+Package: com.dbk1ng.productsansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.productsansios9_1.0_iphoneos-arm.deb
+Size: 11656064
+MD5sum: adec9faa8ccc744723a3a008960a8b1b
+SHA1: e6f23858a4e983688082c5154897b368244d1baf
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.productsansios9/index.html
+Name: Product Sans iOS 9
+
+Package: com.dbk1ng.blanchios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.blanchios8_1.0_iphoneos-arm.deb
+Size: 10352374
+MD5sum: 8f4ca3d034bdc8fa069cb57f693d2eff
+SHA1: ad28a5ddc39d4622083f8ccdbe205aa24acc00b6
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.blanchios8/index.html
+Name: Blanch iOS 8
+
+Package: com.dbk1ng.planerios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.planerios9_1.0_iphoneos-arm.deb
+Size: 13345206
+MD5sum: a1a1fa5bb36e3607814b92ecf2b65020
+SHA1: a7f04bcaff238845edb2a176f008cfdf5f9e3ba5
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.planerios9/index.html
+Name: Planer iOS 9
+
+Package: com.dbk1ng.sfmonoios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sfmonoios9_1.0_iphoneos-arm.deb
+Size: 12247450
+MD5sum: 0d8c6f653787e452e82ee693af51a058
+SHA1: 07f35892889b05ce5198e182d439c8fa2439a229
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sfmonoios9/index.html
+Name: SF Mono iOS 9
+
+Package: com.dbk1ng.corporativesansroundedios9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansroundedios9_1.0_iphoneos-arm.deb
+Size: 12547600
+MD5sum: bcfc0b65d341c41047f3900b4873d279
+SHA1: 72d518809f0efc5c154722e988350b339bebe3fe
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedios9/index.html
+Name: Corporative Sans Rounded iOS 9
+
+Package: com.dbk1ng.corporativesansroundedaltios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansroundedaltios9_1.0_iphoneos-arm.deb
+Size: 12404286
+MD5sum: 9e86a0181ae8e260b996511370a1edc1
+SHA1: 64a57d5aa1413687a041151df36098ece47c73b1
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedaltios9/index.html
+Name: Corporative Sans Rounded Alt iOS 9
+
+Package: com.fontme.omnesios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.fontme.omnesios9_1.0_iphoneos-arm.deb
+Size: 11077898
+MD5sum: 80fba00612c9c0bde1df19116ffc0efa
+SHA1: a35182e9e4fe5a0051281472278fbc3c2af69c02
+Section: Fonts (iOS 9 Swap Mode by FontMe)
+Description: A non profit port by Mike Van Eeckhoutte for the jailbreak community.
+Author: Mike Van Eeckhoutte <mvan68@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.fontme.omnesios9/index.html
+Name: Omnes iOS 9
+
+Package: com.dbk1ng.omnes9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.omnes9_1.0_iphoneos-arm.deb
+Size: 892268
+MD5sum: 0f3d8c506c1357aa78cf6e6330967f62
+SHA1: 2464269d2b3f4c75041f600ace3b09690f3c4900
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.omnes9/index.html
+Name: Omnes9
+
+Package: com.dbk1ng.corporativesansroundedalt9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansroundedalt9_1.0_iphoneos-arm.deb
+Size: 926138
+MD5sum: 56f98dc7f8762fa7723e92f09ac531d4
+SHA1: bd9d162ae48981e3ff11a5e3c09aee5a71461e7d
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedalt9/index.html
+Name: Corporative Sans Rounded Alt9
+
+Package: com.evelyn.alegreyasansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.alegreyasansios9_1.0_iphoneos-arm.deb
+Size: 11786112
+MD5sum: 1afab3f44b1ad208d771634f7d1d920d
+SHA1: 91f1c423591efd3b83b76292a19037106e526cb2
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.alegreyasansios9/index.html
+Name: Alegreya Sans iOS 9
+
+Package: com.evelyn.brandontextios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brandontextios9_1.0_iphoneos-arm.deb
+Size: 14655152
+MD5sum: 35ca7804ef990f381fb3aea3cc651c19
+SHA1: 518668f6b0e51694719f2a8ed862ddf7a5549db6
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brandontextios9/index.html
+Name: Brandon Text iOS 9
+
+Package: com.evelyn.brokmanios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brokmanios9_1.0_iphoneos-arm.deb
+Size: 9401744
+MD5sum: 81d2571a79fe0409fd448c2c53f934e8
+SHA1: 99059c8fa681148bcea5b7b0b63074495c52eb91
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brokmanios9/index.html
+Name: Brokman iOS 9
+
+Package: com.evelyn.contesansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.contesansios9_1.0_iphoneos-arm.deb
+Size: 11959786 
+MD5sum: 8fd980d26266fe82f44c990f4b1bfce6
+SHA1: 206d6e34f360ec92b9d95b283b9651830cf4568b
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.contesansios9/index.html
+Name: Conte Sans iOS 9
+
+Package: com.evelyn.ffstradaios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.ffstradaios9_1.0_iphoneos-arm.deb
+Size: 11121462
+MD5sum: 2667427a34d9eed9db9de1d81bf44826
+SHA1: b255178680d1528173247208e2806ad4cf20a3d3
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.ffstradaios9/index.html
+Name: FF Strada iOS 9
+
+Package: com.evelyn.metronovaproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.metronovaproios9_1.0_iphoneos-arm.deb
+Size: 9694086
+MD5sum: 63d921e23937e34220510c5fc306b8ec
+SHA1: 5932a644c3f76d21850d5a5761ceb16696f879d8
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.metronovaproios9/index.html
+Name: Metro Nova Pro iOS 9
+
+Package: com.evelyn.novelsansroundedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.novelsansroundedios9_1.0_iphoneos-arm.deb
+Size: 9882418
+MD5sum: a2378a29c38d83be428f47ab50c0c7a6
+SHA1: 053dc95557113eb22739655d88d2c2ada074d136
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.novelsansroundedios9/index.html
+Name: Novel Sans Rounded iOS 9
+
+Package: com.evelyn.alegreyasansios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.alegreyasansios8_1.0_iphoneos-arm.deb
+Size: 13948280
+MD5sum: fedca53db5eb7de96b5dec5baf398197
+SHA1: 21d627cfa88fe1405a99b2884e9497512ce42073
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.alegreyasansios8/index.html
+Name: Alegreya Sans iOS 8
+
+Package: com.evelyn.brandontextios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brandontextios8_1.0_iphoneos-arm.deb
+Size: 14163224
+MD5sum: 409d9585c449b0b4c904e10f87102510
+SHA1: 8a06693218a5226a40b747e266eb76c6fd55a7f3
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brandontextios8/index.html
+Name: Brandon Text iOS 8
+
+Package: com.evelyn.brokmanios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brokmanios8_1.0_iphoneos-arm.deb
+Size: 15981820
+MD5sum: 2fe5ddaca1692067072d5b1d6bd34665
+SHA1: 7015ce48a6b8aa981f0d8a7e0fe698146b59c785
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brokmanios8/index.html
+Name: Brokman iOS 8
+
+Package: com.evelyn.contesansios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.contesansios8_1.0_iphoneos-arm.deb
+Size: 14472932
+MD5sum: a52b3eafe46425c18a2766f0b4ef58d2
+SHA1: 0a7c858f2432ddb20dce7a7562ad031028547964
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.contesansios8/index.html
+Name: Conte Sans iOS 8
+
+Package: com.evelyn.ffstradaios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.ffstradaios8_1.0_iphoneos-arm.deb
+Size: 15385194
+MD5sum: 54a28bbd87e5e6f58441bf001bbc3d34
+SHA1: 2b4983e4b3dbe96887826670e29f4d1657674d8f
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.ffstradaios8/index.html
+Name: FF Strada iOS 8
+
+Package: com.evelyn.metronovaproios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.metronovaproios8_1.0_iphoneos-arm.deb
+Size: 13811754
+MD5sum: e050af7365384395caeb317c0cbab282
+SHA1: 3b25c1c442c7dded9db23a5a88ded3fdb64e4946
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.metronovaproios8/index.html
+Name: Metro Nova Pro iOS 8
+
+Package: com.evelyn.novelsansroundedios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.novelsansroundedios8_1.0_iphoneos-arm.deb
+Size: 14169520
+MD5sum: 150f46f93832befe45f88a4fe60ec783
+SHA1: e07bc8570f75948c2f246e3e7f6655d5b5b87799
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.novelsansroundedios8/index.html
+Name: Novel Sans Rounded iOS 8
+
+Package: com.dbk1ng.iskraios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.iskraios9_1.0_iphoneos-arm.deb
+Size: 12206868
+MD5sum: e9a86c06744a36874f4a989c2652787d
+SHA1: 36a63df7a33b25efb4ccbfb5eda23ca9dc8cde43
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.iskraios9/index.html
+Name: Iskra iOS 9
+
+Package: com.dbk1ng.johnsansproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.johnsansproios9_1.0_iphoneos-arm.deb
+Size: 12996786
+MD5sum: 4c61d04480e6615a5526f75e8e83f9db
+SHA1: c8e1a788c97297e491777edee2159e0c4401a5f7
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.johnsansproios9/index.html
+Name: JohnSans Pro iOS 9
+
+Package: com.dbk1ng.myriadsetproanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadsetproanemone_1.0_iphoneos-arm.deb
+Size: 12358020
+MD5sum: 99544453971e0960186b8fcb2292cc67
+SHA1: 9a6934751c619a3b3b73ac1d3fbe4a4076c3fc72
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadsetproanemone/index.html
+Name: Myriad Set Pro Anemone
+
+Package: com.dbk1ng.corporativesansroundedanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansroundedanemone_1.0_iphoneos-arm.deb
+Size: 12547288
+MD5sum: 3595c3f65a26d89fe2e1deb67bfcbfa6
+SHA1: 2b5915359b8124f42eaa99d409f44039450c041e
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedanemone/index.html
+Name: Corporative Sans Rounded Anemone
+
+Package: com.dbk1ng.ios7beta1anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.ios7beta1anemone_1.0_iphoneos-arm.deb
+Size: 13061798
+MD5sum: 306d1c38a2467778987df60772ebe404
+SHA1: 7a476544f066be08ff8428df1fc1e7a294730d44
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios7beta1anemone/index.html
+Name: iOS 7 beta 1 Anemone
+
+Package: com.dbk1ng.avenirnextanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnextanemone_1.0_iphoneos-arm.deb
+Size: 13377050
+MD5sum: 4aaa2d5d355beea6a7d5a24c1ba42ccc
+SHA1: 55d6d73dea22bb946b0abb693b9ca6dcf16cf690
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextanemone/index.html
+Name: Avenir Next Anemone
+
+Package: com.dbk1ng.calibrianemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.calibrianemone_1.0_iphoneos-arm.deb
+Size: 18085636
+MD5sum: e2da00c2099fbc3d7aa228322fdf19e3
+SHA1: 9f7780d75466720955a42b8381df5f1501aad799
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.calibrianemone/index.html
+Name: Calibri Anemone
+
+Package: com.dbk1ng.beatsbydreanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.beatsbydreanemone_1.0_iphoneos-arm.deb
+Size: 11333058
+MD5sum: fb78f4f22bdc179ff1eadc758098d20d
+SHA1: 445d667692df86ceb010e85995e63583e4897a5c
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydreanemone/index.html
+Name: Beats by Dre Anemone
+
+Package: com.dbk1ng.bariolanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.bariolanemone_1.0_iphoneos-arm.deb
+Size: 13628320
+MD5sum: 723f40924417bb46cbcf025c7d4ed4a9
+SHA1: bec76f5548930e7af9f5ce4ccd4a1e0e1c0ecfec
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariolanemone/index.html
+Name: Bariol Anemone
+
+Package: com.loubeccabee.chamsloveios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.loubeccabee.chamsloveios9_1.0_iphoneos-arm.deb
+Size: 7493942
+MD5sum: 4de866b76963294b8d66443c70914244
+SHA1: af79268b109c0675957852a19932954b3c0637e3
+Section: Fonts (iOS 9 Swap Mode by LouBeccaBee)
+Description: A non profit port by LouBeccaBee for the jailbreak community.
+Author: LouBeccaBee <loubeccabee@outlook.com>
+Depiction: http://dbk1ng.github.io/Depic/com.loubeccabee.chamsloveios9/index.html
+Name: ChamsLove iOS 9
+
+Package: com.loubeccabee.kgfallingslowlyloveios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.loubeccabee.kgfallingslowlyloveios9_1.0_iphoneos-arm.deb
+Size: 11662534
+MD5sum: 1a0647670706513e97e31f4072cdfe19
+SHA1: 368b4dba4997701d0296cad6685c451700d1bf39
+Section: Fonts (iOS 9 Swap Mode by LouBeccaBee)
+Description: A non profit port by LouBeccaBee for the jailbreak community.
+Author: LouBeccaBee <loubeccabee@outlook.com>
+Depiction: http://dbk1ng.github.io/Depic/com.loubeccabee.kgfallingslowlyloveios9/index.html
+Name: KGFallingSlowlyLove iOS 9
+
+Package: com.dbk1ng.bariolserifanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.bariolserifanemone_1.0_iphoneos-arm.deb
+Size: 14013988
+MD5sum: 517479190e1c4ba26d8ee3387453d195
+SHA1: cd8803ab332a4b2281fd0dd6e87a0f5c6ba38f52
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariolserifanemone/index.html
+Name: Bariol Serif Anemone
+
+Package: com.dbk1ng.neotechanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotechanemone_1.0_iphoneos-arm.deb
+Size: 13305684 
+MD5sum: 5981e1c4a84f534700ffdb80c66af796
+SHA1: 926ec5f49b99590241490d7c44392c2c92612ef1
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotechanemone/index.html
+Name: Neo Tech Anemone
+
+Package: com.dbk1ng.neutrafaceanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutrafaceanemone_1.0_iphoneos-arm.deb
+Size: 12427402
+MD5sum: 3b646985b21423b26181e9eaa3d0ff31
+SHA1: f2da1bd1715d84fd494fcecb22913d37e6fd2626
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafaceanemone/index.html
+Name: Neutraface Anemone
+
+Package: com.dbk1ng.neutrafacescanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutrafacescanemone_1.0_iphoneos-arm.deb
+Size: 12384924 
+MD5sum: 441a0fd2c797ec8aeecd71555f69d561
+SHA1: 810821a2625c08220a5fab3430016bc6f09dc977
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafacescanemone/index.html
+Name: Neutraface SC Anemone
+
+Package: com.dbk1ng.minimalstatusbarios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.minimalstatusbarios9_1.0_iphoneos-arm.deb
+Size: 25796
+MD5sum: 9969559db69b21f977eb87114573cca3
+SHA1: 59dcb6ec11c9aac7f2e2230d8ac1c5c3f200650b
+Section: Themes (Status Bar)
+Description: A Minimal Status Bar Theme for iOS 9 Devices.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.minimalstatusbarios9/index.html
+Name: Minimal Status Bar iOS 9
+
+Package: com.dbk1ng.circeanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.circeanemone_1.0_iphoneos-arm.deb
+Size: 11732704
+MD5sum: 69702bb4e502a9e156d6d6aa81b774ff
+SHA1: 460f5049d431ebc89c5b5ecd45c249e1f11dce8e
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.circeanemone/index.html
+Name: Circe Anemone
+
+Package: com.dbk1ng.andreadockios9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.andreadockios9_1.0_iphoneos-arm.deb
+Size: 19342
+MD5sum: c0196b1afe82cb0c4159652cf227c0ec
+SHA1: 6e7e3b1938152622a0edb37cbc3c4ef8708baaa8
+Section: Themes (Dock)
+Description: Originally by Andrea Fedi, recreated for Anemone iOS 9 by Daniel B King
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.andreadockios9/index.html
+Name: Andrea Dock iOS 9
+
+Package: com.dbk1ng.circularanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.circularanemone_1.0_iphoneos-arm.deb
+Size: 12020644
+MD5sum: 9e6d1e7abc9d5f8bdd1fca89c340dad3
+SHA1: 1d93327ee07504dc299f9c2a02aa933354cdc289
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.circularanemone/index.html
+Name: Circular Anemone
+
+Package: com.dbk1ng.vagroundedanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.vagroundedanemone_1.0_iphoneos-arm.deb
+Size: 13230224
+MD5sum: 756d2ddf5a13889fa0ce477d1bfbe94d
+SHA1: de70c72674ff2bd86d7127476ddafe26f88d5e5f
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vagroundedanemone/index.html
+Name: Vag Rounded Anemone
+
+Package: com.fontme.omnesanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.fontme.omnesanemone_1.0_iphoneos-arm.deb
+Size: 11077930
+MD5sum: 761879f2fc6ca2758010ce37bc5b7f13
+SHA1: bc147320142f9c2ce0b93332bb10c088dce65433
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Mike Van Eeckhoutte for the jailbreak community.
+Author: Mike Van Eeckhoutte <mvan68@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.fontme.omnesanemone/index.html
+Name: Omnes Anemone
+
+Package: com.dbk1ng.glassdockios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.glassdockios9_1.0_iphoneos-arm.deb
+Size: 46700
+MD5sum: 8295b081fb442ab21c11395df5bef7e2
+SHA1: 76b3036ad94eea8ef486d1835485c83c972471f9
+Section: Themes (SpringBoard)
+Description: Glass Dock for your iPhone! Package includes light and dark versions. Tested on 6S Plus, 6S, & 5S
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.glassdockios9/index.html
+Name: Glass Dock iOS 9
+
+Package: com.evelyn.tttedsanemone
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.tttedsanemone_1.0_iphoneos-arm.deb
+Size: 10774104
+MD5sum: 687c587edf1229b502f68665cac9ffce
+SHA1: 60dd4171e2956ac5fdf05592188e9c2e3dc2454a
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsanemone/index.html
+Name: TT Teds Anemone
+
+Package: com.evelyn.tttedsios9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.tttedsios9_1.0_iphoneos-arm.deb
+Size: 10773708
+MD5sum: c1d9c02426edf9f0c63c1571b64339ba
+SHA1: 3ee840720d9b550c6351f7144ed79058b3064501
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsios9/index.html
+Name: TT Teds iOS 9
+
+Package: com.evelyn.tttedsios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.tttedsios8_1.0_iphoneos-arm.deb
+Size: 13294326
+MD5sum: 4cb90d5adbb932da7ec3a038dd0a3e67
+SHA1: d012ba11b909ed9835551ca8e0fbadf85009b250
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsios8/index.html
+Name: TT Teds iOS 8
+
+Package: com.dbk1ng.helveticaneueanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.helveticaneueanemone_1.0_iphoneos-arm.deb
+Size: 13301916
+MD5sum: dddbdd150b9df51893338ccbf048eb20
+SHA1: baa42ce8c1ac92efa529b1680b378d2048654616
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.helveticaneueanemone/index.html
+Name: Helvetica Neue Anemone
+
+Package: com.dbk1ng.kievitproanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.kievitproanemone_1.0_iphoneos-arm.deb
+Size: 13682614
+MD5sum: 686c39f9a887fd2ea2f313aad0224492
+SHA1: 08abefc93cb692a56f55128b17a6ce7987472d83
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.kievitproanemone/index.html
+Name: Kievit Pro Anemone
+
+Package: com.dbk1ng.kievitproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.kievitproios9_1.0_iphoneos-arm.deb
+Size: 13682280
+MD5sum: 27f6b8af2dbdce237931accc18855b31
+SHA1: b3b3f1371b4a4909a01fdbb25db09c5ae4d34122
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.kievitproios9/index.html
+Name: Kievit Pro iOS 9
+
+Package: com.dbk1ng.sanfranciscolightanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscolightanemone_1.0_iphoneos-arm.deb
+Size: 9611898
+MD5sum: 4c34f8f9963170cc64ea179a16bf8db2
+SHA1: 0493f26b8dbd3ed3e35a0067f89acb90a2a6ecc3
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolightanemone/index.html
+Name: San Francisco Light Anemone
+
+Package: com.dbk1ng.sanfranciscoroundedanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedanemone_1.0_iphoneos-arm.deb
+Size: 14294052
+MD5sum: 4897ea614fa7b47ee23f4ef662abace3
+SHA1: 54e2cd99af82e9af49fdf1bec5dbb08646240b75
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedanemone/index.html
+Name: San Francisco Rounded Anemone
+
+Package: com.dbk1ng.sanfranciscoroundedlightanemone
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedlightanemone_1.0_iphoneos-arm.deb
+Size: 17932406
+MD5sum: 0b7cee8c0c160c615fe2c32dcf968e1e
+SHA1: a372a8d7e41596be7f93556d2ce597a7f3a298b9
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedlightanemone/index.html
+Name: San Francisco Rounded Light Anemone
+
+Package: com.dbk1ng.roboto2014anemone
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.roboto2014anemone_1.0_iphoneos-arm.deb
+Size: 21457310
+MD5sum: cac44fe5fbcd0241f8437b0db8009841
+SHA1: b6c2af15b09abd5cfbd475becb2ee616c9b53b54
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Read Stanton & Daniel B King for the jailbreak community.
+Author: Read Stanton <decimation001@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.roboto2014anemone/index.html
+Name: Roboto 2014 Anemone
+
+Package: com.dbk1ng.robotolight2014anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.robotolight2014anemone_1.0_iphoneos-arm.deb
+Size: 21662070
+MD5sum: 2fd5c530e576ade36b15f7e948064596
+SHA1: 8eb5cc6656b5abae84074d214a35f65e240d01d5
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Read Stanton & Daniel B King for the jailbreak community.
+Author: Read Stanton <decimation001@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.robotolight2014anemone/index.html
+Name: Roboto Light 2014 Anemone
+
+Package: com.dbk1ng.grandtheftautoanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.grandtheftautoanemone_1.0_iphoneos-arm.deb
+Size: 11289422
+MD5sum: adeeaaf2ae78af34892d1118d8d6c806
+SHA1: fa2a6c3565ec7702cfe7b880e1776786a80289a5
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.grandtheftautoanemone/index.html
+Name: Grand Theft Auto Anemone
+
+Package: com.dbk1ng.grandtheftautoios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.grandtheftautoios9_1.0_iphoneos-arm.deb
+Size: 11289676
+MD5sum: 84f277b5b9ee04d9ce1b52eae5df8bf7
+SHA1: 1137038a344712cd4089f563e61768596758ddbe
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.grandtheftautoios9/index.html
+Name: Grand Theft Auto iOS 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

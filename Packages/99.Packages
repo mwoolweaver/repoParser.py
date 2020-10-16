@@ -1,0 +1,38 @@
+Package: io.brxxn.no-thx-analytics
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: brxxn
+Depends: mobilesubstrate
+Filename: ./debs/io.brxxn.no-thx-analytics_1.0.0-2_iphoneos-arm.deb
+Size: 2714
+MD5sum: b886294acd7d05e7598ff78220a1deb4
+Section: Tweaks
+Description: disables SpringBoard analytics
+Author: brxxn
+Name: no-thx-analytics
+
+Package: io.brxxn.horizontal-home
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: brxxn#1337
+Depends: mobilesubstrate
+Filename: ./debs/io.brxxn.horizontal-home_1.0.0-2_iphoneos-arm.deb
+Size: 2798
+MD5sum: 5e3985ace2bcd0b46c0a605476a7e273
+Section: Tweaks
+Description: allows horizontal rotation on home screen
+Author: brxxn#1337
+Name: horizontal-home
+
+Package: com.nablac0d3.sslkillswitch2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: brxxn#1337
+Depends: mobilesubstrate
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.13.deb
+Size: 8864
+MD5sum: 0ff3a6148d41cea66ce10408c7cf1246
+Section: Tweaks
+Description: makes device less secure (thanks nabla-c0d3)
+Author: brxxn#1337
+Name: sslkillswitch2

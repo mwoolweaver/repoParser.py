@@ -1,0 +1,44 @@
+Package: com.hamza.disablepowerdown
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Hamza
+Depends: mobilesubstrate
+Filename: ./com.hamza.disablepowerdown_1.0_iphoneos-arm.deb
+Size: 3054
+MD5Sum: 32db7ee84be08b45e545f5d9380e0877
+Homepage: https://zzhamza.github.io
+Description: Disables power menu in favour of staying in jailbreak mode
+Name: DisablePowerDown
+Author: Hamza
+Depiction: http://zzhamzazz.github.io/description.html?id=com.hamza.disablepowerdown
+
+Package: com.hamza.electricflower
+Architecture: iphoneos-arm
+Version: 1.0
+Section: XenHTML
+Maintainer: Hamza
+Depends: mobilesubstrate, com.matchstic.xenhtml
+Filename: ./com.hamza.electricflower_1.0_iphoneos-arm.deb
+Size: 47904
+MD5Sum: c05fd311404c098e6008d349934ceec4
+Homepage: https://zzhamza.github.io
+Description: ElectricFlower widget for XenHTML
+Name: ElectricFlower - XenHTML
+Author: Hamza
+Depiction: http://zzhamzazz.github.io/description.html?id=com.hamza.electricflower
+
+Package: com.hamza.sadmacsafemode
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Hamza
+Depends: com.ex.libsubstitute, org.coolstar.tweakinject
+Filename: ./com.hamza.sadmacsafemode_1.1.2_iphoneos-arm.deb
+Size: 14660
+MD5Sum: b0a5cc09c585ec7b7d912fe15045cee6
+Homepage: https://zzhamza.github.io
+Description: Changes the Electra Safe Mode icon to a Sad Mac!
+Name: Sad Mac for SafeMode
+Author: Hamza
+Depiction: http://zzhamzazz.github.io/description.html?id=com.hamza.sadmacsafemode

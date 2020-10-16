@@ -1,0 +1,8 @@
+Origin: sident.net for cydia
+Label: sident.net
+Suite: stable
+Version: 1.0
+Codename: experimental
+Architectures: iphoneos-arm
+Components: main
+Description: sident.net cydia repository

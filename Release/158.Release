@@ -1,0 +1,8 @@
+Origin: deVbug Cydia Repo
+Label: deVbug
+Suite: stable
+Version: 1.0
+Codename: krishna
+Architectures: iphoneos-arm
+Components: main
+Description: deVbug's private repository

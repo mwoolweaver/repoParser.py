@@ -1,0 +1,756 @@
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1192
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.0.5_iphoneos-arm.deb
+Size: 334790
+MD5sum: 8477b81cff596e3003b5078f7807d5c1
+SHA1: 68a282a8bab97fd86131813e44ce108aaacd1371
+SHA256: 954aa1fc7b7651a6e3af327fcc9fa525821cc460f6dcec5c64dd8e086c11b285
+SHA512: c6b8f1701ecb7a2aa6b6d307fb684879d139a391d31dd8bc6b0e03b7e1e0511555f5c0699062d88436bfd24b9b92d829b996b66c93207aa55d61efa45879c563
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1160
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.0_iphoneos-arm.deb
+Size: 331294
+MD5sum: c790f80f7da27f790cd394701de2f90d
+SHA1: cccb82a7dec267500fc8d99a871dc8d2dcab7f1d
+SHA256: 049f8ef3ebe57847b9d66faef549c95d19f7654aef2e85cc50c605b4e5ad6e6e
+SHA512: 1527ce6c9f8e16aa1cebc5585145524f390fc6d1ae0573899ac123137be0d40aeed6abcd2e349674cb4015943ec45a9cffbbce006c75f9212ffa6ccbf2a3d22a
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1196
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.1.5_iphoneos-arm.deb
+Size: 336820
+MD5sum: 5e5d9098826d702085dae3639e1321d3
+SHA1: 16fc1fa231abc25e6e5439e243c7e8c3c38df363
+SHA256: bd0b3e33ee2409d3872c7cfff44fa23de7d7ac51e6b1cf7b57e24ca522f9da47
+SHA512: dea53420058049ea638c059caadd8dfc8375171975b575a953734b5e859a6e3848ccbbd0631ba340ca3e1b7270213b41e6e80d84c1b2a5ff7d2958f3c20654ca
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1196
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.1_iphoneos-arm.deb
+Size: 335932
+MD5sum: 13e9e249c30d9bf13645931a6fb7f078
+SHA1: b096744b3e3f342d2972cb37b3bbe264598dbc5e
+SHA256: 02a052df2e8d8ed31d7cb5271d351d1331da06486ae653929b091fe259820b7d
+SHA512: 2912a41a745f9e326c5a4ed3933cfac577d108ebeff707466fbb4a8192396c56eb43ddf40ab7a917a671241e79e7efbf49bdf85d75507b82f4d85d423e4b0fc2
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1228
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.2.5_iphoneos-arm.deb
+Size: 349434
+MD5sum: 43a39eddfb814f426b10d857432a5046
+SHA1: 472410d16356142e6ee121bf78a3985cd7e57cdb
+SHA256: 1228927457a6a63b8b8779224165cdc152a43b809a143c4ade844d908afc153d
+SHA512: 394f022ed3c6c3152b79c7427167b016d4d5877ab7703633ad21a582077a7e93560df74e3bd71a918f6934afe4269c0a6885e48f0cd563805aca6d9f1d9c0832
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1228
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.2.7_iphoneos-arm.deb
+Size: 350118
+MD5sum: a6185c735a8134922c7f36588b0f18c4
+SHA1: 6cfc828e963a5e82ecbc0ef8d507fe79133dd531
+SHA256: 197c4c2f4cca0acc597d14cf7ad3d6aad24e90d5b4f7a5a86a52e4caf9a30333
+SHA512: 405c4a7e1a04546ee0fb9acf3c7bba4170c78ed5b2c3e0427621e3527dc6d767fc93c565437ed3b944377f1699d10419ae6db831d378726ab4f840608b584c5d
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1228
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.2.9_iphoneos-arm.deb
+Size: 350234
+MD5sum: 91517621c14a2ab3b0589af327f6d45a
+SHA1: 4eb0078ee0122d26975d7b52c7ac7f829b119f1e
+SHA256: ccfc7a230624e0a4629b4ef6b7d0107b5307b82453d22255e9eb0c7228d3bd13
+SHA512: 6a05e20e3203e99f9b286c3d28cd982b6170a037c76e988ed4fea163e3782b203e62fcd192c75db5394c0b3e9079a9c40e11936d9bd1fa07370ecf5427cb31f8
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1212
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.2_iphoneos-arm.deb
+Size: 341982
+MD5sum: 6daac421ace4f8b52d5b7717065c060f
+SHA1: bb0c0623a222ef647d77d359f90dfc859c18d4c2
+SHA256: 42e8664bfa2bd88f99d64378d1786545e8daa0c37d17ab1537008efc3305656e
+SHA512: deac0f2069efde08475df5a9bb29acecf1d6900fe05b917fd48d38757f6481d62ad4d6c7afe99aab35b32809165b879cb7014d6c5cf57611134d1b91b10be7d7
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1252
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.3.1_iphoneos-arm.deb
+Size: 351794
+MD5sum: 4054ad17e85610682f60f39a979e6d8b
+SHA1: 2cd55bb25680be842e4f5f4103a89b698a3c6fb3
+SHA256: a2ad5c63fbb9206c8edb0f6926cfdb361b6a7fd6df617161e1e1c8179eeaaf19
+SHA512: 809c88ce6edd9d037903ff2e8a3256fe55a80654842e0c793476ae47e8ad3a2f4ed95529b1e8e16b032c43431623519ed67d873faa3547907bb1e3e059c11a80
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.3.5
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.3.5_iphoneos-arm.deb
+Size: 360806
+MD5sum: bf747d5772a1168e030e5f8abeca643b
+SHA1: 914b9701f1681b30bd85b270ea92e860fad163c6
+SHA256: f2be416460b4066aee2c026b104c975da1938a0565958943217a17e0b54d3e73
+SHA512: 9518ad3c0e0a5f82db43d3ce91f4bd0e3ee703ed6542020fad07940bebe70d96c16cd82546d544827c4db6a93f6ae43bd83245ef26e79acf94cfa0e0ff8425c1
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.3.6
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.3.6_iphoneos-arm.deb
+Size: 360754
+MD5sum: cd2972ef08782904c89f907f506fdca3
+SHA1: 73dae1fc770ee155d7c4bb5c343fb764c7bc4848
+SHA256: e8e6ef21fb966a8fdad5252c3f8d756cd3efdc3d9d5edf16a6e86fc54a4e7a41
+SHA512: 5b57aab26291d90c22ec958bfd7f8f6551dc3f4aeb9274deb07c650e26ce5cf04b52bd3fc97fcf91d2c36028f352f2e7af166a8a9fe0d8df496d7847113f8f97
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.3.8-1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.3.8-1_iphoneos-arm.deb
+Size: 361810
+MD5sum: db0bedeecae1c3d7dddb5b8bdb16f813
+SHA1: 1c9b212a9dbb535faeb8462e5aed2815507757dc
+SHA256: aa7d5ba39ff78f28edcea30e414b093404b3e65cfe3806f5d218799cdec6259c
+SHA512: cbc5352e840eb3c3a4efade2c8ea3534540b1879945c0c7382cab86b18a7b9231d9ed8fa0649a70a8900c7662ae3a659c217b5adec01e834c89eafb511314edc
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.3.8
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.3.8_iphoneos-arm.deb
+Size: 361542
+MD5sum: 69e03798f94c4b487369c8bc57eaedd1
+SHA1: d221ab5d1f967f8ceec9795d39a08f946674a1b2
+SHA256: d87f5d5f69d052b1a9975bf90d24f09d0344de42fdf86c6f76664093aeb9ffad
+SHA512: 5b0c1d4cc3f40c386f69fd21b2c279dacab1fcabddc4dd33d61737ab340eb2f4f0a8cc1b5e3662aa6f6a79a94bce8866f31ae9b78e58003c7f776844c21abfc8
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1252
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.3_iphoneos-arm.deb
+Size: 351954
+MD5sum: 41f356ae6aac03563aedb61939b78e51
+SHA1: 1f71b97f4f137a4923f7383b5f745c3771088ca5
+SHA256: ca0157dba806fcde3eec65e778c5711f07f4ecbe4a90b67e1928f9fc88d9152a
+SHA512: 72e87da5060453044a66d35e92a708296173b186102dd5f53c2f9e2344c257fa2b586ff727ea615404a37dd76b7761d424008648bc3096cdba38c9cb69cf73fa
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.4.2-1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.4.2-1_iphoneos-arm.deb
+Size: 363714
+MD5sum: b1c93171657c57c4ca24c3a68ee5c8bb
+SHA1: 5d539eee3eae2c87be9b3a179472552e628e45ab
+SHA256: ab2de32ab2ac1f3d0ca76198c27ef5df662a997720719691f9542119815309de
+SHA512: 2f9c19318242e525cd25c94ef86d4a3bfd303f31fc49a80afefeaad3c978728343c2c70a905c3b8e526da4d85fa61214eb43b8c904cdd9d983951c987cb19754
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.4.4
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1344
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.4.4_iphoneos-arm.deb
+Size: 379386
+MD5sum: 45c4fc1e5632e8a898ef9372fc10ddb5
+SHA1: 29f2caeca7cc6884a3ae05c47b2c67081bc6a6ff
+SHA256: 9e7cd23f8bac4a144567e84524267cfb307c62ad6146d91b421a4da887f9c7f4
+SHA512: 98d7242944cfaa85437905537c4128492f807f2e707c219a0739e9dc176961adff95388ac27269118e2ec6965b0bd515e71c3bddd95b735bf7cd27ab4ea5b82b
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.4.6
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.4.6_iphoneos-arm.deb
+Size: 385416
+MD5sum: 6353c4c76fbaad92648ea0991a7cf7fa
+SHA1: 4ce0ebee93740bad9a7665dc324ab0b068889d03
+SHA256: 855cc8298000fda9a01130d91a4a6940f02185b9755e861a3204b18d148e101d
+SHA512: df0c748a3e82f533bccec9cf6a77be9172fb4ff7ee06c5315a5e7a99104194097eed18cc9f65c887072b7026fba73161ce0260475f8e7e2548c79aef413c41bf
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.4.8
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.4.8_iphoneos-arm.deb
+Size: 385766
+MD5sum: 6cecae0dbba9fa53cb3384c308613888
+SHA1: 5735cb58ed42281e087ae0c0f646449348f1c4e8
+SHA256: 90124af4f686a8a3fcb961c610011a8892241867f0db0646014a842236718b2c
+SHA512: 162290b9ea6eb9b47acd2eb18eeb8a11ca52735821e1010b5f03a7118d7f10e247933fe2858475b7a58f619c11cc9335d5a33b05499588fcf1cd23f2e7be2629
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.4_iphoneos-arm.deb
+Size: 361606
+MD5sum: 9be6bdf19f91e423788427ffbb74923c
+SHA1: ec424e6058d8f0eeae13ea6d17ffbb23ec4b6516
+SHA256: 219c353199590c65aaa0ff8c50b7878e3ee15f0f0ee9ca6a0f9ec775b3ce6fd4
+SHA512: 8b9ee066423959e0e7ac10f6ff419cc8d72934a448250b1eed73af151f93d1d753f2d8b3c45dd2c8e16e59e91c9950ae727833f00c347d2fe183802230c8008c
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.5-1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.5-1_iphoneos-arm.deb
+Size: 387022
+MD5sum: 73d08bf03600bb88070aab5c388f156a
+SHA1: 9a6079bdf65d1f572e2497c8e95951ae8329f7b6
+SHA256: fa067678919b506abfe3d052201351d44a4a26d5ef05a3c33703507c5434ca24
+SHA512: f413ca5c61da1832aee876c6f63926b6abd90a8936a49080521fd8ea4fd796c2af5610be1d242c9f7c6246f2f2e0df37d845b0aed5d343dadfe564507c866356
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.5.2
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1392
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.5.2_iphoneos-arm.deb
+Size: 389098
+MD5sum: 51448aa4cee5e1ba899087186ce3d37b
+SHA1: 018e0f491113c5de0b3a9555d99c2e4e1564cd03
+SHA256: d66101e284251d976f1e44b87c0102f62122ccab7bc55ab190149acb52ad6fbd
+SHA512: 2483bc81f21889e4f3fc9af3a3454447fc513851acda3874dc3e894bbfa64875bcb211a1034d81fe35ac0d6a3c92ebe34248b8674bfb0d4feac37437c55d763b
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.5.4
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1392
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.5.4_iphoneos-arm.deb
+Size: 389712
+MD5sum: f5c6dd58c24e72d66df4e6b3a0f78ed9
+SHA1: 7493d5ef568bafc88c3b2f5d4a67441048652873
+SHA256: 1d5bcdef074523e9f8774e45bdbfb517ccd69ae2448417fc766ee3fd8a26d444
+SHA512: bc818fd0fcb0f5fa20b6b6af3210e4573f4c73dc7cbf15fe9ced179ac9c2b921e9476621d2a2e0083a8d377fb9134644f97800a1345f3dfbc102c992b5b912d5
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.5.6
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1408
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.5.6_iphoneos-arm.deb
+Size: 391564
+MD5sum: e6de649e12733fc75e5aa5d75d719f7d
+SHA1: 0139189ad2546688f22e0695df3f36113830487d
+SHA256: b2ddb51f20da27ebabd8251117a5ddd265a95e8b3683183f06590f8e068e93cb
+SHA512: 07d8302b1365e026a7b9deafe988aba636d524c031ccee771fe20be79bbd9f9bab8b5a6e6fc8829da6463c581497c19b97b1377f973cb2621e64e7ef27a90ee5
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.5.8
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1420
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.5.8_iphoneos-arm.deb
+Size: 396618
+MD5sum: 9fac27a728b727af7ae58e9807a2e14c
+SHA1: 7f97820366af632c62f373143f99116b650edb07
+SHA256: ce3a931be954f31b67561d5b2e9e4382469e3e0393527eac57628dd3ed2fbf55
+SHA512: ae75af7f6bc13705bc085331038ba259ce4b287bf6c49796237a878debd2dd8669c50fa1dcecb13eae798f1645aef3173bcea252caffeed3e30f18fe2d64484c
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.5_iphoneos-arm.deb
+Size: 386842
+MD5sum: fc98d91dad72c50a059ecb28d824ff77
+SHA1: 12db91adce83e580ba69d9a5dc5413753eaf9e7c
+SHA256: c61e17e15a216c296c5e4aaa22042b30ffd54f4b855ff7a7775c9066f29ebf0a
+SHA512: 8de6f7bda8f452482075475e4d8c906c06bdc3e753bef1d61f4c08af03c7d76b36428c297e449f5d680e7e4e6cce7f2194db8332fc79fb6e636c1fc2844a5b08
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1484
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.6.2_iphoneos-arm.deb
+Size: 392928
+MD5sum: d597bca8ac734dbfaac2504be0bf592b
+SHA1: 596e40fa64f8fb8254c5fe5f254280872abb11d0
+SHA256: e843bcf20d5aa85468975f8e2c0f5d3fc811a639c2660d647cfd8a4e30108a0f
+SHA512: 43febf697732057c2387fff64b6989866fa1bfa2b0cb3b77256399bbdac43191e9d16929ade1da88b78cf27430712fef3855fbbcb19c1827a272937735d64c12
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.6.4
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1484
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.6.4_iphoneos-arm.deb
+Size: 395414
+MD5sum: e5791ad3f10e5d4c7453cd6b20861b97
+SHA1: 3fc49ef0e23d5ef41aa8418e50b140ba573e6434
+SHA256: 61ff88465cad6027899a5a0a1b66225b2b63d92fc2e8c5c198a32124e5cddf30
+SHA512: af438f036a9272cabcbf5d3ed086faaaee38c90a8872116adc3ec90437886fe2f76110d7d4050559416eee102203a828d35711ac0105bd07e8ddaa4c8ac49683
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.6.6-1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1484
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.6.6-1_iphoneos-arm.deb
+Size: 396124
+MD5sum: a6c2ea9f7716bfa77d34b85a057966e7
+SHA1: eec1bb832bb0beb3b4fef7b21d6d2a2c5b6513dd
+SHA256: 3bb5fa7712bdeebd2fc050545b2949f931f7b1c7213258efb64719d9c6437591
+SHA512: d89a23efdbf4b49d465201d885819c65a405e66a9c725b1f531de6656b168ac0caa7b0ac6c2598afe1bf93367d9f3345d2948151dedab41d2a68539eded44fd0
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.6.8
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1488
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.6.8_iphoneos-arm.deb
+Size: 396248
+MD5sum: d13ea483983fcd7022c38c20e4a266f7
+SHA1: e07e4dcd2d4188596241788d383e779a04591ae4
+SHA256: bd51221b102d5b72a6c903272c162a9400f9a8bc44438988e786e957ac0fe9cf
+SHA512: 94f420c651ee40cf7e9130f4010a96e71cc204f949b4b293e2b91ebf523cdbce8348f4905494b203d821b7b51eb94c76c0866a650317aff29ec25d7912cd0dfd
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.instagramplus
+Architecture: iphoneos-arm
+Version: 1.6
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1420
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/prasa.instagramplus_1.6_iphoneos-arm.deb
+Size: 397350
+MD5sum: 9ebc9cfc767466376b10f55461ae6818
+SHA1: f5ef7effd3d3bde46975d0134baca5cd814bdc92
+SHA256: 550af6f330c20a5a0a4015a54e830496fc6ebda2898ffbb9abb54aad0fa0b543
+SHA512: 424f0970a63bba3047e97caf753ff3fab75679111092344edf1bdb484b8d872b0e18dcdafc98e03083b474cfc739e430d81daa09484fac02ae996838dca7d504
+Description: Your most complete Instagram tweak!
+Name: InstagramPlus
+Author: Prasa
+Icon: https://i.postimg.cc/bvmtSz1L/icon.png
+Depiction: https://repo.packix.com/package/prasa.instagramplus/
+
+Package: prasa.listenigmusic
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/prasa.listenigmusic_1.0_iphoneos-arm.deb
+Size: 2828
+MD5sum: 1fa3d76609514331fcccf569a6132a72
+SHA1: 8f6d8fbb7f589dcd8c0b8186045d791da097841f
+SHA256: 2faa3d82673627f80b0d03f88d67af601de96cbf1c92db4221bc3c165620d9cd
+SHA512: 211ddd08aea9735a776a6bb9b077a14b3814dba3082b7e62fff04e0bc87753fcbdc9ae2767830cbb8d0130d83d94d4aba89ae820d46cead5ecd01f4f163f94e2
+Description: Listen to Instagram Music anywhere!
+Name: Listen to Instagram Music
+Author: Prasa
+
+Package: prasa.prasalibrary
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 612
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Filename: ./debians/prasa.prasalibrary_1.0_iphoneos-arm.deb
+Size: 113324
+MD5sum: 442b9c1a645473e1cc4ddba166c1121a
+SHA1: b1066619d368ba247397992dd8ab5aaa851421fe
+SHA256: aab0ed9389a6d1a2cfc4ba22c90fdd85fa2cfac82ed15f10af572c9e8ecf4d13
+SHA512: ce17082a0f6d9cf114579431ce4925331fe53fc74ad7f9979279df767b80a1a6d0c3dbb18ab599e0663e69ff40bca7d9fcda49a13822fc9f6e63f58333614a9a
+Description: Library for tweak developers
+Name: PrasaLibrary
+Author: Prasa
+Depiction: https://repo.packix.com/package/prasa.prasalibrary/
+
+Package: prasa.ultrapowersavingmode
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1104
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport
+Filename: ./debians/prasa.ultrapowersavingmode_1.0_iphoneos-arm.deb
+Size: 294484
+MD5sum: d67e40f515341598bb4d196561d93cc8
+SHA1: d6d05e79d523408b7889aad5178245824bd1bf22
+SHA256: 903bb6b4f14eea8b3ba2650b316d8286eae530afdf198cba9d3f3c167bee1285
+SHA512: 8d78b3f4624bc621d9d9d4c17b2433dca9750cec8bbe1d38d6984216e8544d99ebf902c8bb52e04bce40a341b25066d70d0c2606c3f6533dae07df8676f4d204
+Description: Your most advanced battery saving tweak!
+Name: UltraPowerSavingMode
+Author: Prasa
+Icon: https://i.postimg.cc/1tTHNGw2/icon.png
+
+Package: prasa.ultrapowersavingmode
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1072
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport
+Filename: ./debians/prasa.ultrapowersavingmode_1.1_iphoneos-arm.deb
+Size: 291478
+MD5sum: 9cf79669af1d1007a76948cef0176ce1
+SHA1: 9eb4a56eb4a0211e6289439612007d516321aac9
+SHA256: c7f420a52c9dcbf00c769eaf3f41b93b19bb707514fed62bc8cba0a6c5268e1e
+SHA512: dd1935a4e64027bf931a556a74e8e8f400bb3c7024d17a504dba67e161955a2dace6034d6aa3456582e8eaa5b856786a5c23876b5197bf6e87d399c2585afe51
+Description: Your most advanced battery saving tweak!
+Name: UltraPowerSavingMode
+Author: Prasa
+Icon: https://i.postimg.cc/1tTHNGw2/icon.png
+
+Package: prasa.ultrapowersavingmode
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1260
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport
+Filename: ./debians/prasa.ultrapowersavingmode_1.2.1_iphoneos-arm.deb
+Size: 312396
+MD5sum: 5fd164b2c5b3919c8330b4a69559c60f
+SHA1: b6b0f1ad9fa740baeb79a0716299666a799bde13
+SHA256: a51d9cfde534bab8e78ba8591ce15f8649c31ef371eb6bacd053aedb4dac43ab
+SHA512: f6daa757a006e2999f09e52497e311122de271c1242e02950f3ff00d5e32d61347eeb21e741bb03d8eb276ed9ac7ddfc6e63e81f06a67660c9640508ecdda9b7
+Description: Your most advanced battery saving tweak!
+Name: UltraPowerSavingMode
+Author: Prasa
+Icon: https://i.postimg.cc/1tTHNGw2/icon.png
+
+Package: prasa.ultrapowersavingmode
+Architecture: iphoneos-arm
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1312
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport
+Filename: ./debians/prasa.ultrapowersavingmode_1.2.5_iphoneos-arm.deb
+Size: 318280
+MD5sum: fef8750807add7f6cd9f4b13273e4655
+SHA1: 35e70b7e8657dba52d8f5838090eec21f1470ee9
+SHA256: 18f249aa946fb8ed9520c87dd26af90206eab18a68cb4b735b94f7db0552b731
+SHA512: 0fbfe097c53aa5870061dbc735713f68263f0eaad18837454fce91e88e96e65390034460e0af27868b08586b7f75b39cc72c2f4e193e5e66ad61ddcd3791ce5e
+Description: Your most advanced battery saving tweak!
+Name: UltraPowerSavingMode
+Author: Prasa
+Icon: https://i.postimg.cc/1tTHNGw2/icon.png
+
+Package: prasa.ultrapowersavingmode
+Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport
+Filename: ./debians/prasa.ultrapowersavingmode_1.2.7_iphoneos-arm.deb
+Size: 320552
+MD5sum: c802257176500681fb3682103c854135
+SHA1: 225ff2835e67d74d13ce50528b8dfaa8a0fa8b9c
+SHA256: 1cb180d3b76ce5b84b6d4dcde5ddb74cb9d54b363296c9742a1aa16f6aa64382
+SHA512: e289d0ebb17fc109122a03eea33068623e28e0299f7bb9dec078b706121ae44573f996b9572c456a75febb7828820fd7a5362357d83f5db894f3f9918a304ec9
+Description: Your most advanced battery saving tweak!
+Name: UltraPowerSavingMode
+Author: Prasa
+Icon: https://i.postimg.cc/1tTHNGw2/icon.png
+
+Package: prasa.ultrapowersavingmode
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1240
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.opa334.ccsupport
+Filename: ./debians/prasa.ultrapowersavingmode_1.2_iphoneos-arm.deb
+Size: 309182
+MD5sum: beac11f73edff1f571aad38055af99a9
+SHA1: 119f085acea78a5c5e8c5303c0bffb4c4b2c510d
+SHA256: d310fa271d18880efbc0618852163d3438fc8400e8b0652e1e3a052cca2feccd
+SHA512: c79bb666993e9e86d154a5c4483b664925ac0b634aa685bae0a183c6a2dd8c4a6314ff1f2cec0dbf73c985beaf9f7947e41ac7ccc3cf289e87ebc94039f1aa9f
+Description: Your most advanced battery saving tweak!
+Name: UltraPowerSavingMode
+Author: Prasa
+Icon: https://i.postimg.cc/1tTHNGw2/icon.png
+
+Package: prasa.youtubeplus
+Architecture: iphoneos-arm
+Version: 1.0-1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1520
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.muirey03.libmryipc, prasa.prasalibrary
+Filename: ./debians/prasa.youtubeplus_1.0-1_iphoneos-arm.deb
+Size: 364104
+MD5sum: 80fc7b26c5f64f417fcb246d5ca81d59
+SHA1: 87538e899f47e1c792acc536584e8d176040a60a
+SHA256: 723b2bc834b41ca2b94b1f48c618727587b76190f3b4310a330eb99621ea81b8
+SHA512: 08f757f76edf733a2c912f3757e8aaee5d9580ba4650ef2e3f343086961c07ba3391614b4ac4fe3fdd0b30ac2c69dd5c6e6eb1246bc1866d0a4c01fa2f698b83
+Description: Your most complete YouTube tweak!
+Name: YoutubePlus
+Author: Prasa
+Icon: https://i.postimg.cc/Hn3L4wy5/youtubeplus.png
+Depiction: https://prasa.dev/repo/depictions/web/?p=prasa.youtubeplus
+
+Package: prasa.youtubeplus
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1524
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.muirey03.libmryipc, prasa.prasalibrary
+Filename: ./debians/prasa.youtubeplus_1.2_iphoneos-arm.deb
+Size: 366684
+MD5sum: c38ca52e5c1ebca2bd0356f8949ea651
+SHA1: 4993a352670a781f381c59d53d541eef367b48d4
+SHA256: 63f040585fe0999778f1e66b8de3d700aa466e61e0e3a9be325a3d0c5a04d8a8
+SHA512: 28d638e146f07eb98da27886b661fee908ea44b8c13463e900f526cfbfbe692cf815997e51c5d5e38a162c1642425355450f49fe2cc58cdcb7fdf5c70474a2a8
+Description: Your most complete YouTube tweak!
+Name: YoutubePlus
+Author: Prasa
+Icon: https://i.postimg.cc/Hn3L4wy5/youtubeplus.png
+Depiction: https://prasa.dev/repo/depictions/web/?p=prasa.youtubeplus
+
+Package: prasa.youtubeplus
+Architecture: iphoneos-arm
+Version: 1.4-1
+Section: Tweaks
+Maintainer: Prasa
+Installed-Size: 1524
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.muirey03.libmryipc, prasa.prasalibrary
+Filename: ./debians/prasa.youtubeplus_1.4-1_iphoneos-arm.deb
+Size: 366440
+MD5sum: 060e21fee394bb4b797e62dead81a447
+SHA1: af97876abe0b3adfc594d0e775aac8acf1ed2d4d
+SHA256: 5b5290b2611d260c12d395da7737e987276144c26e01a2a6465ebe47d55f521e
+SHA512: 1a42ea35854eecf4d66fd3f336373acd9797528e4b3aefece85e12d658f987a2197a5d74e3c0eb4f29a4daebf4c746531543322404e189a04ecac78e7d67af52
+Description: Your most complete YouTube tweak!
+Name: YoutubePlus
+Author: Prasa
+Icon: https://i.postimg.cc/Hn3L4wy5/youtubeplus.png
+Depiction: https://prasa.dev/repo/depictions/web/?p=prasa.youtubeplus
+

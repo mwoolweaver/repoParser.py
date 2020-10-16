@@ -1,0 +1,15 @@
+Package: com.dozenzb.nzbUnity
+Version: 1.8.64
+Architecture: iphoneos-arm
+Maintainer: Juan Mejia <nzbunity@gmail.com>
+Filename: ./debs/com.dozenzb.nzbunity_1.8.64_iphoneos-arm.deb
+Size: 9225036
+MD5sum: 03624ac21fd76557f881cbfd418510c6
+SHA1: dd7be8de7b0b843ad63def61f572d288d13e02db
+SHA256: 747466afbf45d47deea4ff2897158261d14a6212529857308c04d11977984357
+Section: Utilities
+Homepage: https://nzbunity.dozenzb.com
+Description: Easily manage your NZB applications from your iDevice.
+Author: Juan Mejia (JM) <nzbunity@gmail.com>
+Name: nzbUnity
+

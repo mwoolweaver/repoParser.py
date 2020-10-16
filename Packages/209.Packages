@@ -1,0 +1,50 @@
+Package: com.iakd.folderlauncher
+Version: 1.0-1-6
+Architecture: iphoneos-arm
+Maintainer: iakd
+Depends: mobilesubstrate, preferenceloader, com.conradkramer.open, firmware (>= 7.0)
+Filename: debs//com.iakd.folderlauncher_1.0-1-6_iphoneos-arm.deb
+Size: 19640
+Installed-Size: 192
+MD5sum: 7f892d0e58ce8ca00357ec70a870529c
+SHA1: eb011a288ddbed36fb24d22d7e1200eb184880de
+SHA256: 04cbd159ee2b81889427e753fff14372ad35405641ec4c1f30ea0183a25e09a7
+Section: Tweaks
+Description: Launch all apps in a folder
+Author: iakd
+Depiction: http://iakd.github.io/depictions/folderlauncher/index.html
+Name: FolderLauncher
+
+Package: de.iakdev.actification
+Version: 0.1-24
+Architecture: iphoneos-arm
+Maintainer: iakd
+Depends: mobilesubstrate, firmware (>= 8.0), libactivator (>= 1.9.5)
+Filename: debs//de.iakdev.actification_0.1-24_iphoneos-arm.deb
+Size: 19810
+Installed-Size: 204
+MD5sum: db79fb60933efb1ebca9cb60209717e1
+SHA1: 5080e4b8df59342758da48625d9d415109255a8d
+SHA256: 9caf209fbbd3093a21f5c133bb0c2634626e13cd29840a12dfd301c482234a57
+Section: Tweaks
+Description: Send notifications from Activator
+Author: iakd
+Depiction: http://iakd.github.io/depictions/actification/index.html
+Name: Actification
+
+Package: de.iakdev.notificationsfirst
+Version: 1.0-11
+Architecture: iphoneos-arm
+Maintainer: iakd
+Depends: mobilesubstrate, firmware (>= 8.0), libactivator (>= 1.9.5)
+Filename: debs//de.iakdev.notificationsfirst_1.0-11_iphoneos-arm.deb
+Size: 8060
+Installed-Size: 200
+MD5sum: 5ccea205e55eb178fc82c746e1f79da0
+SHA1: bf75f1025f3540e40ddb9b3ee3dd8d85271c94ea
+SHA256: c19ee7be5c195d8b0565e8c5d870af64e2c3dc12811427421f183752c8f76c06
+Section: Tweaks
+Description: Swap Today and Notifications pages in NC
+Author: iakd
+Depiction: http://iakd.github.io/depictions/notificationsfirst/index.html
+Name: NotificationsFirst

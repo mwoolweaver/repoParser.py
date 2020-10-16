@@ -1,0 +1,664 @@
+Package: com.julioverne.flipconvert
+Version: 0.0~beta4~A12
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Installed-Size: 108
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware(>=11.0)
+Filename: ./debs/com.julioverne.flipconvert_0.0~beta4~A12_iphoneos-arm.deb
+Size: 11962
+MD5sum: e29d952d39cd4b133e17fa25317e5106
+SHA1: c9a044f01a6fb2a98966214aae33da7e05cfd3b5
+SHA256: 53d00a44edecf8b050b0b2745c35695b646b794cc13648f967d97624eb7de589
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: FlipConvert for A12
+Author: julioverne
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.julioverne.flipconvert
+Name: FlipConvert
+
+Package: com.kingpuffdaddi.alwaysaudio
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.alwaysaudio_1.0-1+debug_iphoneos-arm.deb
+Size: 3482
+MD5sum: e78a8bc41c909e488834fdaff48b4a2e
+SHA1: 685e115ba62932a8bf11c171405c16482b26cf0d
+SHA256: fced45b96a0b17036b2572cfb872ce42b0ebe3c9486ca1acba336d66b63be7ae
+Section: Tweaks
+Description: Allows apps to play audio even when mute switch is on
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysaudio
+Name: AlwaysAudio
+
+Package: com.kingpuffdaddi.alwaysdark
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 336
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.alwaysdark_1.0_iphoneos-arm.deb
+Size: 30798
+MD5sum: 42678a9f807ea5ee8aa2c4f629106e11
+SHA1: d257dd52e19bef048d3a39dad2f023c3a74cc6d1
+SHA256: 56386db7093d772be794d68ca52ae6d0b1346053d7fdb7c23e55794d85f6f8ed
+Section: Tweaks
+Description: Run specific apps always in Dark/Light Mode
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
+Name: AlwaysDark
+
+Package: com.kingpuffdaddi.alwaysdark
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.alwaysdark_1.1_iphoneos-arm.deb
+Size: 32960
+MD5sum: 28aa56ae38c743c1807246604034511a
+SHA1: 5c35d68fd4a139e687d771f9c5ef96cd9bafcd01
+SHA256: b47e3d8c0010ec6972d64d0473a97cf0ab4a24da18075f697b2b2c6a169d9108
+Section: Tweaks
+Description: Run specific apps always in Dark/Light Mode
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
+Name: AlwaysDark
+
+Package: com.kingpuffdaddi.alwaysdark
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.alwaysdark_1.2_iphoneos-arm.deb
+Size: 33086
+MD5sum: 4ff0eb3e83a19cfda358d73508fae040
+SHA1: 7d863df016ff44872935d25feadec056f7c88e8e
+SHA256: 1f3af29ef4297216dac0ae4dccc66152dd79220a2bbfe1e37b910f6357a6a335
+Section: Tweaks
+Description: Run specific apps always in Dark/Light Mode
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
+Name: AlwaysDark
+
+Package: com.kingpuffdaddi.alwaysdark
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.alwaysdark_1.2.1_iphoneos-arm.deb
+Size: 33150
+MD5sum: e0ef2f9905405ef4d7d2562c2645e9b4
+SHA1: cb6ff185310b30a81043aa50d6f9f2feee4161ba
+SHA256: 1a48bc8fccb7bc4ae28d9d73358b83332514a6c490c122b9bd7dbdb594261c38
+Section: Tweaks
+Description: Run specific apps always in Dark/Light Mode
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
+Name: AlwaysDark
+
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.2_iphoneos-arm.deb
+Size: 30530
+MD5sum: 01df3fe137c2593e72cd47a53321f854
+SHA1: 8fceaadbaa49b2f00715533c7bcc31a8f04410c9
+SHA256: 0d4ccbc326ed9e77590d91a65c443b992eca51a5a8b8c77fe4f16f503fba9eef
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.3_iphoneos-arm.deb
+Size: 31288
+MD5sum: 462ac9539e98d5f9c36562f7505a9823
+SHA1: e13b976fcc16a756b6a8562885b2effb79fd1358
+SHA256: 1cc170b9a42b2a9c9bc5b223dfe9dc0bb06b607b749b231e276fd57b51773fe9
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.4_iphoneos-arm.deb
+Size: 32128
+MD5sum: 25a54e4b01df0fb9ed738a409c951f85
+SHA1: 83d66e57d92121ea5b45e3e9ea0d372fe93c2142
+SHA256: 2028141a004d61ede3b60f4e95f64c5c6e41b9a66a11b023c63ac358f6130211
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.5_iphoneos-arm.deb
+Size: 32052
+MD5sum: 9ee195f52bd6a045b9190f2106d3b8c0
+SHA1: b254c9c5d1b8ac4c11bab63ddcdcfe80769cd728
+SHA256: 82d77db3d9c7fe88d3109b6e44ace348c8893f40e5f5493da0fe531ab6e74073
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.6_iphoneos-arm.deb
+Size: 32316
+MD5sum: 99cac94d8008ce1fd1fb312833827f84
+SHA1: 48afbfd6ca8f478804a441e90eff62f9037a6c96
+SHA256: ebd2326756fd3b5d347017f68ad505a2e0ba19f3461509b35208ab0e3c89cbd7
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.7_iphoneos-arm.deb
+Size: 32770
+MD5sum: 742326f5c5d95a873c57fc6ea05d8455
+SHA1: b1cff9150cd015f95dcd046cfe4b8691780205a2
+SHA256: ea0776a4214859e9f854602a8a914eec2a520d877bf61a19bda48c954930b2ef
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.8_iphoneos-arm.deb
+Size: 33352
+MD5sum: e88da74800610daeb336c648d7091978
+SHA1: 2dd687c0e0e43af2fe4d18b99b941fb66ccefe64
+SHA256: 181906ef6a0c5945f9dfa29ba5891972f9cda350b1c66b09e2cbfb820ef96b56
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
+Package: com.kingpuffdaddi.bashlowpower
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.bashlowpower_0.0.2_iphoneos-arm.deb
+Size: 7984
+MD5sum: b6727b5bd1807617e9e249709677ef48
+SHA1: fadfac999b06a6d66841e4f8d0676f413e1fee2a
+SHA256: b2f5e7850a1b922c769f96761aac9f27d25b2ec143105bcb4b5f623f9351502a
+Section: Tweaks
+Description: Execute a bash script, when Low Power Mode gets enabled/disabled.Change the scripts enable.sh and disable.sh under var/mobile/bashlowpower
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.bashlowpower
+Name: BashLowPower
+
+Package: com.kingpuffdaddi.ccbalance
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.ccbalance_1.0_iphoneos-arm.deb
+Size: 5966
+MD5sum: a6dcf1ff3e379d7e8e39b6255655642d
+SHA1: ed839dea4aa38852103c26594c9dd06a202bc68c
+SHA256: 396cec2c1b2233c762592607ff06b388e50ad609fc84f9401bbe51ce07c5a2d4
+Section: Tweaks
+Description: Change the audio balance from CC
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
+Name: CCBalance
+
+Package: com.kingpuffdaddi.ccbalance
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.ccbalance_1.0.1_iphoneos-arm.deb
+Size: 6504
+MD5sum: 5d73f8d3a6dfe2f0e9f7ae62c16850b0
+SHA1: 4e84ed2a4cc732045194f1b7b40751c9a890a111
+SHA256: 3429d4aeee6dcea96d2214ca979cafeb0b310b06220ec9d49af8200a2d7f2a62
+Section: Tweaks
+Description: Change the audio balance from CC
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
+Name: CCBalance
+
+Package: com.kingpuffdaddi.control-center.ccmono
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 116
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.kingpuffdaddi.control-center.ccmono_1.0_iphoneos-arm.deb
+Size: 9782
+MD5sum: b4e836ce42ac5863419f23122e064bcf
+SHA1: 3e5250678d8812ddb47cccbabfde257f56755436
+SHA256: 4bfe28c4da211d943f5b3d66fd44ec5f6ad6c31db733567c4edc21fd96814bde
+Section: Control Center (Modules)
+Description: A Control Center Module to enable/disable "Mono Audio" (NEEDS ICON)
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.control-center.ccmono
+Name: CCMono
+
+Package: com.kingpuffdaddi.deafen13
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.deafen13_0.0.1_iphoneos-arm.deb
+Size: 2776
+MD5sum: fad27fc5245aafb60c8a7795f03d67c9
+SHA1: 0aeb48538e95946789ea953716945fb49f94429d
+SHA256: 19ee4f2acf300a8c3bfda6b20fbf0e8e7720931a401267ccd569549d05fe295f
+Section: Tweaks
+Description: Stops the screen from waking up when setting the volume higher than the EU volume limt or just when the track changes with volume higher than that, while listening with headphones
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.deafen13
+Name: Deafen13
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 304
+Depends: mobilesubstrate, applist (>= 1.4.1)
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.1_iphoneos-arm.deb
+Size: 31124
+MD5sum: a94c754719a359d06734bc1e127fd449
+SHA1: d6f1012a0f35be0061bc406a8b387d7e712b9fb9
+SHA256: b22f5ca6d523607e8a39673882029f6a0574e54b887bcb992fd518b3fe35442a
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.2_iphoneos-arm.deb
+Size: 31912
+MD5sum: e1cc8ada0d4c8fefca995909bdf0b434
+SHA1: 6bcf04f2096a8595b7741b9a8be7a4982b143e2e
+SHA256: bc34a1c18931e61879a8fa4f6f8b04fda4b84437193d5fcc2cd5222cc02ef35e
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.3_iphoneos-arm.deb
+Size: 32054
+MD5sum: 776a3425433691b467dceba715149735
+SHA1: f2d48d272deb52baf1fd5cd0537a28ae3bd462f3
+SHA256: 74d195e715b1d62397ddcc2c0de3aa36ac7a9877facdccab07e1f22c94d214e6
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.4_iphoneos-arm.deb
+Size: 34956
+MD5sum: 7a0cf271bfb082fff533842894262105
+SHA1: 3058b08dd98f522f9967ce11e3e323c68142d1e5
+SHA256: 5e9a9945feac3b1511cee0e9a784890b6327d48259716690ced687098d08cdcc
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.5_iphoneos-arm.deb
+Size: 35644
+MD5sum: 7124c5fa521543cefa423b23e373a216
+SHA1: d27230e2ba730186fa41a5b7e41477338e057393
+SHA256: 0df15bbce025a152b66e021a62946cf5f0c1746e68a1755da27ac75d41d97f34
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonetime
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.headphonetime_0.0.1_iphoneos-arm.deb
+Size: 8946
+MD5sum: d2702b4ddaf3fff466b1b8817364b443
+SHA1: 9c371b04df6eae2cadb0c3b6155768eb053ef144
+SHA256: d64001f8f81c6496b4e68b26c3ddf3221034b03f9f2e47fc7e8c026e59f211fb
+Section: Tweaks
+Description: When holding the button on your headphones it will read out the time instead of activating Siri
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonetime
+Name: HeadphoneTime
+
+Package: com.kingpuffdaddi.headphonetime
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.headphonetime_0.0.2_iphoneos-arm.deb
+Size: 9724
+MD5sum: f8ba2d0d8c5981676fdf09dbeb78b230
+SHA1: 3b906d315b482772d0cf8310dde77d31b5a889eb
+SHA256: 1699e984ce3d514f9a866d19fdc69dcb275bfb1afb82cf5349ceb6b4d4b08483
+Section: Tweaks
+Description: When holding the button on your headphones it will read out the time instead of activating Siri
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonetime
+Name: HeadphoneTime
+
+Package: com.kingpuffdaddi.hidenotificationcentertitle
+Version: 0.0.1-22+debug
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.hidenotificationcentertitle_0.0.1-22+debug_iphoneos-arm.deb
+Size: 2814
+MD5sum: 634aea3b83f6474aed2a6e62fc126f79
+SHA1: 1a29953c3da22a311f26c019c137e6429e055753
+SHA256: 90fb1b59859c113f67fed601b0dcb47b3e8252013e700e9ee0000249f08f08d1
+Section: Tweaks
+Description: Hides the "Notification Center" title
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.hidenotificationcentertitle
+Name: HideNotificationCenterTitle
+
+Package: com.kingpuffdaddi.line2pad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.kingpuffdaddi.line2pad_0.0.1_iphoneos-arm.deb
+Size: 30686
+MD5sum: ed8d72146d6eca93eeb541a31d93508d
+SHA1: 0c527428603b555fbbacf8bb69c8b2f896ff267c
+SHA256: a94c347b01c256d7947b1b7f318f5a4178da7de39092efdab143083ca790c6a1
+Section: Tweaks
+Description: LINE2Pad gives the iPad interface to easily login to your LINE account on a second iPhone. After you have logged in you can disable the tweak from the settings to prevent visual glitches. Note: Your chat history will not be transferred to your second device, but all new messages will show up on both devices.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.line2pad
+Name: LINE2Pad
+
+Package: com.kingpuffdaddi.mobiletimerdunload
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.mobiletimerdunload_0.0.1_iphoneos-arm.deb
+Size: 2714
+MD5sum: 52dcf7b0ab91bdf276c8e4ee9a5cce83
+SHA1: c4329fb8012e473d30ee16bc5e0716d9bd97bcfa
+SHA256: 15accd1a92d55b4f3dcb4390954fbbe6c37ba2115c2e28066645d165de1c400b
+Section: Tweaks
+Description: Stops all tweaks except from DynamicTimer & PlaylistAlarm from loading into mobiletimerd, to prevent crashing issues of mobiletimerd
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.mobiletimerdunload
+Name: mobiletimerdUnload
+
+Package: com.kingpuffdaddi.musicheart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musicheart_1.0_iphoneos-arm.deb
+Size: 5670
+MD5sum: b277de70b6a1a1c51ecc164283c6b70c
+SHA1: 543a07d513be19cf56aefcad10f254849bc00d3d
+SHA256: dbe1f08b2ca61d7d90aa9f12d9eba623b66450e024f19a36b8b61a60b696060f
+Section: Tweaks
+Description: Show heart icon next to liked songs in the music app
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musicheart
+Name: MusicHeart
+
+Package: com.kingpuffdaddi.musiclength
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musiclength_0.0.1_iphoneos-arm.deb
+Size: 3606
+MD5sum: 9c7e96078a6909a23703264b7fd9b414
+SHA1: 5deff65370e904ba8652d327ebf9b696c0daa579
+SHA256: ccbe5c129c685a18bea772514d5fba95e9755f02fdb9ee3e02dae371174a10f7
+Section: Tweaks
+Description: Shows track length in Music App. (Just tested on Plus device)
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musiclength
+Name: MusicLength
+
+Package: com.kingpuffdaddi.musiclength
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musiclength_0.0.2_iphoneos-arm.deb
+Size: 7790
+MD5sum: 3e8bb5047962151605891f4d12d8b660
+SHA1: 933b44748833ae62ab68e0123c9f8f20bdcb3b05
+SHA256: 660a6c0c59e3ad60f748089ff66f565cead98bc6a405a342802ba2dfe1c89c8b
+Section: Tweaks
+Description: Shows track length in Music App.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musiclength
+Name: MusicLength
+
+Package: com.kingpuffdaddi.notifbounce
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.1_iphoneos-arm.deb
+Size: 35438
+MD5sum: 017e40b812347940a3056ae1ba73ccb0
+SHA1: 299b040de9331d8e6160f4833266c63d4fd5ec1e
+SHA256: 5e7d1950f6746d94daf7ba68d25e73476a460518fd2dcb6a8a8a542a2a26f0ae
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
+Name: NotifBounce
+
+Package: com.kingpuffdaddi.notifbounce
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.2_iphoneos-arm.deb
+Size: 37786
+MD5sum: 0f1205e8effda83c1c6263ce562eb0b6
+SHA1: 2bee62ff74e34fca77cf5c5a82f2bdd0cbc89e29
+SHA256: 8fbe8d89927d7cb7dc496304c64066c22d69f6e21552cd70a962314791cc6c30
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
+Name: NotifBounce
+
+Package: com.kingpuffdaddi.notifbounce
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.3_iphoneos-arm.deb
+Size: 41240
+MD5sum: 6af5339528c0f86a1559842e4212cef0
+SHA1: b9ab1ffa242bddc9bd16a5817ca0d73cbf56db20
+SHA256: 691e2eacf67e9879f209d7bafaed81428d9d30edb1f4cd84f2fe528cefea80d7
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
+Name: NotifBounce
+
+Package: com.kingpuffdaddi.notifbounce
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.4_iphoneos-arm.deb
+Size: 42234
+MD5sum: e1caadc70d87edca6a6bf6da38376819
+SHA1: 606eee3649c8d61556b3b81529d45630124ab4ec
+SHA256: d8c08a763ed444b31bf466b28511cf238c6774546f86f768be1bfece20476e00
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
+Name: NotifBounce
+
+Package: com.kingpuffdaddi.taiwan1
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.taiwan1_0.0.1_iphoneos-arm.deb
+Size: 3542
+MD5sum: a558b152a7a5b6b459c3b39fd6bdb8a4
+SHA1: 840dfaacb7e5d0c0f3fe8c3a2d34a19811813c44
+SHA256: 37b42071b000074f1b25c79380695d74e8f710c5871ea0516e06f1890ec1fdff
+Section: Tweaks
+Description: Adds the Taiwan flag emoji 🇹🇼 back to the keyboard of HK/MO devices
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.taiwan1
+Name: Taiwan1
+
+Package: com.sst1337.panoramapapers
+Version: 1.6.4~kingpuffdaddi
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.sst1337.panoramapapers_1.6.4~kingpuffdaddi_iphoneos-arm.deb
+Size: 52516
+MD5sum: 2a4651a716efaca2865d03eb0e2e52e8
+SHA1: 4858dad6c0f9a9db5d31e8f6de0343d2d9a2a418
+SHA256: 88e876cab075b05a2c825e96af6b8ba1714a9c71557e8cdae394a229b6d3c57c
+Section: Tweaks
+Description: Add a different image to each SpringBoard Screen!
+Author: sst1337
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.sst1337.panoramapapers
+Name: PanoramaPapers
+
+Package: com.sst1337.panoramapapers
+Version: 1.6.4~kingpuffdaddi-1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.sst1337.panoramapapers_1.6.4~kingpuffdaddi-1_iphoneos-arm.deb
+Size: 56690
+MD5sum: ca664afbf5574a71b6f8aa761d1f264a
+SHA1: 37f17671eeb9293d660400219ad15b3faedc17d2
+SHA256: b3e75480251283bebcf85358e6ea3400529eec39ac5e835c182e4c4dd70291c8
+Section: Tweaks
+Description: Add a different image to each SpringBoard Screen!
+Author: sst1337
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.sst1337.panoramapapers
+Name: PanoramaPapers
+
+Package: org.h6nry.crossfade
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/org.h6nry.crossfade_1.0.1_iphoneos-arm.deb
+Size: 16300
+MD5sum: 20170cc1ff2356ee02f60ad71ce66714
+SHA1: f88ffbbab1f00273e022ea57e8ef49357a532ffe
+SHA256: a0052bdef3cb49904db63341a5afc5375b63a2dea5a4bebda4e9644a2151f4c1
+Section: Tweaks
+Description: Crossfade. In your music app.
+Author: H6nry
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=org.h6nry.crossfade
+Name: Crossfade
+

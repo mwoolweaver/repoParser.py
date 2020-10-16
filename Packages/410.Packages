@@ -1,0 +1,108 @@
+Package: app.ameer.pubghack
+Version: 10.6~Beta3
+Section: PubgHack
+Maintainer: Ameer <ipainstall8@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./api/debs/app.ameer.pubghack_10.6~Beta3_iphoneos-arm.deb
+Size: 697636
+Description: Pubg Hack Slider + No Recoil + No Camera Recoil + No Spread | Enjoy ðŸ”¥ðŸ˜Ž
+Sileodepiction: https://repo.relany.co/api/SileoDepiction/app.ameer.pubghack.json
+Icon: https://repo.relany.co/api/img/logopubg.jpg
+Name: PUBG HACK SLIDER + NO RECOIL
+Author: AmeerX
+Sponsor: AmeerX <https://repo.relany.co>
+MD5sum: bee0955c06a80aaf02a822b1276904df
+SHA1: 82e9ba8e5119397845b04f14c26a6079d2fa6d4a
+SHA256: 51ee1fd25589d1c4bd150bffde3ac1ea3da7535be6cfbda6e2cd9f2e7325c1a1
+
+Package: com.4Tweak.TwConfirm
+Version: 1.1-4
+Section: Tweaks
+Maintainer: Abdullah al Daqash <abdallah.aziz107@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Architecture: iphoneos-arm
+Filename: ./api/debs/com.4Tweak.TwConfirm_1.1-4.deb
+Size: 91528
+Description: Compatible with iOS 10, 11 and 12  English : - Confirm button if you press [Like]() on Twitter - Stop AutoPlay Media in timeline Arabic : اداة خاصة بتطبيق تويتر تتيح لك خاصية التأكيد اذا ضغطت لايك على التغريدة . ايضا هناك ميزة ايقاف التشغيل التلقائي للفيديو من التايم لاين اعدادات الاداة في اعدادات تويتر   Configure options from Twitter app settings.ter app settin
+Sileodepiction: https://repo.relany.co/api/SileoDepiction/com.4Tweak.TwConfirm.json
+Icon: https://repo.relany.co/api/img/TwConfirm.png
+Name: TwConfirm
+Author: Abdullah al Daqash
+Sponsor: Abdullah al Daqash <https://repo.relany.co>
+MD5sum: 80fa43e947fe2d5f7a0d9c15a48e0d5a
+SHA1: b3368e9f2b706e971390344d844f546a0a78b5fb
+SHA256: 8ff21a1d0b85973a81fd381e145b5e5d17e6d7a585080f30da78ceb528ef936e
+
+Package: com.yourepo.ahmed-almkls.mirrors
+Version: 1.1
+Section: Themes
+Maintainer: Ahmed Makls <makhl.2266@yahoo.com>
+Priority: optional
+Architecture: iphoneos-arm
+Filename: ./api/debs/mirrors_1.1_iphoneos-arm.deb
+Size: 3204104
+Description: ثيم خورافي ولا اروع من تطويري
+Sileodepiction: https://repo.relany.co/api/SileoDepiction/mirrors.json
+Icon: https://repo.relany.co/api/img/2624.JPG
+Name: Mirrors
+Author: Ahmed Makls
+Sponsor: Ahmed Makls <https://repo.relany.co>
+MD5sum: 1a0adacf25cdff668cfa3b4d2fa2dc46
+SHA1: 0a9d2b874830f025d77134127c9b1a1b072bc912
+SHA256: adc49d160e96b6d3b376eb07aa473bdaa3875148a6e25a2293a5502b7085054c
+
+
+Package: com.BandarHL.Hollow
+Version: 2.5
+Section: Tweaks
+Maintainer: BandarHelal <bandarhelal180@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.bandarhelal.libpip, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Architecture: iphoneos-arm
+Filename: ./api/debs/com.BandarHL.Hollow_2.5_iphoneos-arm.deb
+Size: 1966126
+Description: - Download videos HD, etc.. - Download videos as audio - import audio/videos to Apple Music  - Play downloaded videos with PiP - Background playback - Block ADs - select quality in mobile data - convert video to audio - Downloaded library to manage your downloads
+Sileodepiction: https://repo.relany.co/api/SileoDepiction/com.BandarHL.Hollow.json
+Icon: https://repo.relany.co/api/img/logo_hollow.png
+Name: Hollow
+Author: BandarHelal
+Sponsor: BandarHelal <https://repo.relany.co>
+MD5sum: c70e5a85078d43082cf70b8a3e12ab0e
+SHA1: bcf49fc2b5e4d4022c38afb0d431f35f1e58b9d3
+SHA256: 82a666a4b21776ba67ee0dac630bfd8a7bed50fa46f4c967cabd943c8f5af656
+
+
+Package: com.bandarhelal.libpip
+Version: 1.2
+Section: Tweaks
+Maintainer: BandarHelal & julioverne 
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./api/debs/com.bandarhelal.libpip_1.2_iphoneos-arm.deb
+Size: 59298
+Description: that tweak to enable picture in picture in videos note: this is a modify version form julioverne tweak (PIPEnabler) https://github.com/julioverne/PIPEnabler all credits received julioverne
+Sileodepiction: https://repo.relany.co/api/SileoDepiction/com.bandarhelal.libpip.json
+Icon: 
+Name: libpip
+Author: BandarHelal & julioverne
+Sponsor: BandarHelal & julioverne <https://repo.relany.co>
+MD5sum: 820e9e458a14507048c2003da99a4758
+SHA1: 24b13b2e87ade88522c75802c7245e81dd0fa8a5
+SHA256: bab20df2ea3dc8c98b165140a430687f82294643e9b8b5835760c829b2a1797d
+
+
+Package: com.bandarhelal.busuuvip
+Version: 0.1-1
+Section: Tweaks
+Maintainer: Relany Repo
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./api/debs/com.bandarhelal.busuuvip_0.1-1_iphoneos-arm.deb
+Size: 31762
+Description: Activate your account as premium
+Name: BusuuVIP
+Author: BandarHelal
+MD5sum: 69ec1cff86b00abb99770fc855b4ddc1
+SHA1: 9009f3bf6cfb7a3c8482cba6d41175ae76ab47ee
+SHA256: 4a126106578096231981218974daa16a23e125642c9e96b978d8be79b568a9d1

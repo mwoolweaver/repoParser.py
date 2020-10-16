@@ -1,0 +1,835 @@
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.7~beta3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.7~beta3.deb
+Size: 37990
+MD5sum: 7c693be81595deb417858ffc5ae8cd10
+SHA1: e0f1b4afbac67e3c8beb39df819997fd0cb54468
+SHA256: 4b7e9c8a0c6d5fc3179e0c5f7fb880239f8c5f30e481979b9d7e4829d58cfb73
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.9.deb
+Size: 37192
+MD5sum: 612e3c55752ee8cfc631e341c5618795
+SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
+SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 4.1.1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz
+Installed-Size: 24136
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/me.autotouch.AutoTouch.ios8_4.1.1_iphoneos-arm.deb
+Size: 4995882
+MD5sum: 9459d90f6f0ff42fb6aa1c46efbdb9bb
+SHA1: 4cf22952465735ceccd622bf7a528960edb26fac
+SHA256: 69d274ece1728ee9bc8d9c0299f0f837752efe3372cf10d463d96a90c1ec9570
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 4.2.2
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz
+Installed-Size: 13612
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/me.autotouch.AutoTouch.ios8_4.2.2_iphoneos-arm.deb
+Size: 3248216
+MD5sum: ab7082734edae097c9bf6415a73a73b3
+SHA1: 82d6a825c2335abf76f50a13b5c0609b132518f5
+SHA256: 22e89b3f46cd415ecf8f99696ac3d0bd34ff91fbc7706bea9db1d491200779be
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 4.3.5
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 24312
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8,  repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_4.3.5_iphoneos-arm.deb
+Size: 6933658
+MD5sum: 2a1b04c8f66d4a71748964db98af4130
+SHA1: 8c262545b4ae22c01809087511ad81f5c748a36d
+SHA256: 390503a405b702e85867304a36da450e87505b30ab9d3e220d20b756d9f54ab9
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 4.3.7
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 25308
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8,  repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_4.3.7_iphoneos-arm.deb
+Size: 7525012
+MD5sum: 0f3280163799a60ee2d1c582d8111c21
+SHA1: e671c2c51b1298cac5b1160dbebdc4ba4c9831ef
+SHA256: 59bfbc64625cab64650774c3a9e151f9c26d9315cceb347df8c4a7aaaf82cd1e
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 4.3.8
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 25448
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8,  repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_4.3.8_iphoneos-arm.deb
+Size: 7594380
+MD5sum: e69b6efe9c412128db74f2013386d994
+SHA1: 26ebe5869c961d27b4e583333bd46a23e4261331
+SHA256: aebd42d30db00af400045df47db99adb9e81f3d75374fd821a8992f466bc6c24
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.0.0
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 26232
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.0.0_iphoneos-arm.deb
+Size: 7508804
+MD5sum: c8f0e8d23226cb8961eefd842dd2c597
+SHA1: 3d61e6447fe31d61f0ca9046b432229e92ed775c
+SHA256: 5265dbf812179eeca04f7caebcf8f9d658b8c379bf993d2fb7c49128958e8fc8
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.0.4
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 25376
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.0.4_iphoneos-arm.deb
+Size: 7361890
+MD5sum: 8e2bb007a6ff59a00b432aacbdebf60c
+SHA1: 11b2e8fed5a836c5382854f7300cd9a2e530c336
+SHA256: f7a9c8501954d74d9a3b837a99ae2593e1ccd914c2a214ec7ada9e1569144aaa
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.0.5
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 35420
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.0.5_iphoneos-arm.deb
+Size: 10474254
+MD5sum: 3e4706bd0b84fc86f6ecd5a8847f3150
+SHA1: 83d8c03bf4b78d3d00004000cfd2a53e786a3940
+SHA256: 9dbea289d68ca59a79f8b5d68095396177e9a93775639128164964047db518e5
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.0.6-1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 35468
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.0.6-1_iphoneos-arm.deb
+Size: 10485126
+MD5sum: ee31ac3b9e14f4642b261759cb774519
+SHA1: 5667c42604204bd525bd2d3a9f6062b0131d8bc3
+SHA256: 7bc6c4c0b2665a807991a1e264b5b920b3a9c950ef54f71019347a3ee5b75156
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.1.0
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 46480
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.1.0_iphoneos-arm.deb
+Size: 11846992
+MD5sum: 14ed5fec327720c8539fcb49470def27
+SHA1: 555846a474e5653a80c5fa630d98b343b2a83ad2
+SHA256: 5a8140eb6336b4329b759780d89284fc8a24a8307b6d1c4bed05ba9b687efa87
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.1.0-3
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 50700
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.1.0-3_iphoneos-arm.deb
+Size: 12659244
+MD5sum: 54b7b40871e448f1710c1914c5068042
+SHA1: e0d0d240360cf116f48aea5acd7a76c9d5b5023b
+SHA256: 70a759943a5d2c9ec443545b74c8d252a3405df531a914052a2c306e38ac0a0d
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 50748
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.1.1-1_iphoneos-arm.deb
+Size: 12666200
+MD5sum: 468835d5e60b4e7f24e5e30234222290
+SHA1: 74c34c107f82fd2846c1d108667130dae0924f35
+SHA256: fb4778fd87d4616ee725cf44d161a90ab77f7df628320161bbcdc9ee75cf508e
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.1.2-1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 50748
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.1.2-1_iphoneos-arm.deb
+Size: 12672952
+MD5sum: 2e1987f6e2fc8a89d4dfae481f22a6c0
+SHA1: a9cd04e915ca24e5269f2abd86c292443c078dde
+SHA256: 0f915df3cb3205b223807574d6a6add5fadeb32d2fabc158578aa3167270bea8
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.1.2-3
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 50748
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.1.2-3_iphoneos-arm.deb
+Size: 12672030
+MD5sum: d7a0028018dcd6a6ddadfad6138c0f8b
+SHA1: 1291c79d0fa4c49e6a7cde86483428fe622e6d7d
+SHA256: 17b464dbcc9dfce9f07b68c0c6c97a986fef82a0db9f97fc37e2c7349cf564ba
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.1.2-7
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 50820
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.1.2-7_iphoneos-arm.deb
+Size: 12681684
+MD5sum: f87f7dcad93afa3964c7144f7cb59c8e
+SHA1: 3a64cbeef850fdc5c8e092ed92d13b228b0c8af4
+SHA256: fc7c720f3b285d2497fdc6825623d04f02e223ab3eefff1615a92e41b769e325
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.1.5
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 100736
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.1.5_iphoneos-arm.deb
+Size: 25129464
+MD5sum: 8f63fbc90d63077d4ed0dc8e7dc97c2f
+SHA1: 06e98ae87763670438904f2f864b38e61586ce33
+SHA256: 28b72b6fe7f41f0e9b828b1ecdcbdfa31a0220ec91c507311eea136a1ef1d573
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 5.2.4
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107100
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_5.2.4_iphoneos-arm.deb
+Size: 24470418
+MD5sum: 8d097dd348b45d55fd5d31eff03bae43
+SHA1: 8eab1b1b76b8408e5514c10bdea25c9e906da8f3
+SHA256: 3e02f76e232cbb97adcfe2c38fe98b753a1a10f55ff840651c1a1b40a95de2f4
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.0.1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107804
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.0.1_iphoneos-arm.deb
+Size: 24645310
+MD5sum: 16b960093613899d6bd7a196a483b01f
+SHA1: abcd9d56608f64d085c3174c6c61839a13970f25
+SHA256: 3156ecd87837543b73ab7fc71593ea7310dbe1091c5a2330a6aedf75d7dbb971
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.0.3
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.0.3_iphoneos-arm.deb
+Size: 24657676
+MD5sum: 4e863dd84f3b69eec205d772200a0ef1
+SHA1: e56e17a6c6b983df9a8e4ca8405701daa4588070
+SHA256: 2032c0ea9b217723292836745ffc378b5f1f19e83e3b012c70aae3510c73b17f
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.0.5
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.0.5_iphoneos-arm.deb
+Size: 24654634
+MD5sum: e66a943a71f19d7123b727c7436ae226
+SHA1: 7fb4550b66433c2f5fb1a7442835c52c3bf91887
+SHA256: 8f64144158dd936557a83ba651884c080fb293ff7fbec256a327a903a2750b55
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.0.6
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.0.6_iphoneos-arm.deb
+Size: 24659176
+MD5sum: 715deb6b724ed475d6f6ea55762fefc6
+SHA1: da7e48b1ef175d773772d5c8fec714a37f88dc74
+SHA256: 09dcefcb35a70d262a5c9499e65a77f71886040040f62289d7a0a5526af0d0f4
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.0.7
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.0.7_iphoneos-arm.deb
+Size: 24660452
+MD5sum: 65ea8d47af1a930c9986bdb5bc7d0a5b
+SHA1: 6e3601bc7a6051d97ea94d076b40a662bad31b02
+SHA256: 47eb1c0b2db50e683a2843d3ea92fe351826b6638c2b44d6feb85d1ac2ecc2d9
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.1.2
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107852
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.1.2_iphoneos-arm.deb
+Size: 24674868
+MD5sum: cab33f300b4e88da5bba4fccd5e4d4d6
+SHA1: 8c325fa044265ba0214f29e783860ee701c719e6
+SHA256: eac900d751f4c38a6326530669162dec9f789091d574f361bcab939974798007
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.1.6
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 100632
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.1.6_iphoneos-arm.deb
+Size: 24645258
+MD5sum: 132e8b7b9a3882be0a954ad75668d32e
+SHA1: 0425b45b913d5af4ea38308caf2d4e66f25eacef
+SHA256: ff07e6cf57436e716467f6fc0e465263679eed6d69b3c2e48094658c4c0f452d
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 6.1.8-1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 100716
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_6.1.8-1_iphoneos-arm.deb
+Size: 24655722
+MD5sum: 0cb0a96705a267a3ad048fbe2042f7be
+SHA1: 2d0222df719a482a70f7e0e2f5ea0b6feb78f0bc
+SHA256: 67b5b08d44d7e854baf2ba7b529fe2c6cc06ae663dde5bdbc1262501adc55520
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 7.0.17
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 102432
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_7.0.17_iphoneos-arm.deb
+Size: 25309886
+MD5sum: 9fec9c7cbaf930994723e5427f171bd2
+SHA1: d52839ef077ddba04a8f70526ff101f9b74d55ce
+SHA256: bb4e91001c566f2a9e38a2bd46f5d4e4ee3207e75e7848f959d0548a5baff38a
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 7.0.18
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 102440
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_7.0.18_iphoneos-arm.deb
+Size: 25305850
+MD5sum: 6e5fdc0de26b584243cdbf4e969f0a81
+SHA1: 7527cf10c546fe03fadd5f8f007bc26a4528b8fc
+SHA256: 9e92f62b2759b79e9826d11cd377a848b9f1ed2444966b55407fb410f15252c8
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8
+Version: 7.0.22
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 102444
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8_7.0.22_iphoneos-arm.deb
+Size: 25312190
+MD5sum: 7ff40240a5b1722f7e252cba4959a519
+SHA1: 71170463a67b1595ea359d1ce3d0f9d0e6621152
+SHA256: 6c4ebcb0ec7c3a7038bd5d11249528fbf3afd1b473dad732c42fd802d000d2a3
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.0.1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107804
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.0.1_iphoneos-arm.deb
+Size: 24643464
+MD5sum: f033d885ee0b99e94eeec55347a8039d
+SHA1: 3a6f284457609ab1b973e29d20ea0b84769b0bce
+SHA256: dc500b791287caac573bbfd93341c04e2bc35695b8829d5d9bbe18841402a3a4
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.0.3
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.0.3_iphoneos-arm.deb
+Size: 24652298
+MD5sum: 90684b61d85ae870347e66b333078dc3
+SHA1: 053446a3a7359d36e31f20dfe7086ae1a321e12e
+SHA256: 8bf378f9077ba2df7d314a2f62addd51fcdcaaab10b182bbe937c1b6e41bf329
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.0.5
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.0.5_iphoneos-arm.deb
+Size: 24654770
+MD5sum: d47160dbdadfb12c814635fd507c38c1
+SHA1: 26f9cc0a04e15b7e8804a4f33338239ce4fe3c31
+SHA256: 1c3ab8d1f41a8f2b26e92495fd0e239ad37104e75cf37faee098903e56f56481
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.0.6
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.0.6_iphoneos-arm.deb
+Size: 24651828
+MD5sum: add44cac87583c7024aea6424f93b3f9
+SHA1: e8795eef9e631fae82da9168c898fb174119eda8
+SHA256: a09c5ac981afe4e78de6eed49c24c4e3022de3e95cf83eef8536d597f0f3f8cc
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.0.7
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107816
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.0.7_iphoneos-arm.deb
+Size: 24658386
+MD5sum: 90f018d235156437084a9c1532cf8bf6
+SHA1: 4a9e27b302c97a30b0347d3cc905ac860c85e509
+SHA256: 2e515611b2128a484b31bc1d8fe1d43ce23bb0b8116a00decfa8e447575825e3
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.1.2
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107852
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.1.2_iphoneos-arm.deb
+Size: 24668940
+MD5sum: e934daf3fae4cb6ea5f77163c1676025
+SHA1: c5560076d097fcd8988b0b28d080d54c24fca7f8
+SHA256: 4f6905afd6654727a02abf24089bf2ca0d7a2ff00c42635980d3b8028b74912d
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.1.6
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 100632
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.1.6_iphoneos-arm.deb
+Size: 24644578
+MD5sum: 38edf42c4b90c758467b705ce927eb5d
+SHA1: f9e8d3e90781d5b4ee8e9ecb5d84c7e84a9dad12
+SHA256: 17279d2ec33901b57d752a123170614175cb39cd0a9c7040d1818f34b06ac161
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 6.1.8-1
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 100716
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_6.1.8-1_iphoneos-arm.deb
+Size: 24665724
+MD5sum: 2c310faa63a9c8f66f7602c10e1f2da9
+SHA1: 6b50eeab4e42b0aceb44934b7d480ac660488788
+SHA256: 34d78964dbd4eb58ce3f92285b117eb4d316cd33d2c3721e8b11c9dc72ca7814
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 7.0.17
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 102432
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_7.0.17_iphoneos-arm.deb
+Size: 25310044
+MD5sum: 6ae9f301fbf8a582d87301b6eb075e67
+SHA1: a42b82d92db1b5d7dbb71cb46d82ac7c143def6e
+SHA256: d8e445fbea126656a0ef50817adf787a7aa99cf7c3a6114f686412426bdcb322
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 7.0.18
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 102440
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_7.0.18_iphoneos-arm.deb
+Size: 25305178
+MD5sum: 7f33e3a3931beed6c394678f25a243c2
+SHA1: 3ef3ad2b80733ce42c35aee1c8b6698477b73e3a
+SHA256: 9743c61d73db9df34f47f19690454a1598b5aadc9648365cd32d77946a5a8610
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 7.0.22
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 102444
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.AutoTouch.ios8.inputtext_7.0.22_iphoneos-arm.deb
+Size: 25308556
+MD5sum: 2d123b52c260623fe2ccce274f808990
+SHA1: 6f98ec99fc5db436eb0d87b2a7bf0174b3b1384c
+SHA256: 92cfd6c28b1f4e586e66c5c0c3297661d33f2c04f73f6b8b0120779622963e09
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+
+Package: me.autotouch.autotouch.ios8
+Version: 3.6.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 9421
+Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), libactivator, applist (>= 1.4.1)
+Conflicts: me.autotouch.autotouch.ios7
+Filename: debs/me.autotouch.AutoTouch.ios8_3.6.1-1_iphoneos-arm.deb
+Size: 2247314
+MD5sum: e4872496e41dfc43aa23ff5ede0a2402
+SHA1: 63fe5b78eb715e9e20570df9f65477e14ffd5799
+SHA256: 79072f09789852d74081a586d72cf78c6864ad2c30c00665a0c9cb5b40fd0d96
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Description: record and playback touch operations
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Dev: kentkrantz
+Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
+Name: AutoTouch
+Sponsor: thebigboss.org <http://thebigboss.org>
+

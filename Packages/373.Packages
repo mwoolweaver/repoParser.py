@@ -1,0 +1,3010 @@
+Package: com.macthemes.activatery
+Version: 2009
+Section: Tweaks
+Name: Activatery
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: libactivator, grep, powermanagement, sed
+Replaces: com.macthemes.suave7-preferences
+Filename: packages/com.macthemes.activatery.deb
+Icon: file:///usr/share/macthemes/sections/battery@2x.png
+Architecture: iphoneos-arm
+Size: 4040
+Installed-Size: 13
+Description: Useful Activator-Script for Battery Health …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.activatery
+MD5sum: abddb904c6a259cb4260fca7174a0e68
+
+Package: com.macthemes.autosportunleashed
+Version: 2009
+Section: Tweaks ( Games )
+Name: GRID Autosport Unleashed
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 10)
+Depends: libxml2 | com.macthemes.essentials | com.macthemes.essentials-beta
+Filename: packages/com.macthemes.autosportunleashed~2009.deb
+Icon: file:///usr/share/macthemes/sections/games@2x.png
+Architecture: iphoneos-arm
+Size: 7444
+Installed-Size: 146
+Description: Better Graphics for the Game "GRID Autosport" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.autosportunleashed
+MD5sum: 691bb2e749f4a86759437499a002ee8e
+
+Package: com.macthemes.autosportunleashed
+Version: 2010
+Section: Tweaks ( Games )
+Name: GRID Autosport Unleashed
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 10)
+Depends: libxml2 | com.macthemes.essentials | com.macthemes.essentials-beta
+Filename: packages/com.macthemes.autosportunleashed~2010.deb
+Icon: file:///usr/share/macthemes/sections/games@2x.png
+Architecture: iphoneos-arm
+Size: 7622
+Installed-Size: 155
+Description: Better Graphics for the Game "GRID Autosport" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.autosportunleashed
+MD5sum: 91e3fca7a2e3912a47916d7388a994e2
+
+Package: com.macthemes.autumnboard
+Version: 2009
+Section: System
+Name: AutumnBoard
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: winterboard (>= 0.9.3916)
+Filename: packages/com.macthemes.autumnboard.deb
+Icon: file:///usr/share/macthemes/sections/system@2x.png
+Architecture: iphoneos-arm
+Size: 77772
+Installed-Size: 292
+Description: The Return of WinterBoard on Homescreen …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.autumnboard
+MD5sum: 59a953347a9109cf73a11d02878927b1
+
+Package: com.macthemes.bigsur-1112h-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPad Pro 10.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-1112h-2x-ipad
+Filename: packages/tp.macthemes.moxen.bigsur-1112h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 758
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 91ce83180231beafdb37c64f25a8682b
+
+Package: com.macthemes.bigsur-1366h-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPad Pro 12.9" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-1366h-2x-ipad
+Filename: packages/tp.macthemes.moxen.bigsur-1366h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 758
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 9eecbf6527e99131c72da00374e07457
+
+Package: com.macthemes.bigsur-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPad )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-2x-ipad
+Filename: packages/tp.macthemes.moxen.bigsur-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 746
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: dc6cc425d0387cda2290daecb48e5876
+
+Package: com.macthemes.bigsur-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPhone 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-2x-iphone
+Filename: packages/tp.macthemes.moxen.bigsur-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 750
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 3e238c6f083d87cd475da39385bdc897
+
+Package: com.macthemes.bigsur-3x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPhone 5.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-3x-iphone
+Filename: packages/tp.macthemes.moxen.bigsur-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 748
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 301f1ecc47c9b268e56b798b6628ebd5
+
+Package: com.macthemes.bigsur-568h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-568h-2x-iphone
+Filename: packages/tp.macthemes.moxen.bigsur-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 9985d2cb6d4262b8799d97123374c46a
+
+Package: com.macthemes.bigsur-667h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-667h-2x-iphone
+Filename: packages/tp.macthemes.moxen.bigsur-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 752
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 386beebb87d2fbc6f9377f2ecede7479
+
+Package: com.macthemes.bigsur-812h-3x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Big Sur ( iPhone X )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.bigsur-812h-3x-iphone
+Filename: packages/tp.macthemes.moxen.bigsur-812h-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 750
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 59181d4cd21b029ea66edb13be1d7734
+
+Package: com.macthemes.carbon
+Version: 2009
+Section: Tweaks
+Name: Carbon
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 8), firmware (<< 10), com.macthemes.essentials | com.macthemes.essentials-beta
+Depends: mobilesubstrate, com.cpdigitaldarkroom.cistemaperio, com.itortrix.cclean, preferenceloader
+Conflicts: co.pNre.uniformity2, com.cpdigitaldarkroom.kush
+Replaces: com.macthemes.suave7-preferences
+Filename: packages/com.macthemes.carbon.deb
+Icon: file:///usr/share/macthemes/sections/controlcenter@2x.png
+Architecture: iphoneos-arm
+Size: 82584
+Installed-Size: 462
+Description: Turn your Control Center into Darkness …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.carbon
+MD5sum: 367f229ef2f573ff039e21b1540f4190
+
+Package: com.macthemes.catalina-1112h-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPad Pro 10.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-1112h-2x-ipad
+Filename: packages/tp.macthemes.moxen.catalina-1112h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: d53f312a4b0068ba0670b3d082906978
+
+Package: com.macthemes.catalina-1366h-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPad Pro 12.9" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-1366h-2x-ipad
+Filename: packages/tp.macthemes.moxen.catalina-1366h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 8e3233eacd5b1a51ece41033c1ed5814
+
+Package: com.macthemes.catalina-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPad )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-2x-ipad
+Filename: packages/tp.macthemes.moxen.catalina-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 98b51ae21ef8359b7fbbcbdb770b13c9
+
+Package: com.macthemes.catalina-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPhone 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-2x-iphone
+Filename: packages/tp.macthemes.moxen.catalina-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 748
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 38698aaf778a8071d41c3e3f936ea4c9
+
+Package: com.macthemes.catalina-3x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPhone 5.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-3x-iphone
+Filename: packages/tp.macthemes.moxen.catalina-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 748
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 3481154d2ba29c31d366a8381a680281
+
+Package: com.macthemes.catalina-568h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-568h-2x-iphone
+Filename: packages/tp.macthemes.moxen.catalina-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 750
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 1fde2150388ed277758553cba07f8ee3
+
+Package: com.macthemes.catalina-667h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-667h-2x-iphone
+Filename: packages/tp.macthemes.moxen.catalina-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 748
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: ed1f53dcccde4798fcb2748174f234d2
+
+Package: com.macthemes.catalina-812h-3x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Catalina ( iPhone X )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.catalina-812h-3x-iphone
+Filename: packages/tp.macthemes.moxen.catalina-812h-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 748
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 5f5d12589535d30ad7ef842c01920e90
+
+Package: com.macthemes.cherryblossom-568h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Cherry Blossom ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.cherryblossom-568h-2x-iphone
+Filename: packages/tp.macthemes.moxen.cherryblossom-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: dfb02ed653f4a9d46ed6d593253ad5d0
+
+Package: com.macthemes.cherryblossom-667h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Cherry Blossom ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.cherryblossom-667h-2x-iphone
+Filename: packages/tp.macthemes.moxen.cherryblossom-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 35e99b43f20c71818d0cdab11e0397fe
+
+Package: com.macthemes.essentials
+Version: 2010
+Section: Repositories
+Essential: yes
+Name: Avalon Studios ( Core )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: firmware (>= 2.0), dpkg (>= 1.14.25-8)
+Replaces: com.bingner.plutil, com.ericasadun.utilities, libxml2, plutil, com.macthemes.essentials-beta
+Filename: packages/com.macthemes.essentials.deb
+Icon: file:///usr/share/macthemes/sections/essentials@2x.png
+Architecture: iphoneos-arm
+Size: 552140
+Installed-Size: 793
+Description: Locally cached Package Icons & Binaries …
+MD5sum: 3338297870e97da596667ebdb919b260
+
+Package: com.macthemes.fonts-bauhaus
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Bauhaus
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.fonts.bauhaus
+Filename: packages/tp.macthemes.fonts.bauhaus.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 724
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 22b54afbcc029fd7b09697fde7d8a0ae
+
+Package: com.macthemes.fonts-cera
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Cera
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.fonts.cera
+Filename: packages/tp.macthemes.fonts.cera.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 720
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 7720ca5b60e873736703013e1e1af560
+
+Package: com.macthemes.fonts-myriadpro
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Myriad Pro
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.fonts.myriadpro
+Filename: packages/tp.macthemes.fonts.myriadpro.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 728
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 9f62626100486d715c614f24fdb77273
+
+Package: com.macthemes.fonts-sfcompact
+Version: 2009~transitional
+Section: Transitional Packages
+Name: SF Compact Rounded
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.fonts.sfcompactrounded
+Filename: packages/tp.macthemes.fonts.sfcompactrounded.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 736
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: bacc0c9e0f0aa97f6fffe628e3c1fe18
+
+Package: com.macthemes.fonts.bauhaus
+Version: 2009
+Section: Fonts ( System )
+Name: Bauhaus
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 11), firmware (<< 12.5)
+Depends: net.dodtweaks.ithemer | com.spark.snowboard.fonts
+Replaces: com.macthemes.fonts-bauhaus (<< 2009~)
+Filename: packages/com.macthemes.fonts.bauhaus.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 6645450
+Installed-Size: 16097
+Description: System-wide Bauhaus Font …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.fonts.bauhaus
+MD5sum: b8e852b9e85adb1c5986e3098a7451d8
+
+Package: com.macthemes.fonts.cera
+Version: 2009
+Section: Fonts ( System )
+Name: Cera
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 11), firmware (<< 12.5)
+Depends: net.dodtweaks.ithemer | com.spark.snowboard.fonts
+Replaces: com.macthemes.fonts-cera (<< 2009~)
+Filename: packages/com.macthemes.fonts.cera.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 6640200
+Installed-Size: 19293
+Description: System-wide Cera Font …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.fonts.cera
+MD5sum: c6b6318621c73a8553eb6f371dc2906d
+
+Package: com.macthemes.fonts.myriadpro
+Version: 2009
+Section: Fonts ( System )
+Name: Myriad Pro
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 11), firmware (<< 12.5)
+Depends: net.dodtweaks.ithemer | com.spark.snowboard.fonts
+Replaces: com.macthemes.fonts-myriadpro (<< 2009~)
+Filename: packages/com.macthemes.fonts.myriadpro.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 5831338
+Installed-Size: 13918
+Description: System-wide Myriad Pro Font …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.fonts.myriadpro
+MD5sum: f5ddfbd2f3f6206d3557cdad1784a803
+
+Package: com.macthemes.fonts.sfcompactrounded
+Version: 2009
+Section: Fonts ( System )
+Name: SF Compact Rounded
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 11), firmware (<< 12.5)
+Depends: net.dodtweaks.ithemer | com.spark.snowboard.fonts
+Replaces: com.macthemes.fonts-sfcompact (<< 2009~)
+Filename: packages/com.macthemes.fonts.sfcompactrounded.deb
+Icon: file:///usr/share/macthemes/sections/fonts@2x.png
+Architecture: iphoneos-arm
+Size: 6382380
+Installed-Size: 15311
+Description: System-wide SF Compact Rounded Font …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.fonts.sfcompactrounded
+MD5sum: 66c67e4cdabd4b99ad6f1ab58d1c1af8
+
+Package: com.macthemes.formulaunleashed
+Version: 2009
+Section: Tweaks ( Games )
+Name: Formula One Unleashed
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: firmware (>= 8.1)
+Filename: packages/com.macthemes.formulaunleashed.deb
+Icon: file:///usr/share/macthemes/sections/games@2x.png
+Architecture: iphoneos-arm
+Size: 1962
+Installed-Size: 7
+Description: Better Graphics for the Game "F1 2016" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.formulaunleashed
+MD5sum: 39d2f9680ea50aaa9a351a36cecbbc59
+
+Package: com.macthemes.isuave
+Version: 2009
+Section: Themes ( SBSettings )
+Name: iSuave
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: sbsettings
+Filename: packages/com.macthemes.isuave.deb
+Icon: file:///usr/share/macthemes/sections/sbsettings@2x.png
+Architecture: iphoneos-arm
+Size: 5329744
+Installed-Size: 5565
+Description: A Theme inspired by Suave for SBSettings …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.isuave
+MD5sum: 9dc33de4571b3b505484ea7c839b904e
+
+Package: com.macthemes.masqkit-customcover
+Version: 2009~transitional
+Section: Transitional Packages
+Name: CustomCover Default Themes
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.masqkit.customcover
+Filename: packages/tp.macthemes.masqkit.customcover.deb
+Icon: file:///usr/share/macthemes/sections/music-masqkit@2x.png
+Architecture: iphoneos-arm
+Size: 744
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: add6b3a0a09aefe35874180424abf852
+
+Package: com.macthemes.masqkit.customcover
+Version: 2009
+Section: Themes ( Music )
+Name: CustomCover Default Themes
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: ca.ndoizo.masqkit
+Replaces: com.macthemes.masqkit-customcover (<< 2009~)
+Filename: packages/com.macthemes.masqkit.customcover.deb
+Icon: file:///usr/share/macthemes/sections/music-masqkit@2x.png
+Architecture: iphoneos-arm
+Size: 479244
+Installed-Size: 560
+Description: Themes made for CustomCover …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.masqkit.customcover
+MD5sum: b4aaa6b87ed53c5ec42dca46e8efbbfd
+
+Package: com.macthemes.memojisextended
+Version: 2009
+Section: Tweaks
+Name: Memojis Extended
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: firmware (>= 13), firmware (<< 13.4)
+Filename: packages/com.macthemes.memojisextended.deb
+Icon: file:///usr/share/macthemes/sections/tweaks@2x.png
+Architecture: iphoneos-arm
+Size: 700950
+Installed-Size: 952
+Description: iOS 13.4 Memojis for 13.3 and below …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.memojisextended
+MD5sum: f5dade026ebd7990f9513ad40a15a3fa
+
+Package: com.macthemes.mojave-1112h-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPad Pro 10.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-1112h-2x-ipad
+Filename: packages/tp.macthemes.moxen.mojave-1112h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 3b2d99b08537ee4e1f11141808532122
+
+Package: com.macthemes.mojave-1366h-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPad Pro 12.9" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-1366h-2x-ipad
+Filename: packages/tp.macthemes.moxen.mojave-1366h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 9e9b156f931c1772e59635ad9fe19509
+
+Package: com.macthemes.mojave-2x-ipad
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPad )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-2x-ipad
+Filename: packages/tp.macthemes.moxen.mojave-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 753957f095aacf940fd8f165152b3d07
+
+Package: com.macthemes.mojave-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPhone 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-2x-iphone
+Filename: packages/tp.macthemes.moxen.mojave-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 742
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: a0bdefb705ae446dc81c25c3e70b7a70
+
+Package: com.macthemes.mojave-3x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPhone 5.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-3x-iphone
+Filename: packages/tp.macthemes.moxen.mojave-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 744
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 936f9953b0a366161a1dd917b6f8a177
+
+Package: com.macthemes.mojave-568h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-568h-2x-iphone
+Filename: packages/tp.macthemes.moxen.mojave-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 748
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 3823ba81fd390c9c51bd6949d49c951c
+
+Package: com.macthemes.mojave-667h-2x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-667h-2x-iphone
+Filename: packages/tp.macthemes.moxen.mojave-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 748
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 471f53fe2c1aedeaa293df3a6dbc11a2
+
+Package: com.macthemes.mojave-812h-3x-iphone
+Version: 2009~transitional
+Section: Transitional Packages
+Name: macOS Mojave ( iPhone X )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.moxen.mojave-812h-3x-iphone
+Filename: packages/tp.macthemes.moxen.mojave-812h-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 746
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 2c2dc17627f7ddc7fe45072f78504adf
+
+Package: com.macthemes.moxen
+Version: 2009
+Section: XenHTML
+Name: moXen
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.bingner.plutil | com.ericasadun.utilities | com.macthemes.essentials | com.macthemes.essentials-beta, com.matchstic.xenhtml (>= 2.0~beta1)
+Depends: mobilesubstrate, com.macthemes.moxen.mojave-2x-iphone | com.macthemes.moxen.mojave-568h-2x-iphone | com.macthemes.moxen.mojave-667h-2x-iphone | com.macthemes.moxen.mojave-3x-iphone | com.macthemes.moxen.mojave-812h-3x-iphone | com.macthemes.moxen.mojave-2x-ipad | com.macthemes.moxen.mojave-1112h-2x-ipad | com.macthemes.moxen.mojave-1366h-2x-ipad | com.macthemes.moxen.catalina-2x-iphone | com.macthemes.moxen.catalina-568h-2x-iphone | com.macthemes.moxen.catalina-667h-2x-iphone | com.macthemes.moxen.catalina-3x-iphone | com.macthemes.moxen.catalina-812h-3x-iphone | com.macthemes.moxen.catalina-2x-ipad | com.macthemes.moxen.catalina-1112h-2x-ipad | com.macthemes.moxen.catalina-1366h-2x-ipad | com.macthemes.moxen.bigsur-2x-iphone | com.macthemes.moxen.bigsur-568h-2x-iphone | com.macthemes.moxen.bigsur-667h-2x-iphone | com.macthemes.moxen.bigsur-3x-iphone | com.macthemes.moxen.bigsur-812h-3x-iphone | com.macthemes.moxen.bigsur-2x-ipad | com.macthemes.moxen.bigsur-1112h-2x-ipad | com.macthemes.moxen.bigsur-1366h-2x-ipad | com.macthemes.moxen.cherryblossom-568h-2x-iphone | com.macthemes.moxen.cherryblossom-667h-2x-iphone
+Filename: packages/com.macthemes.moxen.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 5848
+Installed-Size: 21
+Description: A dynamic Background inspired by macOS …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen
+MD5sum: 5f81a37b3b7ce47bd5873eac1de483e5
+
+Package: com.macthemes.moxen.bigsur-1112h-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPad Pro 10.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2224)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-1112h-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-1112h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 59227130
+Installed-Size: 59440
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: 08851c9a69015a597a0cba9403a9be88
+
+Package: com.macthemes.moxen.bigsur-1366h-2x-ipad
+Version: 2008
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPad Pro 12.9" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2732)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-1366h-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-1366h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 90919366
+Installed-Size: 91324
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: 59b8814e64ea90801b386888a7839e8b
+
+Package: com.macthemes.moxen.bigsur-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPad )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2048)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 49832768
+Installed-Size: 49961
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: 94004457bc1c534c1bb843067098b6c9
+
+Package: com.macthemes.moxen.bigsur-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPhone 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 7550224
+Installed-Size: 7531
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: 8bfffc53d8f618d81ce721d41833d55b
+
+Package: com.macthemes.moxen.bigsur-3x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPhone 5.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1920) | gsc.main-screen-height (= 2208)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-3x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 36376440
+Installed-Size: 36497
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: d16fbfd5f0f0991deec769a6297af047
+
+Package: com.macthemes.moxen.bigsur-568h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-568h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 9102878
+Installed-Size: 9084
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: 8c768c37beb157877f89f90e5c63c6ef
+
+Package: com.macthemes.moxen.bigsur-667h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-667h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 12687940
+Installed-Size: 12680
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: 734c55a1194484ffd645fb88b43538cd
+
+Package: com.macthemes.moxen.bigsur-812h-3x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Big Sur ( iPhone X )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 2436)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.bigsur-812h-3x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.bigsur-812h-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 36807290
+Installed-Size: 36928
+Description: macOS Big Sur meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur
+MD5sum: 4465cdd3add5b9e4a274426b3a06472f
+
+Package: com.macthemes.moxen.catalina-1112h-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPad Pro 10.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2224)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-1112h-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-1112h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 58654976
+Installed-Size: 58818
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: f682e89fc382a130ee61974133244257
+
+Package: com.macthemes.moxen.catalina-1366h-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPad Pro 12.9" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2732)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-1366h-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-1366h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 90160736
+Installed-Size: 90549
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: 5c71a6f38b194519458774661d651ae2
+
+Package: com.macthemes.moxen.catalina-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPad )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2048)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 49271950
+Installed-Size: 49364
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: 78aa2aab86cf18bdd974883c0d5131c3
+
+Package: com.macthemes.moxen.catalina-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPhone 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 6952400
+Installed-Size: 6932
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: dd36f72712930cf0e240a6e3ab77e73b
+
+Package: com.macthemes.moxen.catalina-3x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPhone 5.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1920) | gsc.main-screen-height (= 2208)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-3x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 34234234
+Installed-Size: 34336
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: 1b0d9d7d631828b86b2c7c7a6b3eb40e
+
+Package: com.macthemes.moxen.catalina-568h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-568h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 8501940
+Installed-Size: 8479
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: 5bb323e08fffbe7b3293105d5a04a5fd
+
+Package: com.macthemes.moxen.catalina-667h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-667h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 11874596
+Installed-Size: 11856
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: 21aa8490841c2791e190bc44903749f1
+
+Package: com.macthemes.moxen.catalina-812h-3x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Catalina ( iPhone X )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 2436)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.catalina-812h-3x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.catalina-812h-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 34988868
+Installed-Size: 35119
+Description: macOS Catalina meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina
+MD5sum: c8b373b2c7209187286da6f1942954f9
+
+Package: com.macthemes.moxen.cherryblossom-568h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: Cherry Blossom ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.cherryblossom-568h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.cherryblossom-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 2118754
+Installed-Size: 2111
+Description: Minimalistic Scene for "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.cherryblossom
+MD5sum: 722ba79a3c186d8aed7469cb106a9da6
+
+Package: com.macthemes.moxen.cherryblossom-667h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: Cherry Blossom ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.cherryblossom-667h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.cherryblossom-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 2834172
+Installed-Size: 2823
+Description: Minimalistic Scene for "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.cherryblossom
+MD5sum: 653f4e7fbc1a0594e5910b9c3529627d
+
+Package: com.macthemes.moxen.mojave-1112h-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPad Pro 10.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2224)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-1112h-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-1112h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 96345180
+Installed-Size: 96188
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: 93b066e8431d1e04a31b0d86689d9073
+
+Package: com.macthemes.moxen.mojave-1366h-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPad Pro 12.9" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2732)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-1366h-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-1366h-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 145514642
+Installed-Size: 145445
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: 7268319c432dcb3674c9547654c77a42
+
+Package: com.macthemes.moxen.mojave-2x-ipad
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPad )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.ipad, gsc.main-screen-height (= 2048)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-2x-ipad (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-2x-ipad.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 81559346
+Installed-Size: 81385
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: e5fce3d0a264e829d963cc050569c793
+
+Package: com.macthemes.moxen.mojave-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPhone 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 11103912
+Installed-Size: 11049
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: d76ae9576bc8e748760898024a1ff547
+
+Package: com.macthemes.moxen.mojave-3x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPhone 5.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1920) | gsc.main-screen-height (= 2208)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-3x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 54105882
+Installed-Size: 53978
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: abf6d049fa2de6832fbc97aca732c8a3
+
+Package: com.macthemes.moxen.mojave-568h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPhone 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-568h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 13569712
+Installed-Size: 13504
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: bb916a34c2a6bef8e2603d68298b0b14
+
+Package: com.macthemes.moxen.mojave-667h-2x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPhone 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-667h-2x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 19118554
+Installed-Size: 19030
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: b8570deedf72374cea596d4453eeae60
+
+Package: com.macthemes.moxen.mojave-812h-3x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPhone X )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 2436)
+Depends: com.macthemes.moxen (>= 2007)
+Replaces: com.macthemes.mojave-812h-3x-iphone (<< 2009~)
+Filename: packages/com.macthemes.moxen.mojave-812h-3x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 54180114
+Installed-Size: 54060
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+MD5sum: 01d7b077b02199792462d3c113fec367
+
+Package: com.macthemes.newsnine
+Version: 2009
+Section: Localization
+Name: Apple News ( iOS 9 )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 9), firmware (<< 10)
+Depends: mobilesubstrate
+Replaces: com.macthemes.newsnine-lproj (<< 2009~)
+Filename: packages/com.macthemes.newsnine.deb
+Icon: file:///usr/share/macthemes/sections/localizations@2x.png
+Architecture: iphoneos-arm
+Size: 20054
+Installed-Size: 63
+Description: Adds Translations to the News-App …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.newsnine
+MD5sum: 016896032034b176cc4f1891bf3efbc2
+
+Package: com.macthemes.newsnine-lproj
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Apple News ( iOS 9 )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.newsnine
+Filename: packages/tp.macthemes.newsnine.deb
+Icon: file:///usr/share/macthemes/sections/localizations@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 34367cd60f32654f22ddadc03b16fcde
+
+Package: com.macthemes.newsoftheworld
+Version: 2009
+Section: Tweaks
+Name: NewsOfTheWorld
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: firmware (>= 9.0)
+Filename: packages/com.macthemes.newsoftheworld.deb
+Icon: file:///usr/share/macthemes/sections/tweaks@2x.png
+Architecture: iphoneos-arm
+Size: 2008
+Installed-Size: 4
+Description: News-App for all Regions …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.newsoftheworld
+MD5sum: 4392fe92d2b118ba4a556c68edb6ca8a
+
+Package: com.macthemes.pincrush
+Version: 0.9.2-9
+Section: Utilities
+Name: pincrush_fs
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: bash (>= 5.0), pincrush
+Filename: packages/com.macthemes.pincrush.deb
+Icon: file:///usr/share/macthemes/sections/utilities@2x.png
+Architecture: iphoneos-arm
+Size: 6168
+Installed-Size: 34
+Description: Optimize PNGs for display on iOS-Devices …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.pincrush
+MD5sum: c87290d737f4cf9c5da4dfcdd3a8021f
+
+Package: com.macthemes.spoticontrols
+Version: 2009
+Section: Themes ( Music )
+Name: SpotiControls
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 8.4), gsc.main-screen-scale (= 2)
+Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Conflicts: com.macciti.flashmusiccontrols, com.macciti.inkmusiccontrols, com.macciti.spotimusiccontrols, com.macciti.thinlinemusiccontrols, com.hackyouriphone.flashmusiccontrols, com.hackyouriphone.inkmusiccontrols, com.hackyouriphone.spotimusiccontrols, com.hackyouriphone.thinlinemusiccontrols, repo.biteyourapple.net.flashmusiccontrols, repo.biteyourapple.net.inkmusiccontrols, repo.biteyourapple.net.spotimusiccontrols, repo.biteyourapple.net.thinlinemusiccontrols
+Filename: packages/com.macthemes.spoticontrols.deb
+Icon: file:///usr/share/macthemes/sections/music@2x.png
+Architecture: iphoneos-arm
+Size: 63376
+Installed-Size: 280
+Description: Nothing is better than the Original. Just free !
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.spoticontrols
+MD5sum: 4469206f4062193c22a4cfa38ee0a652
+
+Package: com.macthemes.suave7-500px
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( 500px )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.500px
+Filename: packages/tp.macthemes.suave7.apps.500px.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 734
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 3f88eb8a07c117af5ab5e3b1691ef42b
+
+Package: com.macthemes.suave7-activator
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Tweaks ( Activator )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.tweaks.activator
+Filename: packages/tp.macthemes.suave7.tweaks.activator.deb
+Icon: file:///usr/share/macthemes/sections/cydia@2x.png
+Architecture: iphoneos-arm
+Size: 742
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: e0bb9b5615c295668d4257ae6541c43f
+
+Package: com.macthemes.suave7-apps
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Icons & UI ( Apps )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps
+Filename: packages/tp.macthemes.suave7.apps.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 736
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: d1bb30cc1d4f806d1aa3f3480f58f5bc
+
+Package: com.macthemes.suave7-core101x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 10.1.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core101x
+Filename: packages/tp.macthemes.suave7.core101x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 1c999f90f0a92aeb60c31762c1b84f08
+
+Package: com.macthemes.suave7-core102x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 10.2.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core102x
+Filename: packages/tp.macthemes.suave7.core102x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: c01ecfa995a50356ec2008e0df02d12d
+
+Package: com.macthemes.suave7-core103x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 10.3.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core103x
+Filename: packages/tp.macthemes.suave7.core103x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 97b4a38dee223f64869bdf0a9e75a556
+
+Package: com.macthemes.suave7-core110x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 11.0.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core110x
+Filename: packages/tp.macthemes.suave7.core110x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: f07450fba30567ab786ae3268ff4c774
+
+Package: com.macthemes.suave7-core111x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 11.1.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core111x
+Filename: packages/tp.macthemes.suave7.core111x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 5ea508a3bd4614b5c370b40bd4404486
+
+Package: com.macthemes.suave7-core112x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 11.2.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core112x
+Filename: packages/tp.macthemes.suave7.core112x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 641f8850c091042159fdb746b11b334b
+
+Package: com.macthemes.suave7-core113x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 11.3.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core113x
+Filename: packages/tp.macthemes.suave7.core113x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 8c796e1c5832b4ef968233c5d58f961c
+
+Package: com.macthemes.suave7-core124x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 12.4.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core124x
+Filename: packages/tp.macthemes.suave7.core124x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 8b313c497f2576aa67719719503b7a9b
+
+Package: com.macthemes.suave7-core71x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 7.1.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core71x
+Filename: packages/tp.macthemes.suave7.core71x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: ce462a768f42ba83046de06c416d7612
+
+Package: com.macthemes.suave7-core84x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 8.4.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core84x
+Filename: packages/tp.macthemes.suave7.core84x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 3282d230282d2dcb03719024f73227d2
+
+Package: com.macthemes.suave7-core90x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 9.0.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core90x
+Filename: packages/tp.macthemes.suave7.core90x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 25b6cd8c4b038ce28cd772b3bc10a2c0
+
+Package: com.macthemes.suave7-core91
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 9.1 )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core91
+Filename: packages/tp.macthemes.suave7.core91.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 736
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: ae296ccdf229b1167b9c1f585c268d56
+
+Package: com.macthemes.suave7-core92x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 9.2.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core92x
+Filename: packages/tp.macthemes.suave7.core92x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: e2a8eb78e7f7bad7c2d05ec6c632ebce
+
+Package: com.macthemes.suave7-core93x
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Core ( iOS 9.3.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.core93x
+Filename: packages/tp.macthemes.suave7.core93x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 0f70adc01c29274211be7cf57594e0df
+
+Package: com.macthemes.suave7-docks
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Docks
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.docks
+Filename: packages/tp.macthemes.suave7.docks.deb
+Icon: file:///usr/share/macthemes/sections/docks@2x.png
+Architecture: iphoneos-arm
+Size: 722
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: fbcfb1e9e4e69e683b7c5b07505cf264
+
+Package: com.macthemes.suave7-icleaner
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Tweaks ( iCleaner )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.tweaks.icleaner
+Filename: packages/tp.macthemes.suave7.tweaks.icleaner.deb
+Icon: file:///usr/share/macthemes/sections/cydia@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: fbd6b0a1d9d045419762cfdc5ca93d08
+
+Package: com.macthemes.suave7-idos
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( iDOS )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.idos
+Filename: packages/tp.macthemes.suave7.apps.idos.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 736
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 9ad5476012811433a5ad7b9782d3117a
+
+Package: com.macthemes.suave7-lockglyph
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 LockGlyph
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.lockglyph
+Filename: packages/tp.macthemes.suave7.lockglyph.deb
+Icon: file:///usr/share/macthemes/sections/lockglyphs@2x.png
+Architecture: iphoneos-arm
+Size: 732
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 4000675ab06abdbad21e6172c8f4fa47
+
+Package: com.macthemes.suave7-messenger
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( Messenger )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.messenger
+Filename: packages/tp.macthemes.suave7.apps.messenger.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 738
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: ee62049cef27526c4cc13cf6aa6c8da6
+
+Package: com.macthemes.suave7-preferences
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Preferences
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.preferences
+Filename: packages/tp.macthemes.suave7.preferences.deb
+Icon: file:///usr/share/macthemes/sections/preferences@2x.png
+Architecture: iphoneos-arm
+Size: 728
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: a10cbdc23c98bfe88809b0035d690fd8
+
+Package: com.macthemes.suave7-reddit
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( Reddit )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.reddit
+Filename: packages/tp.macthemes.suave7.apps.reddit.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 734
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: fca9ee95fdc02f12094d6cec5ca87f90
+
+Package: com.macthemes.suave7-shazam
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( Shazam )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.shazam
+Filename: packages/tp.macthemes.suave7.apps.shazam.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 734
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 060db1ab18f49da74a01c518edd478e6
+
+Package: com.macthemes.suave7-tribute
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Tribute
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.tribute
+Filename: packages/tp.macthemes.suave7.tribute.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 726
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: cbb44e93766d80df427b2d5d6f4cbd39
+
+Package: com.macthemes.suave7-tweaks
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Icons & UI ( Tweaks )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.tweaks
+Filename: packages/tp.macthemes.suave7.tweaks.deb
+Icon: file:///usr/share/macthemes/sections/cydia@2x.png
+Architecture: iphoneos-arm
+Size: 742
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: f1064dd3a3da72b70d9625ad3116e2a8
+
+Package: com.macthemes.suave7-twitter
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( Twitter )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.twitter
+Filename: packages/tp.macthemes.suave7.apps.twitter.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 736
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 48a9417caa52a34ee609ac5496ffe703
+
+Package: com.macthemes.suave7-vimeo
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( Vimeo )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.vimeo
+Filename: packages/tp.macthemes.suave7.apps.vimeo.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 734
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 222cfa7e3cbc726040aebc042e1d2dc6
+
+Package: com.macthemes.suave7-whatsapp
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Apps ( WhatsApp )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.apps.whatsapp
+Filename: packages/tp.macthemes.suave7.apps.whatsapp.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 740
+Installed-Size: 0
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: a7d22299bcf05dd7433ca3f7b8b5e40d
+
+Package: com.macthemes.suave7-wp-colors
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Colors, 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.colors-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.colors-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: f2ee36e93ad0912b6ee9fae3568dc382
+
+Package: com.macthemes.suave7-wp-colors-568
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Colors, 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.colors-568h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.colors-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 760
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: afa3b57892439367e2d2106e1ededc98
+
+Package: com.macthemes.suave7-wp-colors-667
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Colors, 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.colors-667h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.colors-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 758
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 06ceaba1691145cc749a7057e427505d
+
+Package: com.macthemes.suave7-wp-firefox
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Firefox, 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.firefox-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.firefox-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 10e8647f2e6aa5cc915ce652633c5b87
+
+Package: com.macthemes.suave7-wp-firefox-568
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Firefox, 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.firefox-568h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.firefox-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 760
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 7e8e8aeabe30a1a30ac19b15b50f914e
+
+Package: com.macthemes.suave7-wp-firefox-667
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Firefox, 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.firefox-667h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.firefox-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 762
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 981b12660e8cb89f1581f3f3e0fd0d4d
+
+Package: com.macthemes.suave7-wp-firewatch
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Firewatch, 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.firewatch-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.firewatch-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 760
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 99df911311a186641132344c3f991293
+
+Package: com.macthemes.suave7-wp-firewatch-568
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Firewatch, 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.firewatch-568h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.firewatch-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 762
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: d534c38ecbac9ff48c895ad2cd5a27f0
+
+Package: com.macthemes.suave7-wp-firewatch-667
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Firewatch, 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.firewatch-667h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.firewatch-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 762
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: c875abc4f7469352860a27983670d7ac
+
+Package: com.macthemes.suave7-wp-mario
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Mario, 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.mario-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.mario-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 752
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: f6a604681506525d786d45b8ba196844
+
+Package: com.macthemes.suave7-wp-mario-568
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Mario, 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.mario-568h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.mario-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 756
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 4a308d50c349145b908c6c4f2e9be4ae
+
+Package: com.macthemes.suave7-wp-mario-667
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Mario, 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.mario-667h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.mario-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 758
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 1d66605d1b3c7f23b7d9092a81524848
+
+Package: com.macthemes.suave7-wp-patterns
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Patterns, 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.patterns-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.patterns-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 756
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 6a33ebc801085eea10a72c0265539348
+
+Package: com.macthemes.suave7-wp-patterns-568
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Patterns, 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.patterns-568h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.patterns-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 758
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 79f3ca9cbf1080d437ca8ab1435551a8
+
+Package: com.macthemes.suave7-wp-patterns-667
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Patterns, 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.patterns-667h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.patterns-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 756
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 6d9f2211036d029eb02ec687dc02de7e
+
+Package: com.macthemes.suave7-wp-vinyls
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Vinyls, 3.5" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.vinyls-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.vinyls-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: c11cb1b7648d28abaddd93d328848833
+
+Package: com.macthemes.suave7-wp-vinyls-568
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Vinyls, 4.0" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.vinyls-568h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.vinyls-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 760
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: ca7437ada2e43c4bf6653335bf456ae0
+
+Package: com.macthemes.suave7-wp-vinyls-667
+Version: 2009~transitional
+Section: Transitional Packages
+Name: Suave7 Wallpaper ( Vinyls, 4.7" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.macthemes.suave7.wp.vinyls-667h-2x-iphone
+Filename: packages/tp.macthemes.suave7.wp.vinyls-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 760
+Installed-Size: 1
+Description: Transitional Package. Update and Remove …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.transitional
+MD5sum: 56581a84bf4b22b8eb0cc96aff87abc3
+
+Package: com.macthemes.suave7.apps
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Icons & UI ( Apps )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-apps (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 32706090
+Installed-Size: 40081
+Description: Core Files to theme App-Store-Apps …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps
+MD5sum: 6baa28855c4219dd7adc29d572fcda28
+
+Package: com.macthemes.suave7.apps-and-tweaks
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Family ( Apps & Tweaks )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: gsc.main-screen-scale (= 2)
+Depends: com.macthemes.suave7.apps, com.macthemes.suave7.tweaks
+Filename: packages/dp.macthemes.suave7.apps-and-tweaks.deb
+Icon: file:///usr/share/macthemes/sections/dependencies@2x.png
+Architecture: iphoneos-arm
+Size: 754
+Installed-Size: 0
+Description: Virtual Dependency for Suave7 …
+MD5sum: 76ac4cfba9d5461a1a03c52f83181bd5
+
+Package: com.macthemes.suave7.apps.500px
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( 500px )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-500px (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.500px.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 1626372
+Installed-Size: 1935
+Description: Additional Files to theme 500px's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.500px
+MD5sum: fe2d65fdbad45580709629d4cf545807
+
+Package: com.macthemes.suave7.apps.idos
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( iDOS )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-idos (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.idos.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 2650264
+Installed-Size: 2763
+Description: Additional Files to theme iDOS' UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.idos
+MD5sum: c506930549305b76eef2493465207567
+
+Package: com.macthemes.suave7.apps.messenger
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( Messenger )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-messenger (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.messenger.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 3965328
+Installed-Size: 5482
+Description: Additional Files to theme FB Messenger's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.messenger
+MD5sum: 9620dd77976c29c5260eebd6ee0927a3
+
+Package: com.macthemes.suave7.apps.reddit
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( Reddit )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-reddit (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.reddit.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 706020
+Installed-Size: 921
+Description: Additional Files to theme Reddit's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.reddit
+MD5sum: 13df4ee38163cf6dfef8d36ca7f0a6c1
+
+Package: com.macthemes.suave7.apps.shazam
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( Shazam )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-shazam (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.shazam.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 18607832
+Installed-Size: 20164
+Description: Additional Files to theme Shazam's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.shazam
+MD5sum: 7b9f9facb1ac02c01a199fa2fe4b92dd
+
+Package: com.macthemes.suave7.apps.twitter
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( Twitter )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-twitter (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.twitter.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 3147540
+Installed-Size: 3576
+Description: Additional Files to theme Twitter's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.twitter
+MD5sum: 78b6f16c5dd86799d55e5f3132f9f4a5
+
+Package: com.macthemes.suave7.apps.vimeo
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( Vimeo )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-vimeo (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.vimeo.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 65589788
+Installed-Size: 66178
+Description: Additional Files to theme Vimeo's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.vimeo
+MD5sum: d34c0a6d9064a3c8323a7a524c43224c
+
+Package: com.macthemes.suave7.apps.whatsapp
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Apps ( WhatsApp )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-whatsapp (<< 2009~)
+Filename: packages/com.macthemes.suave7.apps.whatsapp.deb
+Icon: file:///usr/share/macthemes/sections/apps@2x.png
+Architecture: iphoneos-arm
+Size: 18090770
+Installed-Size: 19019
+Description: Additional Files to theme WhatsApp's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.apps.whatsapp
+MD5sum: 1282c31327c4767e2a99658bc4dcc54b
+
+Package: com.macthemes.suave7.core
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Family ( Core )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: gsc.main-screen-scale (= 2)
+Depends: com.macthemes.suave7.core71x | com.macthemes.suave7.core84x | com.macthemes.suave7.core90x | com.macthemes.suave7.core91 | com.macthemes.suave7.core92x | com.macthemes.suave7.core93x | com.macthemes.suave7.core101x | com.macthemes.suave7.core102x | com.macthemes.suave7.core103x | com.macthemes.suave7.core110x | com.macthemes.suave7.core111x | com.macthemes.suave7.core112x | com.macthemes.suave7.core113x | com.macthemes.suave7.core124x
+Filename: packages/dp.macthemes.suave7.core.deb
+Icon: file:///usr/share/macthemes/sections/dependencies@2x.png
+Architecture: iphoneos-arm
+Size: 782
+Installed-Size: 1
+Description: Virtual Dependency for Suave7 …
+MD5sum: 615da6394cef801d65d1dff4e1deee49
+
+Package: com.macthemes.suave7.core101x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 10.1.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 10.1), firmware (<< 10.2), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core102x, com.macthemes.suave7.core103x
+Replaces: com.macthemes.suave7-core101x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core101x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 46685210
+Installed-Size: 53190
+Description: Core Files to theme Stock-Apps in iOS 10.1.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core10x
+MD5sum: 082af6cf5fbbf4efbe852b5cc581adb6
+
+Package: com.macthemes.suave7.core102x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 10.2.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 10.2), firmware (<< 10.3), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core101x, com.macthemes.suave7.core103x
+Replaces: com.macthemes.suave7-core102x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core102x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 46368062
+Installed-Size: 52831
+Description: Core Files to theme Stock-Apps in iOS 10.2.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core10x
+MD5sum: 32895a321b0ce00886ee16dd7b217e20
+
+Package: com.macthemes.suave7.core103x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 10.3.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 10.3), firmware (<< 10.4), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core101x, com.macthemes.suave7.core102x
+Replaces: com.macthemes.suave7-core103x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core103x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 47241144
+Installed-Size: 53865
+Description: Core Files to theme Stock-Apps in iOS 10.3.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core10x
+MD5sum: 99939dc9e3a6af33ce12dbbffd29ebb0
+
+Package: com.macthemes.suave7.core110x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 11.0.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.macthemes.theme-engine.snowboard
+Depends: firmware (>= 11.0), firmware (<< 11.1), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core111x, com.macthemes.suave7.core112x, com.macthemes.suave7.core113x
+Replaces: com.macthemes.suave7-core110x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core110x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 130048442
+Installed-Size: 142008
+Description: Core Files to theme Stock-Apps in iOS 11.0.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core11x
+MD5sum: cd66cef3f80d5be1b0b3cdc538e4ca7b
+
+Package: com.macthemes.suave7.core111x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 11.1.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.macthemes.theme-engine.snowboard
+Depends: firmware (>= 11.1), firmware (<< 11.2), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core110x, com.macthemes.suave7.core112x, com.macthemes.suave7.core113x
+Replaces: com.macthemes.suave7-core111x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core111x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 130444844
+Installed-Size: 142648
+Description: Core Files to theme Stock-Apps in iOS 11.1.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core11x
+MD5sum: 9a8d59e6446d47a3ef61c70022a3e505
+
+Package: com.macthemes.suave7.core112x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 11.2.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.macthemes.theme-engine.snowboard
+Depends: firmware (>= 11.2), firmware (<< 11.3), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core110x, com.macthemes.suave7.core111x, com.macthemes.suave7.core113x
+Replaces: com.macthemes.suave7-core112x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core112x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 132416168
+Installed-Size: 144463
+Description: Core Files to theme Stock-Apps in iOS 11.2.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core11x
+MD5sum: b709a8fe19e4398fa090ba40ae4e3f44
+
+Package: com.macthemes.suave7.core113x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 11.3.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.macthemes.theme-engine.snowboard
+Depends: firmware (>= 11.3), firmware (<< 11.4), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core110x, com.macthemes.suave7.core111x, com.macthemes.suave7.core112x
+Replaces: com.macthemes.suave7-core113x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core113x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 133181468
+Installed-Size: 145368
+Description: Core Files to theme Stock-Apps in iOS 11.3.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core11x
+MD5sum: cbeeca9ee2f4c93be312175eac283c23
+
+Package: com.macthemes.suave7.core124x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 12.4.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: net.dodtweaks.ithemer (>= 1.0~beta2-2) | com.macthemes.theme-engine.snowboard
+Depends: firmware (>= 12.4), firmware (<< 12.5), com.macthemes.suave7.apps-and-tweaks
+Replaces: com.macthemes.suave7-core124x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core124x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 149190720
+Installed-Size: 164008
+Description: Core Files to theme Stock-Apps in iOS 12.4.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core12x
+MD5sum: d0ea1673185453d7f5d127c9fedc49f4
+
+Package: com.macthemes.suave7.core71x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 7.1.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 7.1), firmware (<< 8.0), com.macthemes.suave7.apps-and-tweaks
+Replaces: com.macthemes.suave7-core71x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core71x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 26369728
+Installed-Size: 29077
+Description: Core Files to theme Stock-Apps in iOS 7.1.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core7x
+MD5sum: bc9e8a05222f6b10f5989ba4e3e79769
+
+Package: com.macthemes.suave7.core84x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 8.4.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 8.4), firmware (<< 9.0), com.macthemes.suave7.apps-and-tweaks
+Replaces: com.macthemes.suave7-core84x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core84x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 29026212
+Installed-Size: 32879
+Description: Core Files to theme Stock-Apps in iOS 8.4.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core8x
+MD5sum: 26f6abf31176e48808433ab983c44942
+
+Package: com.macthemes.suave7.core90x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 9.0.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 9.0), firmware (<< 9.1), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core91, com.macthemes.suave7.core92x, com.macthemes.suave7.core93x
+Replaces: com.macthemes.suave7-core90x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core90x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 39407214
+Installed-Size: 43946
+Description: Core Files to theme Stock-Apps in iOS 9.0.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core9x
+MD5sum: 9c72c28d01da133f2a6f10996a2f8bee
+
+Package: com.macthemes.suave7.core91
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 9.1 )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 9.1), firmware (<< 9.2), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core90x, com.macthemes.suave7.core92x, com.macthemes.suave7.core93x
+Replaces: com.macthemes.suave7-core91 (<< 2009~)
+Filename: packages/com.macthemes.suave7.core91.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 39439100
+Installed-Size: 43977
+Description: Core Files to theme Stock-Apps in iOS 9.1 …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core9x
+MD5sum: f598ebfa348432818af122d3fb1d48ae
+
+Package: com.macthemes.suave7.core92x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 9.2.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 9.2), firmware (<< 9.3), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core90x, com.macthemes.suave7.core91, com.macthemes.suave7.core93x
+Replaces: com.macthemes.suave7-core92x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core92x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 39454514
+Installed-Size: 43983
+Description: Core Files to theme Stock-Apps in iOS 9.2.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core9x
+MD5sum: d904bee300e96b7e072d5d57dbfc799d
+
+Package: com.macthemes.suave7.core93x
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Core ( iOS 9.3.x )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone
+Depends: firmware (>= 9.3), firmware (<< 10.0), com.macthemes.suave7.apps-and-tweaks
+Conflicts: com.macthemes.suave7.core90x, com.macthemes.suave7.core91, com.macthemes.suave7.core92x
+Replaces: com.macthemes.suave7-core93x (<< 2009~)
+Filename: packages/com.macthemes.suave7.core93x.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 39427538
+Installed-Size: 44044
+Description: Core Files to theme Stock-Apps in iOS 9.3.x …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.core9x
+MD5sum: 3df4d421741a0a7d043f52d20fa7ebd8
+
+Package: com.macthemes.suave7.docks
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Docks
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: cy+model.iphone | cy+model.ipod, com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.dock
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-docks (<< 2009~)
+Filename: packages/com.macthemes.suave7.docks.deb
+Icon: file:///usr/share/macthemes/sections/docks@2x.png
+Architecture: iphoneos-arm
+Size: 230836
+Installed-Size: 390
+Description: Additional Files to theme the Dock …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.docks
+MD5sum: 2c02aa3998ad3791e609a7a01c0fab9d
+
+Package: com.macthemes.suave7.lockglyph
+Version: 2009
+Section: Themes ( LockGlyph )
+Name: Suave7 LockGlyph
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.evilgoldfish.lockglyph | xyz.evilgoldfish.lockglyphx | com.remyla.LockGlyphXI
+Replaces: com.macthemes.suave7-lockglyph (<< 2009~)
+Filename: packages/com.macthemes.suave7.lockglyph.deb
+Icon: file:///usr/share/macthemes/sections/lockglyphs@2x.png
+Architecture: iphoneos-arm
+Size: 37364
+Installed-Size: 85
+Description: Classic Unlock Sound from iOS 6 …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.lockglyph
+MD5sum: 09523afc0ece1231ce87e638be71eb0d
+
+Package: com.macthemes.suave7.preferences
+Version: 2009
+Section: Tweaks ( Suave7 )
+Name: Suave7 Preferences
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: mobilesubstrate, grep, powermanagement, sed, co.pnre.aria2, com.a3tweaks.polus, com.aditkamath.flame, com.cpdigitaldarkroom.cistemaperio, com.cpdigitaldarkroom.fairydust, com.evilgoldfish.lockglyph, com.filippobiga.springtomize3, com.golddavid.colorflow2, com.nin9tyfour.nightmode9, com.rave.dotsgodown, de.j-gessner.ccloader, io.c0ldra1n.mitsuha | io.c0ldra1n.mitsuha-beta, libactivator, me.chewitt.customcover, org.coolstar.classicfolders | org.coolstar.classicfolders2, org.thebigboss.ccmeters, org.thebigboss.confero, org.thebigboss.palert
+Provides: com.macthemes.activatery, com.macthemes.carbon
+Replaces: com.macthemes.suave7-preferences (<< 2009~)
+Filename: packages/com.macthemes.suave7.preferences.deb
+Icon: file:///usr/share/macthemes/sections/preferences@2x.png
+Architecture: iphoneos-arm
+Size: 15752
+Installed-Size: 70
+Description: Preferences for the Tweaks we use …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.preferences
+MD5sum: d182854233ca04784d17ec5971e1a7ee
+
+Package: com.macthemes.suave7.tribute
+Version: 2009
+Section: Utilities ( Suave7 )
+Name: Suave7 Tribute
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: preferenceloader
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-tribute (<< 2009~)
+Filename: packages/com.macthemes.suave7.tribute.deb
+Icon: file:///usr/share/macthemes/sections/suave7@2x.png
+Architecture: iphoneos-arm
+Size: 117308
+Installed-Size: 146
+Description: "Preference Pane" for Suave7 …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.tribute
+MD5sum: bb2edd85bc2144a452c956b720cf793f
+
+Package: com.macthemes.suave7.tweaks
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Icons & UI ( Tweaks )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: bash (>= 5.0), com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui
+Depends: mobilesubstrate, com.macthemes.essentials | com.macthemes.essentials-beta, com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-tweaks (<< 2009~)
+Filename: packages/com.macthemes.suave7.tweaks.deb
+Icon: file:///usr/share/macthemes/sections/cydia@2x.png
+Architecture: iphoneos-arm
+Size: 20296230
+Installed-Size: 24022
+Description: Core Files to theme Cydia-Tweaks …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.tweaks
+MD5sum: cde9b58d4c05a73912fc0042706d7bdb
+
+Package: com.macthemes.suave7.tweaks.activator
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Tweaks ( Activator )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: bash (>= 5.0), com.macthemes.essentials | com.macthemes.essentials-beta, com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard.ui, libactivator (>= 1.9.11~beta1)
+Depends: mobilesubstrate, com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-activator (<< 2009~)
+Filename: packages/com.macthemes.suave7.tweaks.activator.deb
+Icon: file:///usr/share/macthemes/sections/cydia@2x.png
+Architecture: iphoneos-arm
+Size: 335434
+Installed-Size: 542
+Description: Additional Files to theme Activator's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.tweaks.activator
+MD5sum: 4dc1f34987899c23e9fdec0538c6fbee
+
+Package: com.macthemes.suave7.tweaks.icleaner
+Version: 2009
+Section: Themes ( Suave7 )
+Name: Suave7 Tweaks ( iCleaner )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: com.anemonetheming.anemone | net.dodtweaks.ithemer | com.spark.snowboard, com.exile90.icleanerpro | org.altervista.exilecom.icleaner
+Depends: com.macthemes.suave7.core
+Replaces: com.macthemes.suave7-icleaner (<< 2009~)
+Filename: packages/com.macthemes.suave7.tweaks.icleaner.deb
+Icon: file:///usr/share/macthemes/sections/cydia@2x.png
+Architecture: iphoneos-arm
+Size: 52403786
+Installed-Size: 53543
+Description: Additional Files to theme iCleaner's UI …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.tweaks.icleaner
+MD5sum: f40929678982a41707dbc0c672446850
+
+Package: com.macthemes.suave7.wp.colors-2x-iphone
+Version: 2009
+Section: Wallpaper ( 3.5" )
+Name: Suave7 Wallpaper ( Colors )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Replaces: com.macthemes.suave7-wp-colors (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.colors-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 665854
+Installed-Size: 953
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.colors
+MD5sum: 6247c7371080344ea685cbb67fec2395
+
+Package: com.macthemes.suave7.wp.colors-568h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.0" )
+Name: Suave7 Wallpaper ( Colors )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Replaces: com.macthemes.suave7-wp-colors-568 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.colors-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 750416
+Installed-Size: 1065
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.colors
+MD5sum: ae7ef636965dcf5873d227b64269d68b
+
+Package: com.macthemes.suave7.wp.colors-667h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.7" )
+Name: Suave7 Wallpaper ( Colors )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Replaces: com.macthemes.suave7-wp-colors-667 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.colors-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 895366
+Installed-Size: 1268
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.colors
+MD5sum: debaf94757b76f809a31ddbb7bf12f3d
+
+Package: com.macthemes.suave7.wp.firefox-2x-iphone
+Version: 2009
+Section: Wallpaper ( 3.5" )
+Name: Suave7 Wallpaper ( Firefox )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Replaces: com.macthemes.suave7-wp-firefox (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.firefox-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 194494
+Installed-Size: 252
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.firefox
+MD5sum: 50bc73f0c215757452a61358d5f1fe3a
+
+Package: com.macthemes.suave7.wp.firefox-568h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.0" )
+Name: Suave7 Wallpaper ( Firefox )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Replaces: com.macthemes.suave7-wp-firefox-568 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.firefox-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 202590
+Installed-Size: 260
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.firefox
+MD5sum: c6b44b8b513e2b3baba6806d7bd4b585
+
+Package: com.macthemes.suave7.wp.firefox-667h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.7" )
+Name: Suave7 Wallpaper ( Firefox )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Replaces: com.macthemes.suave7-wp-firefox-667 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.firefox-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 235768
+Installed-Size: 299
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.firefox
+MD5sum: 6c5cf26ec686cd49d575d67775dfeacc
+
+Package: com.macthemes.suave7.wp.firewatch-2x-iphone
+Version: 2009
+Section: Wallpaper ( 3.5" )
+Name: Suave7 Wallpaper ( Firewatch )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Replaces: com.macthemes.suave7-wp-firewatch (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.firewatch-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 6140640
+Installed-Size: 6300
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.firewatch
+MD5sum: 331316d308ab9141ae4a1d6e77ea90dc
+
+Package: com.macthemes.suave7.wp.firewatch-568h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.0" )
+Name: Suave7 Wallpaper ( Firewatch )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Replaces: com.macthemes.suave7-wp-firewatch-568 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.firewatch-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 6527646
+Installed-Size: 6687
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.firewatch
+MD5sum: e381bfdbe396cff162fa7e003e8b6e74
+
+Package: com.macthemes.suave7.wp.firewatch-667h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.7" )
+Name: Suave7 Wallpaper ( Firewatch )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Replaces: com.macthemes.suave7-wp-firewatch-667 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.firewatch-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 8763804
+Installed-Size: 8907
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.firewatch
+MD5sum: d2a57c19a6210f40f8357f0d5528ac53
+
+Package: com.macthemes.suave7.wp.mario-2x-iphone
+Version: 2009
+Section: Wallpaper ( 3.5" )
+Name: Suave7 Wallpaper ( Mario )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Replaces: com.macthemes.suave7-wp-mario (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.mario-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 2893538
+Installed-Size: 2990
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.mario
+MD5sum: f9e8e277b4cf15413aee09b6d0ddd972
+
+Package: com.macthemes.suave7.wp.mario-568h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.0" )
+Name: Suave7 Wallpaper ( Mario )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Replaces: com.macthemes.suave7-wp-mario-568 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.mario-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 2896438
+Installed-Size: 2993
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.mario
+MD5sum: a550b84bb2e4a7f931a05c20a14aff18
+
+Package: com.macthemes.suave7.wp.mario-667h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.7" )
+Name: Suave7 Wallpaper ( Mario )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Replaces: com.macthemes.suave7-wp-mario-667 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.mario-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 3332588
+Installed-Size: 3430
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.mario
+MD5sum: 2fc2ceb21d0ed33be208c206c04667ea
+
+Package: com.macthemes.suave7.wp.patterns-2x-iphone
+Version: 2009
+Section: Wallpaper ( 3.5" )
+Name: Suave7 Wallpaper ( Patterns )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Replaces: com.macthemes.suave7-wp-patterns (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.patterns-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 11557842
+Installed-Size: 11936
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.patterns
+MD5sum: 657070319b9d145240c607f12fcf0c1b
+
+Package: com.macthemes.suave7.wp.patterns-568h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.0" )
+Name: Suave7 Wallpaper ( Patterns )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Replaces: com.macthemes.suave7-wp-patterns-568 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.patterns-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 13289784
+Installed-Size: 13814
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.patterns
+MD5sum: 7f9169b0126ee5f073924b5f2fff11fa
+
+Package: com.macthemes.suave7.wp.patterns-667h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.7" )
+Name: Suave7 Wallpaper ( Patterns )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Replaces: com.macthemes.suave7-wp-patterns-667 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.patterns-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 16042782
+Installed-Size: 16809
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.patterns
+MD5sum: 10ab235320812cccacd1420372989c9c
+
+Package: com.macthemes.suave7.wp.vinyls-2x-iphone
+Version: 2009
+Section: Wallpaper ( 3.5" )
+Name: Suave7 Wallpaper ( Vinyls )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 960)
+Replaces: com.macthemes.suave7-wp-vinyls (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.vinyls-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 13359236
+Installed-Size: 13885
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.vinyls
+MD5sum: daaa1524fc0234d6535e62cadef3397a
+
+Package: com.macthemes.suave7.wp.vinyls-568h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.0" )
+Name: Suave7 Wallpaper ( Vinyls )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone | cy+model.ipod, gsc.main-screen-height (= 1136)
+Replaces: com.macthemes.suave7-wp-vinyls-568 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.vinyls-568h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 15481726
+Installed-Size: 15910
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.vinyls
+MD5sum: 6339e719c2e39cb2cd1797598bad6627
+
+Package: com.macthemes.suave7.wp.vinyls-667h-2x-iphone
+Version: 2009
+Section: Wallpaper ( 4.7" )
+Name: Suave7 Wallpaper ( Vinyls )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
+Replaces: com.macthemes.suave7-wp-vinyls-667 (<< 2009~)
+Filename: packages/com.macthemes.suave7.wp.vinyls-667h-2x-iphone.deb
+Icon: file:///usr/share/macthemes/sections/wallpapers@2x.png
+Architecture: iphoneos-arm
+Size: 19865434
+Installed-Size: 19883
+Description: Wallpapers for your iDevice …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.suave7.wp.vinyls
+MD5sum: c5be321c38f766553817c50a59d33a52
+
+Package: com.macthemes.symbiosis
+Version: 2009
+Section: System
+Name: Symbiosis
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: firmware (>= 6.1), firmware (<< 6.2), gsc.ipad
+Depends: mobilesubstrate
+Filename: packages/com.macthemes.symbiosis.deb
+Icon: file:///usr/share/macthemes/sections/system@2x.png
+Architecture: iphoneos-arm
+Size: 54813398
+Installed-Size: 56122
+Description: Compass, Voice Memos and Weather on your iPad …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.symbiosis
+MD5sum: 6fa7fd149f663cd36652abdaddf6c7df
+
+Package: com.macthemes.theme-engine.snowboard
+Version: 2009
+Section: Themes ( Suave7 )
+Name: SnowBoard ( Family )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Pre-Depends: gsc.main-screen-scale (= 2)
+Depends: com.spark.snowboard, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.pagedots, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Filename: packages/dp.macthemes.theme-engine.snowboard.deb
+Icon: file:///usr/share/macthemes/sections/dependencies@2x.png
+Architecture: iphoneos-arm
+Size: 792
+Installed-Size: 1
+Description: Virtual Dependency for SnowBoard …
+MD5sum: a2ecb7e92ceefc1a7f66a32fe376041b
+
+Package: com.macthemes.xenwatch
+Version: 2009
+Section: XenHTML
+Name: XenWatch
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Depends: com.matchstic.xenhtml (>= 2.0~beta1)
+Filename: packages/com.macthemes.xenwatch.deb
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Architecture: iphoneos-arm
+Size: 110246
+Installed-Size: 296
+Description: A Clock inspired from Game "Firewatch" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.xenwatch
+MD5sum: 199a4e11291bcee1dc5f39264c55d4ca
+

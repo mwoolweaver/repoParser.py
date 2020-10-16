@@ -1,0 +1,8 @@
+Origin: Opticity Repository
+Label: Opticity
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Contains tweaks only compatible for iOS 12 - 12.1.2 by pwn20wnd.

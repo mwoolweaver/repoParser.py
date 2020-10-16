@@ -1,0 +1,166 @@
+Package: fun.yfyf.bigbangev
+Version: 4.5.0
+Section: Tweaks
+Maintainer: EVAN <215288968@qq.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=65.deb
+Size: 1115682
+Installed-Size: 5076
+Description: 锤子科技代言的大爆炸功能 移植到iOS上
+Name: BigBangEv
+Author: EVAN <215288968@qq.com>
+Depiction: https://repo.yfyf.fun/index.php?pid=65
+MD5sum: 5c850c218111b3157dcd8d468e17ce32
+
+Package: fun.yfyf.emojiforecast
+Version: 1.4
+Section: Tweaks
+Maintainer: EVAN <215288968@qq.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=55.deb
+Size: 220518
+Installed-Size: 616
+Description: 在状态栏使用Emoji显示天气状况
+Name: EmojiForecast
+Author: EVAN <215288968@qq.com>
+Depiction: https://repo.yfyf.fun/index.php?pid=55
+MD5sum: 511a29a62045dd4f6ca196562b1e736a
+
+Package: fun.yfyf.bottombannersx3
+Version: 1.0
+Section: Tweaks
+Maintainer: EVAN <215288968@qq.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=35.deb
+Size: 62064
+Installed-Size: 400
+Description: 将通知Banner移动到屏幕下方
+Name: BottomBannersX3
+Author: EVAN <215288968@qq.com>
+Depiction: https://repo.yfyf.fun/index.php?pid=35
+MD5sum: d8ec9f16166f44b16386096d18e1f61d
+
+Package: fun.yfyf.nfcwriterhelper
+Version: 2.4.0
+Section: Tweaks
+Maintainer: EVAN
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=34.deb
+Size: 58416
+Installed-Size: 480
+Description: 建议大家不要彻底关闭NFCWriter，占不了多少内存，这样能减少NFCWriter启动的加载时间。
+ 打开NFCWriter时自动[运行模拟]，可以通过配置3D Touch菜单快速模拟指定的UID
+Name: NFCWriterHelper
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=34
+MD5sum: 47b4ab28d492350d9dc39bc032ac37b9
+
+Package: fun.yfyf.return2sender3
+Version: 1.1.0
+Section: Tweaks
+Maintainer: EVAN
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=33.deb
+Size: 4328
+Installed-Size: 168
+Description: Return key to act as send key when quick replying with third party application and in Messages. <p>在快捷回复中将键盘的换行变成发送。
+Name: Return2Sender3
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=33
+MD5sum: 79b192b38c92c416f556f079a0807811
+
+Package: fun.yfyf.unionpayqrcode
+Version: 0.0.1-6+debug
+Section: Addons (Activator)
+Maintainer: EVAN
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3)
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=22.deb
+Size: 16566
+Installed-Size: 160
+Description: 通过Activator打开云闪付【付款码】
+Name: UnionPayQrCode
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=22
+MD5sum: 24befb5982af4a009785e192467673a9
+
+Package: fun.yfyf.kuwomusichelper
+Version: 1.1.0-1+debug
+Section: Tweaks
+Maintainer: EVAN
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=20.deb
+Size: 3468
+Installed-Size: 136
+Description: 酷我音乐自动播放
+Name: KuwoMusicHelper
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=20
+MD5sum: 400a36e999fa7a06da6e5897de85cce1
+
+Package: fun.yfyf.neteasecloudmusichelper
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: EVAN
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=18.deb
+Size: 3596
+Installed-Size: 136
+Description: 打开网易云音乐时自动播放
+Name: NeteaseCloudMusicHelper
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=18
+MD5sum: 31914a2df3b5527cccb824fe426749fa
+
+Package: fun.yfyf.ximalayaplayerhelper
+Version: 1.0.0-7+debug
+Section: Tweaks
+Maintainer: EVAN
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=17.deb
+Size: 2790
+Installed-Size: 136
+Description: 喜马拉雅自动播放
+Name: XimalayaPlayerHelper
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=17
+MD5sum: 53046d70e9cc67bf9fff9f78d1729f88
+
+Package: fun.yfyf.kugoumusichelper
+Version: 1.0.0-2+debug
+Section: Tweaks
+Maintainer: EVAN
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=16.deb
+Size: 2808
+Installed-Size: 136
+Description: 打开酷狗音乐时自动播放
+Name: KugouMusicHelper
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=16
+MD5sum: 40b98e88c2ee60f4428bee29e41b4525
+
+Package: fun.yfyf.qqmusicplayerhelper
+Version: 0.0.1-25+debug
+Section: Tweaks
+Maintainer: EVAN
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./downloads.php?request=4.deb
+Size: 3682
+Installed-Size: 136
+Description: 打开QQ音乐时自动播放
+Name: QQMusicPlayerHelper
+Author: EVAN
+Depiction: https://repo.yfyf.fun/index.php?pid=4
+MD5sum: f5cfb4d9d7cdd18f2a1496f43bb5eac8
+

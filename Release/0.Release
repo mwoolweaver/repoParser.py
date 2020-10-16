@@ -1,0 +1,17 @@
+Origin: aaron.ms prototype repo
+Label: aaron.ms prototype
+Suite: stable
+Version: 0.1
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: aaron.ms prototype repo. All software on this repository is use-at-your-own-risk. I cannot be held responsible for any damage this software may cause (although it probably won't cause any damage). There is no "support" for any software on this repository. If you get into an infinite loop crash cycle, make sure you have ssh turned on before you install. Enjoy! @aaronash
+MD5Sum:
+ 659f8d9f52fde85127f241fd76cbb7cd 3769 Packages 
+ b35ee9e832374db8d6555df7f9eba5fb 1531 Packages.bz2 
+SHA1:
+ ca5de7d312d8a64d2a264e37b01bc47c613daf79 3769 Packages 
+ a007215dd8d6a3067d8b78fbade890aca6fc7ff1 1531 Packages.bz2 
+SHA256:
+ dc85e8dd9d7f4c226f7b489a26e5420068f19054afea6a86da517d8148c7e4e3 3769 Packages 
+ c0b3f2835b1ac141cfc1b4b4ea58ed0cf05d507704947307e6183166224895b8 1531 Packages.bz2 

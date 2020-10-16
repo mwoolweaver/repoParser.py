@@ -1,0 +1,223 @@
+Package: com.alhgteam.callbarxstw
+Name: CallBar XS 中文化
+Version: 0.1
+Architecture: iphoneos-arm
+Description: CallBar XS 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.callbarxstw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.callbarxstw.deb
+Size: 2096
+MD5sum: 232df8c9f7ae0a993bc8d9e7fe465a95
+
+Package: com.alhgteam.audiorecoderxstw
+Name: AudioRecoder XS 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AudioRecoder XS 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.audiorecoderxstw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.audiorecoderxstw.deb
+Size: 2446
+MD5sum: cd49cfc476196a47bc6470e1718cc785
+
+Package: com.alhgteam.bettersettingstw
+Name: BetterSettings 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: BetterSettings 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.bettersettingstw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.bettersettingstw.deb
+Size: 1692
+MD5sum: 24057427c50b7047c7ad55862c895c36
+
+Package: com.alhgteam.togglowtw
+Name: Togglow 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Togglow 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.togglowtw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.togglowtw.deb
+Size: 2580
+MD5sum: 2cf617aba4dfba9512b59658b1257f8a
+
+Package: com.alhgteam.noblurtw
+Name: NoBlur 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: NoBlur 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.noblurtw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.noblurtw.deb
+Size: 4022
+MD5sum: f555381fd24621781e928345b6f6f51a
+
+Package: com.alhgteam.ekgtw
+Name: EKG 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: EKG 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.ekgtw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.ekgtw.deb
+Size: 1452
+MD5sum: 47008177cf71e7f80aea5ae4c089aaf8
+
+Package: com.alhgteam.shuffletw
+Name: Shuffle 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Shuffle 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.shuffletw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.shuffletw.deb
+Size: 1354
+MD5sum: ce8a12a67b5da7e968eab8af00a22c13
+
+Package: com.alhgteam.powermoduletw
+Name: PowerModule 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: PowerModule 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.powermoduletw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.powermoduletw.deb
+Size: 1026
+MD5sum: b025c5beb921311d94c514cc1954af9c
+
+Package: com.alhgteam.betterccxitw
+Name: BetterCCXI 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: BetterCCXI 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.betterccxitw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.betterccxitw.deb
+Size: 1168
+MD5sum: 8e1f73e1ca27f6e7564b423a3decf8d8
+
+Package: com.alhgteam.byehomebottombarxtw
+Name: ByeHomeBottomBarX 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ByeHomeBottomBarX 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.byehomebottombarxtw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.byehomebottombarxtw.deb
+Size: 1192
+MD5sum: 6cf493232d0ba4a650739c95d3a34b64
+
+Package: com.alhgteam.dleasytw
+Name: DLEasy 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: DLEasy 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.dleasytw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.dleasytw.deb
+Size: 954
+MD5sum: 0bc13ec535a731794649a930e7f83a1c
+
+Package: com.alhgteam.gif2aniprefstw
+Name: Gif2AniPrefs 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gif2AniPrefs 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.gif2aniprefstw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.gif2aniprefstw.deb
+Size: 1468
+MD5sum: 5202a9809db65569d18866cb9638ab68
+
+Package: com.alhgteam.tinybannerstw
+Name: TinyBanners 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: TinyBanners 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.tinybannerstw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.tinybannerstw.deb
+Size: 1858
+MD5sum: 87051330ad6b801eb71f9be11a0644c0
+
+Package: com.alhgteam.fingertouchtw
+Name: FingerTouch 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: FingerTouch 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.fingertouchtw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.fingertouchtw.deb
+Size: 1404
+MD5sum: 7ded3d64e67ebcb02a3490748d31482a
+
+Package: com.alhgteam.opennotifiertw
+Name: OpenNotifiertw 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: OpenNotifiertw 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.opennotifiertw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.opennotifiertw.deb
+Size: 1674
+MD5sum: 603ed5deaed047ff229c27de145d4ce8
+
+Package: com.alhgteam.lockplusprotw
+Name: LockPlus Pro 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: LockPlus Pro 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.lockplusprotw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.lockplusprotw.deb
+Size: 3164
+MD5sum: f626230d7fc1e512bce889025eab639e

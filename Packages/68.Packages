@@ -1,0 +1,446 @@
+Package: com.iarrays.autosilent
+Version: 1.0.1-beta-4
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 867
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, firmware (<< 9.1) | firmware (>> 11.0) | org.thebigboss.libstatus9, firmware (>> 9.1) | libstatusbar, com.iarrays.libiarrays (>=1.0.8), com.rpetrich.rocketbootstrap
+Filename: cydiarepo/AutoSilentMe1.0.1.deb
+Size: 627814
+MD5sum: c472af2069e237ba4a5fd1cb44fdd6d0
+SHA1: 4247ff4f196c4a92266a21fda0d4c86cf45d014e
+SHA256: a8cd8d68be517414065c28f2b98960cdf55d368c51b786ee6be0969a482d82ec
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Forgot each time when you walk into a meeting room and silent your device? Embarrassed when your device rings and everybody stares at you in the middle of a discussion? Well then this little tweak is for you!! Just install it then leave the rest to it. Works tightly with your calendar application and silent (reduce the noice till the very minimum level) your device based on your meetings in the calendar.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/autosilent
+Icon: file:////Library/PreferenceBundles/AutoSilentPreferences.bundle/AutoSilent@2x.png
+Name: Auto SlilentMe
+Sileodepiction: http://iarrays.com/sileo-depiction/autosilent/autosilent.json
+Sponsor: IArrays
+
+Package: com.iarrays.biolocker
+Version: 1.0.7-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 867
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 6), com.iarrays.libiarrays (>=1.0.12), com.rpetrich.rocketbootstrap
+Conflicts: com.rpetrich.biolockdown, net.limneos.bioprotect
+Filename: cydiarepo/BioLocker1.0.7.deb
+Size: 2059810
+MD5sum: 54de3a30e8d3e6292274438e0398af70
+SHA1: bb653b22a1db297b3d4ca0de08ffaa1b0936c5d6
+SHA256: 5daa3a5eabef207dc3bebeb23cc1e85768a3d5140eb3e0207a8b0202393aac5e
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Simple, light weight and elegant locker for your apps.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/biolocker
+Icon: file:////Library/PreferenceBundles/BioLockerPreferences.bundle/BioLocker@2x.png
+Name: Bio Locker
+Sileodepiction: http://iarrays.com/sileo-depiction/bilocker/biolocker.json
+Sponsor: IArrays
+
+Package: com.iarrays.calllogpro8
+Version: 12.0-beta-3
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 6530
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, com.iarrays.libiarrays (>= 1.0.12), com.rpetrich.rocketbootstrap
+Conflicts: com.iarrays.CallLogPro10
+Filename: cydiarepo/CallLogPro12.0.deb
+Size: 5416542
+MD5sum: 51fce8aea7baf5738a1682fdc6e2f5a5
+SHA1: 8f7e4932039c5ffdb085027267a0adb75549f875
+SHA256: b1bb9cb2011f36cc0d4996600ca8002d0f795730ae5af2120fb81ab4e6255193
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Now with iOS 13.X support along with A13/12 devices. CallLogPro allows to manage your calls history and to delete call records one by one or all. This works on all iOS versions starting from 8.0.
+Author: IArrays <contact@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=calllogpro
+Icon: file:////Applications/CallLogPro.app/AppIcon40x40@3x.png
+Name: CallLogPro (iOS 13 to 8)
+Sileodepiction: http://iarrays.com/sileo-depiction/calllogpro/calllogpro.json
+Sponsor: IArrays
+
+Package: com.iarrays.copic
+Version: 3.4.11-beta-2
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Depends: firmware(>= 4.0), mobilesubstrate, preferenceloader, firmware (<< 9.0)
+Conflicts: com.iarrays.copic2, com.iarrays.copic20
+Filename: cydiarepo/Copic3.4.11.deb
+Size: 1569648
+MD5sum: 42c2cc55ebf178876b6377d71fe47380
+SHA1: 3a1001a4250098b77af193093af716f2f193994a
+SHA256: 0620520d893288ab3bb3ff8296f03108be23285f9f96439ee3dbce83137d43f8
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Now supports iOS 9 and iPhone 6s & 6s Plus. Also supports Facebook and twitter profile pictures of your own in Messages as My Avatar. New rounded images feature added. Copic (short form of Contact Picture) shows contact pictures every where in your iPhone/iPad/iPod standard apps (Phone, SMS, FaceTime and Contacts). Also it shows contact pictures for favorites and recent call list in iPhone's standard mobile phone app and iPod/iPad 2's FaceTime app. This all in one contact picture app support all iDevices including iPad and iPod.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=Copic
+Icon: file:////System/Library/PreferenceBundles/CopicSettings.bundle/Copic.png
+Name: Copic
+Sponsor: IArrays
+
+Package: com.iarrays.copic2
+Version: 1.0.12-beta-15
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.iarrays.libiarrays (>= 1.0.12)
+Conflicts: com.iarrays.copic10, com.iarrays.copic
+Filename: cydiarepo/Copic2_1.0.12.deb
+Size: 1700992
+MD5sum: 9a617b3d49cc9021f3182574dfde802c
+SHA1: 44a3c924c833c1532bc0f7cde9dc0ad9ef85fd44
+SHA256: 7410754498134808b340f8a1669559723d83ddf71234988eef5c241f559faa13
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=copic2
+Icon: file:////System/Library/PreferenceBundles/CopicSettings.bundle/Copic.png
+Name: Copic 2
+Sileodepiction: http://iarrays.com/sileo-depiction/copic2/copic2.json
+Sponsor: IArrays
+
+Package: com.iarrays.copicforcallbar
+Version: 1.0.3-beta-5
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=7.0)
+Depends: mobilesubstrate, preferenceloader, net.limneos.callbar7, com.iarrays.copic
+Conflicts: com.iarrays.copicforcallbar2
+Filename: cydiarepo/CopicCB1.0.3.deb
+Size: 433012
+MD5sum: 0251c069eac939d9f9912339c142132c
+SHA1: fd9932698d3b95f0b14f67ecf5aadd623ab38454
+SHA256: 9cfb30d108d1cf85ccf5144ada3362be55423c11a9b03c341eca267fda412b31
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Copic now with CallBar and iOS 9 support. The most favorite tweak is now available with support of CallBar. Please ensure that you install CallBar before installing this tweak.
+Author: IArrays <support@iarrays.com>
+Icon: file:////System/Library/PreferenceBundles/CopicCBSettings.bundle/CopicCB.png
+Name: Copic For CallBar
+Sponsor: IArrays
+
+Package: com.iarrays.copicforcallbar2
+Version: 1.0.4-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>= 1.0.8)
+Depends: firmware (<< 11.0) | net.limneos.callbarx, firmware (>= 11.0) | net.limneos.callbar7, com.iarrays.copic2
+Filename: cydiarepo/CopicCB2_1.0.4.deb
+Size: 209730
+MD5sum: 636cbe5d08039b2fb4b598033fcea87c
+SHA1: 0e0a147dabd6f0c318134db0cba22d21b4de62f1
+SHA256: 2b048ba469e32f1aa7e0ac37ce07bfa0da0c5f6078772afb1499a9ce83208dae
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Copic For CallBar 2 brings ability to display the Contact pictures in CallBar standard views such Favorites, Recents and Contact screens. Please ensure that you install CallBar before installing this tweak. Requires Copic 2 and all settings of this plugin can be configured under Copic's settings.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=copicforcallbar2
+Icon: file:////System/Library/PreferenceBundles/CopicCBSettings.bundle/CopicCB.png
+Name: Copic For CallBar 2
+Sponsor: IArrays
+
+Package: com.iarrays.copicforwhatsapp
+Version: 1.2-beta-15
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>= 1.0.12)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.copic2 (>= 1.0.12)
+Filename: cydiarepo/CopicWA_1.2.deb
+Size: 932030
+MD5sum: 7a6cb1314d043a8a82a8fb3a2ccbc6f5
+SHA1: f4f5f8225558e2832e50e0a1b0b06589e2a4584a
+SHA256: b41d2479afa48ea88c04078e66d5d040f9fe452c27504e7ad798898feb862bb1
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Copic For WhatsApp brings ability to display the Contact pictures in Whatsapp standard views such Favorites, Recents, Contact and Chat screens. Please ensure that you install Copic 2 before installing this tweak. Requires Copic 2 and all settings of this plugin can be configured under Copic's settings.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=copicforwhatsapp
+Icon: file:////System/Library/PreferenceBundles/CopicWASettings.bundle/CopicWA.png
+Name: Copic For WhatsApp
+Sileodepiction: http://iarrays.com/sileo-depiction/?product=copicforwhatsapp
+Sponsor: IArrays
+
+Package: com.iarrays.deletecontact10
+Version: 1.5.1-beta-5
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 60
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>=1.0.9)
+Filename: cydiarepo/DeleteContact1.5.1.deb
+Size: 312330
+MD5sum: 909bd41a12bdb4d1a3b9ee99e55fe3de
+SHA1: fd8923773a48ca4bdbde968d6ccbe3f2d5374cf7
+SHA256: 10317d3c40b3e6335680d4d2a9580adf773edf5a90722af9d87ee05276739da0
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Now supports iOS 10 and also iPhone 7 & 7 Plus and iPad Air & iPad Air 2. Delete Contact allows to delete contacts from your address book. This little tweak adds a trash icon to Contact and Mobile Phone application's contacts screen. And also it allows group delete of contacts and works with all your iDevices.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=deletecontact
+Icon: file:////System/Library/PreferenceBundles/DeleteContactSettings.bundle/DeleteContact@2x.png
+Name: Delete Contact
+Sponsor: IArrays
+
+Package: com.iarrays.favorites1
+Version: 1.0.2-beta-4
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, preferenceloader, com.chpwn.weeloader
+Filename: cydiarepo/Favorites1.0.2.deb
+Size: 308902
+MD5sum: 98c713a1917004f841e3163454ba6ac0
+SHA1: 3470177fc9a4fcdbd6665a4bb5aba96a23c943f6
+SHA256: 1ac9c7ffcba831e978c72acc28e865c63147d877268f54c0f86f55efa2590611
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Like to see Favorites on Notification Center? Love to manage them without launching the Phone app? Then this is the tweak you must have. The all in one Favorites manager from Today’s screen of Notification Center, allows to manage Favorites with ease. With this you can add & delete favorties from Notification Center.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/favorites/index.html
+Icon: file:////System/Library/PreferenceBundles/IAFavouritesSettings.bundle/Favorites@2x.png
+Name: Favorites
+Sponsor: IArrays
+
+Package: com.iarrays.forcenotifications1
+Version: 1.0.4-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 150
+Pre-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, cy+model.iphone (>= 8) | com.imokhles.revealmenu, com.iarrays.libiarrays (>=1.0.5)
+Filename: cydiarepo/ForceNotifications1.0.4.deb
+Size: 397688
+MD5sum: e26233e3965d59af3b5f0c0ec3505199
+SHA1: b09006a80cfec05774fca7d21298096efbe97a31
+SHA256: d40501a7dbcf4e48f097b80f873497c0362d9a672356e49a7d00d96d86ae74df
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: 3D Touch Notifications allows to preview the content of notifications (Calendar, Mail, Messages, FaceTime, Phone and even Recents 2) on Notification Center without launching the app. And also it provides relavant preview actions for those notifications, where you can interact with the sender of the notification. If you want to open the associated app with the notification, just press litte harder (available iPhone 6s or above) on the notification will do the trick.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=forcenotifications
+Icon: file:////System/Library/PreferenceBundles/FNSettings.bundle/ForceNotif@2x.png
+Name: 3D Touch Notifications
+Sponsor: IArrays
+
+Package: com.iarrays.forcenotificationswa1
+Version: 1.0.4-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 150
+Pre-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, cy+model.iphone (>= 8) | com.imokhles.revealmenu, com.iarrays.libiarrays (>=1.0.5)
+Depends: com.iarrays.forcenotifications1
+Filename: cydiarepo/ForceNotificationsWA1.0.4.deb
+Size: 110184
+MD5sum: 8a95a2efca5d29bf70239ea9688e3e47
+SHA1: b171f358776d4593b6c6723549066caadf0dd0f9
+SHA256: 1ae1db16ab9da5626e591aeb856d604a931c0907f955709473f60054481e529e
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: 3D Touch Notifications for WhatsApp allows to preview the content of WhatsApp notifications on Notification Center without launching the app. And also it provides relavant preview actions for those notifications, where you can interact with the sender of the notification. If you want to open the WhatsApp with the notification, just press litte harder (required iPhone 6s or above) on the notification will do the trick.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=forcenotificationswa
+Icon: file:////System/Library/PreferenceBundles/FNWAMiscSettings.bundle/ForceNotifWA@2x.png
+Name: 3D Touch Notifications for WhatsApp
+Sponsor: IArrays
+
+Package: com.iarrays.libiarrays
+Version: 1.0.12-beta-2
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Pre-Depends: firmware (>=7.0)
+Conflicts: com.iarrays.libiarrays1
+Filename: cydiarepo/libIArrays_new1.0.11.deb
+Size: 306278
+MD5sum: 90c857f8c2feb03e83539208fa0d07e9
+SHA1: 47a8714b4129baf3f836eae32ae3200f20c067f8
+SHA256: 24ee18312a0037a7348d40aad36c370f8f65bf67bc007c3575f884e223c76001
+Section: Development
+Homepage: http://iarrays.com/
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Author: IArrays <support@iarrays.com>
+Name: libiarrays
+Sponsor: IArrays
+
+Package: com.iarrays.messagegroups
+Version: 1.0.4-beta-7
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 150
+Pre-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>=1.0.9), com.rpetrich.rocketbootstrap
+Filename: cydiarepo/MessageGroups1.0.4.deb
+Size: 1086028
+MD5sum: df06f58b5dc576bd53c06998bbfab184
+SHA1: b3c3833c73c218099d6d0852a25b650b3abddc98
+SHA256: 3522e08395d889fb4237abc5a30bad3a514d387cbd289efe963b267973c8d445
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Message Groups is developed to organize conversations in Messages app. It provides an ability to divide your conversations into categories just like your wish. The possibilities are endless. By default Message Groups creates list of default groups for you, by name they are All, All Groups, Favorites and Unknown. This provides a flexibility for you to switch between different list of conversations easily. Also Message Groups has an ability to set 'Password' protection (requires TouchID) to newly creating groups. This provides excellent flexibility to you protecting certain conversations being visible to others. What else do you want? Drop a note if you need more features.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=messagegroups
+Icon: file:////System/Library/PreferenceBundles/MessageGroupsSettings.bundle/Icon@3x.png
+Name: Message Groups
+Sponsor: IArrays
+
+Package: com.iarrays.qrforvb1
+Version: 1.0.5-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, preferenceloader, me.qusic.couriaios8, com.rpetrich.rocketbootstrap, com.iarrays.libiarrays (>=1.0.6)
+Filename: cydiarepo/QRForViber1.0.5.deb
+Size: 451634
+MD5sum: aa548697f08da8264acf0f77fa33fa04
+SHA1: 59acc2cb8e8fb66ef253766705378ac04467cbbe
+SHA256: dad985bcdde0704f20e101cc261b5046deb5783e59d9264f9fb1f5fe96fd5bc3
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: The best in Quick Reply and Compose for Viber. Requires on Couria, all in one platform centralised Quick Reply & Compose system. Tons of options included and can be configured via Couria’s Viber settings. Requires Viber 5.6.1 or above.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=qrforvb
+Icon: file:///System/Library/PreferenceBundles/QRForVBMisc.bundle/QRForVB@2x.png
+Name: QuickReply for Viber
+Sponsor: IArrays
+
+Package: com.iarrays.qrforwa
+Version: 1.0.4.2-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, preferenceloader, me.qusic.couriaios8, com.rpetrich.rocketbootstrap, com.iarrays.libiarrays (>=1.0.6), firmware (<< 10.0)
+Filename: cydiarepo/QRForWA1.0.4-2.deb
+Size: 480940
+MD5sum: 0094a33957db35350a506e8460a4d629
+SHA1: 9ce857e8d1cf3a3addda79ee256e081f984e13f4
+SHA256: cc9dfa945a058b7578cc442c9e6cfd63f596112558828abfba140a9baca66b20
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: The best in Quick Reply and Compose for WhatsApp. Requires on Couria, all in one platform centralised Quick Reply & Compose system. Tons of options included and can be configured via Couria’s WhatsApp settings. Requires WhatsApp 2.12.4 or later.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=qrforwa
+Icon: file:///System/Library/PreferenceBundles/QRForWAMisc.bundle/QRForWA@2x.png
+Name: QuickReply for WhatsApp
+Sponsor: IArrays
+
+Package: com.iarrays.recents10
+Version: 1.0.4-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 150
+Pre-Depends: firmware (>=8.0), firmware(<< 9.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: cydiarepo/Recents1.0.4.deb
+Size: 395308
+MD5sum: f77d24de46d88b9589f72dae504a3bd7
+SHA1: 5b647c1631333c8b1648a2dd251edf53b9336d6b
+SHA256: d2ff3a77bedb32dc422641125e33bade2fe8532441682eaa9a9f9fc2182a9248
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Recents keeps your call history coupled with Notification Center on your iDevice. It adds another tab to Notification Center and from where you can view all your call history and made calls without unlocking your device or launching the stack Phone app. It also allows you to manage your call history (like adding a call to existing contact or creating a new contact from a call) from any hassle. It also compatible with all famous tweaks like IntelliScreenX, LockInfo and CallBar, etc. Now you can also dial calls from Recents without launching your Phone app.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/recents/index.php
+Icon: file:////System/Library/PreferenceBundles/IARecentsSettings.bundle/IARecents@2x.png
+Name: Recents
+Sponsor: IArrays
+
+Package: com.iarrays.recents20
+Version: 1.0.6-beta-1
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 150
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>=1.0.5)
+Filename: cydiarepo/Recents2_1.0.6.deb
+Size: 404532
+MD5sum: 585e9ebf00db8a5fe7b80a01ea12a784
+SHA1: 8d056250e9f8f8f2a3942d83ef6e1bbbc74a92dc
+SHA256: 378e498cff9b5bf7416f6342a77b4bf94021410a2e6e1f6fcbd45196807b2445
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Recents 2 keeps your call history coupled with Notification Center on your iDevice. It adds another tab to Notification Center and from where you can view all your call history and made calls without unlocking your device or launching the stack Phone app. It also allows you to manage your call history (like adding a call to existing contact or creating a new contact from a call) from any hassle. It also compatible with all famous tweaks like IntelliScreenX, LockInfo and CallBar, etc. And you can also dial calls from Recents without launching your Phone app.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/?product=recents2
+Icon: file:////System/Library/PreferenceBundles/IARecentsSettings.bundle/IARecents@2x.png
+Name: Recents 2
+Sponsor: IArrays
+
+Package: com.iarrays.shareme
+Version: 1.0.5-beta-2
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 1024
+Pre-Depends: firmware (>=7.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>= 1.0.9), com.rpetrich.rocketbootstrap
+Filename: cydiarepo/ShareMe1.0.5.deb
+Size: 819380
+MD5sum: 86e609e9f384c77281dfad9dc558ded7
+SHA1: 6d2b81e490e898145b665230628a3cc5df53b7d9
+SHA256: dedcfffbe2ed0ffec872f48f01e5d33900ceee9805c356de22855f543ddec54f
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: ShareMe is a new little tweak that allows you to generate report history from your iDevice’s standard apps. For example, from Messages you can generate/import conversations into a PDF, CSV or Text file. Right now this little tweak supports Messages, Phone and FaceTime.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/shareme
+Icon: file:///System/Library/PreferenceBundles/ShareMeSettings.bundle/ShareMe@2x.png
+Name: ShareMe
+Sponsor: IArrays
+
+Package: com.iarrays.simplus
+Version: 1.0.3-beta-6
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 678
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 11.2), com.iarrays.libiarrays (>=1.0.10), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Filename: cydiarepo/eSim+1.0.3.deb
+Size: 679154
+MD5sum: 046fdc143487cdaeee9e6332e4df5bda
+SHA1: 16e14e1cc0c670c223bc45ba4f13f479a728506a
+SHA256: cda08509f534833e6bcbd2bb5f2cd0db54faaba37d431487113055db0d0b49aa
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: The way Apple has done it for you, but do not worry. We have done it for you. Choose a way how to call or text while using eSim/dual sim iPhones.
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/simplus
+Icon: file:////Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
+Name: eSim+
+Sileodepiction: http://iarrays.com/sileo-depiction/simplus/simplus.json
+Sponsor: IArrays
+
+Package: com.iarrays.whoozit
+Version: 2.0.8-beta-11
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 867
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap, com.iarrays.libiarrays (>= 1.0.11)
+Filename: cydiarepo/WhoIsCalling2.0.8.deb
+Size: 2008124
+MD5sum: 1b6d45e10d8d32e96b3f632c06882fdc
+SHA1: 007aad23710095e763694b610a5bdf9e0e03845d
+SHA256: 852b5d99411ec57984a3cd4b9e0089d1639e123a3513939dd86f47837b5b98d1
+Section: Utilities
+Homepage: http://iarrays.com/
+Description: Now with iOS 13 support. The all in one perfect caller ID solution for your iDevice. No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller on your device and just start searchin the calls from you stack apps like Phone, Messages & Notification Center and even from the Recents (tweak).
+Author: IArrays <support@iarrays.com>
+Depiction: http://iarrays.com/depiction/whoiscalling
+Icon: file:////System/Library/PreferenceBundles/WhoIsCallingSettings.bundle/WIC@2x.png
+Name: WhoozItPro
+Sileodepiction: http://iarrays.com/sileo-depiction/whoiscalling/whoiscalling.json
+Sponsor: IArrays
+

@@ -1,0 +1,36 @@
+Package: com.aeonlucid.snaphide2
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: AeonLucid
+Installed-Size: 556
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
+Conflicts: com.aeonlucid.snaphide, com.cokepokes.phantom
+Filename: ./debs/com.aeonlucid.snaphide2_1.4.2_iphoneos-arm.deb
+Size: 104622
+MD5sum: 95950a9b2c359155c930b8068d69e841
+SHA1: 60b7b57df81d7f0533ffb8ac4a20d69130ecacd4
+SHA256: cd711fc62c20c676087d326434e2bdb54dc76f438ac032f7996fd9228518b17f
+Section: Tweaks
+Description: Tweak that disables Snapchat jailbreak / tweak detection.
+Author: AeonLucid
+Depiction: https://aeonlucid.com/cydia/depictions/?p=com.aeonlucid.snaphide2
+Name: PicaHide
+
+Package: com.aeonlucid.snaphide2
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: AeonLucid
+Installed-Size: 588
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
+Conflicts: com.aeonlucid.snaphide, com.cokepokes.phantom
+Filename: ./debs/com.aeonlucid.snaphide2_1.4.3_iphoneos-arm.deb
+Size: 107564
+MD5sum: 7faaa0803b1385288178e9258a3fab2c
+SHA1: e3ee614641db14c29cdb152cae9cb80ee90dbfbb
+SHA256: 2f1eb9de9beac82df99f9eb863349ea230bc01d09d398892a9f383ea6190fe5a
+Section: Tweaks
+Description: Tweak that disables Snapchat jailbreak / tweak detection.
+Author: AeonLucid
+Depiction: https://aeonlucid.com/cydia/depictions/?p=com.aeonlucid.snaphide2
+Name: PicaHide
+

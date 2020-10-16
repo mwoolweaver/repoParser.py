@@ -1,0 +1,12 @@
+Origin: Randomblock1's Repo
+Label: Randomblock1's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks and tools made by Randomblock1
+
+SHA256:
+ d7a9cfca46292a3b0d271cc9927cfd7bd12ef73fed737192e9dd62fcf44f7a7b 1321 Packages.bz2
+ 84645797d6b138d2eba468662867ce6ca131da3d6bb30a5f0f6728dd26ae8798 1212 Packages.xz

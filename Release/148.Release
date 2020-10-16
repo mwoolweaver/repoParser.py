@@ -1,0 +1,8 @@
+Origin: rob311's beta repo
+Label: rob311
+Suite: stable
+Version: 0.9
+Codename: beta
+Architectures: iphoneos-arm
+Components: main
+Description: rob311's beta repo

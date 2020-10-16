@@ -1,0 +1,150 @@
+Package: com.brunonfl.hotspotenhancer
+Version: 0.0.1-45+debug
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade
+Installed-Size: 452
+Depends: mobilesubstrate
+Filename: debs//com.brunonfl.hotspotenhancer_0.0.1-45+debug_iphoneos-arm.deb
+Size: 12956
+MD5sum: 9fda8d28b7574ad45f910231fd79188e
+SHA1: d403dbe9f5f2205480bc834dfa730ddd9ef2d2f8
+SHA256: 73e92845bed2f433a51e52e7a9133a75cd605bb9c95f6a7613d12324491a7be4
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Bruno Andrade
+Name: HotspotEnhancer
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.hotspotenhancer
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/icon@3x.png
+
+Package: com.brunonfl.wifireminder
+Version: 1.5~beta2
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Installed-Size: 840
+Depends: mobilesubstrate
+Filename: debs/com.brunonfl.wifireminder_1.5~beta2_iphoneos-arm.deb
+Size: 355498
+MD5sum: 8a39a404018a692c8404297be976284d
+SHA1: dd0a348c4c9d0524dc7a54b3bfcfc2567bf9da56
+SHA256: a22507733621e84df7222c76cd4703b15e348a7ad3869f148ae73b671481ccc7
+Section: Tweaks
+Description: A great tweak for the Forgetful Person!
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: WiFiReminder
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.wifireminder
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/icon@3x.png
+
+Package: com.brunonfl.wifisshfordropbear
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Filename: debs/com.brunonfl.wifisshfordropbear_1.2_iphoneos-arm.deb
+Size: 1148
+MD5sum: c4fa5388dae2c4ece668dc8e896b28a6
+SHA1: f230915ce05b77d3247717d8d5b60d479cf0c2ff
+SHA256: 51d335a128bada9d9e743dfa5c835b34916f89f6ca658967bcdd18b89a091d22
+Section: System
+Description: Make SSH Great Again!
+Tag: role::hacker
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: Wi-Fi SSH for Dropbear
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.wifisshfordropbear
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.wifisshfordropbear/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.wifisshfordropbear/icon@3x.png
+
+Package: com.brunonfl.wijoin
+Version: 1.1-58
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade
+Installed-Size: 632
+Depends: mobilesubstrate
+Filename: debs//com.brunonfl.wijoin_1.1-58_iphoneos-arm.deb
+Size: 350430
+MD5sum: 586d0eac9f2ad6fe92292c5a7f9ce5aa
+SHA1: 2ca93f1a614d85f16c9fdf3b82735e600e3149fa
+SHA256: 6911f6890cc76fde739b054325ba049489e85cbfe6f0aa4b57f7945c3b58d060
+Section: Tweaks
+Description: Show the network you connected to when you connect like in Android!
+Author: Bruno Andrade
+Name: WiJoin
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.wijoin
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.wijoin/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.wijoin/icon@3x.png
+
+Package: com.brunonfl.mapsallcountries
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BrunoNFL
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.brunonfl.mapsallcountries_1.1_iphoneos-arm.deb
+Size: 3668
+MD5sum: 33d26e5e0e5ea2b698cc35b6ccfa762e
+SHA1: ae0a46bc1a704ee688ad11241ba7e19eab80c28e
+SHA256: 69d848f37bc188094f2d47b734f2cee1720e455db4eb7b3ca4980f71e003ce38
+Section: Tweaks
+Description: Turn-by-turn in every Country!
+Author: BrunoNFL
+Name: MapsAllCountries(iOS 6-12)
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.mapsallcountries
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.mapsallcountries/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.mapsallcountries/icon@3x.png
+
+Package: com.brunonfl.s8edge
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Installed-Size: 1472
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/com.brunonfl.s8edge_1.2.1_iphoneos-arm.deb
+Size: 575940
+MD5sum: 6d936698cbd02fa0bb495983c23de656
+SHA1: a375775429ff2af7832104bbcfdd41a10445e392
+SHA256: f6897111e144c46ae55f050e3cc7cc79409d7af89fcffda49d2956f1643e066d
+Section: Tweaks
+Description: Brings Galaxy S8 Infinity to iOS
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: S8Edge
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.s8edge
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.s8edge/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.s8edge/icon@3x.png
+
+Package: com.brunonfl.wicellswitcher
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Installed-Size: 916
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 9.0)
+Filename: debs/com.brunonfl.wicellswitcher_1.0.9_iphoneos-arm.deb
+Size: 434474
+MD5sum: 2c3ba34fdbeca3b935ba486d6868f2fe
+SHA1: e4882bdff1078e95f5d79e22a831aa130a9f4d00
+SHA256: 584a98e4ac3c61816e000ea67e96f72b436edd0b78364a930d45d3e01fcb1cab
+Section: Tweaks
+Description: Switch between Wi-Fi and Cellular the Smart Way!
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: WiCellSwitcher
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.wicellswitcher
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/icon@3x.png
+
+Package: com.iky1e.swipeselection
+Version: 1.5.6
+Architecture: iphoneos-arm
+Maintainer: Kyle Howells
+Installed-Size: 488
+Depends: mobilesubstrate
+Filename: debs/com.iky1e.swipeselection_1.5.6_iphoneos-arm.deb
+Size: 79748
+MD5sum: 2ecc686b48731ff80b8632e14abb2be1
+SHA1: 80aff982a5b8745e6dd18b3629f4e05566a6fe68
+SHA256: 76f301d3fe7831fdcd6aee650f1d2090514834480431ddde79efb3bb1624b9a5
+Section: Tweaks
+Description: Swipe along the keyboard to move the cursor and select text.
+Author: Kyle Howells
+Name: SwipeSelection
+Depiction: https://brunonfl.github.io/depictions/?p=com.iky1e.swipeselection
+SileoDepiction: https://brunonfl.github.io/depictions/com.iky1e.swipeselection/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.iky1e.swipeselection/icon@3x.png

@@ -1,0 +1,209 @@
+Package: com.NHFTD.MasqTapedUp
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.MasqTapedUp_1.05_iphoneos-arm.deb
+Size: 75900
+MD5sum: baf0d1685fd9fbbbfb4af22445f39a61
+SHA256: 941d44c33a17548c821eea7bbd81141e7ef96891a0eaf967fe61fef5d96e416f
+Description: Taped Up Masq Theme
+Name: Taped Up Masq Theme
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.DockPack
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.DockPack_1.05_iphoneos-arm.deb
+Size: 5143182
+MD5sum: c69c1449bed4c68a2a15878b207bc782
+SHA256: 42029ee868668b239fc4d2365c3b216f48157c1570d64a5b74327641cd31ed3d
+Description: RRA Dock Pack
+Name: RRA Dock Pack
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.SmileRespring
+Version: 1.0
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.SmileRespring_1.0_iphoneos-arm.deb
+Size: 779402
+SHA256: b96a8449eded4a103755d42990b4adf9e17736536d3e832c01c04434c84fc779
+MD5sum: 16974a6b393eb53a4df6dcf72d108181
+Description: A Slightly Animated Respring Logo
+Name: RRA Smile Respring
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.SampleSettings
+Version: 1.0
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.SampleSettings_1.0_iphoneos-arm.deb
+Size: 32925720
+MD5sum: 0b00b3350583a714e68b462bc36a2fe6
+SHA256: 749cf485c4dd3b494b77d346b76614e4d1f6c998599afc11638818d573cd5525
+Description: A sample set of settings theme
+Name: RRA Sample Settings
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.MusicControlsPack
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.MusicControlsPack_1.05_iphoneos-arm.deb
+Size: 352528
+MD5sum: 2f0b9d4bc331d55b2d69290e3bb8b6c0
+SHA256: 64d6c7a4a91406aba0ef139b1aa491b5a500a19883bee3dd209c3b70746fbd04
+Description: A custom pack of music controls m
+Name: RRA Music Control Pack
+Author: Nobody
+Depiction: n/a
+
+Package: com.NHFTD.CampingStatusBar
+Version: 1.4
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.CampingStatusBar_1.4_iphoneos-arm.deb
+Size: 67150
+MD5sum: 1ffcdafdb2bfcae749dd0fc63b953c95
+SHA256: c3183ab534ffccaa364679558c9b16cccbfae1f350b4ece741946611cb1a36b6
+Description: A custom Status Bar / Camping Style
+Name: Camping Style Status Bar
+Author: Nobody
+Depiction: n/a
+
+Package: com.NHFTD.MasqVinylNew
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.MasqVinylNew_1.05_iphoneos-arm.deb
+Size: 105086
+MD5sum: 0d4b52b31eabff48921d962975380af5
+SHA256: da540a74d7aa2262689a560709adc466763078d6fee37d95e7516ed362868b95
+Description: New Vinyl Masq Theme
+Name: Vinyl Masq Theme
+Author: Nobody
+Depiction: n/a
+
+Package: com.NHFTD.iPodMasqTheme
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.iPodMasqTheme_1.05_iphoneos-arm.deb
+Size: 160640
+MD5sum: 0469783a01285911d5a63db739b2499d
+SHA256: 40ff0499ded515b8661f9f331a1563320a6a08f8a06f62940ed2422a66794c88
+Description: iPod Style Masq Theme
+Name: iPad Masq Theme
+Author: Nobody
+Depiction: n/a
+
+Package: com.NHFTD.PinkFloydTerm
+Version: 1.0
+Section: TerminalSupport
+Maintainer: NHFTD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.PinkFloydTerm_1.0_iphoneos-arm.deb
+Size: 1000
+MD5sum: da8a1d8d2f81721fd84129ceef3324aa
+SHA256: bcd2905c7eccee38f36c6d9feb56e10ba3914bbca1ab74447454b1c20db2c722
+Description: Pink Floyd Terminal Greeting
+Name: PinkFloydTerm
+Author: NHFTD
+Depiction: n/a
+
+Package: com.NHFTD.BatmanTerm
+Version: 1.0
+Section: TerminalSupport
+Maintainer: NHFTD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.BatmanTerm_1.0_iphoneos-arm.deb
+Size: 754
+MD5sum: 2cabf74bda8e7da7a031025ae63478e3
+SHA256: 3da72d8e52a7ba9e59e3bf18b5e39c12a9c3a5db996b7f6f5580c2bfd109ce0c
+Description: Batman Terminal Greeting
+Name: BatmanTerm
+Author: NHFTD
+Depiction: n/a
+
+Package: com.RRA.WidgetPack1
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.WidgetPack1_1.05_iphoneos-arm.deb
+Size: 2776532
+MD5sum: f4b8c1418ff4169f81aee343e117ebe3
+SHA256: cfb626cad339aa33d455e2194fbe69d92e1232805d55c602ca96522b33666aa0
+Description: Widget Pack 1
+Name: Widget Pack 1
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.8ballSwitch
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.8ballSwitch_1.05_iphoneos-arm.deb
+Size: 6904
+MD5sum: 9084d67ff62904a07cbb76fdebc62453
+SHA256: a66b091e217186c31a144c5085d7d6d9911785785dde4438d867eed865269e73
+Description: 8ballSwitch
+Name: 8-Ball Switch
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.DockPack2
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.DockPack2_1.05_iphoneos-arm.deb
+Size: 516208
+MD5sum: ae00c2a98eeaf5cc8b4c6479384f8de1
+SHA256: 95688dd4bb70fe1e1f7255ed1dde7e05e42ff32dc8cb798df0e5eae926599e8a
+Description: RRA DockPack2
+Name: RRA DockPack2
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.DockPack3
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.DockPack3_1.05_iphoneos-arm.deb
+Size: 569296
+MD5sum: 35e49bbc0dbf8ae35fd951f489433ea0
+SHA256: 1c36852ad23adf2842a6534ca3b65e3f68e832077ca8323918b979378f39d397
+Description: RRA DockPack3
+Name: RRA DockPack3
+Author: Nobody
+Depiction: n/a

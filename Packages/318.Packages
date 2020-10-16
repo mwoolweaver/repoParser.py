@@ -1,0 +1,15 @@
+Package: com.NIN0.XenSearch
+Name: XenSearch
+Version: 1.0
+Architecture: iphoneos-arm
+Description: XenHTML Searchbar
+Maintainer: Matt Clarke <matt@incendo.ws>
+Author: NIN0 <ninn01@t-online.de>
+Section: Widgets
+Depends: com.matchstic.xenhtml
+Filename: debs/com.NIN0.XenSearch.deb
+Size: 11204932
+MD5sum: b2deb90114881100f2862652145e88b2
+SHA1: f15273554ec2b27c58ecd1645daea1aa31a7e477
+SHA256: fc578d409afcdbdac3f3f6e9dada9b1ddc716a4cbe15fce21a2144d22b9fd6c3
+Depiction: https://n-i-n-0.github.io/repo/html-descriptions/xensearch/index.html

@@ -1,0 +1,583 @@
+Package: if0xutilities
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: dpkg, debianutils, coreutils, apt, apt7-key, apt7, apt7-lib, openssh
+Filename: ./if0x_utilities_0.0.9.deb
+Size: 2640
+MD5sum: 521f9ea316bb01167920e7a1e92eaa74
+SHA1: 2b248740e177d4751b50f1ab867689e3afdc5390
+SHA256: fd3b011a8f3d7a5f81ed07873ca430b2e10d5088eb978782b45bfd826cc417b5
+Section: Utilities
+Description: DON’T install until I ask you for.                                              Removed firmware dependancy but still only tested on iOS 9
+Author: @if0xxx <if0x2080@gmail.com>
+Name: if0x utilities
+
+Package: io.github.awesomebing1.sbutils
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: awesomebing1
+Installed-Size: 1568
+Replaces: com.innoying.sbutils
+Filename: ./io.github.awesomebing1.sbutils_2.1.1_iphoneos-arm.deb
+Size: 24952
+MD5sum: e506f5eba4a910038caac69a176b74c7
+SHA1: 71db7b525f29b09b4d43813cfb0e74ead92be630
+SHA256: 91df51fc1af0699b33f556c6e35d6013091d981a3968e743a4a43e9cf61910d0
+Section: System
+Description: iOS utilities - replaces some broken Erica utilities and adds a bunch of new ones. And, this time, it might work. Originally made by innoying.
+Tag: role::hacker
+Author: awesomebing1
+Name: sbutils
+
+Package: net.if0x.cybackup
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=9.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh
+Filename: ./CyBackup9_0.5.deb
+Size: 3578
+MD5sum: 41c1352076a4836eff763ef702b9d3d2
+SHA1: a571f3b2c9bb189bf3c1ddc1e8339f1c3bb8812b
+SHA256: f1ab09230e751e950178b06da28be76b230a733435bbf029a4dba20275ff5773
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 9
+
+Package: net.if0x.cybackup
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=9.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh
+Filename: ./CyBackup9_0.5.1.deb
+Size: 3600
+MD5sum: 7580a6c34c7334c62d8bddeaa072b926
+SHA1: 9d4e0d832948170069491652bb5d67054bd0a0d9
+SHA256: 845b68b4872bf3ebcf070036ae7e5c869d54f0366403c106680ec5c1fe1b48c2
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 9
+
+Package: net.if0x.cybackup
+Version: 0.5.2
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=9.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh
+Filename: ./CyBackup9_0.5.2.deb
+Size: 3660
+MD5sum: 7660ee3062b3b741262fafaf3a89d3e2
+SHA1: ead1956602e7d76d5e0ba90a6e312f4744b7a1b3
+SHA256: 63b98629dfe0d0a22f9606edee2eb8955b791c765964eb3f230f22f2daf2dfde
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 9
+
+Package: net.if0x.cybackup
+Version: 0.5.3
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=9.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh
+Filename: ./CyBackup9_0.5.3.deb
+Size: 3886
+MD5sum: 2b8532389bcb6e07d8d1c0383c34a5b0
+SHA1: 29025cc6cd6c3a1f12d892390cf873a73e1b6964
+SHA256: 30da0812c86db3b34cc77a7edbdbff434c7b7daac10341fa9565aa252f40cbd6
+Section: Tweaks
+Description: Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 9
+
+Package: net.if0x.cybackup
+Version: 0.5.4
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=9.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh
+Filename: ./CyBackup9_0.5.4.deb
+Size: 3940
+MD5sum: c25dc83bb024d50880f4801be5bb620f
+SHA1: 47f414192d7ae5fb07b94d830d404fd4440dedbf
+SHA256: e7a52c20018f749796833827425a4c2a7cbc70efc8b85f2ca434a1047a95c7f0
+Section: Tweaks
+Description: Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 9
+
+Package: net.if0x.cybackup
+Version: 0.5.4-1
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=9.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh
+Filename: ./CyBackup9_0.5.4-1.deb
+Size: 4032
+MD5sum: 6cc8da12581c7d1fa80e6d492f6c7ac7
+SHA1: 5ebbb3ed8679e26582117a83478d509ceaabb575
+SHA256: de8c2d7196b0b2e91e4f1bd1f5d47398243894759b05e58a85b37fcb8d4650be
+Section: Tweaks
+Description: Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 9
+
+Package: net.if0x.cybackup
+Version: 0.5.4-2
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=9.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh
+Filename: ./CyBackup9_0.5.4-2.deb
+Size: 4038
+MD5sum: a4f1f0ddea0661f9a19301e6b9078442
+SHA1: d3810ccf2248d309cc861efe0e3742e8b4087d7e
+SHA256: e6b561154c3dd23c719f459463dc934324397533a969e87670e6ab443911ae8c
+Section: Tweaks
+Description: Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 9
+
+Package: net.if0x.cybackup10
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup10_0.0.1.deb
+Size: 4068
+MD5sum: 4e586dc290b1aee64332e8159111201e
+SHA1: f1f285ffeaedf28240a3574359f8af565a12930d
+SHA256: cc1a5768d3b4620b2bef929a80471a6dfa54adc2cdc1f29efb7826c68e2b8658
+Section: Tweaks
+Description: This version is currently UNTESTED. Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10
+
+Package: net.if0x.cybackup10
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup_0.0.2.deb
+Size: 9362
+MD5sum: 44db8e71d977ee4fd82558ba924799cb
+SHA1: 60b5877663fc0aea6bb7eb2996c4b1298bdb4651
+SHA256: 30626818f2ad54c7ef9c50618835bd842a81a35394e6c1c05d3282ba6583a990
+Section: Tweaks
+Description: This version is currently UNTESTED. Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10
+
+Package: net.if0x.cybackup10
+Version: 0.0.3-alpha10
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, io.github.awesomebing1.sbutils
+Filename: ./CyBackup10_0.0.3-a10.deb
+Size: 5110
+MD5sum: 8e466d58b1b5c1ad735a3a9eeaec0f86
+SHA1: ee5c3dcd6d515749705263ee389051f66bcec4f5
+SHA256: 9210181f69e27ce49980fa5310ed2442f98c677dda20d558f01525ac82674446
+Section: Tweaks
+Description: This version is currently UNTESTED. Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10
+
+Package: net.if0x.cybackup10
+Version: 0.0.3-alpha11
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, io.github.awesomebing1.sbutils
+Filename: ./CyBackup10_0.0.3-a11.deb
+Size: 5088
+MD5sum: c1e2a2cbef988ab17d4f4fe1b31b4ab0
+SHA1: 54ef4e0baca01f1251fec4079329c1ced20c7a10
+SHA256: 05d54c6a3fb22ec9510a59fa32096e1b081371700f9889168ad2f408a98e1a57
+Section: Tweaks
+Description: This version is currently UNTESTED. Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10
+
+Package: net.if0x.cybackup10
+Version: 0.0.3-alpha8
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, io.github.awesomebing1.sbutils
+Filename: ./CyBackup10_0.0.3-a8.deb
+Size: 10016
+MD5sum: f39f0fc6210aa98a77a77195b6f7256c
+SHA1: d11deeb672e286d0f376a11847b89f41b09dde4e
+SHA256: 3f86d3bf5fe24929e34d770b20c37b23ebfa6b00f0bb06cd13148bce8bd8aa3e
+Section: Tweaks
+Description: This version is currently UNTESTED. Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10
+
+Package: net.if0x.cybackup10
+Version: 0.0.3-alpha9
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, io.github.awesomebing1.sbutils
+Filename: ./CyBackup10_0.0.3-a9.deb
+Size: 10148
+MD5sum: 6e25632ff57beab1e7b7a84d960621c2
+SHA1: 2928b18bf8f2a5c699d3a5f2594129154c338f00
+SHA256: dc10f9bc75f8d7a750420ddc57d98aba8ee656dab563b1477359ace374c5a4ba
+Section: Tweaks
+Description: This version is currently UNTESTED. Backup installed tweaks (atm only main repos) as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10
+
+Package: net.if0x.cybackup10
+Version: 0.0.4-alpha4
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, io.github.awesomebing1.sbutils
+Filename: ./CyBackup10-12_0.0.4-a4.deb
+Size: 4952
+MD5sum: 3413b85c4d7ceff3b94eb3a0332d5704
+SHA1: 1a12fc685dc1116339379ac1970411bd7c16ab08
+SHA256: e1b4e7559ff8c13d7e0bc8574c4700c4a574a481d0efcc741d3d4d33252fd545
+Section: Tweaks
+Description: This version is currently mostly untested. Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-12
+
+Package: net.if0x.cybackup10
+Version: 0.0.4-alpha5
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup10-12_0.0.4-a5.deb
+Size: 4948
+MD5sum: 368b4af7e5cf2a6078fe4949c493826c
+SHA1: 4cc35bbfe15ec6fb59a250a61366e06bf9915937
+SHA256: 3079e83b7f5f9c5d50f13cf4603daa75d03285b6aa284db57c89da63777a0310
+Section: Tweaks
+Description: This version is currently mostly untested. Backup installed tweaks as .debs and make a .zip Backup folder in "/". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-12
+
+Package: net.if0x.cybackup10
+Version: 0.0.5-beta2
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup10-13_0.0.5-b2.deb
+Size: 4804
+MD5sum: d0aaeb44d774b897ca6a866d62357c0e
+SHA1: 871581a1b8811ababa80cd50b8d4beb66132b182
+SHA256: 6791f9d5ba081fb0a4ca378be308500e34299c26abff3f2e6b79a7da375f0afe
+Section: Tweaks
+Description: This version is mostly untested. Backup installed tweaks as .debs and make a .zip Backup folder in "/". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.5-beta3
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup10-13_0.0.5-b3.deb
+Size: 4812
+MD5sum: 81e61e7ddaf6a14898cbe7750ee45e5f
+SHA1: 585d4483640283e5bb91ebcfff7f231d4d8ce9b3
+SHA256: 01d53d9e8e8d3cf97329d6f34664b4fac6ba04872c8c5714d31b30e4d18b20d9
+Section: Tweaks
+Description: This version is mostly untested. Backup installed tweaks as .debs and make a .zip Backup folder in "/". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.5-beta4
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup10-13_0.0.5-b4.deb
+Size: 4912
+MD5sum: 991f41f111d798fecaae33a3fd096a1c
+SHA1: 43dc38fa4fe70145f98bcca9604fcb7a6a30f03d
+SHA256: fe27ea78eb4d2cb6630084af872746bd3c87e9808339b6a44fbc9c99f1ccc705
+Section: Tweaks
+Description: This version is mostly untested. Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.5-beta5
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup10-13_0.0.5-a5.deb
+Size: 4912
+MD5sum: 79123d18a67f27950df4f8eb8f3529ec
+SHA1: e88138862c705ed5b8c6e00fe41ca760b1dc3313
+SHA256: d1fcf53f457a5ad878ae16cd4db77a94fe687eaa6c1b808a1983771145f390d6
+Section: Tweaks
+Description: This version is mostly untested. Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.5-beta6
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup_10-13_0.0.5-b6.deb
+Size: 4924
+MD5sum: 87070283704b8ec420fff45993c41b42
+SHA1: 9e52e613cc91d2a54dce9f0b8ad5659298e9addc
+SHA256: f1c2f38cfa112b94e38b8a6d36ef8565ba7e96150b730df120edbeaa3022d4f4
+Section: Tweaks
+Description: This version is mostly untested. Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.6-beta1
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup_latest_0.0.6-b1.deb
+Size: 5104
+MD5sum: 4e85a19a776dfc0c4fa9302bae3b5de3
+SHA1: 7b57e6445f2e94a0c3d2ccebfe3013b5c8c2db7f
+SHA256: 635a6a111023992ed2c2ced564d2701c68afa93c27704ad9fbe9fc119b232230
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.6-beta2
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup_latest_0.0.6-b2.deb
+Size: 5136
+MD5sum: 61b7228ec02e36248fd8a0fb2ac578a5
+SHA1: fe820950970ca825fe21b557ee2196df477fca5c
+SHA256: b9907d6a7a980c05da8ed326e1d221e7e2f496d089dd499ff17cc9295f5ba207
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.6-beta3
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup_latest_0.0.6-b3.deb
+Size: 5148
+MD5sum: 7f5627f6dbd41c85b4358a81cf7a9940
+SHA1: 74e6dddb12e8b70b693ab218cf689155a43ce155
+SHA256: 2ec71b3582f194784695519ab134f6c4a8110e94693024c2c23f9ec7c6a727bd
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.6-beta4
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup_latest_0.0.6-b4.deb
+Size: 5204
+MD5sum: 952907d8b25f3714f1c0c18a8b5aaa58
+SHA1: e3cc678c0ad747ef120469d12c0b118e56435e36
+SHA256: 2c7a5d546e602782f94d0ab92d247d2848e50865e2ca90f4847c729be2714bc6
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup10
+Version: 0.0.6-beta5
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.0), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils
+Filename: ./CyBackup_latest_0.0.6-b5.deb
+Size: 5212
+MD5sum: 21f6f17904284ffa5eb32c792a0e4cb5
+SHA1: 203414eddb9653ae5eac7f4c5f293bdfacc6e9c3
+SHA256: b3e3094645610db53d8da0a9bbd0e94ed8204d907e60211ce30f6d176be6a946
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in "/CyBackup". To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS 10-13
+
+Package: net.if0x.cybackup8.4
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=7.0), firmware (<=8.4), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh, aptitude
+Filename: ./CyBackup8.4_0.5.deb
+Size: 3640
+MD5sum: b52661ddae73d0f0678638ff3b282efa
+SHA1: 2e5a81e36c77009a496f2e0d1b77ac86ea78bcbe
+SHA256: 88fc04c9bc1b0594017094f6de4ea4b3e974e08bdf2851b2fc4ea86741b0352a
+Section: Tweaks
+Description: Support for iOS 7-iOS 8. This version is currently UNTESTED please report feedback to me. Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup for iOS <=8.4
+
+Package: net.if0x.cybackup8.4
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=6.0), firmware (<=8.4), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh, aptitude
+Filename: ./CyBackup8.4_0.5.1.deb
+Size: 3672
+MD5sum: fc09e08922ebffdef7efba0fc7696517
+SHA1: e0ff3b0e17791c344c5a931cc1a89321111e32ba
+SHA256: 642c521bdbd4179f6a26bb9b5535ee21417cfc9df869f63445b977e7961c50f6
+Section: Tweaks
+Description: Support for iOS 7-iOS 8. This version is currently UNTESTED please report feedback to me. Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup for iOS <=8.4
+
+Package: net.if0x.cybackup8.4
+Version: 0.5.1-1
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=6.0), firmware (<=8.4), zip, unzip, dpkg, debianutils, apt, apt7-key, apt7, apt7-lib, coreutils, openssh, aptitude
+Filename: ./CyBackup8.4_0.5.1-1.deb
+Size: 3678
+MD5sum: c0fafde4ccbe69b254c82130b4e074e5
+SHA1: 147d138a05ec1369cfc09522000b3f876b312449
+SHA256: e5e23fea2a4dfd8ac402063b67839ddba3da09fd6a05520101b182aa67fd3fc7
+Section: Tweaks
+Description: Support for iOS 6-iOS 8. This version is currently UNTESTED please report feedback to me. Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: CyBackup iOS <=8.4
+
+Package: net.if0x.ios7cydia
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>= 9.0)
+Filename: ./ios7cydia_0.0.6.deb
+Size: 1180
+MD5sum: ba42f13710b940612d75abd099686432
+SHA1: 8003906c4a412c1e11c41165fbfe43b5ffed112b
+SHA256: e075ae2550b16b3cf76e19597ecb6b5afc2db323df0a23ad750e8148aec5b7a0
+Section: Tweaks
+Description: fix the legacy icon on iOS 9 or restore it. To start type ios7cydia in mobile Terminal.                                                                                                     For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: ios7cydia
+
+Package: net.if0x.respring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Filename: ./respring_1.0.deb
+Size: 770
+MD5sum: 915c075ab5083b96936de23d798ad1cc
+SHA1: f986b7164beb7ab8ef2eb6def2f3420532d6c5f2
+SHA256: e530754cb6e761185dbac430ec1e2a7ff604a66d256f74dbcfe98877d34bda1c
+Section: Tweaks
+Description: perform a respring. To start type rsp in mobile terminal. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: respring
+
+Package: net.if0x.respringer
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Filename: ./respringer_1.0.2.deb
+Size: 922
+MD5sum: 150e263cc248a1076bb79d417b2d1f33
+SHA1: a618064ad9c5963f1a6120a104b19b4292f3ba4f
+SHA256: f339967bf88a746496c2bc824fdf1a8d63c6a1615f2eccc8b0005bc2cbe1c026
+Section: Tweaks
+Description: perform a bunch of resprings. To start type respringer in mobile terminal. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: respringer
+
+Package: net.if0x.respringer
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Filename: ./respringer_1.0.3.deb
+Size: 922
+MD5sum: c4949a488bd5199da357590569fb6e2b
+SHA1: 765e76b516218ede510a32334bb5a62d175cdcdf
+SHA256: 0856df5ba19054587cce5b75a538229dc79b39e95017a8c27b6ef3e409c02724
+Section: Tweaks
+Description: perform a bunch of resprings. To start type respringer in mobile terminal. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: respringer
+
+Package: net.if0x.setnonce
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.2)
+Filename: ./setnonce_0.0.4.deb
+Size: 1226
+MD5sum: b046ec33bbf521bee33b8b9ea9a6ffdf
+SHA1: 0392bd68bbc16f4b1eb0582324c6514f75412190
+SHA256: 253cec73c19dc7d44da68723620a26a44408065aac9fb10898561f320d5969c9
+Section: Tweaks
+Description: Shortcut for setting Bootnonce. On first run (and after each update (will fix this later)) type: setnone_setup into terminal (please run as root). After that you can easy set your nonce by typing: setnonce into terminal (to be save repeat this after every reboot). Please thank @2klasic for „bothering“ me to package this. No warranty. Partial UNTESTED. Only work if NvRam is patched.
+Author: @if0xxx <if0x2080@gmail.com>
+Name: SetNonce
+
+Package: net.if0x.setnonce
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.2)
+Filename: ./setnonce_0.0.4-1.deb
+Size: 1230
+MD5sum: 5cb509c83da354451a3e3d4e7ec413fc
+SHA1: d86562028d0f60e20b1f8bf5f1e96eb942926e2c
+SHA256: 8384131b41712031dcad391044457111f154694bc261a22c7447095f74d5502c
+Section: Tweaks
+Description: Shortcut for setting Bootnonce. On first run (and after each update (will fix this later)) type: setnonce_setup into terminal (please run as root). After that you can easy set your nonce by typing: setnonce into terminal (to be save repeat this after every reboot). Please thank @2klasic for „bothering“ me to package this. No warranty. Partial UNTESTED. Only work if NvRam is patched.
+Author: @if0xxx <if0x2080@gmail.com>
+Name: SetNonce
+
+Package: net.if0x.setnonce
+Version: 0.0.5-2
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.2)
+Filename: ./SetNonce_0.0.5-2_FINAL.deb
+Size: 1196
+MD5sum: 4c7938cc918067d3a78d4b7db2cff835
+SHA1: f69b4ab1a146f6ea81f056439776fee102c568cb
+SHA256: 7197cbdcd0660806b705c65a25429dfa25410ba681d4520099b82c24b401c792
+Section: Tweaks
+Description: Shortcut for setting Bootnonce. On first run (and after each update (will fix this later)) type: setnonce_setup into terminal (please run as root).After that your nonce will be set automatically After each rejailbreak. Please thank @2klasic for „bothering“ me to package this and @qwertyoruiopz for giving me the hint for automatation. No warranty. Partial UNTESTED. Only work if NvRam is patched. If no Problems occur the last update.
+Author: @if0xxx <if0x2080@gmail.com>
+Name: SetNonce
+
+Package: net.if0x.setnonce
+Version: 0.0.5-3
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.2)
+Filename: ./SetNonces_0.0.5-3.deb
+Size: 1202
+MD5sum: ff5bbf2f0e015cf60f00dafc5e1ddee9
+SHA1: 3447f465e89c8226ec4c6ded6a33e77704ec8923
+SHA256: 601753f3ab1fad0b7d08f1ed58dbddb10353b315f4a8399dcfc91e1d02eacd7f
+Section: Tweaks
+Description: Shortcut for setting Bootnonce. On first run (and after each update (will fix this later)) type: setnonce_setup into terminal (please run as root).After that your nonce will be set automatically After each rejailbreak. Please thank @2klasic for „bothering“ me to package this and @qwertyoruiopz for giving me the hint for automatation. No warranty. Partial UNTESTED. Only work if NvRam is patched. If no Problems occur the last update.
+Author: @if0xxx <if0x2080@gmail.com>
+Name: SetNonce
+
+Package: net.if0x.unstasher
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Filename: ./unstasher_0.0.7.deb
+Size: 2076
+MD5sum: ec1b3afea853030abeccc5ab67f90525
+SHA1: 643cb451c6e614755ac397e79efdd950311a5c42
+SHA256: 4818ab940fa0098746be0edfbb01569b367e8edaca04844d2143484dcd61848f
+Section: Tweaks
+Description: reverse Cydias default stashing. To start type unstash in MobileTerminal. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: Unstasher
+

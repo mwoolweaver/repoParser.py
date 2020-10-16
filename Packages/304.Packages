@@ -1,0 +1,60 @@
+Package: com.mercury.Shade
+Version: 1.0beta~3.0
+Architecture: iphoneos-arm
+Maintainer: Mercury  <mercuryiosdev@gmail.com>
+Depends: firmware (>=6)
+Filename: ./pkg/com.mercury.Shade.deb
+Size: 417446
+MD5sum: 8c3044fcde5fec61e78c7030059bb5ac
+SHA1: 0758e9c74a86b7ce0f47a8847d8bc06b8ef058b6
+SHA256: 62814c3e6b265e61551af9038dc4d1ff65ea9a1669f762ccef01625a32e0f5bf
+Section: Themes
+Homepage: https://mercuryiosdev.github.io
+Description: Threw Some Shade
+Author: Mercury  <mercuryiosdev@gmail.com>
+Depiction: https://mercuryiosdev.github.io/depiction/web/com.mercury.Shade.html
+Icon: https://mercuryiosdev.github.io/assets/com.mercury.Shade/icon.png
+Moderndepiction: https://mercuryiosdev.github.io/depiction/native/com.mercury.Shade.json
+Name: Shade
+Sileodepiction: https://mercuryiosdev.github.io/depiction/native/com.mercury.Shade.json
+
+Package: com.mercury.illusion
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Mercury  <mercuryiosdev@gmail.com>
+Depends: firmware (>=12)
+Filename: ./pkg/com.mercury.illusion.deb
+Size: 8928
+MD5sum: 15ccc530a34d990f8520c30bf17e7dcc
+SHA1: 747c97021d87920be6f68088989b74ad7f41404d
+SHA256: dbf6726f82a585a395a1775c680e08e2caac3595d2244d3fbca85cb24b554015
+Section: Addons
+Homepage: https://shuga.co/
+Description: An awesome battery for your device using Juice
+Author: Mercury  <mercuryiosdev@gmail.com>
+Depiction: https://mercuryiosdev.github.io/depiction/web/com.mercury.illusion.html
+Icon: https://mercuryiosdev.github.io/assets/com.mercury.illusion/icon.png
+Moderndepiction: https://mercuryiosdev.github.io/depiction/native/com.mercury.illusion.json
+Name: Illusion
+Sileodepiction: https://mercuryiosdev.github.io/depiction/native/com.mercury.illusion.json
+
+Package: com.thenatis2.Thenatis
+Version: 1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Thenatis  <thenatisthemes@gmail.com>
+Depends: firmware (>=13.0)
+Filename: ./pkg/com.thenatis2.Thenatis.deb
+Size: 9813796
+MD5sum: fae1c682a946fc715d6199ef80d24361
+SHA1: 60e68a44fad4b20403f738ad3b84fc1aae833fa2
+SHA256: f1ea960c5efdc6cc2b871b4ef995377fec9d571baea590d01134f77e286ef458
+Section: Applications
+Homepage: https://mercuryiosdev.github.io
+Description: An App for Thenatis’s Themes
+Author: Thenatis  <thenatisthemes@gmail.com>
+Depiction: https://mercuryiosdev.github.io/depiction/web/com.thenatis2.Thenatis.html
+Icon: https://mercuryiosdev.github.io/assets/com.thenatis2.Thenatis/icon.png
+Moderndepiction: https://mercuryiosdev.github.io/depiction/native/com.thenatis2.Thenatis.json
+Name: Thenatis
+Sileodepiction: https://mercuryiosdev.github.io/depiction/native/com.thenatis2.Thenatis.json
+

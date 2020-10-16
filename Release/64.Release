@@ -1,0 +1,12 @@
+Origin: AutoTouch
+Label: AutoTouch
+Suite: stable
+Version: 1.0
+Codename: AutoTouch
+Architectures: iphoneos-arm
+Components: main
+Description: Distribution of AutoTouch, a touch motion automation tool.
+Support: https://autotouch.net
+MD5Sum:
+ ed094318871bae1cb3e8beed0f36dd3a 37091 Packages
+ 914089a19c007858ae5cb8a11a2350f7 5395 Packages.bz2

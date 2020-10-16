@@ -1,0 +1,19 @@
+Package: essential
+Version: 0-999
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: wizages <wizagesmax@gmail.comm>
+Installed-Size: 8
+Pre-Depends: bootstrap | dpkg (>= 1.13.25-5)
+Depends: cydia | com.ripdev.icy | xyz.willy.zebra | org.coolstar.SileoStore, cy+model.iphone (<< 11.0) | cy+model.ipad (<< 11.0) | cy+model.ipod | science.xnu.substituted, cy+model.iphone (<< 11.0) | cy+model.ipad (<< 11.0) | cy+model.ipod | com.ex.substitute
+Filename: deb/essential_0-999_iphoneos-arm.deb
+Size: 1160
+MD5sum: f7bc2b5410235ed1707c956c3327ad50
+SHA1: 26440170fbab347fa89449efdca992a2b3378bf8
+SHA256: f2719e2459d3cca3879a5361b3e0f60aefac50c08015b3ada0f057cf0fb1ff95
+Section: System
+Priority: required
+Description: contains nothing, represents everything
+Depiction: http://cydia.saurik.com/info/essential/
+Name: Essential
+

@@ -1,0 +1,8 @@
+Origin: UnlimApps
+Label: UnlimApps
+Suite: stable
+Version: 0.9
+Codename: unlimapps
+Architectures: iphoneos-arm
+Components: main
+Description: UnlimApps (++ Tweaks) repo

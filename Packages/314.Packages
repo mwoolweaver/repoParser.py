@@ -1,0 +1,244 @@
+Package: dev.mpg13.RespringPack40
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.anemonetheming.anemone
+Conflicts: dev.mpg13.RespringPack47, dev.mpg13.RespringPack55, dev.mpg13.RespringPack
+Filename: ./pkgs/respringpack40.modfied.deb
+Size: 18878520
+MD5sum: 48925596edb57827a316df95e0634def
+SHA1: 494a31efef3d7a4bcc572bb88e269bcbd15d7420
+SHA256: 0ff5dc4fee76ac55f4fb44d47c326b91d07ae97621bfa8e29ad30297e70b24d2
+Section: Themes
+Homepage: https://repo.micahpgomez.dev
+Description: Anemone Respring Animation Pack!.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.respringpack
+Name: Respring Animation Pack (4" iPhones)
+
+Package: dev.mpg13.RespringPack47
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.anemonetheming.anemone
+Conflicts: dev.mpg13.RespringPack40, dev.mpg13.RespringPack55, dev.mpg13.RespringPack
+Filename: ./pkgs/respringpack47.modfied.deb
+Size: 20419148
+MD5sum: 8e717e47b2791d9e1fdeb5e367d523af
+SHA1: 26ec78df6e9f51402a9170578848d552b1c4c72b
+SHA256: f2391108e2c71442b07e2e2841ba69577c54d4996197395dbd751d9b00cdc640
+Section: Themes
+Homepage: https://repo.micahpgomez.dev
+Description: Anemone Respring Animation Pack!.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.respringpack
+Name: Respring Animation Pack (4.7" iPhones)
+
+Package: dev.mpg13.RespringPack55
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.anemonetheming.anemone
+Conflicts: dev.mpg13.RespringPack47, dev.mpg13.RespringPack40, dev.mpg13.RespringPack
+Filename: ./pkgs/respringpack55.modfied.deb
+Size: 45966116
+MD5sum: 51a7252bb3f8bccf37427d623f211f05
+SHA1: 4292fbfd19abf3d49453eed691272ef2a43164c8
+SHA256: 763f276fb976870e2811ca51dee368800883102cc38813a6e4c93fe6072c3ab0
+Section: Themes
+Homepage: https://repo.micahpgomez.dev
+Description: Anemone Respring Animation Pack!.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.respringpack
+Name: Respring Animation Pack (5.5" iPhones)
+
+Package: dev.mpg13.assembly
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.aditkamath.springy
+Filename: ./pkgs/iAFS.modfied.deb
+Size: 7753580
+MD5sum: b243a561aca90848b890fe6bab487d66
+SHA1: c102dd583a81a6afd29c6c666f3d1577efb40234
+SHA256: 617daadf633ccd38a88b3bd1b078b1cad8c2f806eab6f056cf627105c7739dbd
+Section: Springy
+Homepage: https://repo.micahpgomez.dev
+Description: A Springy animated theme showing an iPhone being assembled!
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.assembly
+Name: iPhone Assembly for Springy
+
+Package: dev.mpg13.darkassembly
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.aditkamath.springy
+Filename: ./pkgs/iAFSblack.modfied.deb
+Size: 7854988
+MD5sum: 80f087c067abad3e6b0381237b9881f8
+SHA1: 34420239bd6b9a91aeabbc9a216472e5faf2b7ed
+SHA256: 03d5029c9a687d14b89fdbd0bbaef4fdc32da9d871e927b4a0c3b565f0b0433c
+Section: Springy
+Homepage: https://repo.micahpgomez.dev
+Description: A Springy animated theme showing an iPhone being assembled!
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.darkassembly
+Name: Dark iPhone Assembly for Springy
+
+Package: dev.mpg13.itfuckingcounts
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Filename: ./pkgs/ItFuckingCounts.modfied.deb
+Size: 29050220
+MD5sum: c0ba4c1896f3cbb7f817b2075a4eeec7
+SHA1: ffc12009010f1ecc6f158ca43c5a042e51e10aac
+SHA256: 8fcccdc6851a5b99916039dfd778d0a138c1cf01b7192cb70aaa3ee928dfcd4c
+Section: Applications
+Homepage: https://repo.micahpgomez.dev
+Description: What does it do? Nobody knows.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.itfuckingcounts
+Name: ItFuckingCounts
+
+Package: dev.mpg13.notundertime
+Version: 4.2.0
+Architecture: iphoneos-arm
+Maintainer: MicahPGomez <jbsupport@micahpgomez.dev>
+Installed-Size: 156
+Depends: mobilesubstrate
+Conflicts: dev.mpg13.undertime
+Filename: ./pkgs/notundertime4.2.0.modfied.deb
+Size: 5992
+MD5sum: 493ae293754f5f7469b7bf194b232cd2
+SHA1: 371bb150155b4ca00820e0db9813c37fbef876b4
+SHA256: 7bc907c981f5ad27708efa028fc35b3d089563ee008a06a640d821aeb680aeb5
+Section: Tweaks
+Homepage: https://micahpgomez.dev
+Description: Customizable iX StatusBar carrier.
+Author: MicahPGomez <jbsupport@micahpgomez.dev>
+Depiction: https://micahpgomez.dev/repo/depicts/depiction.html?selectedPackage=dev.mpg13.notundertime
+Name: NotUnderTime
+
+Package: dev.mpg13.notundertime
+Version: 4.2.1
+Architecture: iphoneos-arm
+Maintainer: MicahPGomez <jbsupport@micahpgomez.dev>
+Depends: mobilesubstrate
+Conflicts: dev.mpg13.undertime
+Filename: ./pkgs/notundertime4.2.1.modfied.deb
+Size: 6156
+MD5sum: e36a69b43714b73e7baecc702270a444
+SHA1: e50ae5db5e3315b0794c2d79e41ab9b2aeb4ad7f
+SHA256: c24dae40ce9d69f6e1b5ecec046a68533cee2d06755d647cada878b5ebca7ad0
+Section: Tweaks
+Homepage: https://micahpgomez.dev
+Description: Customizable iX StatusBar carrier.
+Author: MicahPGomez <jbsupport@micahpgomez.dev>
+Depiction: https://micahpgomez.dev/repo/depicts/depiction.html?selectedPackage=dev.mpg13.notundertime
+Name: UnderTime
+
+Package: dev.mpg13.notundertime
+Version: 4.2.2
+Architecture: iphoneos-arm
+Maintainer: MicahPGomez <jbsupport@micahpgomez.dev>
+Depends: mobilesubstrate
+Conflicts: dev.mpg13.undertime
+Filename: ./pkgs/notundertime4.2.2.modfied.deb
+Size: 6224
+MD5sum: c3e2ba8d3a7e58d3e3fab1dda94e0122
+SHA1: 895de3e122bc197b4d4f39374c2ef5b6cd524f61
+SHA256: 72e8ffb143c43ab5a8a82b5a1cab4970ce60d1071165a47286c6dcb69af1b03d
+Section: Tweaks
+Homepage: https://micahpgomez.dev
+Description: Customizable iX StatusBar carrier.
+Author: MicahPGomez <jbsupport@micahpgomez.dev>
+Depiction: https://micahpgomez.dev/repo/depicts/depiction.html?selectedPackage=dev.mpg13.notundertime
+Name: UnderTime
+
+Package: dev.mpg13.spinningi4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.matchstic.xenhtml
+Filename: ./pkgs/spinningi4.modfied.deb
+Size: 4936
+MD5sum: 17b434e43c18ca249375fe7f39859636
+SHA1: 17727403bea200af792d8e315ff1d55eef8056bd
+SHA256: 91f3d150af015a0ff93867248c5fd19b943c7e325390831656c51acb7f9b32a2
+Section: Addons (XenHTML)
+Homepage: https://repo.micahpgomez.dev
+Description: A XenHTML widget with a spinning iPhone 4!
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.spinningi4
+Name: Spinning i4
+
+Package: dev.mpg13.twelven
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.matchstic.xenhtml
+Filename: ./pkgs/twelven.modfied.deb
+Size: 28408
+MD5sum: f90bfd9a6678745c6475e7447399c7e5
+SHA1: b78284dd0a3127eeb823a55d970f676511c34392
+SHA256: bb045068813fa2136e4457faf2d234a9e6e9cb39ecb6f46722ee0630420dbb07
+Section: Addons (XenHTML)
+Homepage: https://repo.micahpgomez.dev
+Description: XenHTML theme based on the iOS 12 Lockscreen.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.twelven
+Name: Twelven
+
+Package: dev.mpg13.undertime
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: mobilesubstrate
+Filename: ./pkgs/com.mpg13.undertime_1.6-21+debug_iphoneos-arm.modfied.deb
+Size: 9384
+MD5sum: f6e01955bcc165fb50ae8297983007fe
+SHA1: 320e527b362382b91638220b4dabc9740d4b9515
+SHA256: 7e84988524c616d4c5fa9733a34537e8882182989d007b51a89c662e1b1749c3
+Section: Tweaks
+Homepage: https://repo.micahpgomez.dev
+Description: Customizable date under time in iX StatusBar.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.undertime
+Name: UnderTime
+
+Package: dev.mpg13.xenimated
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.matchstic.xenhtml
+Filename: ./pkgs/xenimated.modfied.deb
+Size: 3711888
+MD5sum: 355a3cbd32d4e01aa003b2e362f7f521
+SHA1: 5bbc584c8ede7f66e9f9efee846df8476da5a2b6
+SHA256: ae696a50a425544f7865a0c29f04b5ea0e528e7c3f4f46ee6c2043507bdf0fbd
+Section: Addons (XenHTML)
+Homepage: https://repo.micahpgomez.dev
+Description: XenHTML theme that adds a custom gif to your lockscreen.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.xenimated
+Name: Xenimated
+
+Package: dev.mpg13.xenimatedrecharged
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MPG13 <jbsupport@micahpgomez.dev>
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: ./pkgs/xenimatedrecharged.modfied.deb
+Size: 3713616
+MD5sum: 9688b691aa02a8bad059a7f1d48c8d47
+SHA1: 0c0e320a10ff3bb1c36df32e7b276eb7284bcb47
+SHA256: 13f51b13bace17c0f128d8ba1c76cb286adca67bfc8d546a6a5efc7cf9841f67
+Section: Addons (XenHTML)
+Homepage: https://repo.micahpgomez.dev
+Description: XenHTML theme that adds media to your lockscreen when charging.
+Author: MPG13 <jbsupport@micahpgomez.dev>
+Depiction: https://repo.micahpgomez.dev/depicts/depiction.html?selectedPackage=dev.mpg13.xenimatedrecharged
+Name: Xenimated: Recharged
+

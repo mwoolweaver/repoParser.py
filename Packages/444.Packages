@@ -1,0 +1,190 @@
+Package: com.s0mecoder.2weather4me
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.2weather4me_1.0_iphoneos-arm.deb
+Size: 421280
+MD5sum: a4dc2d8160fbd09e76da6d0904659517
+SHA1: 944a549ed8dc01abaf33ab59cf4899cc8143a98a
+SHA256: 14b7d5d6cdeeb479468142035ef7adf210218e508b531bc23bdfd3a1e386774a
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/2weather4me.html
+Description: Weather from two cities. Use it with any other LS clock you want.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Double Weather
+
+Package: com.s0mecoder.boxyls
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.boxyls_1.2_iphoneos-arm.deb
+Size: 120070
+MD5sum: a3842712781323254bd94aec4c77c93f
+SHA1: 6373dc099a30a77085528050da37e7ec6a973e48
+SHA256: 5b03655c2c07142107bebff9a8653a47e97f5c92a2227368dbf14bc5514500be
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/boxyls.html
+Description: HTML lock screen for GroovyLock and LockHTML3/4. Fix for incorrect date.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: Boxy LS
+
+Package: com.s0mecoder.headline
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.headline_1.1_iphoneos-arm.deb
+Size: 2670
+MD5sum: 5db2833de23a96227d98ce75a6e6c699
+SHA1: 04b9514018a0f3179144e90a05f6428d1fe84dae
+SHA256: 1df23e1e3a63ad5af47edfbbb5df549f97de78b5fbce579939f3498e55c22e6b
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/headline.html
+Description: HTML lock screen for GroovyLock and LockHTML3/4.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: Headline
+
+Package: com.s0mecoder.jellysearch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.jellysearch_1.0_iphoneos-arm.deb
+Size: 8834
+MD5sum: 84e20344adccd16c9caa4e0eb339fe2d
+SHA1: 5167604b48f1047c73f7398ae00a0b60cdec1d31
+SHA256: 7f8d2b523b932fc8cfd09778f6e062e1bd0620b0617fa7f3c118361975f667b3
+Section: iWidgets
+Homepage: http://s0mecoder.github.io/repo/img/jellysearch.html
+Description: A web search iWidget that matches the Jelly theme and uses your favorite search engine.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderiWidgets.png
+Name: Jelly Search Bar
+
+Package: com.s0mecoder.lsbrandon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.lsbrandon_1.0_iphoneos-arm.deb
+Size: 41066
+MD5sum: 7ce23dc8f671bf8de5fb093259e775e1
+SHA1: 2e6a31d6a0824d5f79f910f08aebc9f4738abd3c
+SHA256: a46da4af0aa08582b97fef0360f18469f2c7f72bbc7ec7ad17274462b448741a
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/lsbrandon.html
+Description: Inspired by /u/n0mar on reddit. HTML lock screen for GroovyLock and LockHTML3/4.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Brandon
+
+Package: com.s0mecoder.lsconfused
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.lsconfused_1.0_iphoneos-arm.deb
+Size: 358150
+MD5sum: 529608ddf29ed682acc11e054b10cf3f
+SHA1: 9538fbbe1390ad8663df7033b502b6f0f9f989da
+SHA256: 2b8c18abb9f7fecf08445a58be8b8afd3f8dc38b2b0d1ea7ac29b13eefadb19a
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/lsconfused.html
+Description: A confusing HTML lock screen. Don’t stare for too long.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Confused
+
+Package: com.s0mecoder.lsconfused
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.lsconfused_1.1_iphoneos-arm.deb
+Size: 358156
+MD5sum: 101a97bf3552e5c8b9084d9e829f0918
+SHA1: 52622dc255777499da7c4736483688d01ef174bd
+SHA256: 70dd97567b87a784f026aacf76bba879d91d8f6b2a49afd0996e0c95af42576b
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/lsconfused.html
+Description: A confusing HTML lock screen. Don’t stare for too long.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Confused
+
+Package: com.s0mecoder.lsconfusedipad
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.lsconfusedipad_1.1_iphoneos-arm.deb
+Size: 358204
+MD5sum: 3a75661928818db170cdf83946439577
+SHA1: 7708865b2ca32d58c9824ca9c92392d11edb74c5
+SHA256: c2437285b1d3b56c1fbb88cd7914cc7bc738c5bdb5a8b9f970f9d2e4e3631361
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/lsconfused.html
+Description: A confusing HTML lock screen. Don’t stare for too long. Fix for one part not being doubled.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Confused iPad
+
+Package: com.s0mecoder.lscustom
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.lscustom_1.0_iphoneos-arm.deb
+Size: 4298
+MD5sum: 0950825b85a0629a3cc1d9ce52f706c8
+SHA1: 6fdac21176448a943efc93d47a79418c5e30303f
+SHA256: 804291845b8213c53d02e4fd8cbacde27e9a30847927521a7fea36432b424545
+Section: Lockscreens
+Homepage: http://s0mecoder.github.io/repo/img/lscustom.html
+Description: An extra customizable HTML lock screen.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Custom
+
+Package: com.s0mecoder.lstransform
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.lstransform_1.0_iphoneos-arm.deb
+Size: 640258
+MD5sum: 7a4e37fd349dcefcf54d8fcfd08bdd02
+SHA1: 542ca7b1aa130e4fd3e4169cad52c548a88922aa
+SHA256: f486d75a467507c86ac3d73342bc87d4041e81403572d6d9366e0c1e39843dc8
+Section: Lockscreens
+Homepage: http://S0MECoder.github.io/repo/img/lstransform.html
+Description: An HTML Lockscreen that transforms at your touch to show the info you want.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Transform
+
+Package: com.s0mecoder.lstransform
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.lstransform_1.1_iphoneos-arm.deb
+Size: 640300
+MD5sum: bb2f57552290b65488b2c69058fbdf30
+SHA1: 9da4c7172495bc8033dd1c01b25d82a2bbe69763
+SHA256: ab4545c727384c595edda7a9e16a8912e1cf6d0cb661cbd61e0920e7fb0fd655
+Section: Lockscreens
+Homepage: http://S0MECoder.github.io/repo/img/lstransform.html
+Description: An HTML Lockscreen that transforms at your touch to show the info you want. Fix for wrong day of the week.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/S0MECoderLockscreens.png
+Name: LS Transform
+
+Package: com.s0mecoder.repoicons
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: S0MECoder <thatguyontheinternet4@gmail.com>
+Filename: .//com.s0mecoder.repoicons_1.2_iphoneos-arm.deb
+Size: 7762
+MD5sum: 18dafe17194726146ed686ff42e713c9
+SHA1: d02a07f6999b035fb4fde3dbd7e92ac7f535b804
+SHA256: e0620d0918a70eedc5b2e58288e3f2e2d919323a656fe70ba2970bd9b9f7c108
+Section: Repo
+Homepage: http://S0MECoder.github.io/repo/index.html
+Description: Install for repo icons.
+Author: S0MECoder <thatguyontheinternet4@gmail.com>
+Name: Repo Icons

@@ -1,0 +1,28 @@
+Package: com.coolapple.colorhome
+Version: 1.0-12
+Section: Tweaks
+Maintainer: Team CoolApple
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: debs/com.coolapple.colorhome_1.0-11_iphoneos-arm.deb
+Size: 13252
+Installed-Size: 288
+MD5sum: 966286913394657fdd222890867e8de9
+Name: ColorHome
+Depiction: https://teamcoolapple.github.io/depic/colorhome.html
+Author: Team CoolApple
+
+Package: com.coolapple.colorhome
+Version: 1.2-3
+Section: Tweaks
+Maintainer: Team CoolApple
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: debs/com.coolapple.colorhome_1.2-3_iphoneos-arm.deb
+Size: 13232
+Installed-Size: 288
+MD5sum: 5ed28aaedaa80c91bcaec7dbe0fe110c
+Name: ColorHome
+Depiction: https://teamcoolapple.github.io/depic/colorhome.html
+Author: Team CoolApple
+

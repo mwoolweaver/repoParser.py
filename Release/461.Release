@@ -1,0 +1,13 @@
+Origin: shinvou's repo
+Label: shinvou
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: This is the private Cydia repository of Timm Kandziora (shinvou).
+MD5Sum:
+
+fdfb26b2ad361df7ce9a9d8753031b0d 10162 Packages
+44909c9e3ca90e5ae32f86b8c37f19fa 3294 Packages.gz
+2fbe1c783daf32eb35caf945a0aadb2e 3184 Packages.bz2

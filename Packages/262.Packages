@@ -1,0 +1,69 @@
+Package: com.ken.blocksimalert
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Ken
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.ken.blocksimalert_1.0.0_iphoneos-arm.deb
+Size: 2840
+MD5sum: 78b3b359d5be2a3d6bbad4f0cb22fffc
+SHA1: 863b565184814d16289118229161310c2c5b92bf
+SHA256: 0c7731efe91b47624f3318158e9e710b1328b303f05094364c777fb4cbfe7c01
+Section: Tweaks
+Description: Block SIM Alert
+Author: Ken
+Depiction: https://kkyuen.github.io/repo/depictions/?p=com.ken.blocksimalert
+Name: BlockSIMAlert
+
+Package: com.kinkenyuen.douyinAutoNext
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ken <yuenkinken@icloud.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.kinkenyuen.douyinAutoNext_1.0.0_iphoneos-arm.deb
+Size: 3770
+MD5sum: aaf1a0e9e8fc627c14641c35b6fcb479
+SHA1: 88f183193709c143a435f23458997c275c27bfbf
+SHA256: e646fde38bf847bb811f223f49a1ec4be0b7692ca00dfc2d98651be491b923af
+Section: Tweaks
+Description: 抖音首页自动播放下一视频
+Author: Ken <yuenkinken@icloud.com>
+Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.douyinautonext
+Name: douyinAutoNext
+
+Package: com.kinkenyuen.videodownloadercn
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Ken <yuenkinken@icloud.com>
+Installed-Size: 1392
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.kinkenyuen.videodownloadercn_1.3.4_iphoneos-arm.deb
+Size: 472970
+MD5sum: 7d38d701caf9900cf7e3f59417ba8c3e
+SHA1: c7c3b5d16e85ce14ff575a98e8e349a9f2a6df8e
+SHA256: afbb9af87a0180073bb19446ca25bcc3afbdead0bbe6f9838077ad134883c86f
+Section: Tweaks
+Description: 允许App内短视频下载保存到本地
+Author: Ken <yuenkinken@icloud.com>
+Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.videodownloadercn
+Icon: file:///Library/PreferenceBundles/videodownloadercnprefs.bundle/VideoDownloaderIcon.png
+Name: VideoDownloaderCN
+
+Package: com.kinkenyuen.virtualstep
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: kinken <yuenkinken@icloud.com>
+Installed-Size: 320
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.kinkenyuen.virtualstep_1.0.0_iphoneos-arm.deb
+Size: 18966
+MD5sum: 045aca2e1ab03caba505d651a5cd4544
+SHA1: 3d42a28cb29ef932353dca75aaf4a9d919b8f2cd
+SHA256: 48cdb123863d6187d21bf47b0a9a3f82c26764cc13fa47981edaa32286421828
+Section: Tweaks
+Description: 修改健康App步数
+Author: kinken <yuenkinken@icloud.com>
+Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.virtualstep
+Name: VirtualStep
+

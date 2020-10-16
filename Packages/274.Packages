@@ -1,0 +1,101 @@
+Package: ch.leroyb.alwaysremindme
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: LeroyB <leroy.email.inbox@gmail.com>
+Installed-Size: 908
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./deb/AlwaysRemindMe.deb
+Size: 617306
+MD5sum: 7ebcc0c807e7dba127185ed1bfa5568e
+SHA1: 11e40261e9e6ede1be47cd26cc95198ce6a6075e
+SHA256: 5267c4e681889234dbf7565b999bd152fb5b470f2946ff62867bc5933604b3dd
+Section: Tweaks
+Description: Small text reminder on the home- and lockscreen!
+Author: LeroyB <leroy.email.inbox@gmail.com>
+Depiction: http://bit.ly/AlwaysRemindMe
+Name: AlwaysRemindMe
+
+Package: ch.leroyb.customcontrolcentre
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: LeroyB <leroy.email.inbox@gmail.com>
+Installed-Size: 260
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/CustomControlCentre-0.0.3.deb
+Size: 61200
+MD5sum: 21207172575ccf1ed4915580bbb080ab
+SHA1: 912695da781ff16df403018eb03c5f0a7c37dc13
+SHA256: b850550ee99f2ff0d468a8f6fc57d7ce662831447622dc4be06ecc818867f79c
+Section: Tweaks
+Description: Customise the Control Centre, configured from settings.app.
+Author: LeroyB <leroy.email.inbox@gmail.com>
+Depiction: http://bit.ly/CustomControlCentre
+Name: CustomControlCentre
+
+Package: ch.leroyb.customcontrolcentre
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: LeroyB <leroy.email.inbox@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/CustomControlCentre-0.0.4.deb
+Size: 63208
+MD5sum: b4a219bb283834bd19845e712597bfbc
+SHA1: 2c186a064d61367181a113e2016b1c63a2cd00df
+SHA256: b4ea1a50ac1a90a7a2383dc75463f0160c7a5e6f503024019dfd2ead21e9433b
+Section: Tweaks
+Description: Customise the Control Centre, configured from settings.app.
+Author: LeroyB <leroy.email.inbox@gmail.com>
+Depiction: http://bit.ly/CustomControlCentre
+Name: CustomControlCentre
+
+Package: ch.leroyb.customstatusbar
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: LeroyB <leroy.email.inbox@gmail.com>
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./deb/CustomStatusBar.deb
+Size: 5016
+MD5sum: 8f664e62aeef5586c59a98fe641765e8
+SHA1: 33007f18158a9f197409fdecc2b1cf9065e107cb
+SHA256: 060dea704253e5dacce36fe90a52566c8c56d309c3883f5725a63d8f97604112
+Section: Tweaks
+Description: For the Statusbar. Removes Carrier text, adds date and free RAM!
+Author: LeroyB <leroy.email.inbox@gmail.com>
+Depiction: bit.ly/CustomStatusBar
+Name: CustomStatusBar
+
+Package: com.leroy.customsbiconlist
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: LeroyB
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./deb/CustomSBIconList.deb
+Size: 244780
+MD5sum: e6fe475585fb1af940d0a04aab8027e0
+SHA1: 0e04fff2886cdf8f81169136ede335a92a5bd24a
+SHA256: 64d6fb7226341a6d1bceeb5e31097e7c448ba5188721329571b59561f3a1985d
+Section: Tweaks
+Description: Allows moving the icon list on the homescreen.
+Author: LeroyB
+Depiction: https://leroy-b.github.io/home/repo/description/CustomSBIconList.html
+Name: CustomSBIconList
+
+Package: com.leroy.nopasscodebuttonlightup
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: LeroyB
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./deb/NoPasscodeButtonLightup.deb
+Size: 4396
+MD5sum: 9285349984473694a9cd83ea9786f4d2
+SHA1: 3f79229b4acfac51195c72cb4db93aab2673e06b
+SHA256: 695b6e151d0f9488809d65953aeb789f3adfa1e0398bdbe6b55925978e164952
+Section: Tweaks
+Description: Prevents the passcode buttons from lighting up.
+Author: LeroyB
+Depiction: https://leroy-b.github.io/home/repo/description/NoPasscodeButtonLightup.html
+Name: NoPasscodeButtonLightup

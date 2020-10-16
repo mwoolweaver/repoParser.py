@@ -1,0 +1,518 @@
+Package: com.icraze.NoMoreYTSwipeyWatch
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/nomoreytswipeywatch.deb
+Size: 11832
+MD5sum: 00875625998bc9fee513435814d1d16b
+SHA1: 783a68aa42929a3ce9cbfc58e11c2182993c1a38
+SHA256: aea1de5e4b475735ffc288a8b5e9acc57d42d2f0139ac158520e287440bb6853
+Section: Tweaks
+Description: Remove The New 'Swipe To Advance Videos' Feature
+Author: iCraze
+Name: NoMoreYTSwipeyWatch
+
+Package: com.icraze.Status12
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/status12.deb
+Size: 11370
+MD5sum: 5b203afaff11cb69b8cd76286f1a3b37
+SHA1: ce5a351fe37bb0add27ec6988f965cc8ad6d86cf
+SHA256: 2da4fe9ad3e1f3fe0fd24d38ef883eb2350b72f0f6e520ee970bc8c373157317
+Section: Tweaks
+Description: Enables The iOS 12 iPad Style Status Bar On All iOS 12 Devices.
+Author: iCraze
+Name: Status12
+
+Package: com.icraze.batteryalert
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.cokepokes.libnotifications
+Filename: debs/com.icraze.batteryalert_1.1_iphoneos-arm.deb
+Size: 4044
+MD5sum: 321c49397cec0de508a3ae2ccf105eb3
+SHA1: 36ca0b31b21d84c4d9657d33004888fc36fbab59
+SHA256: aa5fae9785af22b33c3fdd186150fdf4621de9d436c08055b868ffc92a08d7ec
+Section: Tweaks
+Description: Show a notice when the device is disconnected from power.
+Author: iCraze
+Name: BatteryAlert
+
+Package: com.icraze.betternetplusplus
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/betternetplusplus.deb
+Size: 12602
+MD5sum: 809209714e89b1deac1310341d782ea4
+SHA1: 23b4ab06c03fb119e3d27e4d228e33523887c42a
+SHA256: 51b122601629cd44d7b13195df7f850d6d03cb1f0b8009929080ed0d53e36a95
+Section: Tweaks
+Description: Premium For Free
+Author: iCraze
+Name: Betternet++
+
+Package: com.icraze.caskx
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 268
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: debs/com.icraze.caskx_1.1.1_iphoneos-arm.deb
+Size: 11726
+MD5sum: 52159fc33555b6c9d2109d861b58d832
+SHA1: 29ba4580d89c2999ccaf7c4656f609f3051af258
+SHA256: 075130429cd46020f357c6761e386fe9d04b2bf3c0093b7159ca524b50c020dc
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/cask/
+Description: Animated table scrolling inspired by Google Plus
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://rpetri.ch/cydia/cask/
+Dev: rpetrich
+Name: CaskX
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.icraze.customvolstep
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 408
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.icraze.customvolstep_1.0_iphoneos-arm.deb
+Size: 8090
+MD5sum: 5fab83194a5a1c2d05ecacbb9a9c3044
+SHA1: 19ed5fbf2ac5bad7ed6e4dc2e05150b073355175
+SHA256: 466ba6cb397c2b3ce3412533f09ef2d4ca88e820b777164dfaf2c8ebcd720f6d
+Section: Tweaks
+Description: Customise The Incrementation Of Your Device's Volume.
+Author: iCraze
+Name: CustomVolStep
+
+Package: com.icraze.customvolstep
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 408
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.icraze.customvolstep_1.0.1_iphoneos-arm.deb
+Size: 8198
+MD5sum: 1768dc32e1407dbea7115157f4af5254
+SHA1: 49394cd32a57533cd74765408f21ae40740446bc
+SHA256: 3fcb467adf85a05ae8d3ef1b94599bddd4db2e37fb78586340b9fa386b5cc016
+Section: Tweaks
+Description: Customise The Incrementation Of Your Device's Volume.
+Author: iCraze
+Name: CustomVolStep
+
+Package: com.icraze.easyauthentication
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.icraze.easyauthentication_1.0_iphoneos-arm.deb
+Size: 4496
+MD5sum: aa6e633b0731eff5764a725569e002fd
+SHA1: 1f6f340022166d5313276727c1c3d32f32534c39
+SHA256: b5b1146b4eb8d003ecee3b3135fe8ba8d306fb9c5993c267822c7556474b3ba6
+Section: Tweaks
+Description: Hold down on an account cell to copy the authentication code and display some other details. (Microsoft Authenticator)
+Author: iCraze
+Name: EasyAuthentication
+
+Package: com.icraze.easynotifications
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.icraze.easynotifications_2.0_iphoneos-arm.deb
+Size: 3146
+MD5sum: 508ccd06e1db5ef857253e0bebdc21b2
+SHA1: 6feb4c0a3cfa54800ed5e9a76f629c5158e15fe0
+SHA256: 5131140581a856874c63bcc8ac155b10ab8618a1f7f274d13fc62a631514a1d0
+Section: Tweaks
+Description: Swipe To Open/Clear Notifications Quicker And Easier.
+Author: iCraze
+Name: Easy Notifications
+
+Package: com.icraze.fiverrjailbreakbypass
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/fiverrjailbreakbypass.deb
+Size: 9332
+MD5sum: 2595caae58f6f701e5ecc6e77f554ab4
+SHA1: c10d67bd05457966c253a714a21cd4cfc290fc54
+SHA256: d85e18dea50fa968e179aabb4c7a9250836a28e053e1ed0ad87e6c0a08c1af49
+Section: Tweaks
+Description: Bypass Jailbreak Detection
+Author: iCraze
+Name: Fiverr Jailbreak Bypass
+
+Package: com.icraze.hidenooldernotifs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.icraze.hidenooldernotifs_1.0_iphoneos-arm.deb
+Size: 2966
+MD5sum: 135a51e1a42a03bd3e5bed59103fd453
+SHA1: 2209bd65298160a0a0ac0ec006634fa7ffce80d7
+SHA256: 9be8b25e186c24bed4cbe2474cd90b06602cdf9d2ea41c78acb6fc4d93809c64
+Section: Tweaks
+Description: Hide The 'No Older Notifications' Text
+Author: iCraze
+Name: HideNoOlderNotifs
+
+Package: com.icraze.inoblurrydock
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/inoblurrydock.deb
+Size: 9740
+MD5sum: 9e32397708f7dff9297e885a98230a51
+SHA1: e00cdd6c41eb6fe4069bb155fa46262907557064
+SHA256: 91a0d9adb11adea7c08a1f46cc135c791dd6d44c08b6b8d2c95cbaa681a5735d
+Section: Tweaks
+Description: This Tweak Removes The Blurred Background From The Dock.
+Author: iCraze
+Name: iNoBlurryDock
+
+Package: com.icraze.no3dcursor
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/no3dcursor.deb
+Size: 9700
+MD5sum: 286188779a28077708c72209615eda2f
+SHA1: 35e97a49f5d4db1dbb38e2244883bc6b57f89c42
+SHA256: bd818a394ba784241a87a104a7c887d545a412aefec1a8b6d37b2bfbdaf09efe
+Section: Tweaks
+Description: Disable The 3D Touch Keyboard Cursor.
+Author: iCraze
+Name: No3DCursor
+
+Package: com.icraze.noburst
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/noburst.deb
+Size: 9224
+MD5sum: baf9e575b8706b9af8edf87fbc0b4ce4
+SHA1: c24f09f9a617ab6e42ad5ed467984abb7b51c622
+SHA256: ac5004af96929fa3accfce5ecc2c7370a4defc0546ea8a825b5a585dcb977c2c
+Section: Tweaks
+Description: Disable Burst Photos In The Camera App.
+Author: iCraze
+Name: NoBurst
+
+Package: com.icraze.noiconflyin13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.icraze.noiconflyin13_1.0_iphoneos-arm.deb
+Size: 2302
+MD5sum: eed99186d2feb47bd536480a98e0a817
+SHA1: 011cac224bee53f77cd351215a0bcf0631b73ce9
+SHA256: 8fab446100491d9421c97aceab29d932694627bc9b9db9056bc76315daeefe26
+Section: Tweaks
+Description: Disable The Icom Fly-In On iOS 13.
+Author: iCraze
+Name: NoIconFlyIn13
+
+Package: com.icraze.nomoreaudiomessages
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.icraze.nomoreaudiomessages_1.0_iphoneos-arm.deb
+Size: 2890
+MD5sum: 272f607d3fb7b00a2921371d248e9796
+SHA1: dcdbcc8380f3f9d0e4fbbf77e41cb39bd1814a64
+SHA256: 85df12f8918e6dd52bd285cf61768ec680c591e0a4d66ec6d428af5552bb6048
+Section: Tweaks
+Description: Remove the audio message button in the Messages app.
+Author: iCraze
+Name: NoMoreAudioMessages
+
+Package: com.icraze.pagebar
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/com.icraze.pagebar_1.0.1_iphoneos-arm.deb
+Size: 6568
+MD5sum: e8ddc28009098f1cba59b52f77c9bae1
+SHA1: 32d1a98e58b2626c5e40d1df6dba6af9606f9d7e
+SHA256: 827bc1bf0274b8159d5c277fce7b3636682500713ac2dd80bdbc0037e195add2
+Section: Tweaks
+Description: Turn The Page Dots Into A Bar
+Author: iCraze
+Name: PageBar
+
+Package: com.icraze.pagebar
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.icraze.pagebar_1.0.2_iphoneos-arm.deb
+Size: 3044
+MD5sum: 83854dbb90a37040edc75c86cbfd3316
+SHA1: 45f06989d2425df610492a6e7c0d29992f26fb5a
+SHA256: b393b2faafe9b4ef40fd569ccb2f3b00e94df398c6fe05848232d01544abb1f9
+Section: Tweaks
+Description: Turn The Page Dots Into A Bar
+Author: iCraze
+Name: PageBar
+
+Package: com.icraze.pagesquares
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/com.icraze.pagesquares_1.0.1_iphoneos-arm.deb
+Size: 6508
+MD5sum: df6e681f30c2d6df90c03e4316b36ac8
+SHA1: dbab945fbcf7070df3f2a4b2a2de843fafee55d5
+SHA256: a7561e60790b16d88cf6eb880ba7a12c638c9542a5705e8c2d5b70e700672441
+Section: Tweaks
+Description: Turn The Page Dots Into Squares
+Author: iCraze
+Name: PageSquares
+
+Package: com.icraze.pagesquares
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.icraze.pagesquares_1.0.2_iphoneos-arm.deb
+Size: 2950
+MD5sum: ad083e5732a71566c39e1e5f64e2346e
+SHA1: f3334bbcbf0abf1cd5050419169216955addce3d
+SHA256: 3e6a23958537e3c5c275c1d6a632d38b27cda97180022dbf713faf506455b673
+Section: Tweaks
+Description: Turn The Page Dots Into Squares
+Author: iCraze
+Name: PageSquares
+
+Package: com.icraze.poucheats
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/poucheats.deb
+Size: 10384
+MD5sum: a13ec0304a7f911dcbd1892b093b5919
+SHA1: c83d6344706538ae71dbe727c16e6ef98fc66540
+SHA256: 77468661ffea931e47bb9dcd4596dcf328603978d52260c5958a3284973e9584
+Section: Game Cheats
+Description: Cheats For The Game 'Pou' - 999,999,999 Coins, Level 9999, No Jailbreak Detection
+Author: iCraze
+Name: Pou Cheats
+
+Package: com.icraze.screentimebegone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.icraze.screentimebegone_1.0_iphoneos-arm.deb
+Size: 3908
+MD5sum: 9ed249f5d4cf0af56069d80975c7d542
+SHA1: 845b493af718a4815d0de859a0919333dff11bb5
+SHA256: 9a85d05373c4eb9fcc50c47fe9e9d885753a96db1154b59d7b3e6a277791c69d
+Section: Tweaks
+Description: Bypass Screen Time App Limits
+Author: iCraze
+Name: ScreenTimeBeGone (Beta)
+
+Package: com.icraze.silentkeypods
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.icraze.silentkeypods_1.0_iphoneos-arm.deb
+Size: 3524
+MD5sum: 5fd351289a9d5131bd5f321b1045f778
+SHA1: d3b3bc91881aefcf97d8959c0f79732abfe1c0e3
+SHA256: d938864778b36a648d15cb0837692fa5ec6a94dddb843d3f72cbce89915a33bf
+Section: Tweaks
+Description: Mute keyboard sounds when AirPods are connected (possibly other Bluetooth headphones too).
+Author: iCraze
+Name: SilentKeyPods
+
+Package: com.icraze.simplisticphotos
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/simplisticphotos.deb
+Size: 9866
+MD5sum: 57188405f337168eec391181a6208bfd
+SHA1: 68f2f921ed24cde363c04fd95d87e2c95d3cb936
+SHA256: 28e87945fbea95a49c6b234e8c340d6813b3dd33bab52f4fd33f1b5b5d60a8d2
+Section: Tweaks
+Description: Removes The Tab-Bar In The Photos App.
+Author: iCraze
+Name: Simplistic Photos
+
+Package: com.icraze.speedtestplusplus
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.icraze.speedtestplusplus_2.0_iphoneos-arm.deb
+Size: 2346
+MD5sum: dc352bca77d1b82c84b4138d6ecb5da6
+SHA1: 02b449c24842b81136a2561ad787c6838cd94212
+SHA256: 183de839fe657522fa257bb51483437474e90da6ec2f2a042f815188e184944a
+Section: Tweaks
+Description: Removes Ads In Ookla Speedtest
+Author: iCraze
+Name: Ookla Speedtest++
+
+Package: com.icraze.speedtestplusplus
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.icraze.speedtestplusplus_3.0_iphoneos-arm.deb
+Size: 2282
+MD5sum: bf89eacb85be10e3968c471582f2639f
+SHA1: 2fb00b777258b83e668c0c67f5d57cac6f88445d
+SHA256: 2c0a8ad332d062e429c9196ae6177cde9598a5d199b2f99f9e192999b35dd376
+Section: Tweaks
+Description: Removes Ads In Ookla Speedtest
+Author: iCraze
+Name: Ookla Speedtest++
+
+Package: com.icraze.translucent3dmenus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.icraze.translucent3dmenus_1.0_iphoneos-arm.deb
+Size: 3396
+MD5sum: 7710a8a41ccc564ae063aaf83162ed36
+SHA1: b02ce2663877ea5aec96680418b31ee6f0c51c19
+SHA256: 5c75fb684f6c7f330413b895ee55ffa2ad41a9a7a64d75ed13ff23a3f4a1f0f2
+Section: Tweaks
+Description: Make the 3D-Touch menus translucent!
+Author: iCraze
+Name: Translucent3DMenus
+
+Package: com.icraze.youtubemusicbackgroundplayback
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.icraze.youtubemusicbackgroundplayback_1.0_iphoneos-arm.deb
+Size: 2978
+MD5sum: 99f3295e157f3129681a468e1a198e84
+SHA1: 1b733590b92e093dfb14e03c8d30820bb7cd097b
+SHA256: bb3a40b437219cb6ba43a3b2be0e89de27d4b472a75ee9c1a0e86a009d3cd743
+Section: Tweaks
+Description: Enable Background Playback On The YouTube Music App For Free!
+Author: iCraze
+Name: YouTube Music Background Playback
+
+Package: com.monotrix.aeolus
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Monotrix
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.monotrix.aeolus_1.0.2_iphoneos-arm.deb
+Size: 2982
+MD5sum: 5b20b90e278d8b785171bdc52bbadecf
+SHA1: 0d0226bf217547b1d4356a21d7fd0e58359c3dd8
+SHA256: b60fb9f80047647d4c12adfeb353b5b28200ee2c5b8a3bd6a8d4a51dd66345ee
+Section: Tweaks
+Description: A tweak to remove Table Separators system-wide (without crashes).
+Author: Monotrix
+Name: Aeolus
+
+Package: com.monotrix.nomorescrollstotop
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Monotrix
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: debs/com.monotrix.nomorescrollstotop_1.2_iphoneos-arm.deb
+Size: 70834
+MD5sum: b5b6cc84570cf794b9836e7558f50842
+SHA1: efaaa4bdeb5e652ea036ee26612a869d092e6137
+SHA256: e41f69a82707516be926e2840996306eab84b19c16362e49c92cc65567c4e44c
+Section: Tweaks
+Description: A simple tweak to disable scrollsToTop in **almost** all apps.
+Author: Monotrix
+Name: NoMoreScrollstoTop
+
+Package: com.monotrix.reachoptions
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Monotrix
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 11.0)
+Filename: debs/com.monotrix.reachoptions_1.2_iphoneos-arm.deb
+Size: 19174
+MD5sum: 65946b0fcd2c14c40fb22bb7862e24e3
+SHA1: 20acf1aab585b9b124acdfca10775adade37fb95
+SHA256: f15066a4afde8b65cec0309cc605bb2b682496da2983c75e27a5a55100485ff7
+Section: Tweaks
+Description: A tweak to add options to reachability.
+Author: Monotrix
+Name: ReachOptions
+
+Package: com.tmded.ahoy
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Thomas Davies
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.tmded.ahoy_0.1.0_iphoneos-arm.deb
+Size: 3766
+MD5sum: e347d7fb6f30ab0aa8cd524cf54a2cdb
+SHA1: 502a19e2d3c5d9e20c583c5e8bfd68296a6acb1f
+SHA256: b5820d287f4c27db6fb7bd66ce9d647e2ebd74a1163dcaf52468d72812b9442a
+Section: Tweaks
+Description: Makes my hostname actually work, like why doesn't it work bruh, like just make it work by default then this wouldn't exist.
+Author: Thomas Davies
+Icon: file://./logo.png
+Name: Ahoy
+

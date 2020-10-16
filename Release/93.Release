@@ -1,0 +1,20 @@
+Origin: blue symphony
+Label: blue symphony
+Suite: stable
+Version: 1.0
+Codename: ca.kirara.bluesymphony
+Architecture: iphoneos-arm
+Components: main
+Description: stuff
+MD5Sum:
+ 986869d9d30c5d2a2c6eb02575ce3155 13837 Packages
+ e21025842db278fe8b2d64fbf96a56fa 3089 Packages.gz
+ f902564d86d86420ad2b70f5d956bf75 3215 Packages.bz2
+SHA1:
+ b5e738708df2a37b1601fbe96d369477569659bf 13837 Packages
+ 529a69f61fb56305c77ede871cb3846ff53c3ef8 3089 Packages.gz
+ 70b6909f042a943f8f25d188f4af758ff33be722 3215 Packages.bz2
+SHA256:
+ f79eacf1cf8f6d0c9de5d4166b90daab74a28b5405977cc0402c8f9230cbbb64 13837 Packages
+ 41ebbd45cbe8c2a3850cad3b48ed988affd7604a0e26528e451464c82b79e0cf 3089 Packages.gz
+ 1d08697397c6967399f5cc616edeb7b861b6ecb35fe4bfd5cd80d8ddfca13a46 3215 Packages.bz2

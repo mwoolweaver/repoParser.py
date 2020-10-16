@@ -1,0 +1,104 @@
+Package: animweatherhs
+Version: 1.5.1
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///animweatherhs_1.5.1_iphoneos-arm.deb
+Size: 40858
+Installed-Size: 121
+MD5sum: 14d9c3b7023d36ae300984615294192d
+Description: no description given
+Homepage: http://example.com/no-uri-given
+
+Package: animweatherls
+Version: 1.1
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///animweatherls_1.1_iphoneos-arm.deb
+Size: 40402
+Installed-Size: 117
+MD5sum: ae382ed0a63dd74f012467549b55fb9b
+Description: no description given
+Homepage: http://example.com/no-uri-given
+
+Package: chargedup
+Version: 3.0
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///chargedup_3.0_iphoneos-arm.deb
+Size: 39666
+Installed-Size: 119
+MD5sum: 1022e72aa23947b9e6c78955956a414d
+Description: no description given
+Homepage: http://example.com/no-uri-given
+
+Package: glowtheme
+Version: 1.2
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///glowtheme_1.2_iphoneos-arm.deb
+Size: 1510932
+Installed-Size: 1695
+MD5sum: 437203c6688093ac00094b66c0a23a9d
+Description: no description given
+Homepage: http://example.com/no-uri-given
+
+Package: layeredhs
+Version: 1.0
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///layeredhs_1.0_iphoneos-arm.deb
+Size: 40336
+Installed-Size: 111
+MD5sum: b74223032dc3ec3c08feebf8ce9f0e07
+Description: no description given
+Homepage: http://example.com/no-uri-given
+
+Package: linebottomwidget
+Version: 1.2
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///linebottomwidget_1.2_iphoneos-arm.deb
+Size: 39106
+Installed-Size: 106
+MD5sum: 68faec762714a1239a083087fb24113c
+Description: no description given
+Homepage: http://example.com/no-uri-given
+
+Package: linetopwidget
+Version: 1.4
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///linetopwidget_1.4_iphoneos-arm.deb
+Size: 39136
+Installed-Size: 106
+MD5sum: 18bcb137100f139343b99f52929e5c91
+Description: no description given
+Homepage: http://example.com/no-uri-given
+
+Package: stacksls
+Version: 2.2.1
+Priority: extra
+Section: default
+Maintainer: <tian@Chrisians-Air.lan1>
+Architecture: iphoneos-arm
+Filename: debs///stacksls_2.2.1_iphoneos-arm.deb
+Size: 41408
+Installed-Size: 123
+MD5sum: 54d52486430fa372816740265aa1639d
+Description: no description given
+Homepage: http://example.com/no-uri-given
+

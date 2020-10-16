@@ -1,0 +1,17 @@
+Package: com.Roy.capture
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: roy
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.Roy.capture_1.0.0-3+debug_iphoneos-arm.deb
+Size: 13376
+MD5sum: f0ff73e092e0f591d4d7eb4d0f11cecd
+SHA1: c79b76a71ccd11958aa9955d5dec2eae7a31cfbe
+SHA256: 039b9a79a09005ab8799d27e68032ec7e676d502bf34d5231be161d28743fab1
+Section: Tweaks
+Description: Takes a picture when incorrect passcode entered or when Face ID mismatches!
+Author: roy
+Depiction: https://roymakestuff.github.io/depictions/?p=com.Roy.capture
+Name: capture
+

@@ -1,0 +1,151 @@
+Package: com.yourepo.samplasion.iphonexdockxi
+Version: 1.1.0-2
+Section: Themes
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Depends: firmware (>=11.0), com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: ./debs/com.yourepo.samplasion.iphonexdockxi_1.1_iphoneos-arm.deb
+MD5sum: 3d37f8dd6728d2e7cac4b4663ad4184d
+Description: The iPhone X dock for iPhone 5/5S/SE. Not compatible with bigger devices, use at your own risk.
+Name: iPhoneX DockXI
+Author: Francesco Arieti <samplasion@gmail.com>
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.yourepo.samplasion.iphonexdockxi
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.yourepo.samplasion.iphonexdockxi/sileo.html
+
+Package: com.samplasion.dpkg-test
+Version: 0.0.1-1
+Section: Tweaks/Tests
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Architecture: iphoneos-arm
+Filename: ./debs/dpkg-test.deb
+Description: A test for dpkg.
+Name: dpkg-test
+Author: Francesco Arieti <samplasion@gmail.com>
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.dpkg-test
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.dpkg-test/sileo.html
+
+Package: com.tonyk7.0vigilate
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Tonyk7
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tonyk7.0vigilate_0.0.1_iphoneos-arm.deb
+Installed-Size: 72
+Size: 2252
+MD5sum: 0cb4f7e68e2d215935aa6ecaeaaf9c68
+Description: An awesome MobileSubstrate tweak!
+Name: 0vigilate
+Author: Tonyk7
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.tony7k.0vigilate
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.tony7k.0vigilate/sileo.html
+
+Package: com.samplasion.custombetaalert
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.samplasion.custombetaalert_1.0.0_iphoneos-arm.deb
+MD5sum: 7624c337f0cc7db2edfb6f838c9dc148
+Description: Recreate the annoying beta update message, but now with custom text!
+Name: CustomBetaAlert
+Author: Francesco Arieti <samplasion@gmail.com>
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.custombetaalert
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.custombetaalert/sileo.html
+Icon: file:///Library/PreferenceBundles/custombetaalertprefs.bundle/icon.png
+
+Package: com.samplasion.custombetaalert
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.samplasion.custombetaalert_1.1.1_iphoneos-arm.deb
+MD5sum: cea69d9c417a040a177a7534533f2dcb
+Description: Recreate the annoying beta update message, but now with custom text!
+Name: CustomBetaAlert
+Author: Francesco Arieti <samplasion@gmail.com>
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.custombetaalert
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.custombetaalert/sileo.html
+Icon: file:///Library/PreferenceBundles/custombetaalertprefs.bundle/icon.png
+
+Package: com.samplasion.dopesettingseditor
+Name: DopeSettingsEditor
+Version: 1.0.1
+Depends: xyz.xninja.dopesettings
+Architecture: iphoneos-arm
+Description: A tweak that lets you seamlessly edit the settings titles from a GUI
+Filename: ./debs/com.samplasion.dopesettingseditor_1.0.1_iphoneos-arm.deb
+MD5sum: 66f24602e9eb5dde6bf27a373717295a
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Author: Francesco Arieti <samplasion@gmail.com>
+Section: Utilities
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.dopesettingseditor
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.dopesettingseditor/sileo.html
+
+Package: com.samplasion.settingscustomizer
+Name: SettingsCustomizer
+Version: 0.0.1
+Conflicts: xyz.xninja.dopesettings
+Architecture: iphoneos-arm
+Description: Change your settings with style!
+Filename: ./debs/com.samplasion.settingscustomizer_0.0.1_iphoneos-arm.deb
+MD5sum: be3e0add4a62fdb0b08028014d917a31
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Author: Francesco Arieti <samplasion@gmail.com>
+Section: Tweaks
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.settingscustomizer
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.settingscustomizer/sileo.html
+
+Package: com.samplasion.folderopennomore
+Name: FolderOpenNoMore
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Drag multiple apps and folders without opening them
+Filename: ./debs/com.samplasion.folderopennomore_1.0.0_iphoneos-arm.deb
+MD5sum: 4ecf158b5844f00a052eed0ba50eca50
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Author: Francesco Arieti <samplasion@gmail.com>
+Section: Tweaks
+Size: 6372
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.folderopennomore
+SileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.folderopennomore/sileo.html
+
+Package: com.samplasion.quaesitum
+Name: Quaesitum
+Version: 0.0.1-31+debug
+Architecture: iphoneos-arm
+Description: Asks a question after phone unlock
+Filename: ./debs/com.samplasion.folderopennomore_1.0.0_iphoneos-arm.deb
+MD5sum: 78fa1778624734fc79fbec21b247b632
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Author: Francesco Arieti <samplasion@gmail.com>
+Section: Tweaks
+
+Package: com.samplasion.7heaven
+Name: 7-Heaven
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Ports the iOS 7 "Free" App Store button to newer devices!
+Filename: ./debs/com.samplasion.7heaven_0.1.0_iphoneos-arm.deb
+MD5sum: f469cddd78bec7527b73ab419b67d70d
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Author: Francesco Arieti <samplasion@gmail.com>
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.7heaven
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.7heaven/sileo.html
+Section: Tweaks
+
+Package: com.samplasion.7heaven
+Name: 7-Heaven
+Version: 0.2.0
+Architecture: iphoneos-arm
+Description: Ports the iOS 7 "Free" App Store button to newer devices!
+Filename: ./debs/com.samplasion.7heaven_0.2.0_iphoneos-arm.deb
+MD5sum: 06f3394f4a2a9bd7c6a3805f54dbd84c
+Maintainer: Francesco Arieti <samplasion@gmail.com>
+Author: Francesco Arieti <samplasion@gmail.com>
+Depiction: https://samplasion.github.io/cydia/depictions/?p=com.samplasion.7heaven
+WIPSileoDepiction: https://samplasion.github.io/cydia/depictions/com.samplasion.7heaven/sileo.html
+Section: Tweaks

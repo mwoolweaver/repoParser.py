@@ -1,0 +1,16 @@
+Package: com.machport.rbxbypass
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: machport
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb_files/com.machport.rbxbypass_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3582
+MD5sum: 9a6fef89e9842e3c524035963a494ea2
+SHA1: 67439154c6fd917664f1927834374596a2e7f743
+SHA256: 4ce59519ccb2ae02903cb6f65d9d56fe34ef056e333986807af2508200bd3d50
+Section: Tweaks
+Description: A roblox iOS jailbreak detection bypass
+Author: machport
+Name: rbxbypass
+

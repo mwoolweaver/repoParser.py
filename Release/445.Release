@@ -1,0 +1,8 @@
+Origin: s1ris
+Label: s1ris
+Suite: stable
+Version: 1.0
+Codename: br
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks from @s1ris.

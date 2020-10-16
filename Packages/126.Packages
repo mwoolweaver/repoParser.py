@@ -1,0 +1,417 @@
+Package: com.RadRIAR.NextGEN
+Version: 1.0
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <mclarke0805@gmail.com>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.RadRIAR.nextGEN_1.0_iphoneos-arm.deb
+Size: 108448
+MD5sum: 58d615ba61c29f3e47bd5143e906b4f8
+Description: NextGenUI inspired theme for Convergance
+Name: NextGEN
+Author: RadRIAR <doshard@hotmail.com>
+Depiction: http://incendo.ws/repo/depictions/com.RadRIAR.NextGEN.html
+Icon: file:///Library/Application Support/Convergance/Themes/NextGEN/Icon@2x.png
+
+Package: com.drifter.infostats
+Version: 1.0
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: com.matchstic.Convergance, com.matchstic.infostats
+Architecture: iphoneos-arm
+Filename: .//debs/com.drifter.infostats_1.0_iphoneos-arm.deb
+Size: 258996
+MD5sum: ffbe6f5fb842a6079b1b8d5206cd28e7
+Description: System info widget for Convergance.
+Name: System widget (HTML)
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance.html
+Icon: file:///var/mobile/Library/Convergance/LockWidgets.bundle/com.drifter.infostatswidget/Icon@2x.png
+
+Package: com.drifter.weather
+Version: 1.0
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), com.matchstic.Convergance, com.sddevstudio.weather
+Architecture: iphoneos-arm
+Filename: .//debs/com.drifter.weather_1.0_iphoneos-arm.deb
+Size: 2026526
+MD5sum: 263b6cae69581421048f121c850a6144
+Description: HTML-based weather widget for Convergance
+Name: Weather (HTML)
+Author: The.Drifter <markabelanger@gmail.com>
+Depiction: http://repo.incendo.ws/depictions/com.drifter.weather.html
+
+Package: com.everythingapplespro.flat.cvtheme
+Version: 1.0
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <mclarke0805@gmail.com>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.everythingapplespro.flat.cvtheme_1.0_iphoneos-arm.deb
+Size: 22552
+MD5sum: e580a39a99ef8554d257b5f4329617ee
+Description: A flat theme for Convergance
+Name: Flat
+Author: EverythingApplesPro <everythingjailbreakpro0805@gmail.com>
+Icon: file:///Library/Application Support/Convergance/Themes/Flat/Icon@2x.png
+
+Package: com.givenchy.allos
+Version: 1.0.1
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.givenchy.allos_1.0.1_iphoneos-arm.deb
+Size: 323798
+MD5sum: cc4ae485c5f52d8fb3a15745c8825814
+Description: Conservative, sleek  & minimalistic.
+Name: Allos
+Author: André Givenchy <hello@andregivenchy.com>
+Depiction: http://repo.incendo.ws/depictions/com.givenchy.allos.html
+Icon: file:///Library/Application Support/Convergance/Themes/Allos/Icon@2x.png
+
+Package: com.givenchy.allos
+Version: 1.0
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.givenchy.allos_1.0_iphoneos-arm.deb
+Size: 317492
+MD5sum: e70017e33408792e9fbace53f621a6f4
+Description: Conservative, sleek  & minimalistic.
+Name: Allos
+Author: André Givenchy <hello@andregivenchy.com>
+Depiction: http://repo.incendo.ws/depictions/com.givenchy.allos.html
+Icon: file:///Library/Application Support/Convergance/Themes/Allos/Icon@2x.png
+
+Package: com.givenchy.alu
+Version: 1.0.1
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.givenchy.alu_1.0.1_iphoneos-arm.deb
+Size: 314518
+MD5sum: fd6e6bac5b1df4e319ce88f3f0a57546
+Description: Clean. Minimal. Modern.
+Name: Alu
+Author: André Givenchy <hello@andregivenchy.com>
+Depiction: http://repo.incendo.ws/depictions/com.givenchy.alu.html
+Icon: file:///Library/Application Support/Convergance/Themes/Alu/Icon@2x.png
+
+Package: com.givenchy.alu
+Version: 1.0
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.givenchy.alu_1.0_iphoneos-arm.deb
+Size: 124222
+MD5sum: b1bda1277fcae57d3fb4a95848c3ccad
+Description: Clean. Minimal. Modern.
+Name: Alu
+Author: André Givenchy <hello@andregivenchy.com>
+Depiction: http://repo.incendo.ws/depictions/com.givenchy.alu.html
+Icon: file:///Library/Application Support/Convergance/Themes/Alu/Icon@2x.png
+
+Package: com.matchstic.4x4toggles
+Version: 1.0-1
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.4x4toggles_1.0-1_iphoneos-arm.deb
+Size: 6214
+MD5sum: 1a7ebbc050bc7e90f9c1961c11e0249a
+Description: 4x4 Toggles for Convergance
+Name: 4x4 Toggles
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://repo.incendo.ws/depictions/com.matchstic.4x4toggles.html
+
+Package: com.matchstic.4x4toggles
+Version: 1.0.1
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.4x4toggles_1.0.1_iphoneos-arm.deb
+Size: 6756
+MD5sum: 9a2a3ffddf2ebbce445877ad843e139f
+Description: 4x4 Toggles for Convergance
+Name: 4x4 Toggles
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://repo.incendo.ws/depictions/com.matchstic.4x4toggles.html
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-1
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-1_iphoneos-arm.deb
+Size: 4182452
+MD5sum: 1f819de87a40d18ecad57ff4faeeaa73
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-3
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-3_iphoneos-arm.deb
+Size: 3491144
+MD5sum: 66f637bf0e5c747df4034d5ca140bba3
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance2.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-4
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-4_iphoneos-arm.deb
+Size: 3491222
+MD5sum: 74c100a4e62515e2378ce94bd96eda05
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance2.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-5
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-5_iphoneos-arm.deb
+Size: 3212952
+MD5sum: 37b664037881896514313c0ae1c58c76
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance2.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-6
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-6_iphoneos-arm.deb
+Size: 3212736
+MD5sum: 5d85155740f592483f4a078ff64308bd
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance2.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-7
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-7_iphoneos-arm.deb
+Size: 3213998
+MD5sum: d44593702d39d713241e0af53dcedcb6
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance2.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-8.1
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-8.1_iphoneos-arm.deb
+Size: 3216368
+MD5sum: 48e13742e3faa1fb7e4346bf8e9c7b09
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance2.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.Convergance
+Version: 2.0.1-8
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.Convergance_2.0.1-8_iphoneos-arm.deb
+Size: 3217376
+MD5sum: 0b6a2b773786b9c7dd436ed216c92e4a
+Description: Reimagine your lockscreen
+Name: Convergance
+Author: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance2.html
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+
+Package: com.matchstic.ConverganceLite
+Version: 0.2.8
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate
+Conflicts: com.matchstic.convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.ConverganceLite_0.2.8_iphoneos-arm.deb
+Size: 569290
+MD5sum: 53663b4d1d2146be87b3ec28f03019c3
+Description: Rethink lockscreen notifications.
+Name: Convergance Lite
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.ConverganceLite.html
+Icon: file:///Library/Application Support/ConverganceLite/Icon@2x.png
+
+Package: com.matchstic.ConverganceLite
+Version: 0.2.9
+Priority: optional
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 6.0), mobilesubstrate
+Conflicts: com.matchstic.convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.matchstic.ConverganceLite_0.2.9_iphoneos-arm.deb
+Size: 406466
+MD5sum: fb037c23431d8583e048452a158ecf81
+Description: Rethink lockscreen notifications.
+Name: Convergance Lite
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.ConverganceLite.html
+Icon: file:///Library/Application Support/ConverganceLite/Icon@2x.png
+
+Package: com.sahcazm.hexagonal
+Version: 1.0
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.sahcazm.hexagonal_1.0_iphoneos-arm.deb
+Size: 55832
+MD5sum: 6dce3fd303943aaf7c51a4f581aaaba3
+Description: Hexagon-based theme for use with Convergance.
+Name: Hexagonal
+Author: Sahcazm <therushhx@gmail.com>
+Depiction: http://repo.incendo.ws/depictions/com.sahcazm.hexagonal.html
+Icon: file:///Library/Application Support/Convergance/Themes/Hexagonal/Icon@2x.png
+
+Package: com.sahcazm.square
+Version: 1.0
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.sahcazm.square_1.0_iphoneos-arm.deb
+Size: 26148
+MD5sum: e218330e1ea4345673e3507bee00ff9b
+Description: Simple square theme for use with Convergance.
+Name: Square
+Author: Sahcazm <therushhx@gmail.com>
+Depiction: http://repo.incendo.ws/depictions/com.sahcazm.square.html
+Icon: file:///Library/Application Support/Convergance/Themes/Square/Icon@2x.png
+
+Package: com.y1tlas.nepfeed
+Version: 1.0
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <mclarke0805@gmail.com>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.hart.nepfeed_1.0_iphoneos-arm.deb
+Size: 6820
+MD5sum: 7d098fd074347871c02c4e4979ccfeb8
+Description: A simple Twitter feed for y1tlas
+Name: nepFEED
+Author: y1tlas <patrick.hart@macademy.org>
+Depiction: http://incendo.ws/repo/depictions/com.hart.nepfeed.html
+Icon: file:///var/mobile/Library/Convergance/LockWidgets.bundle/com.y1tlas.nepFEED/Icon@2x.png
+
+Package: com.y1tlas.nepfeed
+Version: 1.1
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <mclarke0805@gmail.com>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.hart.nepfeed_1.1_iphoneos-arm.deb
+Size: 7604
+MD5sum: feca6a835742c69fccdd60af17080008
+Description: A simple Twitter feed for y1tlas
+Name: nepFEED
+Author: y1tlas <patrick.hart@macademy.org>
+Depiction: http://incendo.ws/repo/depictions/com.hart.nepfeed.html
+Icon: file:///var/mobile/Library/Convergance/LockWidgets.bundle/com.y1tlas.nepFEED/Icon@2x.png
+
+Package: com.y1tlas.nepfeed-ls-dark
+Version: 1.0
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <mclarke0805@gmail.com>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.y1tlas.nepfeed-ls-dark_1.0_iphoneos-arm.deb
+Size: 7876
+MD5sum: 2216c45a8d2f8291bcae4d69943eed46
+Description: Same as nepFEED for Convergance, but positioned directly on the lockscreen. For use with darker wallpapers. Includes "refresh" button.
+Name: nepFEED LS (Dark)
+Author: y1tlas <patrick.hart@macademy.org>
+Depiction: http://incendo.ws/repo/depictions/com.y1tlas.nepfeed-ls-dark.html
+Icon: file:///var/mobile/Library/Convergance/LockHTML/nepFEED(DARK)/Icon@2x.png
+
+Package: com.y1tlas.nepfeed-ls-light
+Version: 1.0
+Priority: optional
+Section: Addons (Convergance)
+Maintainer: Matt Clarke <mclarke0805@gmail.com>
+Depends: com.matchstic.Convergance
+Architecture: iphoneos-arm
+Filename: .//debs/com.y1tlas.nepfeed-ls-light_1.0_iphoneos-arm.deb
+Size: 7878
+MD5sum: ba801d048c75f8a831acc2864ac3242d
+Description: Same as nepFEED for Convergance, but positioned directly on the lockscreen. For use with lighter wallpapers. Includes "refresh" button.
+Name: nepFEED LS (Light)
+Author: y1tlas <patrick.hart@macademy.org>
+Depiction: http://incendo.ws/repo/depictions/com.y1tlas.nepfeed-ls-light.html
+Icon: file:///var/mobile/Library/Convergance/LockHTML/nepFEED(LIGHT)/Icon@2x.png
+

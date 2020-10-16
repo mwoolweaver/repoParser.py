@@ -1,0 +1,88 @@
+
+Name: All Mail Actions
+Package: net.angelxwind.allmailactions
+Priority: optional
+Depends: firmware (>= 5.0), mobilesubstrate
+Version: 1.0-3
+Architecture: iphoneos-arm
+Description: enables Delete, Mark & Move All in Mail app
+Maintainer: 0neday 
+Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+dev: angelxwind
+Section: Tweaks
+Tag: purpose::extension
+Size: 764 
+MD5sum: 64980555b764ac559fcc5e2385d11410 
+Filename: net.angelxwind.allmailactions_1.0-3_iphoneos-arm.deb
+
+Package: net.angelxwind.preferenceorganizer2
+Section: Tweaks
+Name: Preference Organizer
+Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Maintainer: 0neday
+Architecture: iphoneos-arm
+Version: 2.5.1-1
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0)
+Description: A simple and free alternative to PreferenceFolders, compatible with iOS 6 and 7. PreferenceOrganizer 2 organises your Settings app into 4 toggleable categories: Apple Apps, Social Apps, Tweaks, and App Store Apps.
+Size: 31214 
+MD5sum: dc5c0aada21e717224d4ae935b11dcec 
+Filename: net.angelxwind.preferenceorganizer2_2.5.1-1_iphoneos-arm.deb
+
+Package: net.angelxwind.safestrat
+Name: safestrat
+Description: Volume-down or Volume-up at boot for SSH over USB
+Section: Utilities
+Architecture: iphoneos-arm
+Author: comex
+Maintainer: 0neday
+Version: 1.0.2-2
+Size: 9926 
+MD5sum: 3602bd1b687437d81eabd4991103645e 
+Filename: net.angelxwind.safestrat_1.0.2-2_iphoneos-arm.deb
+
+Package: openssh-tiny
+Priority: important
+Section: Networking
+Maintainer: 0neday
+Architecture: iphoneos-arm
+Version: 6.7p1-12
+Description: secure remote access between machines, Note: Listening 2222 port !!!
+Name: OpenSSH-tiny
+Size: 101346 
+MD5sum: 83e4cd5519d4bff1f5b0233c528a010b 
+Filename: openssh-tiny_6.7p1-12_iphoneos-arm.deb
+
+Package: uk.nanmu.closelaunchdaemons
+Section: System
+Maintainer: 0neday <guanyin7@icloud.com>
+Architecture: iphoneos-arm
+Version: 1.0.1
+Name: Close LaunchDaemons
+Author: 0neday <583301743@qq.com>
+Description: close daemon
+Size: 1128 
+MD5sum: 10650d051fb99f7249d443d597831116 
+Filename: uk.nanmu.closelaunchdaemons_1.0.1_iphoneos-arm.deb
+
+Package: uk.nanmu.crontab
+Section: System
+Maintainer: 0neday <guanyin7@icloud.com>
+Architecture: iphoneos-arm
+Version: 1.0.1
+Name: Crontab
+Author: 0neday <583301743@qq.com>
+Description: cron plan for ios 
+Size: 1122 
+MD5sum: 38e30d307f88ab454d7a9c2e0463db44 
+Filename: uk.nanmu.crontab_1.0.1_iphoneos-arm.deb
+
+Package:  uk.nanmu.install.startup
+Section:  System
+Maintainer: 0neday
+Architecture: iphoneos-arm
+Version: 1.0.1
+Name: Deb Installer
+Description: A script to install deb when reboot
+Size: 1172 
+MD5sum: 09e45605ba7fc19e8a41150ca172964c 
+Filename: uk.nanmu.install.startup_1.0.1_iphoneos-arm.deb

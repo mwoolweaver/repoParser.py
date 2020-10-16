@@ -1,0 +1,8 @@
+Origin: CP Digital Darkroom Repo
+Label: CP Digital Darkroom
+Suite: stable
+Version: 0.9
+Codename: CP Digital Darkroom
+Architectures: iphoneos-arm
+Components: main
+Description: Small Tweaks

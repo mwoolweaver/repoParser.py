@@ -1,0 +1,53 @@
+Package: com.wolftonix.annex
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Wolftonix
+Pre-Depends: firmware (>= 7), firmware (<= 13.7)
+Filename: LOCK/com.wolftonix.annex_1.0.9_iphoneos-arm.deb
+Size: 15125240
+MD5sum: 1bb35a8daea2311e018d86a3981facb0
+SHA1: 978e8962c091179bf5869289f1bd370d0c104b06
+SHA256: 0703409df63f63850a01b4e132ac8dea6a62df34f5c376326a2cc0c9cbb583a4
+Section: Themes
+Description: Annex Is A Light Iconset Of Beauty!
+Author: Wolfy
+Depiction: https://wolftonix.com/cydia/info9/depictions/?p=com.wolftonix.annex
+Name: Annex
+
+Package: com.wolftonix.sbsetupscript
+Version: 0.9.8
+Architecture: iphoneos-arm
+Maintainer: Wolftonix <shadowstheme@wolftonix.com>
+Pre-Depends: firmware (>= 7), firmware (<= 13.9)
+Depends: mobilesubstrate, com.spark.snowboard (>=1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3, com.spark.snowboard.UI
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3, com.spark.snowboard.UI
+Provides: com.ipr.bytafont, com.bytafont.bytafont3, com.spark.snowboard.UI
+Filename: LOCK/com.wolftonix.sbsetup_0.9.8_iphoneos-arm.deb.deb
+Size: 1072104
+MD5sum: 723fe00c8cf7438e78021985b7b2321e
+SHA1: f6906e4bedcd461220b6cad8ed211c6aef230e08
+SHA256: 96a6022dbd69a4050fe96557e33ed2cc9e76e54747fe419b5415e9f0c30bb9b0
+Section: Scripting
+Description: Calls All Snowboard Extensions In One Install!
+Author: Wolftonix
+Depiction: https://wolftonix.com/cydia/info9/depictions/?p=com.wolftonix.sbsetup
+Name: SBSetup
+
+Package: com.wolftonix.shadows
+Version: 3.3.6
+Architecture: iphoneos-arm
+Maintainer: Wolftonix <shadowstheme@wolftonix.com>
+Pre-Depends: firmware (>= 7), firmware (<= 13.9)
+Conflicts: com.macciti.veexillum, com.repo.xarolod.com.veexillum, com.hackyouriphone.veexillum, repo.biteyourapple.net.veexillum, vn.gsm.veexillum
+Filename: LOCK/com.wolftonix.shadows_3.3.6_iphoneos-arm.deb
+Size: 9046764
+MD5sum: a747494e543926548796b350b2f941eb
+SHA1: bd96267c489c4b06146703758c0d4af1aa270c4d
+SHA256: a9d05290ab085ee9a1f902efbb51cd7aa23b358cd4a68073d0aa629c2b7c6a30
+Section: Themes
+Description: An Amazing Dark Icon Theme With Over 500+ Icons & Counting!
+Author: Wolftonix
+Depiction: https://wolftonix.com/cydia/info9/depictions/?p=com.wolftonix.shadows
+Name: Shadows
+

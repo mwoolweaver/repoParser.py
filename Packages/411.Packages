@@ -1,0 +1,21 @@
+Package: me.renai.notations
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Renaitare <support@renai.me>
+Installed-Size: 1560
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ../assets/me.renai.notations/me.renai.notations_1.0.0_iphoneos-arm.deb
+Size: 271502
+MD5sum: 237785b761c31461dfb3f15aae62d87f
+SHA1: a86aa29ce45f2fac684c1073c9d83ccb0fc3b3c4
+SHA256: 4d7ddea6131836c91ad0bbda51cf07300df731fc39057dc213084622f3fbee83
+SHA512: 4b3dd9582a17326900df28458910643e4fcd470bf775eed4ec7063bca812850386cecc4f9a6768fc67ba77211f9ba96c21a82261deea5ed0f9ab839152143056
+Description: The "Sticky Notes" experience for iOS!
+Name: Notations
+Author: Renaitare <support@renai.me>
+Depiction: https://repo.renai.me/package/me.renai.notations
+SileoDepiction: https://repo.renai.me/package/me.renai.notations.json
+ModernDepiction: https://repo.renai.me/package/me.renai.notations.json
+Icon: https://repo.renai.me/assets/me.renai.notations/images/icon.png
+

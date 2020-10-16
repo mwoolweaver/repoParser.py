@@ -1,0 +1,17 @@
+Package: com.luha.desktops
+Version: 0.0.1-323+debug
+Architecture: iphoneos-arm
+Maintainer: Ludwig Hansson
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.luha.desktops.deb
+Size: 29220
+MD5sum: f4a54c0ccf9599a6f1b6c9b8891ae5de
+SHA1: 35d2813d587bad0df7af14f16d8e00d0ce688530
+SHA256: 3237e3f556bb5d4ca51b3c8b31d426bbbc9f1ab0161e33e1ff606cf8d1ce9828
+Section: Tweaks
+Description: Adds panorama wallpaper support with parallax effect to the homescreen!
+Author: Ludwig Hansson
+Depiction: https://username.github.io/repo/depictions/?p=com.luha.desktops
+Name: Desktops
+

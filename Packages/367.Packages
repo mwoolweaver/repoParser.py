@@ -1,0 +1,17 @@
+Package: com.remyla.LockGlyphXI
+Version: 11.2.2
+Architecture: iphoneos-arm
+Maintainer: remyla
+Depends: org.thebigboss.libcolorpicker
+Conflicts: com.ioscreatix.littlex
+Replaces: com.evilgoldfish.lockglyph, com.yourepo.remyla.lockglyphxi
+Filename: ./debs/LockGlyph.deb
+Size: 89932
+MD5sum: 0b9119e552ece1ddff6e2818a47448dc
+SHA1: 31b7afa085d37acd0000c94ecb5fee142f36ef8c
+SHA256: fb254d94f81c6cecf8fc243a023a3a48ebc1800d73823bf781fd01a630184b5a
+Section: Tweaks
+Description: LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/remyla31 on reddit.
+Author: mur1sdev, remyla
+Name: LockGlyph XI
+

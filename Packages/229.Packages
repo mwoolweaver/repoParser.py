@@ -1,0 +1,14 @@
+Package: com.selant.sewp
+Name: iPhone SE Stock Wallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iPhone SE (2020) stock wallpapers for any device running iOS 13. You will need WallpaperLoader from skitty.xyz/repo/ for this package to work.
+Maintainer: Selant <sltx.yt@gmail.com>
+Author: Selant <sltx.yt@gmail.com>
+Section: Wallpaper
+Depends: firmware (>= 13.0), mobilesubstrate, wallpaperloader
+Filename: debs/com.selant.sewp_1.0_iphoneos-arm.deb
+Size: 13701898
+MD5sum: 2b1aebee6e2869ecc7328683e1ce9e3b
+SHA1: 61802af03b884eddba6adc52f0a602cc09e7ea6c
+SHA256: 473c1afda6934d8b36a9c5083533c59f7b9d607c91822dc13bbfea96e0694858

@@ -1,0 +1,309 @@
+Package: com.qiop1379.bongwater
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/com.qiop1379.bongwater_1.1.3_iphoneos-arm.deb
+Size: 20512
+MD5sum: f80176f62735faabfc79feb2b557e661
+SHA1: f10c17ff2b9ccea71d51dc73680c6cf9e89add1f
+SHA256: 4e6a2050e60280cc8e88048cfa9fa8ead2b3efd2853b5ef12bacc16c24abc8f1
+Section: Tweaks
+Description: Completely redesign the phone app contacts screen
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Name: Bongwater
+
+Package: com.qiop1379.copy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.copy_1.0.1_iphoneos-arm.deb
+Size: 7914
+MD5sum: f89b28fcfbde681b4e45063a6b38feb8
+SHA1: 50c2a6996ce4b3f811d47f9037199f4727ebe851
+SHA256: 56bc9fadbb6e59cfe837aa25eaaf75098873036452603cac54488a8ba8d1b153
+Section: Tweaks
+Description: Triple tap on UILabels to select and copy text
+Author: qwertyuiop1379
+Name: Copy!
+
+Package: com.qiop1379.cut
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.cut_1.0.0_iphoneos-arm.deb
+Size: 8014
+MD5sum: 90be11e09faa9b7725c050883c2c7256
+SHA1: 211c0e814c78a31ac0a7bcc62476cdb521257786
+SHA256: 3e848ca4a0e4df2fcbf9b548daf11454246a4fb262d261f497554cba7229ba83
+Section: Tweaks
+Description: Trim trailing whitespace in sent text messages.
+Author: qwertyuiop1379
+Name: Cut
+
+Package: com.qiop1379.designerxi
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 184
+Filename: debs/com.qiop1379.designerxi_1.2.1_iphoneos-arm.deb
+Size: 22628
+MD5sum: f7fa7ae908d1f01886859d9a445bf055
+SHA1: ada0b2b5216b7f2c98efa512f7ca70ee862e2102
+SHA256: 344ec04c7d07712dbd863afb80197b5ad87ccb9842da5a9a42b495d1e7f30275
+Section: Utilities
+Description: Easily create and manage themes or zeppelin icons directly from your device!
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/designerxi/index.html
+Name: DesignerXI
+
+Package: com.qiop1379.dockoutline
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 360
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.qiop1379.dockoutline_1.1.4_iphoneos-arm.deb
+Size: 8300
+MD5sum: cf61634afc93055e10393f5b78a88af2
+SHA1: e44484a0ec2e6ba32290aa5905a09bbcaf51c640
+SHA256: 27a5da6ca8a45bd5a40a1d4dccea22e932ffdd9aba29d8d7b2584d7019f2db3e
+Section: Tweaks
+Description: Turn the dock into an outline
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/dockoutline/index.html
+Name: DockOutline
+
+Package: com.qiop1379.downloadbar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.downloadbar_1.0.0_iphoneos-arm.deb
+Size: 7712
+MD5sum: 539f95f4c3d25c18e8d589d3d11b5c64
+SHA1: d48795fa0a313c24235e0a3e8516fd8dd1769c7b
+SHA256: c13d40550f02f144116dd5ef17472d2c3ea900264f5394c9095653e0c05052e2
+Section: Tweaks
+Description: Spice up the app download process with a nice progress bar and percentage indicator
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Name: DownloadBar
+
+Package: com.qiop1379.fixfacebookcrash
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Installed-Size: 52
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.fixfacebookcrash_1.0.1_iphoneos-arm.deb
+Size: 2278
+MD5sum: a7da58f02921a66cc32b39e4e831af1f
+SHA1: e77e3bc859bdaa8b1cab21265f9889bb02d0eeba
+SHA256: a5ce612836e58439852b8c44bbbbda87ae755b4de431c5bc3c90227317f8f97c
+Section: Tweaks
+Description: Fix crashes with the Facebook SDK
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Name: FixFacebookCrash
+
+Package: com.qiop1379.garfield
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.garfield_1.0.0_iphoneos-arm.deb
+Size: 8420
+MD5sum: a936fa0e458f35eabe878e636c3e8b09
+SHA1: 8cb8b87fd3179c7f48c9578b84e5b752702d48d6
+SHA256: eef3b7d6bdd68e1261425c3180780366359311bb280666e7e4a053a67d5999d4
+Section: Tweaks
+Description: Forget to study? Know morse code? This is the perfect tweak for you.
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Name: Garfield
+
+Package: com.qiop1379.meteorite
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 452
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Filename: debs/com.qiop1379.meteorite_1.2.4_iphoneos-arm.deb
+Size: 56054
+MD5sum: 5e06b71b1bf2fbddb66e9bc96a27cf97
+SHA1: eb89c4c2d984609a9fd6db8b44f802277d13395c
+SHA256: adcffe9d3db8da7c993daf9f91a8b1cfdd73180f226efdebb45b212638a39a40
+Section: Tweaks
+Description: A iOS 10-12 remake of the legendary Meteor tweak for iOS 9!
+Author: qwertyuiop1379
+Depiction: http://qwertyuiop1379.com/package?id=com.qiop1379.meteorite
+Name: Meteorite
+
+Package: com.qiop1379.powerdown
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 292
+Depends: mobilesubstrate, firmware (<= 10.3.3) | com.midnightchips.ldrun
+Filename: debs/com.qiop1379.powerdown_1.4.0_iphoneos-arm.deb
+Size: 81640
+MD5sum: ff5f9fc273e5ef40517b48091f34e0ad
+SHA1: 04bf5d00beb137b9aad7ffbca0d11b09d6064abb
+SHA256: ab79ae1b2aebca197c81792653e9004f1934e5de502f03b1c00d4400be5efc39
+Section: Tweaks
+Description: PowerDown rewritten for iOS 11
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/powerdown/index.html
+Name: PowerDown
+
+Package: com.qiop1379.pulse
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Installed-Size: 68
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.pulse_1.0.0_iphoneos-arm.deb
+Size: 2460
+MD5sum: 4046d4680e58a79e49689550cca8da62
+SHA1: 8928f21c9906d29cabf4358ddfe54b6ddf09717c
+SHA256: 570ea79fd0bdeaf6c988f5ce5eb3510606b853bccdaf4e2eb60dd2ac144fc997
+Section: Tweaks
+Description: make the passcode buttons pulse when pressed
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Name: Pulse
+
+Package: com.qiop1379.romankeypad
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.romankeypad_1.1.2_iphoneos-arm.deb
+Size: 160206
+MD5sum: 1df36ad2892b1956cc9aa5df1671a072
+SHA1: 2afb63563bdc098d44bb99c9bafe5fd962ca7488
+SHA256: cb978da852f5e48fb0c7ba6386e3051e9df06400b80728861f85398760365317
+Section: Tweaks
+Description: Change the buttons in the phone app to Roman numerals
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/romankeypad/index.html
+Name: RomanKeypad
+
+Package: com.qiop1379.separatorbegone
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.separatorbegone_1.2.1_iphoneos-arm.deb
+Size: 4530
+MD5sum: 28340ad1403b706b76ffa4cf5ebd468f
+SHA1: 017e55e0d0f3a508a113ebfbe98656a87ef190ba
+SHA256: 41a2cd009fc2ff1fa98433e29f7a6a57be703d198fd9aba8c31689f912cf5a01
+Section: Tweaks
+Description: Remove the separator on UITableViews and UIStackViews
+Author: qwertyuiop1379
+Name: SeparatorBegone!
+
+Package: com.qiop1379.shreddit
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Depends: com.pixelomer.localizationinjector
+Filename: debs/com.qiop1379.shreddit_1.0.1_iphoneos-arm.deb
+Size: 952
+MD5sum: 11617012d8d761b6ed23356bf942be85
+SHA1: 2ccb81671716f9b4504799af3063be3666b09a90
+SHA256: 8bcc51d7c9cbc2eb21b68665032833394165d79fbe72c93a24b1e75661f8da5a
+Section: Tweaks
+Description: Change most of the reddit functions to end in -eddit. Doesn't really do much.
+Author: qwertyuiop1379
+Name: Shreddit
+
+Package: com.qiop1379.spotlightgo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
+Installed-Size: 100
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.spotlightgo_1.0.0_iphoneos-arm.deb
+Size: 3858
+MD5sum: 31dee148b2b3114ce068b77748f7ec0a
+SHA1: b8a1e366698c3496cfc9f8f947d5c6544e3df16f
+SHA256: aedf18f51763005240516cf9c36e2adfed984c3e85a9eb540cbcf8b96312e642
+Section: Tweaks
+Description: Launch apps from spotlight by pressing "Search"
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Name: SpotlightGo
+
+Package: com.qiop1379.statuscolor
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 312
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.qiop1379.statuscolor_1.0.0_iphoneos-arm.deb
+Size: 156554
+MD5sum: 7569b5a9e3da0a82ed57177d2c8402e5
+SHA1: c42b1733f5bddfcec1b8499401a90850c9a038df
+SHA256: 3ab973e6a2a370cb2d511e659aeb1ec02c69de5037714ebb05742f140c0a4843
+Section: Tweaks
+Description: Color your status bar!
+Author: qwertyuiop1379
+Name: StatusColor
+
+Package: com.qiop1379.thinner
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.thinner_1.1.1_iphoneos-arm.deb
+Size: 65360
+MD5sum: 20d912d1120911e350da0cc60aead44d
+SHA1: 1f43a350710f2115618e2cb257d154c2d1ab2e5b
+SHA256: f84af05c41d0b78b1c2e856d857079ab24636bc57e7211c23906c8f4ac94dd31
+Section: Tweaks
+Description: Change font weight on the lockscreen clock/date.
+Author: qwertyuiop1379
+Depiction: https://repo.qwertyuiop1379.com:7777/package?id=com.qiop1379.thinner
+Name: Thinner
+
+Package: com.qiop1379.yessir
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.yessir_1.1.1_iphoneos-arm.deb
+Size: 10810
+MD5sum: 89a12e2d85fac62cd5336436e54fe096
+SHA1: 05da41567278f229a6f2f02e206deffb76d01743
+SHA256: fbc62dcd276b4a0e6b3248082c71c856f0e3e26f7ab71d4494cfb80cd4550f7f
+Section: Tweaks
+Description: Make your alerts better
+Author: qwertyuiop1379
+Depiction: http://qwertyuiop1379.com/package?id=com.qiop1379.yessir
+Name: Yessir
+
+Package: com.qiop1379.zeppelicator
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 260
+Filename: debs/com.qiop1379.zeppelicator_0.0.2_iphoneos-arm.deb
+Size: 74774
+MD5sum: e6beae51ba0152accc6fc0421f398256
+SHA1: 7ba536b99aa20ef20d270758cd88114e49e40133
+SHA256: 1a69003fd3364cca0c2a011d03730fd1278429913aa90464c5618b593c756183
+Section: Utilities
+Description: Make custom icons for Zeppelin!
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/zeppelicator/index.html
+Name: Zeppelicator
+

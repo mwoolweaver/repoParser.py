@@ -1,0 +1,3152 @@
+Package: com.f0u4d.onlinenotify
+Version: 3.0.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.13), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.0.4_iphoneos-arm.deb
+Size: 656606
+MD5sum: d48881644815069e2c1836b90cbdb9f2
+SHA1: ea84ed6fde67db85699be87b572dcab3f1d96d5c
+SHA256: a75952fcccff1ea540d1dd3812d93613956044cafafb62c6b4f4fed11fc09028
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.13), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.0.2_iphoneos-arm.deb
+Size: 643980
+MD5sum: c9b4fc947886e74c00012c6c44c332fa
+SHA1: 93233b743457872414dccf0c675c52fe406662a5
+SHA256: fdfa59ad6368bcd1f2698b3a4ebb54101c462e225c55ed48871ed72620f000df
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.0.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.13), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.0.6_iphoneos-arm.deb
+Size: 677890
+MD5sum: 4b08e5ee5a58bf440046c0adc73d1cd9
+SHA1: 14a447663b411933074e0de779a7aa7baf7d4eab
+SHA256: 8fe245555834fd9f10f0b2d063d7da05a72d19110bd05299e743ae69afea94f4
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.13), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.0.3_iphoneos-arm.deb
+Size: 649540
+MD5sum: 74c41fcf36149189c2b7c7b7b7b09628
+SHA1: 9a33cc5b7a84058198db4400b5500feefed4e5c4
+SHA256: dc6cacc247b924414c534def3ce6801aecacc907a1a2301515e41ad939be58b8
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.2.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.18), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.2.3_iphoneos-arm.deb
+Size: 612716
+MD5sum: 8478d7a7ba44f4d930a015a9a9c929db
+SHA1: bad683471c3d7ca1b8d7560d1f17458b33a40519
+SHA256: a58086c880f4957d371a7ff12c78f968d04b8497c7c9678eb6df58eee27963da
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.12), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.1.0_iphoneos-arm.deb
+Size: 667170
+MD5sum: 0d7b1ce21306cb54341bf15650e24498
+SHA1: 42e44456802a060de5f57e2dc248305a7b8dd2c0
+SHA256: 4f0d97f9b0e54d68d3a7ba18cc95e83927174289dea33cb85132e95c014aaa98
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.13), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.0.1_iphoneos-arm.deb
+Size: 640660
+MD5sum: da95b2297e418517799e88a0935ece77
+SHA1: 2a872a2f6b9fd5f60f10db49a6b9e8b909afd33d
+SHA256: f37227c321e7a6b073985de375d503f9b66f2c9a117e80d33cf22f3afc08d275
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.12), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.1.1_iphoneos-arm.deb
+Size: 667984
+MD5sum: 70ee37198570ec7a8529edf1ca0ce946
+SHA1: 270b1390d7d3cb7e349ea21fc78a8890f51b199e
+SHA256: 3ed2b0df2e23bbd53d07c7ce4cfa939c91a7eea1d2a795a4f6058fe6df45a19b
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.18), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.2.1_iphoneos-arm.deb
+Size: 657704
+MD5sum: 8dfd082cb4fb54bf12e76848f9496195
+SHA1: ecdd4d5d6068991d018a816e455049baed32b1e3
+SHA256: 3ca6274878450fde3c79045e5974f4cabf2406bb122b0e275753ab64e827bd4f
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.2.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.14), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.2.0_iphoneos-arm.deb
+Size: 656380
+MD5sum: 9615045e6ba76fc525df4afdcb36db52
+SHA1: 5a277ae93552bd41e85f818661958653042f4f4a
+SHA256: 2535b32a1cb0a18364f7a3c7169e38906160ed4800f16fe2a46ae976053b3c4e
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.3.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.24), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.3.0_iphoneos-arm.deb
+Size: 617174
+MD5sum: c18dd726d4be87ce1d92cf18929a2758
+SHA1: a5c8cb97311ee718745872abfff23562cac6dce9
+SHA256: ac8bd09b295ed67f5c28bd78e7742a8e77e38cd26ae618a3bb653e1694a4c271
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.12), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.1.3_iphoneos-arm.deb
+Size: 670886
+MD5sum: 289dab072434b3c416daa46947ba67d5
+SHA1: a0cfb984f95c029594639bc71a02d2cf01b17eef
+SHA256: 3f5309dc2c22c566a989834726c7345b26b76ed329a323fff59c6a40c78eccce
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.2.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.24), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.2.4_iphoneos-arm.deb
+Size: 615810
+MD5sum: 1a66bfcceea20b2e6ac4e28f7bcc8749
+SHA1: a84900ce7f2c8a2320d822f790983e7f9d1dcc1f
+SHA256: c79359db9eb1ab09c1e29b3ca0f558ac12e14959ce9230d6bf7fd8ba7ef9fba1
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.0.5
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.13), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.0.5_iphoneos-arm.deb
+Size: 674012
+MD5sum: c90fb0d190b1043083b1e117139032ed
+SHA1: 93cb310f797f9da2c68d82788d9ef21554a6d5dd
+SHA256: 51825526aa04f9573c591f31454e99f451637a9ba438ea9c671adb0603637022
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.2.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.18), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.2.2_iphoneos-arm.deb
+Size: 612724
+MD5sum: ab767ba4eccf83d7035359a57c12a404
+SHA1: 9c2ca03756b3183211204fa644cf0424a2b33793
+SHA256: 3a9cf629b0fa0a9c00b203139994699619e36c30554456aea40209a741e8576e
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.onlinenotify
+Version: 3.1.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.12), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.1.2_iphoneos-arm.deb
+Size: 668052
+MD5sum: 425b18919192632a9ab867a1745c6202
+SHA1: 70f5f65801e1baced6c4ba418ccc28d35ecdcf1a
+SHA256: 6953ced6b96e08d38787fd4b4ed1357309c7541e07e2fd32cb935ff783b0d2ae
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.stalky
+Version: 4.1.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.24), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.1.4_iphoneos-arm.deb
+Size: 5328806
+MD5sum: 1de5b931f6587958dc4fe6754bba2dba
+SHA1: 0d8a39f22db504831876d3c8ad4b9d098c5d2840
+SHA256: a1b7214b2c96d8829468a2bc9de6c9601758bf0b951361eaac1bc1e42059a3e2
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.1.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.1.1_iphoneos-arm.deb
+Size: 5297202
+MD5sum: b286bc7c9ef6169fd44bc2c44cd5e444
+SHA1: 610bd2bd3c53649bf9ad3b6f9ccc8a6923d5fe9f
+SHA256: c7926d87f2316c0c6a7367cdf6581f1dacc5746bfad0ab5c3d23eebc7abc20ea
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.12), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.4_iphoneos-arm.deb
+Size: 5355876
+MD5sum: f1bf67e44fe3c03501c8c13b160839c7
+SHA1: 4d1d690c58af858f237ed55ce6d2272d77f06c1b
+SHA256: fe8edabc750b75529fe5e3b7ba1df72916a3fa338646dfd206091423be30829a
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.5
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.14), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.5_iphoneos-arm.deb
+Size: 5357528
+MD5sum: 49fc18eec493e2ea5eacd247461d25f3
+SHA1: cb11bfa6b05c425ed5d912818e1e43f5dc1becff
+SHA256: 0e14a44f0a0957f0e0be26cb5919e6cf69665d20716155f81650f01269e7ed5f
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.1.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.1.2_iphoneos-arm.deb
+Size: 5297980
+MD5sum: e94cb8d8f9f54044b6433c7ac8fe0f53
+SHA1: 780fef1df4b743f61616e66ce901cf96b41b7727
+SHA256: dede9c6bc1bf570b0db9278b4ee7c19071a9d26c85a46a3d9a047d4b03499071
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.0_iphoneos-arm.deb
+Size: 5348688
+MD5sum: 13d051e9b376fc835ca0c61e089d13b5
+SHA1: 88f71c35088df9288125f8fe168a6458570bc172
+SHA256: 8c05f69dd5e05764f1512bf914381e938492a18a60f509188614672e8a8db0eb
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.8
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.8_iphoneos-arm.deb
+Size: 5290544
+MD5sum: 8e578327cde5165c968721b5bf220449
+SHA1: 790e478f917727fb1818a95e104816a6cf3ab0b3
+SHA256: e55ea00f1c4ed7ff7d0c86a76f2360255fd0dc84b10f18a081d091581da555e1
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.2_iphoneos-arm.deb
+Size: 5357086
+MD5sum: 2dbc9b45c7887915c0b3c5d84216c943
+SHA1: 791df024ed038953f2749e350bc87a9c3da7d1e0
+SHA256: 8f8bd4307a4583b4d5b7540dbeeb4a8b2d821b0daab81f779d39ef115e567158
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.1.5
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.24), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.1.5_iphoneos-arm.deb
+Size: 5330124
+MD5sum: 6acecef4ef6cb560093d5987622b8364
+SHA1: 3a9c2848444f6fb14092600547a348302d7f2d89
+SHA256: 5e6264434a7229a3dd00a39a5cdbe477b1385f303044494817796a051cd05d60
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.7
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.16), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.7_iphoneos-arm.deb
+Size: 5247594
+MD5sum: cfb921c325f2468109e52b45d284a2b5
+SHA1: 0690a24247edcaa43b8d761a7933fdf98937de1b
+SHA256: df3d9ad24df625aadc1bdbf46f5b12512d362da7e2e8c8b0e3001528043cfdd4
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.3_iphoneos-arm.deb
+Size: 5357048
+MD5sum: aa53afdca5938a282e5abc770756dcb7
+SHA1: db72e25de7511ff2a16654fe09dd4df95cfc39dc
+SHA256: 27a6536cbc7e771db93952c99d405744995a0bc483675a7de38f1ccc62b30b41
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.9_iphoneos-arm.deb
+Size: 5290852
+MD5sum: 7a2b50ee94b9240cfbed866a79e7d2a1
+SHA1: 479a25ca67f8b9d1b0c3f178fc2c76ad318610e0
+SHA256: b67ade26f9f6dc1e64b447d46be5559dc35b1b097f0c0171ee55f961703fe808
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.1_iphoneos-arm.deb
+Size: 5349034
+MD5sum: 9c67f84bd4daf58ae42d74f44d780ecc
+SHA1: 4d26c6349bf882c182b2aa613df8bdf4a5394b95
+SHA256: bcc066b91ba95d8b65db27f033000b9b52ffb7c1718abf97e097be77622599ad
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.1.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.19), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.1.3_iphoneos-arm.deb
+Size: 5312284
+MD5sum: 3c48adf5039b18d81fe8a336251a7642
+SHA1: d1124147b4d908df584fd5d381a00b10b99cdcc6
+SHA256: 22cbd81c1ba504e21c178c4cce9ac0ea59b1408bdf42f4c92ca7038a18f34ca0
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.1_iphoneos-arm.deb
+Size: 5296758
+MD5sum: a11f4413c6f808275ef35d067518130e
+SHA1: 5e8ed7235fcbb61792154c34000b549d048c55f9
+SHA256: 364466f1d194eb832a278bf8ad841461f64dd22c7b3e3c15cbf5ef05c3b1952c
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.stalky
+Version: 4.0.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.16), com.rpetrich.rocketbootstrap
+Enhances: WhatsApp
+Conflicts: com.f0u4d.stalkybeta
+Filename: ./debs/com.f0u4d.stalky_4.0.6_iphoneos-arm.deb
+Size: 5268398
+MD5sum: b51f3dee75cd060c51902fcc2bf079d4
+SHA1: f78b8f99e459b181ff0141d28ce520ad19a04da7
+SHA256: d4c9cf33062af7bba2f43ad48d1a8d5611f44b94863c1c69516c10471ac3d149
+Section: Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Name: Stalky
+
+Package: com.f0u4d.watusitools
+Version: 2.1.8
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.8_iphoneos-arm.deb
+Size: 13482202
+MD5sum: 845daa41aa0d03c6db6136d25199b2dd
+SHA1: 23de0e440a91c21059ce56679ed4d7a6c9dc23ad
+SHA256: 4bf41496e77907d5a4c4c1faa28b4986b29a11b6e7d5839657e8e1d223ea281c
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.10
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.10_iphoneos-arm.deb
+Size: 13556942
+MD5sum: 089ef26d750e69ebc94c1b110e021807
+SHA1: 1cb074d12be7be484b4cc353a5eede006bd43c84
+SHA256: deb60beb72eedb9e45ddd2c7b4512aa8a37fd0aa23bbdc116899eadc87e110b8
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.14
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.14_iphoneos-arm.deb
+Size: 12726528
+MD5sum: d9cf2d87a69707e9f73ad0ff2e70cc39
+SHA1: 8ecb6bac696b6d480c0e8bd5e8b777466992d357
+SHA256: f6dbc8447003e2912c7b3d045c1e4c5e4f6154985660175696729254d9110cf8
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.20
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.20_iphoneos-arm.deb
+Size: 13723884
+MD5sum: 5cf5eae2c270ff5aa8dc3e29e02bcdf3
+SHA1: 9dc2bce6b26acf04af6fd7c5f74863378f35f6a6
+SHA256: af9bd01cf54a828054cde1c4703af7f325af6c19d52721d3eb4f24eaf5259dc2
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 1.5.9
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_1.5.9_iphoneos-arm.deb
+Size: 8872412
+MD5sum: cae373c5dae6f64f8cf53d4c183609d9
+SHA1: e04a27140ef0fce4c496be8229e53f0c51138d32
+SHA256: 38fa166ce4b682d15b2afd42aada8fce7adf5c75fc9b6a80142974b4f4d42d03
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.5
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.5_iphoneos-arm.deb
+Size: 13428900
+MD5sum: 08ca67ed143927ec97d4bf6973b36c8a
+SHA1: 5c1bace4c84e0f0b9c1f04edf5e63fcc99bb0003
+SHA256: c2611b27ef3011d7fd30d13982f5977c84f3d559abe6b77eede318d3d360ff8f
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.13
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.13_iphoneos-arm.deb
+Size: 9722524
+MD5sum: 6b366b571afa12acfaedf140e635dd3d
+SHA1: 70174998e7a2d5aa599c9c9330fb1f5fc12aa2cd
+SHA256: e4ac7dc25b56a08f49853a22eb8c1cafb0dc0f6a9f5946a21f4bc95bdf1a31f7
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.28
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.28_iphoneos-arm.deb
+Size: 13895758
+MD5sum: 5711dcc781f1bd3ede2c19f99022254c
+SHA1: 0c454ac5004d9ba52a94e17360a8705807b87e54
+SHA256: e9736c827ccd1af96641ff959adfb2e1720b0888055ba42dbfbca678226189b5
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: com.fouadraheb.watusi (<< 1.1.4), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_2.0.4_iphoneos-arm.deb
+Size: 9626750
+MD5sum: 7edf06d807f82f92518c7e7046f896b2
+SHA1: 4bbb964125b04b0545199ba76371fa477ba5118e
+SHA256: ec449c4cfdd711f6b3809238e59cf707d916b7ff6ab14eea37234257318b743d
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.17
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.17_iphoneos-arm.deb
+Size: 13605494
+MD5sum: 81acaef6235a4fc7dbead3b64fc375e1
+SHA1: 091de87a817255875c6ae0792491c04ec06826c1
+SHA256: d77250ad875194187afcadac4d49a8975631297c195772949c04f73db5635039
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.8
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.8_iphoneos-arm.deb
+Size: 9694678
+MD5sum: cc28781a2b4f6c402a1d8c5047edb514
+SHA1: fcac73dcd977789a1fb3650efd3bcd5589ec71c5
+SHA256: 339aa6394674e4cae19f8a624114ed1af03b1d73e09c29357f016cfee76f327b
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.16
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.16_iphoneos-arm.deb
+Size: 12637660
+MD5sum: 847d6ec77548a0f96a734305d633f060
+SHA1: 487f8028783732e9d0eca4abd7a2a892ad82aa21
+SHA256: 9017e16b0036824a2e0dc2484849c3935e465392d61a4dfb2f9559f37350f8d2
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.12
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.12_iphoneos-arm.deb
+Size: 13597662
+MD5sum: bb962932a8091ba8d8aaa784967490e1
+SHA1: 66e2f21b43ae33d7580e089681d58aab3373daa4
+SHA256: 6e7e362e9ec784d5c4c30e6dbe5d866a78dce5af47630d8283d4fdf6f0518050
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.6_iphoneos-arm.deb
+Size: 9678318
+MD5sum: cb51031906fb4b0210a1272adc3b80e3
+SHA1: d015099f3b0128ed41ccd25bc0d2856ef5665c28
+SHA256: b89a430ef3c9a015536706048bc68b5d6fff6fde5f0dd9fed7b608cf04641442
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.9
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.9_iphoneos-arm.deb
+Size: 13482662
+MD5sum: 15dde18e6fd4227b437fba333d7f0c28
+SHA1: cbfef80844c4a36b60a54bb1bb7faac148f5b189
+SHA256: bcdfb1deb7274beb9a26a4470c71ebb698634ba24b097b1b5b94dd6dbd892f5d
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.0_iphoneos-arm.deb
+Size: 13437368
+MD5sum: ff434088787d240d55114c5510c75410
+SHA1: e7de2781391099ecb00356eee7867914a9fcaea7
+SHA256: f37be6464cd602103824b56a7329e6d69df2b024488acb4c414501b688a038d5
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.16
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.16_iphoneos-arm.deb
+Size: 13604990
+MD5sum: 127e81f46fef80fe12e1200d425c6a6e
+SHA1: 6fa3faadb6c79d1021bb16354b4debd9381e68e8
+SHA256: 2bd008aed2e9aa80e7472369243665390f733176a16dd1828496ef3be4787862
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.3_iphoneos-arm.deb
+Size: 13443622
+MD5sum: 19406c63f9be83d17ff18d19ae5c058f
+SHA1: 2bc170e19ef595a733a798d0eaaf568ee4cfd560
+SHA256: ee3e4d3cbf5a02f6f5c79adf077384645767f2f66ccdd971f60556c5a43e6928
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.11
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.11_iphoneos-arm.deb
+Size: 13595296
+MD5sum: b62093d70cf2b68648e9c2dce8aab022
+SHA1: 37200564c45fac2883feb550126d1a227f4c7acf
+SHA256: ad9dac63c9ef3b7fe81ddc378be04a9bb4fd8f9fe7ff8239c99d5765031c6352
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.27
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.27_iphoneos-arm.deb
+Size: 13894668
+MD5sum: a7bc8328262ae184b354a6c0b3672f98
+SHA1: 1ab1c995d2b7b2378cb53f3cb68a92464eb1ec8e
+SHA256: baec923ae5bd36dc0cb543bd95badca917e249d364433406aa8fb3de0a1aed94
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.21
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.21_iphoneos-arm.deb
+Size: 13725286
+MD5sum: 5d7ca57bf348844289319d22e6ecfd1a
+SHA1: 798092f4e94ed0afea11f677d079d34bc86fb9d7
+SHA256: 5132d64726a786d508c769e89e284eec8db1b6b2dc713ca981ab35bf55c49a8d
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.6_iphoneos-arm.deb
+Size: 13429800
+MD5sum: 79508c4afec62ce7e46e1fbda9b91050
+SHA1: b9935f8f9b7044299ee16bd342bf857505ef4990
+SHA256: d92996b35f12f86b01cebca93862873b8d4787691bb15935e86f0d0dc9f7f7ab
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.26
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.26_iphoneos-arm.deb
+Size: 13896998
+MD5sum: 045f28da1c3fa56c934ccb63bef46dfc
+SHA1: 0947f631c5f777eb3c525a67a6eb8dae7848ff5e
+SHA256: 13f5b5ee1db646e21daca2e6d466be76ff88f11bbb3004e512c2fdf5de182207
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.7_iphoneos-arm.deb
+Size: 13432914
+MD5sum: a89a7a4e6f935678eee94634525691dc
+SHA1: 600dfadb85149c2a2eff7cc5f24d8e79edad4b9a
+SHA256: fd8b85fbb54741f3fd6952d58ac1d09b3a7220b15cdd8c6d63d71c5dc9e03e12
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_2.0.0_iphoneos-arm.deb
+Size: 9715542
+MD5sum: 5b22cf0961adab7327baa6b1a4b6ca26
+SHA1: 8d4fddccac1246582e4d521c89ebf5a556e8f81d
+SHA256: 66f33b28112e73a3d8e2a1e50e1662680e64ae5d18720ef64febb290117c80f6
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.24
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.24_iphoneos-arm.deb
+Size: 13897458
+MD5sum: 76b2c1071e655637af0ce193167c7d3d
+SHA1: 451e5ca420da4483babee9c8ba1bcdb8b208ccd9
+SHA256: 58aac920e79b1af2ed97c53f1235201bd4192bcf28ee17df71b3a5dcc932f0ce
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.15
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.15_iphoneos-arm.deb
+Size: 13596286
+MD5sum: d162ff6948695e2655ea302395c5445c
+SHA1: 5cfea3bd43f9c91224554d0e15dd6d04d5a5ccde
+SHA256: 897173cc3c1f427ecbb4ff7f8e669e578ff2b7c4349d8c55ec26bc9e8652ff56
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.9
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.9_iphoneos-arm.deb
+Size: 9701734
+MD5sum: f627172ba98ccc5b388eae34a54e4eeb
+SHA1: a5705334ae65ad2a5f7c28cf75230078566337b7
+SHA256: 27469e0f4defa1f8ea444037ac729f61c400731b577b742c8d4e3e70f4aee4eb
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 1.5.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 28212
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_1.5.5_iphoneos-arm.deb
+Size: 5876908
+MD5sum: 4c094f564839794948a7f4e1bba724a2
+SHA1: 8eac8a11e325661d46fd483a2782b8eae45f5e87
+SHA256: b3617635ccca94f81a78f3a3f69aff2cc642f373cfa40a4da719dd0ed0267694
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusitoolsDp
+Description: Library for Watusi and WhatsApp tweaks
+Tag: cydia::obsolete, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusitoolsDp
+Dev: f0u4d
+Name: WatusiTools
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.f0u4d.watusitools
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.1_iphoneos-arm.deb
+Size: 13437384
+MD5sum: 09466b67bfe775480d60c0b713e45e44
+SHA1: daf07530bbcac9430b291a2a3e32e9c047f69156
+SHA256: aa7a2f4bfa18e32605790bd0237ee900a2848d3cde2a0308948e9fb81ddb8fb9
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 1.5.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_1.5.6_iphoneos-arm.deb
+Size: 8868816
+MD5sum: d2ecb2bed008a85796bc705057e73e1d
+SHA1: 0278990be2fb51e657dd5b269bb27015fe809195
+SHA256: 2ec733f1e05421cef7146de0e583ea282f9cd0ced57865c80e9df6ec60bc084b
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.4_iphoneos-arm.deb
+Size: 13428452
+MD5sum: c44269290d01bc6cc9b5281db1d23518
+SHA1: 20ae46165905b395da73d249b23f5ee8bb53758f
+SHA256: f01edbca86cfa06ead4673cce7474cb188d724114e097f99a710467dd8fc3ab8
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_2.0.2_iphoneos-arm.deb
+Size: 9716330
+MD5sum: 733a23e0316cd55cb87479b58322ae04
+SHA1: c24d4f8ce434f39b8303c57b95df697c8b5e71ea
+SHA256: 5fe54ffea9285b779e0dc88e7c9136f3cbb6d79b926b6f09623ef87742e9dc29
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.12
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.12_iphoneos-arm.deb
+Size: 9718826
+MD5sum: dfc8e6156bf4830fd834abe2891fff17
+SHA1: 690c818789ac06d4838db08be4f1429f711de362
+SHA256: 896de07ae58f2f45748a2239ec1d755d6968945b6fd2d5146024ccf702469611
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.19
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.19_iphoneos-arm.deb
+Size: 13607616
+MD5sum: fc71402c5fce84db123812780477a38e
+SHA1: 9b2bca8923bd8a23d0ee5e1612e15b84b118e883
+SHA256: aee252bb040a0b250ca2287da0ff4bbc8eb7937b5d07ab31cc7eda6ff2486b96
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.2_iphoneos-arm.deb
+Size: 13441160
+MD5sum: 868dea47a4bb6f1fd0a427c4947e02bd
+SHA1: 0988e86b7ee94515bb0c219754a7df6a139ede05
+SHA256: 5571244277b012ddf21cd2db73631fa65deb39f04b5a5d441e0fe644e379e60a
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.25
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.25_iphoneos-arm.deb
+Size: 13897468
+MD5sum: c5229608f9987c226b6b9364461e951b
+SHA1: bdec3e40499217ccd1912d4f7a7062b227ca5150
+SHA256: a84d3b19915cadbb0ca5feafc6239aff37c95de3305a8579532bf4bb6cfc60bb
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_2.0.1_iphoneos-arm.deb
+Size: 9715714
+MD5sum: a3ceaeaa9fa0c048345d49fac5b30a2e
+SHA1: b60a946ec827188500ed80d65b78e864cce68c84
+SHA256: 05ac7baa83d0a937d26c564bafc57fdc7484a9bb0b8db4329c6ee13d64e03e03
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.5_iphoneos-arm.deb
+Size: 9626898
+MD5sum: 0e3d7e64dde9387505e08a1be104768f
+SHA1: f816f3d4cad9ff1434f130b064ad9739f689aa36
+SHA256: bf44c404a2f0afd7b9e3d2c19f797deb5bf8ad672ec6ebb1498ebe0b2dc375f7
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.22
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.22_iphoneos-arm.deb
+Size: 13846340
+MD5sum: 86b608efb671c185ac711aafff3c0b0c
+SHA1: eb78e2358fdb8355e2865a2dc25c6c02f4a49cda
+SHA256: 29bf0832d5513ccc71a3339584ea9b073d6672899a3bff8807767e2df3c88e8e
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_2.0.3_iphoneos-arm.deb
+Size: 9598750
+MD5sum: 9e39d20d3ed588c0ceda45be41b6a869
+SHA1: a4eff32511e3703574490b936cf18e775aacf681
+SHA256: 411276a23e1cfc0eeca880f25c62d4673a0db8f76529b953ea59ae7efcdb1af5
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.15
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.15_iphoneos-arm.deb
+Size: 12726270
+MD5sum: f6be42e8c707969f3fa4cf874ff1009c
+SHA1: 7e2743c4721b77faf0223557716d219787f44acf
+SHA256: d156aa7d928f0571b9df80eb4667470d10dc74f20114cf2235ce175d56adb644
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.7
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.7_iphoneos-arm.deb
+Size: 9683470
+MD5sum: 32ff81a8f6d49c5f2ba39b7bbc375d58
+SHA1: da0401f937594afd881bb62793af29f4eaf11025
+SHA256: 70999f8d4e9fd6fbe8321bbbe797cf0c8b8444c7ee1d371cc7af8ae2d6147888
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.14
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.14_iphoneos-arm.deb
+Size: 13595944
+MD5sum: 022868daf578dbe6770ae121091b03fb
+SHA1: 647d81544f449fc63f1160ee3f39ca455c552db7
+SHA256: ef4c2ccbf68dc1cd30f80d69e58ddb2bf7717e51f7fdb38c93fe713091f8abc9
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.13
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.13_iphoneos-arm.deb
+Size: 13597780
+MD5sum: 6f59042eb3f8ea431f137bdfb669d8a5
+SHA1: 1f2379724116be8fbe43b6069d2732dbcd2e9b3e
+SHA256: f5ecac9d9b343384d0fa5e4ab3b362b1c77ea7aa6dd3f1a610e429c053ecb2b0
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.10
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.10_iphoneos-arm.deb
+Size: 9715714
+MD5sum: 1ca00da3322d61cc2b73b9fd14fc1b79
+SHA1: 5b619acd20f63a1e27b344b3b136d6596fda18b9
+SHA256: 727a4fee7d8eba18a3cb2a54f11c3926442bfd947132d2d1692340e6f197baba
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 1.5.8
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Conflicts: repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22
+Filename: ./debs/com.f0u4d.watusitools_1.5.8_iphoneos-arm.deb
+Size: 8873588
+MD5sum: 696183fe24339e0055f3d94895b1313c
+SHA1: 34f18346c664cf140e931da187ecfb539931687e
+SHA256: 6cf35488535dad768b19d666f3420fbbd97d8b14bf6f51d4ba010c6efe3648a6
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.0.11
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.0.11_iphoneos-arm.deb
+Size: 9716146
+MD5sum: 9a566181e1a1515715bf44bca2c65067
+SHA1: c1a79ec19fa7eecbae6ac57ea580cb0a7867be6e
+SHA256: fad2ef35a806a5aa4066b7b9ccd0d9e4724334d7e50e08e0de1424fc0a12dba3
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.f0u4d.watusitools
+Version: 2.1.18
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.18_iphoneos-arm.deb
+Size: 13607288
+MD5sum: b9b9d4eebd0575167a6ad56c7f86185b
+SHA1: 833165b39a5fb40477c10bee188bd6992eb494ed
+SHA256: 14bfa4341c06bb907e04c3e842bedd3e98d0e5c7ea19cec024fce42fe2a1220c
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
+Package: com.fouadraheb.alarmgroups
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_2.0.1_iphoneos-arm.deb
+Size: 157396
+MD5sum: 30f3ac4e5c01520e538ff1cab186699a
+SHA1: 6010a22354c0b0a7f43f1c7b1d5ee5cfc64043c6
+SHA256: 7472d30b789da93ab1a0cd55d673e008cae05356ea9c54d6626cb59e95edf6af
+Section: Tweaks
+Description: Generate and Group Alarms in Clock app
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_1.0_iphoneos-arm.deb
+Size: 205288
+MD5sum: e661c6ddc43338d2f1b7595c9952a09d
+SHA1: 376446608c9cf5f2e46de85f5728665e85c0b8b3
+SHA256: fcbfa06bfe8029152932a9914cf91120f82aeaa55660c82dce242d45c7905e18
+Section: Tweaks
+Description: Create Alarm Groups in Clock app
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_2.0.3_iphoneos-arm.deb
+Size: 163994
+MD5sum: fdab048daaaf9b6df911da5f41934a58
+SHA1: 0783b6f4fe85e3e6c1df1c9bdfd6a8b598f4af2d
+SHA256: cc0ad9ba7266d9872643196035b279af0ac229f2fd2d9bd5e3080d4231254977
+Section: Tweaks
+Description: Generate and Group Alarms in Clock app
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_2.0.2_iphoneos-arm.deb
+Size: 155836
+MD5sum: 67c975002628f3f3aa74813df3388e64
+SHA1: 506184cdcd853b7d85324fca36965da3e2c59cdf
+SHA256: 6090dbe21eb8b0f12ad1de6309d1f4f30ef3e3ad49b062c5645668ff5f3a955c
+Section: Tweaks
+Description: Generate and Group Alarms in Clock app
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_0.3_iphoneos-arm.deb
+Size: 205282
+MD5sum: 57f43c5d8cfa2b437980834698e566c5
+SHA1: 719de8a197bb9355e4e4c73cd4f8cedf7ae05e03
+SHA256: f51a532dd872fae9262bd44d4324f93b0094de1a501451100f6c1eb41eb28a17
+Section: Tweaks
+Description: Create Alarm Groups in Clock app
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_2.0_iphoneos-arm.deb
+Size: 156580
+MD5sum: dd6ab131cd481a6f89735532a102e608
+SHA1: fb30856a8787ce401f74a30d5ab41aa27f6437cd
+SHA256: 4fb316db6ea94a0c8773edaf3d5be4d44b55c239124bd1dca8cc030e08e7c9c6
+Section: Tweaks
+Description: Generate and Group Alarms in Clock app
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_0.1_iphoneos-arm.deb
+Size: 117818
+MD5sum: 32bf6c41a8916ee8a85d65c7398759b4
+SHA1: f5085be25b4a007229dd78b1f8e6abc400c42356
+SHA256: 63941e6de22193aeca325eb3d5b83721d4ca711a7284a2a96b5286bdb6cf300c
+Section: Tweaks
+Description: Create Alarm Groups in Clock app
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_2.1_iphoneos-arm.deb
+Size: 163998
+MD5sum: caaf0a3c44b713d41a8ab5df075624a2
+SHA1: b588c683c2d19d0c494974229dbbfd43c1d81abd
+SHA256: 197c77979236054807e0fc34c5f5f20598c44669b3a9d7fd51a67e7817b1717b
+Section: Tweaks
+Description: Generate and Group Alarms in Clock app
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.alarmgroups
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.alarmgroups_0.2_iphoneos-arm.deb
+Size: 116854
+MD5sum: 157f63367592c9a4d9a21ce283919085
+SHA1: dcd05adbe593133c3b4a176de1ce7167f5de8f73
+SHA256: 8ddb1b43846e72152c80e05d1cb5c0c93922c471cf07090a0ebec340555a0f63
+Section: Tweaks
+Description: Create Alarm Groups in Clock app
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.alarmgroups
+Name: AlarmGroups
+
+Package: com.fouadraheb.appdata
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.fouadraheb.appdata_1.2.3_iphoneos-arm.deb
+Size: 172128
+MD5sum: 860782a56c6bec8a986003874f458107
+SHA1: c505c3a94ac5df4e7474e4cfaaccbb27918de299
+SHA256: fc1dae2d2a2ab13eb78e25262eac76a7c9162d30b91f54e2922e85f4238eed23
+Section: Tweaks
+Description: View & Access Applications Data from Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Icon: file:///Library/PreferenceLoader/Preferences/AppData@3x.png
+Name: AppData
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.fouadraheb.appdata
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.fouadraheb.appdata_1.0_iphoneos-arm.deb
+Size: 115676
+MD5sum: 42267fdaa13f74560f5211083341fad8
+SHA1: 2723e7fec7bf6bdcdba5c16f6b403d3697f93aa0
+SHA256: f86c35c08d80a4f123d24360c1f3e6adb43f7513671d272a45d12c61e5d332b1
+Section: Tweaks
+Description: View & Access Applications Data from Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Icon: file:///Library/PreferenceLoader/Preferences/AppData@3x.png
+Name: AppData
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.fouadraheb.appdata
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.fouadraheb.appdata_1.2.1_iphoneos-arm.deb
+Size: 168492
+MD5sum: dde1aecfafd9c323354d70bf733446b1
+SHA1: d1080d94eb197565d5e464fecd836c768e29c2e4
+SHA256: 6a55e709dcf9782935b1549c71139b28c1917213c75eda67d6467906d1c96b69
+Section: Tweaks
+Description: View & Access Applications Data from Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Icon: file:///Library/PreferenceLoader/Preferences/AppData@3x.png
+Name: AppData
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.fouadraheb.appdata
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.fouadraheb.appdata_1.2_iphoneos-arm.deb
+Size: 168238
+MD5sum: 2a68a984d55aa9bc53e8625a957582c8
+SHA1: b90287c2dc66f4545b04dc096ecd656170c4b992
+SHA256: fff014cf5ff62531192bd40649cd17612296587d2a41f8a4f4445072e586b20f
+Section: Tweaks
+Description: View & Access Applications Data from Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Icon: file:///Library/PreferenceLoader/Preferences/AppData@3x.png
+Name: AppData
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.fouadraheb.appdata
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.fouadraheb.appdata_1.2.2_iphoneos-arm.deb
+Size: 169056
+MD5sum: cd39d9d576833739fff218d3dab9efbe
+SHA1: 355069c39c9f1d6fe8acfe2384b6fcc431aae08c
+SHA256: 1b38af193d7ff92a520428aea25a034f7d4ab4ae34348939f64dc71e42d8d5d5
+Section: Tweaks
+Description: View & Access Applications Data from Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Icon: file:///Library/PreferenceLoader/Preferences/AppData@3x.png
+Name: AppData
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.fouadraheb.appdata
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.fouadraheb.appdata_1.1_iphoneos-arm.deb
+Size: 153870
+MD5sum: 02444286573b06fc3c80189a0777598c
+SHA1: 6f163c3d89faa8ef9f27ae25a3e6488de3bd497d
+SHA256: 5d06897c04c8bd525d8472167350edbdd48477b1cd2b8dd0f9f505ec425419b3
+Section: Tweaks
+Description: View & Access Applications Data from Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Icon: file:///Library/PreferenceLoader/Preferences/AppData@3x.png
+Name: AppData
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.fouadraheb.bankaudi
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.fouadraheb.bankaudi_0.3_iphoneos-arm.deb
+Size: 5140
+MD5sum: 6574f64945a92626de6828bea048c7d5
+SHA1: f2acbdb5b1335c46bf5a16f8eaf7fa8c1faa8d1b
+SHA256: 8803943f504d328ee008c261a3a9a460640bbbdf9ec9578d820f932114e2fa70
+Section: Tweaks
+Description: Disable Jailbreak detection in banking apps
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.bankaudi
+Name: Banks Patch
+
+Package: com.fouadraheb.contactsync
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.22)
+Filename: ./debs/com.fouadraheb.contactsync_1.0_iphoneos-arm.deb
+Size: 256354
+MD5sum: 35b26bcaee9cc19b17588722348ce6ab
+SHA1: 6b070acfc92d17a4edb2af5104e7fbf05b0b7db0
+SHA256: 42c69279bac0540341d62594c4bbff56ff6dbc82b6fbfee83138040645f16d0b
+Section: Tweaks
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Name: ContactSync
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync/sileo
+
+Package: com.fouadraheb.contactsync
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.22)
+Filename: ./debs/com.fouadraheb.contactsync_1.1.2_iphoneos-arm.deb
+Size: 278982
+MD5sum: 08614e75f8aa319ade8438afc0004b05
+SHA1: 961b835e0724829db679c291c7dc7ae624bd8dab
+SHA256: 0e1616ea70608e09332d8b36e51fc6c32f1c9c5b19be7ec6339df52d11593299
+Section: Tweaks
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Name: ContactSync
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync/sileo
+
+Package: com.fouadraheb.contactsync
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.22)
+Filename: ./debs/com.fouadraheb.contactsync_1.1.1_iphoneos-arm.deb
+Size: 278954
+MD5sum: 9b244d9a1c86c5dd4b5e1c6583ab4321
+SHA1: f37d4d683b055721e38f792d18cdea60a9e65e73
+SHA256: db0ee724f542de2c701f886bc7d939f388df9aa521bb57d0760a8b6758798d18
+Section: Tweaks
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Name: ContactSync
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync/sileo
+
+Package: com.fouadraheb.contactsync
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.22)
+Filename: ./debs/com.fouadraheb.contactsync_1.1_iphoneos-arm.deb
+Size: 274722
+MD5sum: 58a2859cf6c12bcf5914b7a0b2e5b1cd
+SHA1: d71e0c619d27a4aeb707896d2cfacef2acc3f48d
+SHA256: 9fbc603a35d1ddce8d8abc7be1c71c513791b0479554df82e4bd54e93f074064
+Section: Tweaks
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Name: ContactSync
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync/sileo
+
+Package: com.fouadraheb.stickers
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.fouadraheb.stickers_0.1_iphoneos-arm.deb
+Size: 10983538
+MD5sum: 8f761986671bfea3ee10044cff299ed3
+SHA1: 389a84d2e7b9d82fce1a1437876b36fea530453f
+SHA256: 3f38a4ed450d7a53e2175b2f63a4852f303048afcae901efae3dbe29448f0f0d
+Section: Addons
+Description: Adds more Sticker Packs in Watusi
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.stickers
+Name: Watusi Sticker Packs
+
+Package: com.fouadraheb.watusi
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.25), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.5_iphoneos-arm.deb
+Size: 4161498
+MD5sum: 7fcf001f1ab0c72a3448556f049b2084
+SHA1: 054988140f9a0f72fa8ce2359c5f0e6488995f13
+SHA256: c95c6d07632d82fcdbc11c0c415bac1bf5ae98700088a24c064ea72ea1e828ab
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.37
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.19), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.37_iphoneos-arm.deb
+Size: 4877226
+MD5sum: fbf812500a4ee5eda6812fea7f02a002
+SHA1: f53ac1b3406093b3c399c34a0aee999597710efc
+SHA256: fcc4600d33d23f4396c9d409d6dcd369e77673e71ba9b369b5f6276ad7da49e9
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.0.68
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 11412
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.4), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools
+Replaces: org.thebigboss.watusi
+Filename: ./debs/com.fouadraheb.watusi_1.0.68_iphoneos-arm.deb
+Size: 2530712
+MD5sum: e213aaf18496d21300f973fce0860826
+SHA1: 1aace52121a9d0b8dc837bfa48577fa40f8c88c9
+SHA256: d0b34036d41d16208071f6522046ba38d77de0cceecb6f2d2a06ec1879d3267e
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusi2Dp
+Description: The all-in-one tweak for WhatsApp Messenger
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusi2Dp
+Dev: f0u4d
+Icon: file:///Library/PreferenceBundles/WatusiPrefs.bundle/icon@2x.png
+Name: Watusi 2 for WhatsApp
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.fouadraheb.watusi
+Version: 1.3.8
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.27), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.8_iphoneos-arm.deb
+Size: 4171958
+MD5sum: 79fba5b4d349c999a3c5ee5e8ab9dbcf
+SHA1: a25369d7d18c6c693f73421b3de3d2467079a605
+SHA256: dc7e9ae41e9f13e448656cdce7f1426afcbe548b812fd81771fd8eda94cee8fd
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.19
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.19_iphoneos-arm.deb
+Size: 4776516
+MD5sum: dfb48bdd9f4507e10f058ca92f9667cb
+SHA1: 6f5c2a344427bbe82a1e2f490be99ee3902a11e2
+SHA256: 4e866fae7d0808db0e6043a5a477cc85605083d949ff9d59078ce7b9f7d05f5f
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.32
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.13), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.32_iphoneos-arm.deb
+Size: 4832122
+MD5sum: 15f3babef25f2025d37b4c1277079a7b
+SHA1: 7d956463764edb52dd10416a42efb719f8296a3c
+SHA256: 86e0ba3781668875c69dea93b7ff40df220bc0bad7d4fbdfddffeb05b679f3fd
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.24), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3_iphoneos-arm.deb
+Size: 4180500
+MD5sum: 78d9ddc90cdb250eb2beee7f32366ac0
+SHA1: 07bd467728e0b128ed626f875c75a6504b7ca3f0
+SHA256: 6212ed3ef046617460ec1c9b712733b443854e91afec7766e982930e6cf0e3fb
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.16
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.16_iphoneos-arm.deb
+Size: 4832546
+MD5sum: 3586f9b468f718cd8fe1ea3bd91538a2
+SHA1: 0b8f9859023f2ad087005e6e3956ca0a584c358c
+SHA256: 03819dbb98a166d4fa4b83e14ea4a125e32d69a570da1eb895c1ec786eff8f0c
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.30
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.13), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.30_iphoneos-arm.deb
+Size: 4824826
+MD5sum: b4bbfb3f28fd0aa0d8bfe8e5e676127d
+SHA1: 68e345ef8052858b457533a43470cd9d3d48feb5
+SHA256: cc31da2420b805fa02a8c0fef63080aae2d9d2e59ac88aa41eb9e4a4adb60118
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.0.69
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.6), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.0.69_iphoneos-arm.deb
+Size: 4447918
+MD5sum: c205f90bb4f81892492f6e1c5828aba3
+SHA1: a96f68df45f90cc637931892a154cc09470fd976
+SHA256: 583f21c6b13520c6d2e37bc2a43a214e46e99372e84af9cdaeaee413c4050ccb
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.21
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.9), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.21_iphoneos-arm.deb
+Size: 4796916
+MD5sum: 7bb776ba2c4efe03e45d18249ef62d58
+SHA1: eb030576e50e16f481d3768baa0574554aa56ce3
+SHA256: ae747216af6d21a022ca132913abff9f4a1c84adc963614b2a15db2b01d5618a
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.0), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.3_iphoneos-arm.deb
+Size: 4590008
+MD5sum: 534d0c2b071e11f742c95888c8e6d082
+SHA1: 06c58478ea93790a6c48db355ad9e68aa4ddc334
+SHA256: 620fffc8456fdcd14c52249e6db42b00835b50256ebb44041e0a35de958af778
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.14
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.7), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.14_iphoneos-arm.deb
+Size: 4882386
+MD5sum: 9ab7ee8acfe886add12c8491478d5307
+SHA1: 3a9af03cbba5b1ff4a61772e353d415968f4d846
+SHA256: 717d288264dcff88594778ee1682a7b5e02bb726dd2683942909527c520bdf88
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.0), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.1.1_iphoneos-arm.deb
+Size: 4446044
+MD5sum: 6ebde1cc774f3c1a17907db204bf3923
+SHA1: cd566ff36e3218f8c06a78cb45e48f65f551d481
+SHA256: 7cb651899707c2505eef51db6ccb1f13d9e9da56472916c29184a0256a943881
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.0.71
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.6), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.0.71_iphoneos-arm.deb
+Size: 4460428
+MD5sum: 27ce5e0a745a927198fef2cd5c1121ca
+SHA1: cbbca6a280100b1a60b3548d1620b667f838a3f6
+SHA256: 762be37ac31c305cbf3f49bb011678cbc47bfa8e14826030ab1c79e6b7143aa8
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.4), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.6_iphoneos-arm.deb
+Size: 4440588
+MD5sum: 573bb0da9889a5f14446861c62e6d32d
+SHA1: 28ca08913f1ea1882a32ba74c417d81692d178d2
+SHA256: 77eaf6b02e5b813585661eae4eef8a0c1a1e9b575d906324e94f2e9696541987
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.6), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.13_iphoneos-arm.deb
+Size: 4881946
+MD5sum: 60c5692700551e3877da9daafb972064
+SHA1: 9f4d1df1d58b54d103d9618db2a797bbe9ebe813
+SHA256: 9a877eb0e3c5b47bc40ff4e885e679b56f084b1b2621f5fd1bcf4d047e737435
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.26
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.12), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.26_iphoneos-arm.deb
+Size: 4836158
+MD5sum: 9376eb2e473c28d8ede991a9548e2104
+SHA1: 73c434ad4c58f31b0e58957a7e0a8beb0f8de0b8
+SHA256: f8acf2821dba73c129f92b8f48bc8a9ce4d5df3c47d29c7e3b030973c2fb6588
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.0), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.4_iphoneos-arm.deb
+Size: 4621764
+MD5sum: a49654907bc2801d08d4186d6e2a7487
+SHA1: d39da40ee316758384b5852087ddd9209a76b173
+SHA256: 4546aacf99a2eebf9bfacb03d7865cd81d1d3a7ad9b9d4272c18c5afafe75f85
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.33
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.16), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.33_iphoneos-arm.deb
+Size: 4847532
+MD5sum: 3ea47cb8b4c35786ec3590828623a7f0
+SHA1: f809b6bbd2bbf0b22d5865c114a826d5b8da8668
+SHA256: 05c14b3d55bfe29f9024949fb113f9d64edf0f6edfd90b8b8ae5f8fbad7a397f
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.20
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.9), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.20_iphoneos-arm.deb
+Size: 4788074
+MD5sum: abfaaadc9795292e38db87871e5570d9
+SHA1: de128c6618d5a2580393bfef18757873f9b73224
+SHA256: 0a74c868cd298f610ecba959adb385cdc76f1e665655eef8d005e47e15485d2a
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.25), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.7_iphoneos-arm.deb
+Size: 4174540
+MD5sum: 3922dc740a3c9594d2aa04826766fd32
+SHA1: 522c34b1795da7a7d4965479bf491b3d94d7b2b6
+SHA256: 6c116de29440091887297095546a9358e6b9878b41f95877d58ca4840a4c4a96
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.39
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.20), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.39_iphoneos-arm.deb
+Size: 4998576
+MD5sum: 54c5b796a8e94ddadcc861c45a805004
+SHA1: 745abac1cbe3070c34ae8c8aaf962a8997bb72af
+SHA256: 01f1633749b88a4b4e66ece7c14f03a7fbaa0685a0fdac00c638ae3d667d316b
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.11
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.4), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.11_iphoneos-arm.deb
+Size: 4779050
+MD5sum: 854becd6a5e11bde43889586a5d82041
+SHA1: a2639d4ed4487dc815d90259780764481ed509d8
+SHA256: 29f39d90ab4ef1916032ef9729a9cd16c8702bce550b74790dbcd4cc3a030e40
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.8
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.3), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.8_iphoneos-arm.deb
+Size: 4762300
+MD5sum: 60a9ad2eb493eeaecdb1caa23065886d
+SHA1: fda85c852c3fbb975708685bd538e319ac8fe0df
+SHA256: 55c1bcaf534aff7d8e4bf9a6f0ef98098681f34bc5115f0a455c26a7d84b799f
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.12
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.12_iphoneos-arm.deb
+Size: 4660234
+MD5sum: a507284bfb37935936596d87597d2491
+SHA1: c9b7a718c1ff6a0c4597bc42d4ded7089e9a2939
+SHA256: 26be144e7ec50acc8126b1542b059194e1ea4f4fdb17bfa8d9d5fbce639206a9
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.24
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.11), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.24_iphoneos-arm.deb
+Size: 4825852
+MD5sum: 4fac64aa8f381130e8c1ce9f3eb8d462
+SHA1: 26b4f8a1428ce688646c56bb6bd3a0fc8d56b484
+SHA256: 65b609d4b5dd9bed6d6cc48c4fbfeed249de229c012cc87d7d69c58e563f5c49
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.3.9
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.28), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.9_iphoneos-arm.deb
+Size: 4173454
+MD5sum: 4ff91793aa6db8b2cf77b279571a5627
+SHA1: 9b55f2f3cc159ff510eeb7eae9cfb3605cdbc4df
+SHA256: b29fb916d529c23b93e5af27a146dcc0034f28946400ff87584576a0e5f5f8bd
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.36
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.18), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.36_iphoneos-arm.deb
+Size: 4874134
+MD5sum: 91d67d3f35dfd2f45336fb6e6e5fb785
+SHA1: d83954675598c6bf05bf4b4af07566fa1150f8a7
+SHA256: a79587d05d2f8e4fda8cf3d9c1c304d039d89abba2c11b1c88b2117f4fe2a9d5
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.23
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.9), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, co.xrepo.mokadam.whatsapprevael, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.23_iphoneos-arm.deb
+Size: 4798206
+MD5sum: b489427d1e4e400b5c740e983ddac60e
+SHA1: 33530e437f4d41eb9b9bfa5ac897ce4e49e4ba6c
+SHA256: deb6ebce2e7ede48dc20b8f7a823b8c882727246f70566308189499668b9360d
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.29
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.13), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.29_iphoneos-arm.deb
+Size: 4828786
+MD5sum: 66d9ee26568bb9e2ccb96f368868ac29
+SHA1: 401ed7616d29679fc929d16810558b1493e352d8
+SHA256: b36a7f98e3a7c2901909af6b3ffa80a3bee87f749a755ca8d3e227c07c6066f5
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.12), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.16_iphoneos-arm.deb
+Size: 4723508
+MD5sum: 7af7aab027392687fd9901d84dfbaa0d
+SHA1: 3441332792e119dba31f31dc8ef690b539d7eb81
+SHA256: 638a866fa6f8110096d5fae9731bc9f5a2bc013f6dda4a9d4e49b6f2621384d7
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.25), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.1_iphoneos-arm.deb
+Size: 4158070
+MD5sum: 1b62079041ed8ff5953372fd96ac5849
+SHA1: 850d77d2f12f88c04654fe561fe801391c353366
+SHA256: 9afe710af036ae0e8e9366c1a335aa253b772931ba061d4675c81d686f52976c
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.6), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.9_iphoneos-arm.deb
+Size: 4548234
+MD5sum: f28450e2c241f64a463f4384408c7e68
+SHA1: f3f0ada60c149c84e17cab0e1822c00f54fdcc3b
+SHA256: 7aec141b115a8dab2ac6f44d6ae8df0e10b5526428a4536d130cce1d5c362d9f
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.17
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.17_iphoneos-arm.deb
+Size: 4846316
+MD5sum: fcf2d8fdad5c043a4fa8fe221a4ced85
+SHA1: 8ee8ff64cf3c322d99af39861619b4d0a87ebdd1
+SHA256: a8754739a610ea709fe8210d2625641882335e54c52121150911bc2f43fd1647
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.27
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.13), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.27_iphoneos-arm.deb
+Size: 4836038
+MD5sum: c2298a87d6ddd5a8b0f63f97b30fe314
+SHA1: b90d6cd0c0979ca0401afb85dfe9df3710f05efe
+SHA256: 0d693bf47c4078083469a483d24f81a389e93667988e6a3df29650de181b69d3
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.14), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.2_iphoneos-arm.deb
+Size: 4668360
+MD5sum: d14e95166c19409c0e044622a3eb7da8
+SHA1: 38c0fb634ada4acf398c5bf74226827e682dfb29
+SHA256: 1967538597cfb8a0a6b3169ac8d787c63926b9251da9c27377bddd11e5d75189
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.41
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.21), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.41_iphoneos-arm.deb
+Size: 4827444
+MD5sum: 47871bf30139bb6e4f09648ea6013050
+SHA1: 67288f8b6bfaf102fc0113927b2dae9f10a778a8
+SHA256: 8c91f8cd5d61b004dfe481ffaaea8ec8766060ecaa4f4f255cf6faa938ad2c3d
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.0.77
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.8), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.0.77_iphoneos-arm.deb
+Size: 4461056
+MD5sum: f322e081ca4885c7e722abce9826d1a5
+SHA1: 897127836f0bece144d3515918ce53f97357f9d4
+SHA256: f99a2eaf34269133b5f2100a3169562a6efa7bbfafcdb9bcf260fb06c5039007
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.38
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.20), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.38_iphoneos-arm.deb
+Size: 4997612
+MD5sum: 4644d328df8084280e025b1d910e55b2
+SHA1: 8133a9d684e1a6f187fac75c0e363f912725f564
+SHA256: 231e50912b227f5a7c01cd6005bbf7af1c9dd11a20bf16c722d2405653cb1c22
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.14), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.1_iphoneos-arm.deb
+Size: 4668014
+MD5sum: bd47f90d09ab7f5d3e6f0c7d058d1c2b
+SHA1: 3dc65766b03632c70258f880de4341e746a61346
+SHA256: c2dbbb55c23efb0a709cea7d9686e3f2e86551bd39710c85c5fd975e56d84a7c
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.0.72
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.6), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.0.72_iphoneos-arm.deb
+Size: 4479394
+MD5sum: 080ebd4d1299bb0ca283ecf2ede40074
+SHA1: b1b24752ff8db6d38f532150138c2a087070ff4e
+SHA256: 99e42718c04575edaba468fcdaa15bd9a7ef002d47a70c795a1849790817db57
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.31
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.13), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.31_iphoneos-arm.deb
+Size: 4824838
+MD5sum: 6b9282d23e98f8b160bbe685b3ac4087
+SHA1: f513959eef1295d6d5426b92df4e3b208067f660
+SHA256: 4235839dd6fb4194c3f12f879e8e4f37b2ed33402fb91798a0cf0e324adab69c
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.17
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.12), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.17_iphoneos-arm.deb
+Size: 4725280
+MD5sum: 3ec42f77d4eb34666cc239f921508f01
+SHA1: 83844f661d8846c903a6dc0a9014eed4bb783724
+SHA256: 39e8e3ba034abd9102853907b782c741c6cea3127d78616f81428c75528369de
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.3.10
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.28), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.10_iphoneos-arm.deb
+Size: 4173088
+MD5sum: b371f65df50e789a1d09b43da67c09db
+SHA1: e3fc35c21dfa8d590a90349c62288cb86daa25bf
+SHA256: 94daf244970b8ca34e91347c24259c4a27240866aab68eed9156801ecd6cf3b9
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.0.76
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.8), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.0.76_iphoneos-arm.deb
+Size: 4466540
+MD5sum: a68a9ba26896851341614d9ec8270db6
+SHA1: 4325e98cb7e99d2f2c2d28c35568bf981f368472
+SHA256: d0837cabc58f12a39661fef7f2d1aa829f488baf97b06ca8c1ce30d07683fc19
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.40
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.21), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.40_iphoneos-arm.deb
+Size: 5006808
+MD5sum: 52cd3374c0ce92ac688b5c62c9769c3a
+SHA1: a043e82d38a9bbbc4f384303332813fc70f36c0e
+SHA256: 9132d43859c8d334cd86b2d4614058bc0fc8eb9fa11fd2be51f2ebae3a8ef632
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.4), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.10_iphoneos-arm.deb
+Size: 4779520
+MD5sum: c35bd736dc323eed593bf7f968551238
+SHA1: 9008eea5431abc6dd16d9e1f1c7a1b7118ea459e
+SHA256: e340962f9f98c8ee4c9333b862bd2a5aa40ce3d0cfc44d3db75ca8494284a33a
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.34
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.16), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.34_iphoneos-arm.deb
+Size: 4847924
+MD5sum: 3bdb3c24810d81fc10ca90c17a775995
+SHA1: 87362b6c5ea5fa8a32607d655faec5c705574ddc
+SHA256: f176c9cd3c75f380049ffe4bd3349a50e2383e6fc9abb46bceee90efb369d152
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.13
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.13_iphoneos-arm.deb
+Size: 4660928
+MD5sum: baa2f239ef05c9d8bd2f05a9dde5552c
+SHA1: b76d573b5c0f5e7508c7927cae2875f7abff3b48
+SHA256: 9c9f194fc0c3aca74abcacf944501dec9e8d401d8dea1967e99c725a536b6d73
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.4), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.7_iphoneos-arm.deb
+Size: 4458024
+MD5sum: b4dd81d9c4ba1c34a065bb67118935eb
+SHA1: 4ea24057189a497bef36e9320286931d8920f2e9
+SHA256: a7e4571347bc234b75d19fabfa6045c802938df05d0b506d7ff65d0442db190f
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.18
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.12), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.18_iphoneos-arm.deb
+Size: 4729084
+MD5sum: daf0111ff7ddca97e2be2be462efa82f
+SHA1: 6359f77a29170a2cbbece398780b5d495fa8e773
+SHA256: f0a8fb057e79bde08da167549eba4488120f954fa357f3914b7d6b0c3da24a26
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.0.75
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.8), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.0.75_iphoneos-arm.deb
+Size: 4466620
+MD5sum: 456c8d6708cb34fed0e1aeac14fefb4e
+SHA1: 9ddb1882c458cdb777bf13ef97ab0d2470af7a78
+SHA256: 7cd3aaf1f363be069f68bd40449c19449780f8a6641bc25ee7c2f78ac0e86328
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.0), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.1.0_iphoneos-arm.deb
+Size: 4445950
+MD5sum: e52ce50bf10e2aab6ab42698232ab5c0
+SHA1: 430a7fdbd5cdefbeb92f1487c18fcb01c7dc8c9f
+SHA256: 66efc68bf47bb38189e08209aa67b0ffc54786665df80e37d077a3880c19e8db
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.35
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.16), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.35_iphoneos-arm.deb
+Size: 4849634
+MD5sum: c2e05974e636e47ad55718e10ee6f671
+SHA1: 7288225120a58c43e5bf7c588ea1faa5a254fa4d
+SHA256: f441b8346d4f69868e6d520b04ed1a57ff52ce07b32282615548d3ff8208df1d
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.3), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.1.4_iphoneos-arm.deb
+Size: 4446208
+MD5sum: 8c34c767f2ca5de4e1f0df2f417c5a93
+SHA1: d0ec45ade9baf5b01ed93f755de7462d2d206e06
+SHA256: 0048619768b227d8a16d5f3fe3cc59dba8552976c34bb8be37b37b5347887edd
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.11
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.11_iphoneos-arm.deb
+Size: 4560750
+MD5sum: b78f551a9f2fec5a54f4d3464e2c792e
+SHA1: 2f58ccdd8d8967d4a4663d14bbca50caa146d938
+SHA256: a52999b086ec048aad47848951474354d994ef81b80b97fa14373efd84b820cf
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.3), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.9_iphoneos-arm.deb
+Size: 4761432
+MD5sum: 49165b100005c30312d363562aa72f16
+SHA1: 74f239e4a8543980f9ec5549882f326885531128
+SHA256: fa3d785cf19b82c53adef214d8675c1d17d64218b35a9bc8a4f23d3f1dbfce55
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.0), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.1.2_iphoneos-arm.deb
+Size: 4446022
+MD5sum: b2376fd4b6959439681ca67bd4b16fb7
+SHA1: e0ac3b0f986d48bb635e3c6fb2a0ecc9437c7d25
+SHA256: b94e7acc9ede550c3789c3dc221fe687a56807d44979ac894d2b3ae717640681
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.25
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.12), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.25_iphoneos-arm.deb
+Size: 4839314
+MD5sum: 6c12c45beaa86b74de45f8546313eab7
+SHA1: 354dfba231519d45b5cdd48a7e51ee57fb4a8057
+SHA256: fc608696cf9f7bfb57abf49d65ff7317c4fb245c20a4e0c0d385c58520d2f8b9
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.4), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.5_iphoneos-arm.deb
+Size: 4440818
+MD5sum: 04c67fda6a82c32febf061551a5f6552
+SHA1: ead083723b81c54eb9c1009033127b1f0cc91a62
+SHA256: 65af29003b9c8d67d40abe0c6052732a557069417ed32274531b69d0317d2471
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.3.11
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.28), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.11_iphoneos-arm.deb
+Size: 4181786
+MD5sum: f9ecabdd6e9e125870787ffad8a93ba7
+SHA1: ad6904d09730bff778f86024e3c1aefb0931c9eb
+SHA256: df025f580bd7cd47c968b2b51e91214de61e5fc070646638f1d470a259c3598a
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.3), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi
+Filename: ./debs/com.fouadraheb.watusi_1.1.3_iphoneos-arm.deb
+Size: 4446176
+MD5sum: 9d361ff6253579a6677c5d9a585b300c
+SHA1: 6e15bf5bdfc51f451c0f868239fd35d0b315c424
+SHA256: afb773193164f39b229d1305685aaaa4c1e845367479daa76afc1fa7adf18ca7
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.5), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.8_iphoneos-arm.deb
+Size: 4460540
+MD5sum: e410cd16ce37893dec5d9187b3c45aad
+SHA1: 70784ecf2280ba9fafecaf7a0e01d95feb49db2f
+SHA256: b21585ab6973fab40f397a83a60e61c97ef45f2667388e9ab9831a51d6b260d6
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.15
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.8), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.15_iphoneos-arm.deb
+Size: 4832390
+MD5sum: 3df6d5be31844c6e2b1cbc9a0fa89612
+SHA1: befdc37f81e42b6d18872237fbf08db41f52ce5e
+SHA256: 741378c52c7d4e3c43772168205d02703bb8c3878fd03ec33f392a3bfc152252
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.1.10
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.7), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.10_iphoneos-arm.deb
+Size: 4588276
+MD5sum: bf4ee948c937fe146d470e3afb003dc5
+SHA1: e81c707622cc8276ca96bc71dc32157fc2e67ee9
+SHA256: 6d4e2c3d638a78bea799d396167ad4daa2d4c3d3ea8a3e545daf7a0fceb3cba6
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.2), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.6_iphoneos-arm.deb
+Size: 4724812
+MD5sum: faeaaab9c13911936d5f43cb8ca36681
+SHA1: 0d70e4aff4121f2591ff5c867ca7c3f448c1fcc6
+SHA256: 728e223901db151ad3942b98791398c18b449580b48ab486fe0addc96ffaeeb3
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.28
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.13), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.28_iphoneos-arm.deb
+Size: 4820654
+MD5sum: eb9990ebc0e9b988daf3eb3271fb3321
+SHA1: 10fa258867428d25c00df26ea4a3d77947a6b936
+SHA256: 21ca14f6fb6da87b8cb655191c6b8e226f0e93a450186dc5ddf6ff23c18c54e0
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.14), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.0_iphoneos-arm.deb
+Size: 4667668
+MD5sum: c4306e8d2ff26031e12f1e2228b394ae
+SHA1: d87171d15b64d66fc7a0e6943871a76e66861d49
+SHA256: 62165804ebe6368bea7a22810e39467df16f593bca54882487920d29be110ecf
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.2.22
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.9), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, co.xrepo.mokadam.whatsapprevael, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.22_iphoneos-arm.deb
+Size: 4799636
+MD5sum: a574f276fd8b9b6d3bd4717d81e4151f
+SHA1: b1fd864031b2f1f1ade6addf6da452fc2cbb941a
+SHA256: f57d51285695659b5750da7ece4e7029b2b4d30e5ede5ae28aae859d4fffb485
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.25), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.6_iphoneos-arm.deb
+Size: 4163758
+MD5sum: eddcbed1bc4fa0c1dbb58ea6851b39fd
+SHA1: 78e5b7fbcd21280a3dbc9d7b01b8d1ccdf2541f7
+SHA256: 7d1db4748672e3a5fbd1eb2e12f470d9c042c61574eaafe240f2360bd79ee1a4
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.25), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.3.4_iphoneos-arm.deb
+Size: 4161648
+MD5sum: 7c669782b7d1091529b18a31cf723930
+SHA1: 588bd24fe22e6ec02d1f5c664badc60e31b93b9e
+SHA256: 16d142ce7542c12aec61ebf60af315ac635789ee049028b0828eb46771d49b1a
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+
+Package: com.fouadraheb.watusi
+Version: 1.2.7
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.2), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.7_iphoneos-arm.deb
+Size: 4750354
+MD5sum: b43f780128a848db84d7adca1d4319f7
+SHA1: 89d9c59cbce59dbdfd334c7b820f52bb87fd1887
+SHA256: 16f3977c5938581aa38d103a243eba8194ae2765f58664cec60a5e803f3750c1
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.15
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.12), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.15_iphoneos-arm.deb
+Size: 4718168
+MD5sum: 2dc0c0544ad93c6469eaa5132fd1fce5
+SHA1: 3d85602256c526c21b871a0c090a659c5e1215e9
+SHA256: 084e2e97ccd93c9f6ed67688a72e20618a0aed7268f836cc7ae9086b28e3fa51
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+
+Package: com.fouadraheb.watusi
+Version: 1.1.14
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <fouad.raheb@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
+Filename: ./debs/com.fouadraheb.watusi_1.1.14_iphoneos-arm.deb
+Size: 4718514
+MD5sum: d9e6df7761bbc554031b1b41abb781ce
+SHA1: 002030e23ece5210bb69579bd8a336537225495e
+SHA256: 29ee29dba7566b6e9659307e8cd219cea2932019a2abd0599f41fb4e54ee0ca8
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+

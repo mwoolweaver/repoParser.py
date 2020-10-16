@@ -1,0 +1,49 @@
+Package: com.wynd.dreamboard
+Name: DreamBoard
+Version: 2.0.3
+Architecture: iphoneos-arm
+Author: Andrew Liu <wynd07@gmail.com>
+Depends: mobilesubstrate
+Priority: extra
+Section: System
+Description: Advanced Theming Platform. Radically change your home screen
+Homepage: http://yuxuanliu.com/r7/dreamboard.html
+Depiction: http://yuxuanliu.com/r7/dreamboard.html
+Maintainer: Andrew Liu <wynd07@gmail.com>
+Filename: dreamboard.deb
+MD5sum: 37c385c0558245ff8ce1614a18c73a13
+Size: 1350788
+
+Package: com.wynd.iswipe
+Name: iSwipe Keyboard
+Version: 0.5.2-01.21.14
+Priority: standard
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Section: Tweaks
+Author: Andrew Liu <wynd07@gmail.com>
+Description: Faster, gesture typing keyboard
+Maintainer: Andrew Liu <wynd07@gmail.com>
+Homepage: http://yuxuanliu.com/r7/iswipe.html
+Depiction: http://yuxuanliu.com/r7/iswipe.html
+Filename: iswipe.deb
+MD5sum: 572c2c8c6331c0fb60fa076669be5e9b
+Size: 1860960
+
+Package: com.wynd.backboard
+Conflicts: com.wynd.backboard-no-ui
+Name: BackBoard
+Version: 2.0.0-07.17.13
+Architecture: iphoneos-arm
+Author: Andrew Liu <wynd07@gmail.com>
+Depends: mobilesubstrate
+Priority: extra
+Section: System
+Description: Backup and switch between home screens
+Homepage: http://yuxuanliu.com/r7/backboard.html
+Depiction: http://yuxuanliu.com/r7/backboard.html
+Maintainer: Andrew Liu <wynd07@gmail.com>
+Filename: backboard.deb
+MD5sum: ea51e06ae216c18844dd8e6ed237c814
+Size: 264414
+

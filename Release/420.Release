@@ -1,0 +1,12 @@
+Origin: tihmstar beta repo
+Label: tihmstar beta repo
+Suite: beta
+Version: 1.0
+Codename: beta
+Architectures: iphoneos-arm
+Components: main
+Description: BETA repo! install packages at your own risk! I'm not responsible for any damage these packages might do to your device!
+Icon: CydiaIcono.png
+MD5Sum:
+ ffda70138f72cf50608fae1bbe52a096 83380 Packages
+ c6a74d45b6a7a18aeb11fd0c53450877 16779 Packages.gz

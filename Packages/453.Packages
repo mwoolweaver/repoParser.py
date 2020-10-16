@@ -1,0 +1,64 @@
+Package: com.180.adguard
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.180.adguard_0.0.2_iphoneos-arm.deb
+Size: 32006
+MD5sum: 420a9a9c6820283a2387636e493e0247
+SHA1: 20dc820bcf7bc354cb2e014925e267201ca406c7
+SHA256: 074a8594e3262d470d4ed3d10af3b38724e7838d65878475b682fc1a6263a7ae
+Section: Tweaks
+Description: arm64e A12/A13 support and armv6 support for older device make sure you got preferenceloader 2.2.4 install
+Author: stem grade
+Name: adguard
+
+Package: com.sectorus.batteryinverter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Sectorus
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.sectorus.batteryinverter.deb
+Size: 2656
+MD5sum: 14b8a3e2168c36b03756ffcfdeba4f5f
+SHA1: d9abd753c0656597ccf7dce48fd615bfb3196b78
+SHA256: e83600a0457308f772fac55cc35e23343dfd819b4d7d4c068af07ec95d2983e5
+Section: Tweaks
+Description: Inverts the battery percentage
+Author: Sectorus
+Name: BatteryInverter
+
+Package: com.sectorus.dns2tcpc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sectorus
+Filename: ./debs/com.sectorus.dns2tcpc.deb
+Size: 29732
+MD5sum: 8d4514a209d7a6dec8da8c9c1f3348ac
+SHA1: c4dcb02da2769baf59a47c66640ec1f588d08021
+SHA256: eebee0ed6a7f182b7c58a377e7dfa71f122daa35fad81f2976f4a6fa4d5f1d88
+Section: System
+Description: Dns2tcp is a network tool designed to relay TCP connections through DNS traffic.  Encapsulation is done on the TCP level, thus no specific driver is needed (i.e: TUN/TAP).  Dns2tcp client doesn’t need to be run with specific privileges.  DNS2TCP client only. Compiled for arm64.
+Author: Sectorus
+Depiction: https://Sectorus.github.io/cydia/depictions/?p=com.sectorus.dns2tcpc
+Name: DNS2TCP Client
+
+Package: jp.akusio.kernbypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 412
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./debs/jp.akusio.kernbypass_0.0.2_iphoneos-arm.deb
+Size: 12274
+MD5sum: 032a34bd63e04a854bc944ddfa4b6822
+SHA1: 744f407ac62c7970736e9a5c5080c2ef45d7d292
+SHA256: b53d75451f55b8443735dfd8425f7f9c0339ccb3cb045b4efbd86c2fad6f785c
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+

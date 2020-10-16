@@ -1,0 +1,30 @@
+Package: com.wavelink.bundleidsxi
+Version: 1.2.0-1
+Section: Utilities
+Maintainer: TD
+Depends: applist
+Conflicts: com.td.bundleidsxi
+Architecture: iphoneos-arm
+Filename: ./debs///com.wavelink.bundleidsxi_1.2.0-1_iphoneos-arm.deb
+Size: 121438
+Installed-Size: 332
+MD5sum: 65e58c4690181ebdea8d856d63f5c376
+Description: App to see installed app bundle IDs.
+Name: BundleIDsXI
+Author: TD
+Depiction: https://wavelinkstudios.github.io/repo/depictions/bidsxi/Depiction.html
+
+Package: com.wavelink.flatfolder
+Version: 0.0.1
+Section: Tweaks
+Maintainer: TD
+Depends: mobilesubstrate, PreferenceLoader
+Architecture: iphoneos-arm
+Filename: ./debs///com.wavelink.flatfolder_0.0.1_iphoneos-arm.deb
+Size: 24442
+Installed-Size: 320
+MD5sum: 4065ca972ce0049a07fa7e021cdea14d
+Description: Flatten out them folders!
+Name: FlatFolder
+Author: TD
+Depiction: https://wavelinkstudios.github.io/repo/depictions/flatfolder/Depiction.html

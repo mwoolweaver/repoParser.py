@@ -1,0 +1,8 @@
+Origin: Ryley's Repo
+Label: A repo for my tweaks
+Suite: stable
+Version: 1.0
+Codename: Ryley's Repo
+Architectures: iphoneos-arm
+Components: main
+Description: I'm always happy to take requests

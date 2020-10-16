@@ -1,0 +1,8 @@
+Origin: if0x’s beta repo
+Label: if0x’s beta repo
+Suite: beta
+Version: 1.0
+Codename: if0xrepo
+Architectures: iphoneos-arm
+Components: main
+Description: @if0xxx’s Cydia Repository

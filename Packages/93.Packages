@@ -1,0 +1,345 @@
+Package: ca.kirara.cinnabar
+Version: 0.0.1-12+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle
+Installed-Size: 924
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: packages/ca.kirara.cinnabar_0.0.1-12+debug_iphoneos-arm.deb
+Size: 86924
+MD5sum: d054aa3643ec1a90d84fa1317311a38a
+SHA1: 5541002b3576e880fd581eed99d7fd0e66f98ea6
+SHA256: ba2cfb7e41e75a59b599ba9c762df1b88bf9dd89a159bf07f70f4b9477a0c0f6
+Section: Tweaks
+Description: An unintrusive notification icon
+Author: The Holy Constituency of the Summer Triangle
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.cinnabar.html
+Name: Cinnabar
+
+Package: ca.kirara.cinnabar
+Version: 0.0.1-13+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle
+Installed-Size: 924
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: packages/ca.kirara.cinnabar_0.0.1-13+debug_iphoneos-arm.deb
+Size: 86850
+MD5sum: 2e7be02ab9af0f488cedacb35115599b
+SHA1: d98668273ad8c8dc7cf4cb7dfbaaaac91918bbad
+SHA256: bbf9d12c732059e3804b632f7ce9bad9c794c79183f95888f7b475c7e6d61878
+Section: Tweaks
+Description: An unintrusive notification icon
+Author: The Holy Constituency of the Summer Triangle
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.cinnabar.html
+Name: Cinnabar
+
+Package: ca.kirara.cinnabar
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle
+Installed-Size: 640
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: packages/ca.kirara.cinnabar_0.0.1-8+debug_iphoneos-arm.deb
+Size: 73218
+MD5sum: 1ab1f8e9a717fea0fa0e72e375e0dcf8
+SHA1: 29437a76755889c3f00c895bae0e493a89db4363
+SHA256: 6b9df9ba6a8810142ebb4e44c740c6de09bc804e7cf4733bb26bf186c2011de3
+Section: Tweaks
+Description: An unintrusive notification icon
+Author: The Holy Constituency of the Summer Triangle
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.cinnabar.html
+Name: Cinnabar
+
+Package: ca.kirara.gplv3
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: packages/ca.kirara.gplv3_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3322
+MD5sum: f7ec847697a9d090b9c161bd131a0a4b
+SHA1: 260f5e4611a5b397a63fe18ce5cbf6b29d376a07
+SHA256: cfe53af3c1478cb7dff22fff28ced8c071618cadfd5ad6a485a1966a314fd075
+Section: Tweaks
+Description: Freedom is non-negotiable. Makes installd allow installation of IPAs signed by free developer accounts OTA.
+Author: The Holy Constituency of the Summer Triangle
+Name: GPLv3
+
+Package: ca.kirara.gplv3
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: packages/ca.kirara.gplv3_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3380
+MD5sum: 90a65045366a852ff60a8f0aec93f35a
+SHA1: e63fb45c56f666c31eeb8b8c024a950171346a19
+SHA256: 016021228750c20561f369a05a516dd960b4d0e7c5187fb55464a2049539aec0
+Section: Tweaks
+Description: Freedom is non-negotiable. Makes installd allow over-the-air installation of IPAs signed by free developer accounts.
+Author: The Holy Constituency of the Summer Triangle
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.gplv3.html
+Name: installd OTA Patch
+
+Package: ca.kirara.larimar
+Version: 0.9.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle
+Installed-Size: 356
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: packages/ca.kirara.larimar_0.9.9-1+debug_iphoneos-arm.deb
+Size: 19622
+MD5sum: 05ff7a99d945d67dd487356a94785aa9
+SHA1: 4fa216598209f1423fe857cf0c38b033a4d21aa2
+SHA256: 00dabef6d1fa2cbda35c6550616881d8f0c2c8bf4e29b9419ac852d224f24fc3
+Section: Tweaks
+Description: Disable notification sounds/vibrations when unlocked.
+Author: The Holy Constituency of the Summer Triangle
+Name: QuietWhileUnlocked
+
+Package: ca.kirara.larimar
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle
+Installed-Size: 356
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: packages/ca.kirara.larimar_1.0.0-1+debug_iphoneos-arm.deb
+Size: 19596
+MD5sum: 0c734e1de2ae55fa4269f10dd9b04055
+SHA1: df0b7eb9894afa212cfe4b0f9c4665a9bd597844
+SHA256: 7405bbde99f1d01b2c2ad0a95cb6cc32b7534813431922481e8a5eb5f0a74963
+Section: Tweaks
+Description: Disable notification sounds/vibrations when unlocked.
+Author: The Holy Constituency of the Summer Triangle
+Name: QuietWhileUnlocked
+
+Package: ca.kirara.raisevnodelimit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Pre-Depends: firmware (>= 7.0)
+Depends: system-cmds
+Filename: packages/ca.kirara.raisevnodelimit_1.0_iphoneos-arm.deb
+Size: 1504
+MD5sum: 7c2be4bf35ceb88668be7da2a0c8fbf3
+SHA1: bc7c01ed02576194882dda74a045ba0d2a25db93
+SHA256: 5d0c3cf867c9b7374e138d8720d7de87f4bfe37f0fe25a5fd315726055e8e1a7
+Section: Tweaks
+Description: apply snake oil for system stability
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.raisevnodelimit.html
+Name: Raise vnode Limit
+
+Package: ca.kirara.rubellite
+Version: 0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: packages/ca.kirara.rubellite_0.1-5+debug_iphoneos-arm.deb
+Size: 3468
+MD5sum: 18676a6ab1acf76474db9e2516eda496
+SHA1: b1ab617a01373d7c829b23d4d2bb32f34a2e0943
+SHA256: 8768cf52b3cbd8c4192385b90f8afa336050067514befe7a0035b2723720d62f
+Section: Tweaks
+Description: Blur the lock screen background when notifications are present.
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: depiction/ca.kirara.rubellite.html
+Name: BlurNotificationBackdrop
+
+Package: ca.kirara.sshdlocal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Pre-Depends: firmware (>= 11.0)
+Depends: openssh
+Filename: packages/ca.kirara.sshdlocal_1.0_iphoneos-arm.deb
+Size: 2930
+MD5sum: d105ca0974848dfc407bc29c4e36cee4
+SHA1: 1fa854caf6aaaf500b8f00b89a8afeab8e12fe69
+SHA256: b48f15a0c527b99cb2010af3b5f4743de622a25209e9e32081cf4348e1853684
+Section: Tweaks
+Description: launch daemon for local ssh clients
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.sshdlocal.html
+Name: sshd for Local Clients
+
+Package: ca.kirara.twelved
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depends: com.bushe.lockhtml4
+Filename: packages/ca.kirara.twelved_1.0_iphoneos-arm.deb
+Size: 116288
+MD5sum: ceaf8250400e4bd533b28d258e0e797f
+SHA1: ab27eb8450f7e460e29a00687bccfe4fe9885c53
+SHA256: 75445646821904f268f9e4f1b782216a4cb339d83497d1ee65ce8bc131d0fece
+Section: Themes (LockScreen)
+Description: a lockscreen widget
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.twelved.html
+Name: 12d
+
+Package: ca.kirara.voltage
+Version: 1.0.1-13+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 372
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.0.1-13+debug_iphoneos-arm.deb
+Size: 25166
+MD5sum: be536e0826464f0df0e42bf1ba2ffd53
+SHA1: 0ce9fd82345838d9b5907d1865a9f3af6d5ab8a1
+SHA256: e58935d07f428f6ebb6ba7e034d9b86e5620ca782a4f733cd361678b945ce562
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 360
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.0.1-3_iphoneos-arm.deb
+Size: 21102
+MD5sum: 730991a7d6494b0e224235dc95b494e7
+SHA1: 474d6a11020171339c22a6263fb1a184b8bb80fa
+SHA256: 57aed4676eb9098ef09cd1c66e4eb4198a9303ae2ed530a4f25ecf6da8187a06
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.0.1-5
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 360
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.0.1-5_iphoneos-arm.deb
+Size: 21092
+MD5sum: fe171ea32a59ed9af7202b75d44fef66
+SHA1: 7b19ef90b663f95bf7a6ebe9715da232a2706fd0
+SHA256: e72c39005889b02de9338af76647b2ac0327b8b21bc0f986967520a59f47b653
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.1.99-7+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 264
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.1.99-7+debug_iphoneos-arm.deb
+Size: 21076
+MD5sum: 11f2d0fc4d1e752c06cec5865fcc429a
+SHA1: a12a4dc165142add45174785893cfffd52e59a17
+SHA256: 8130c644f06bde6a00245d2fa079b430cd916471916fecb13e94d5e12c64663f
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.3.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 360
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.3.0-6+debug_iphoneos-arm.deb
+Size: 30132
+MD5sum: 8cfc0e49f72c989ea3a07df6defdffdf
+SHA1: 609bdb1a6d07a9ea6147b81fe038ccf78223361a
+SHA256: 97541565f0dd3fc091f03704ab241579317e8fee1fca4df739160a55d6411b44
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.4.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 364
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.4.0-2+debug_iphoneos-arm.deb
+Size: 32086
+MD5sum: fddb58aee285798de7a1cca519664b2e
+SHA1: 11dd4e8ba4c12ea0b4ab1342ba83836127b4afd2
+SHA256: 1bccfc3885a5f38ad8ad65cfa818b87871b6542a99974a3776591f509e1bcfca
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 436
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.4.2_iphoneos-arm.deb
+Size: 27332
+MD5sum: ee58b31982a772bd1a81de8ac715181c
+SHA1: eef0b566e56c05b4b8cd36ffb68c4de227890e9b
+SHA256: 340a3a9e69839698b33e28000da8f9c46b521278f212dff0367c936ab5fa5b45
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 488
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.5.0_iphoneos-arm.deb
+Size: 33878
+MD5sum: 1908c76abceff223127453ab714c1beb
+SHA1: b1573e82c26471cd48c9e1931d0c668dc6b15836
+SHA256: ac6ff9cfdf1b242c36c55447f5253c837f782f9b4f821837f68b17b10665e496
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+
+Package: ca.kirara.voltage
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Installed-Size: 488
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: packages/ca.kirara.voltage_1.6.0_iphoneos-arm.deb
+Size: 33440
+MD5sum: 728421ee3c958c261797ffdbb919128e
+SHA1: 4824b45bff1baa070d6763a4275c3d0365451e00
+SHA256: 0622901b792afaed584f852395c69c2add68f7b6bdbfbbca6bad2633918c41bf
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://bluesymphony.kirara.ca/depiction/ca.kirara.voltage.html
+Name: Eyeplugs
+

@@ -1,0 +1,1877 @@
+Package: avrdude
+Name: avrdude
+Homepage: http://www.bsdhome.com/avrdude/
+Version: 5.10-1
+Section: Development
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//avrdude_5.10-1_darwin-arm.deb
+Size: 162304
+MD5sum: 4185d0fa14c28e80d7521b862b02f147
+Description: software for programming Atmel AVR microcontrollers
+ AVRDUDE is an open source utility to download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers using the in-system programming technique (ISP).
+depiction: http://hitoriblog.com/depiction/avrdude.html
+author: Brian Dean
+
+Package: com.hitoriblog.NCAmesh
+Name: NCAmesh
+Homepage: http://hitoriblog.com/?p=16524
+Version: 1.0-1
+Priority: optional
+Section: Addons (NotificationCenter)
+Maintainer: moyashi
+Depends: mobilesubstrate, firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.NCAmesh_1.0-1_iphoneos-arm.deb
+Size: 10010
+MD5sum: 9ac7882e83adcf5a9ba683e8bb92abc3
+Description: NCAmesh is a notification center widget. It displays Tokyo Amesh.
+depiction: http://hitoriblog.com/depiction/NCAmesh.html
+author: moyashi
+
+Package: com.hitoriblog.NCRainRadar
+Name: NCRainRadar
+Homepage: http://hitoriblog.com/?p=19021
+Version: 1.6-2
+Priority: optional
+Section: Addons (NotificationCenter)
+Maintainer: moyashi
+Depends: mobilesubstrate, firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.NCRainRadar_1.6-2_iphoneos-arm.deb
+Size: 52244
+MD5sum: f9df4b4ea8ee20bf5ba8b08fcb317620
+Description: NCRainRadar is a notification center widget. It displays Yahoo! Japan Rain Radar.
+depiction: http://hitoriblog.com/depiction/NCRainRadar.html
+author: moyashi
+
+Package: com.hitoriblog.actionmenu.eow
+Name: ActionMenu EOW
+Homepage: http://hitoriblog.com/?p=3373
+Version: 0.1-1
+Section: App Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, actionmenu
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.actionmenu.eow_0.1-1_darwin-arm.deb
+Size: 5746
+MD5sum: 41e643ee0d2840fdb421c0fed996b342
+Description: Search a selected text on the Eijiro on the WEB for iPhone.
+depiction: http://hitoriblog.com/depiction/ActionMenuEOW.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.actionmenu.google
+Name: ActionMenu Google
+Homepage: http://hitoriblog.com/
+Version: 0.2-1
+Section: App Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, actionmenu
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.actionmenu.google_0.2-1_darwin-arm.deb
+Size: 6080
+MD5sum: e9ac113b48c8c03c395f4c56c386d308
+Description: Google the selection
+depiction: http://hitoriblog.com/depiction/ActionMenuGoogle.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.actionmenu.hanzen
+Name: ActionMenu HanZen
+Homepage: http://hitoriblog.com/
+Version: 0.1-3
+Section: App Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, actionmenu
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.actionmenu.hanzen_0.1-3_darwin-arm.deb
+Size: 8964
+MD5sum: 93da97955676c027d59acc5e279c3431
+Description: Hankaku/Zenkaku the selection
+depiction: http://hitoriblog.com/depiction/ActionMenuHanZen.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.actionmenu.nowplaying
+Name: ActionMenu NowPlaying
+Homepage: http://hitoriblog.com/?p=1049
+Version: 0.5-1
+Section: Action Menu Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, actionmenu, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.actionmenu.nowplaying_0.5-1_iphoneos-arm.deb
+Size: 15472
+MD5sum: ec37ab9f5ef3c47e0fff6719f146ead9
+Description: NowPlaying inserts a tune information to the position of the cursor.
+depiction: http://hitoriblog.com/depiction/ActionMenuNowPlaying.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.alttab
+Name: AltTab
+Homepage: http://hitoriblog.com/?p=3958
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.alttab_0.1-1_iphoneos-arm.deb
+Size: 4540
+MD5sum: e35e3e8897f4b02033621d5624ab6aed
+Description: AltTab adds keyboard shortcut to task switch.
+ Alt+Tab, Win+Tab, Option+Tab, Command+Tab: Switch to the next task
+ Shift+Alt+Tab, Shift+Win+Tab, Shift+Option+Tab, Shift+Command+Tab: Switch to the previous task
+depiction: http://hitoriblog.com/depiction/AltTab.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.approtaryswitcher
+Name: AppRotarySwitcher
+Homepage: http://hitoriblog.com/?p=60185
+Version: 0.0.1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.approtaryswitcher_0.0.1_iphoneos-arm.deb
+Size: 39306
+Installed-Size: 560
+MD5sum: 87da2b084b590e0e77a6b3108e45c8b0
+Description: AppRotarySwitcher allows you to launch your application to cycle through a pre-made list.
+ It is designed to be used while navigating a motorcycle or car.
+ You can switch between applications using the buttons on the external mouse or using the Activator.
+ To use the mouse, you need to apply a somewhat unintuitive setup.
+ If you want to use with FlipSwitch and Activator, Please install yourself.
+depiction: http://hitoriblog.com/depiction/AppRotarySwitcher.html
+author: moyashi
+
+Package: com.hitoriblog.appstorepatcher
+Name: AppStorePatcher
+Homepage: http://hitoriblog.com/?p=2018
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.hitoriblog.evernotepatcher
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.appstorepatcher_0.1-1_iphoneos-arm.deb
+Size: 15390
+MD5sum: 5e993e68502de065493ad86bb7d468d7
+Description: AppStorePatcher expands the way of the share app information.
+depiction: http://hitoriblog.com/depiction/AppStorePatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.atkpadpatcher
+Name: ATKPadPatcher
+Homepage: http://hitoriblog.com/?p=1629
+Version: 0.4-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, actionmenu, com.zimm.libdisplaystack
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.atkpadpatcher_0.4-1_darwin-arm.deb
+Size: 11234
+MD5sum: f783f2b2d49dded56db065070837757d
+Description: ATKPadPatcher modifies ATOK Pad to be universal and simplify procedure of app relation.
+ ActionMenu plug-in bundled.
+depiction: http://hitoriblog.com/depiction/ATKPadPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.autolock4
+Name: AutoLock4 Toggle
+Homepage: http://hitoriblog.com/?p=239
+Version: 0.2-6
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.autolock4_0.2-6_darwin-arm.deb
+Size: 20210
+MD5sum: 131c2510cd29631818dd0796319f2ad3
+Description: AutoLock Toggle for iOS 4.0
+depiction: http://hitoriblog.com/depiction/AutoLock4.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.battlog
+Name: battlog(for3.0)
+Homepage: http://moyashi.air-nifty.com/
+Version: 0.1-1
+Section: System
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.battlog_0.1-1_darwin-arm.deb
+Size: 3508
+MD5sum: ac9a435a5c333e6d7db157949fced6ff
+Description: Remaining battery level logger daemon
+ Battog is a Remaining battery level logger daemon.
+ Logs are saved on /var/mobile/battery-log/.
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.bb2catkpatcher
+Name: BB2CATKPatcher
+Homepage: http://hitoriblog.com/?p=1557
+Version: 0.2-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.bb2catkpatcher_0.2-1_darwin-arm.deb
+Size: 4836
+MD5sum: 6c91ae7230b2d6fc01ed9500f17b9472
+Description: This patch add ATOK Pad relational function to the BB2C.
+ Push airplane button on the post view after installation.
+depiction: http://hitoriblog.com/depiction/BB2CATKPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.bb2cpatcher
+Name: BB2CPatcher
+Homepage: http://hitoriblog.com/?p=748
+Version: 0.4-2
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.bb2cpatcher_0.4-2_iphoneos-arm.deb
+Size: 3196
+MD5sum: d5f8d3895acc0f0bfa650d48316f49c6
+Description: BB2C patch for iPad
+depiction: http://hitoriblog.com/depiction/BB2CPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.bookmanpatcher
+Name: BookmanPatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.bookmanpatcher_0.1-1_iphoneos-arm.deb
+Size: 2594
+MD5sum: 8954abeb696283e2811c4dc8ab84788d
+Description: BookmanPatcher adds the ability to flip the page using a Bluetooth keyboard to the Bookman app.
+depiction: http://hitoriblog.com/depiction/BookmanPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.bookpluspatcher
+Name: BookPlusPatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.bookpluspatcher_0.1-1_iphoneos-arm.deb
+Size: 2560
+MD5sum: b77022e18d0536ba4e727e861b670ade
+Description: BookPlusPatcher adds the ability to flip the page using a Bluetooth keyboard to the BookPlus app.
+depiction: http://hitoriblog.com/depiction/BookPlusPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.boxcarpushfetcher
+Name: BoxcarPushFetcher
+Homepage: http://hitoriblog.com/?p=2457
+Version: 0.2-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.zimm.libdisplaystack
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.boxcarpushfetcher_0.2-1_darwin-arm.deb
+Size: 8540
+MD5sum: 7e611afee3c633021f1cef1d562a0f3f
+Description: Launch MobileMail.app or fetch mail immediately when shows up the Boxcar mail dialog and forward to the Mail.app directly.
+depiction: http://hitoriblog.com/depiction/BoxcarPushFetcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.bylinepatcher
+Name: BylinePatcher
+Homepage: http://hitoriblog.com/?p=17418
+Version: 0.2-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.bylinepatcher_0.2-1_iphoneos-arm.deb
+Size: 41360
+MD5sum: fdc533eaa296c8acd0ce160d48f2b88c
+Description: BylinePatcher adds various features to the Byline.
+depiction: http://hitoriblog.com/depiction/BylinePatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.comicglasspatcher
+Name: ComicGlassPatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.comicglasspatcher_0.1-1_iphoneos-arm.deb
+Size: 2522
+MD5sum: 17b423d306f6b5db4ef133922f354336
+Description: ComicGlassPatcher adds the ability to flip the page using a Bluetooth keyboard to the ComicGlass app.
+depiction: http://hitoriblog.com/depiction/ComicGlassPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.comicviewerpatcher
+Name: ComicViewerPatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.comicviewerpatcher_0.1-1_iphoneos-arm.deb
+Size: 2686
+MD5sum: 67ef134f8eac960d51b7426c70546477
+Description: ComicViewerPatcher adds the ability to flip the page using a Bluetooth keyboard to the ComicViewer app.
+depiction: http://hitoriblog.com/depiction/ComicViewerPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.defaultflashoff
+Name: DefaultFlashOff
+Homepage: http://hitoriblog.com/?p=1042
+Version: 0.5-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.defaultflashoff_0.5-1_darwin-arm.deb
+Size: 5040
+MD5sum: c15f7bd8a9e9782734303d546a0e7a24
+Description: DefaultFlashOff sets flash to off when launch default camera app and any other app which uses standard image picker and Snappy. Exclusively for iPhone4 and iOS4.2.1 or later.
+depiction: http://hitoriblog.com/depiction/DefaultFlashOff.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.dicselector
+Name: DicSelector
+Homepage: http://hitoriblog.com/?p=342
+Version: 0.2-4
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.dicselector_0.2-4_iphoneos-arm.deb
+Size: 10796
+MD5sum: 6ec7ce89ad20cda1056c5de3a2ee1008
+Description: Popup dictionary selector
+depiction: http://hitoriblog.com/depiction/DicSelector.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.donotautolock
+Name: DoNotAutoLock
+Homepage: http://hitoriblog.com/?p=27588
+Version: 0.0.2-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.donotautolock_0.0.2-1_iphoneos-arm.deb
+Size: 42558
+Installed-Size: 256
+MD5sum: e0fb4911d818ef86a502386bc5ab3ebf
+Description: DoNotAutoLock allows to set auto-lock settings (on/off) per app.
+depiction: http://hitoriblog.com/depiction/DoNotAutoLock.html
+author: moyashi
+
+Package: com.hitoriblog.donotautolock13
+Name: DoNotAutoLock13
+Homepage: http://hitoriblog.com/?p=60061
+Version: 0.0.5
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.donotautolock13_0.0.5_iphoneos-arm.deb
+Size: 36610
+Installed-Size: 488
+MD5sum: a12ddec47b44731ae8d902aa639c11b1
+Description: DoNotAutoLock13 allows to set auto-lock settings (on/off) per app.
+depiction: http://hitoriblog.com/depiction/DoNotAutoLock13.html
+author: moyashi
+
+Package: com.hitoriblog.donotautolock8
+Name: DoNotAutoLock8
+Homepage: http://hitoriblog.com/?p=30437
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.donotautolock8_0.0.1-1_iphoneos-arm.deb
+Size: 42404
+Installed-Size: 256
+MD5sum: c5bf809e2b493ce64b1af49efead0682
+Description: DoNotAutoLock8 allows to set auto-lock settings (on/off) per app.
+depiction: http://hitoriblog.com/depiction/DoNotAutoLock8.html
+author: moyashi
+
+Package: com.hitoriblog.donotautolock9
+Name: DoNotAutoLock9
+Homepage: http://hitoriblog.com/?p=30437
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.hitoriblog.donotautolock, com.hitoriblog.donotautolock8
+Replaces: com.hitoriblog.donotautolock, com.hitoriblog.donotautolock8
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.donotautolock9_0.0.1-1_iphoneos-arm.deb
+Size: 43052
+Installed-Size: 288
+MD5sum: 27353eea0b7898dd282405089e1314a5
+Description: DoNotAutoLock9 allows to set auto-lock settings (on/off) per app.
+depiction: http://hitoriblog.com/depiction/DoNotAutoLock9.html
+author: moyashi
+
+Package: com.hitoriblog.driftwriterpatcher
+Name: DriftWriterPatcher
+Homepage: http://hitoriblog.com/?p=11481
+Version: 0.3-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.driftwriterpatcher_0.3-1_iphoneos-arm.deb
+Size: 3086
+MD5sum: 6f8170347ecaa67f37e70feb3025bae1
+depiction: http://hitoriblog.com/depiction/DriftWriterPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.echofonpatcher
+Name: EchofonPatcher
+Homepage: http://hitoriblog.com/?p=1514
+Version: 0.2-2
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.echofonpatcher_0.2-2_darwin-arm.deb
+Size: 6198
+MD5sum: f66be6028c6946ec86bf2056200c6212
+Description: This patch add ATOK Pad relational function to the Echofon.
+ Push title view on the post view after installation.
+depiction: http://hitoriblog.com/depiction/EchofonPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.eisuukanaemulator
+Name: EisuuKanaEmulator
+Homepage: http://hitoriblog.com/?p=9069
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.eisuukanaemulator_0.1-1_iphoneos-arm.deb
+Size: 29260
+MD5sum: 5a3b9a4e4808938124d18e15ddad11a4
+Description: EisuuKanaEmulator modifies command key behavior to change input mode more quickly.
+depiction: http://hitoriblog.com/depiction/EisuuKanaEmulator.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.evernotepatcher
+Name: EvernotePatcher
+Homepage: http://hitoriblog.com/?p=1603
+Version: 0.4-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.evernotepatcher_0.4-1_darwin-arm.deb
+Size: 9406
+MD5sum: 361a0521be6634e6e6c1b0f3897259a7
+Description: This patch adds ATOK Pad relational function to the Evernote app.
+ Push title view on the Note Editor view after installation.
+ Custom URL scheme (new entry, url clip) added from v0.2.
+depiction: http://hitoriblog.com/depiction/EvernotePatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.facebookpatcher
+Name: FacebookPatcher
+Homepage: http://hitoriblog.com/?p=1594
+Version: 0.2-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.facebookpatcher_0.2-1_darwin-arm.deb
+Size: 11958
+MD5sum: ca01e54e1391573e53b04ff37868ff4a
+Description: This patch adds ATOK Pad relational function to the facebook app.
+ Push title view on the post view after installation.
+depiction: http://hitoriblog.com/depiction/FacebookPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.fastnotesj
+Name: FastNotesJ
+Homepage: http://hitoriblog.com/?p=98
+Version: 0.1-6
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.fastnotesj_0.1-6_darwin-arm.deb
+Size: 22156
+MD5sum: d188020ebbd3685e940a0e394d4aa256
+Description: Memo widget.
+depiction: http://hitoriblog.com/depiction/FastNotesJ.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.frashtoggle
+Name: Frash Toggle
+Homepage: http://hitoriblog.com/?p=139
+Version: 0.1-5
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.frashtoggle_0.1-5_iphoneos-arm.deb
+Size: 10318
+MD5sum: f092e030fd3fe71b867a029e23d579b8
+Description: Frash toggle for SBSettings.
+depiction: http://hitoriblog.com/depiction/FrashToggle.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.glassdolphinpatcher
+Name: GlassDolphinPatcher
+Homepage: http://hitoriblog.com/?p=1611
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.glassdolphinpatcher_0.1-1_darwin-arm.deb
+Size: 1934
+MD5sum: b03af73e29ef6bacfebe67aaf535e043
+Description: GlassDolphinPatcher boot GlassDolphin in iPhone mode forcibly.
+depiction: http://hitoriblog.com/depiction/GlassDolphinPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.gmailpushfetcher
+Name: GmailPushFetcher
+Homepage: http://hitoriblog.com/?p=3398
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.zimm.libdisplaystack
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.gmailpushfetcher_0.1-1_darwin-arm.deb
+Size: 8666
+MD5sum: 1c826eda6fe3ac4d85b8b685c28c05fa
+Description: Launch MobileMail.app or fetch mail immediately when shows up the <a href="http://click.linksynergy.com/fs-bin/click?id=6Qi3kulqZ6c&subid=0&offerid=94348.1&type=10&tmpid=3910&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Fpush-for-gmail%2Fid343029704%3Fmt%3D8%2526uo%3D4" target="_blank">Push for Gmail</a> mail dialog and forward to the Mail.app directly.
+depiction: http://hitoriblog.com/depiction/GmailPushFetcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.goodreaderipadpatcher
+Name: GoodReaderIPadPatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.goodreaderipadpatcher_0.1-1_iphoneos-arm.deb
+Size: 2484
+MD5sum: bd0deaf57b91e766cb5223661e10497f
+Description: GoodReaderIPadPatcher adds the ability to flip the page using a Bluetooth keyboard to the GoodReaderIPad app.
+depiction: http://hitoriblog.com/depiction/GoodReaderIPadPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.hankakutoggle
+Name: Hankaku Toggle
+Homepage: http://hitoriblog.com/
+Version: 0.1-2
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.hankakutoggle_0.1-2_darwin-arm.deb
+Size: 13158
+MD5sum: e9d28cf6f59b658174e34d08f8716640
+Description: Hankaku Toggle for SBSettings that converts text on the clipboard into hankaku.
+depiction: http://hitoriblog.com/depiction/HankakuToggle.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.hidecallername
+Name: HideCallerName
+Homepage: http://hitoriblog.com/?p=1222
+Version: 0.1-2
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.hidecallername_0.1-2_darwin-arm.deb
+Size: 10442
+MD5sum: 678074e6eb20be5d8fc484a19f5f5467
+Description: Hide a caller name on the call alert display.
+depiction: http://hitoriblog.com/depiction/HideCallerName.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.ibunkohdpatcher
+Name: iBunkoHDPatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.ibunkohdpatcher_0.1-1_iphoneos-arm.deb
+Size: 2512
+MD5sum: c0baf2952af1424e9bd2cd9a429f2ab0
+Description: iBunkoHDPatcher adds the ability to flip the page using a Bluetooth keyboard to the iBunkoHD app.
+depiction: http://hitoriblog.com/depiction/iBunkoHDPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.iremoteshutter
+Name: iRemoteShutter
+Homepage: http://hitoriblog.com/?p=1747
+Version: 0.3-2
+Section: Activator Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, libactivator
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.iremoteshutter_0.3-2_darwin-arm.deb
+Size: 17100
+MD5sum: ec1ad7e46cf83fe026727511f1ddc113
+Description: Shutter release action for Activator.
+ You are recommend to assign this to the handset button.
+depiction: http://hitoriblog.com/depiction/iRemoteShutter.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.isshpatcher
+Name: iSSHPatcher
+Homepage: http://hitoriblog.com/?p=1798
+Version: 0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.isshpatcher_0.1-1_darwin-arm.deb
+Size: 5040
+MD5sum: ab5b8170fe216772160145ff931ef6d5
+Description: This patch adds more bluetooth keyboard support to the iSSH.
+depiction: http://hitoriblog.com/depiction/iSSHPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.killbg
+Name: KillBG
+Homepage: http://hitoriblog.com/?p=898
+Version: 0.3-4
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: coreutils-bin, sbsettings, mobilesubstrate, adv-cmds, gawk, com.zimm.libdisplaystack
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.killbg_0.3-4_darwin-arm.deb
+Size: 18890
+MD5sum: 24d2a2a2ef551ebf1141dff7f84aa352
+Description: Kill all background processes for SBSettings
+depiction: http://hitoriblog.com/depiction/KillBG.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.kindlepatcher
+Name: KindlePatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.kindlepatcher_0.1-1_iphoneos-arm.deb
+Size: 2844
+MD5sum: ebdddaa218c5c380284d0a854340ee9e
+Description: KindlePatcher adds the ability to flip the page using a Bluetooth keyboard to the Kindle app.
+depiction: http://hitoriblog.com/depiction/KindlePatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.kinoppypatcher
+Name: KinoppyPatcher
+Homepage: http://hitoriblog.com/?p=14454
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.kinoppypatcher_0.1-1_iphoneos-arm.deb
+Size: 2666
+MD5sum: 30c9504fcaa7daa1d828113436fb1c4c
+Description: KinoppyPatcher adds the ability to flip the page using a Bluetooth keyboard to the Kinoppy app.
+depiction: http://hitoriblog.com/depiction/KinoppyPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.mailpatcher6
+Name: MailPatcher6
+Homepage: http://hitoriblog.com/?p=15265
+Version: 0.8-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mailpatcher6_0.8-1_iphoneos-arm.deb
+Size: 38648
+MD5sum: ae797c22d3b5385bea31e520b0a616f8
+Description: MailPatcher6 adds various features to the MobileMail.
+depiction: http://hitoriblog.com/depiction/MailPatcher6.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.mailpatcher7
+Name: MailPatcher7
+Homepage: http://hitoriblog.com/?p=26270
+Version: 0.0.4-2
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mailpatcher7_0.0.4-2_iphoneos-arm.deb
+Size: 63798
+Installed-Size: 288
+MD5sum: d317e654b69a862f6324d742a5d72e4b
+Description: MailPatcher7 adds various features to the MobileMail on the iOS 7. Described in the Web site for more information.
+depiction: http://hitoriblog.com/depiction/MailPatcher7.html
+author: moyashi
+
+Package: com.hitoriblog.mailpatcher8
+Name: MailPatcher8
+Homepage: http://hitoriblog.com/?p=30486
+Version: 0.0.2-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mailpatcher8_0.0.2-1_iphoneos-arm.deb
+Size: 63136
+Installed-Size: 304
+MD5sum: ab47a30b5cafa5992272a810e486ee7e
+Description: MailPatcher8 adds various features to the iOS 8 MobileMail . Described in the Web site for more information.
+depiction: http://hitoriblog.com/depiction/MailPatcher8.html
+author: moyashi
+
+Package: com.hitoriblog.mailquotepatcher4
+Name: MailQuotePatcher4
+Homepage: http://hitoriblog.com/?p=423
+Version: 0.4-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hitoriblog.mobilemailquotepatcher
+Replaces: com.hitoriblog.mobilemailquotepatcher
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mailquotepatcher4_0.4-1_darwin-arm.deb
+Size: 13090
+MD5sum: b1cb34d058c233da081fdbd967ad06d5
+Description: This runtime patch add a quote delete feature to the MobileMail.app.
+ Exclusively for iOS 4.x.x.
+depiction: http://hitoriblog.com/depiction/MailQuotePatcher4.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.memopripatcher
+Name: MemopriPatcher
+Homepage: http://hitoriblog.com/?p=15819
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, libfinder
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.memopripatcher_0.1-1_iphoneos-arm.deb
+Size: 36578
+MD5sum: 3ba74266d33f8bf3a1074fec9f491173
+Description: Various enhancements for CASIO memo printer app MEP-IP10
+depiction: http://hitoriblog.com/depiction/MemopriPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.metawatchnotifier
+Name: MetaWatchNotifier
+Homepage: http://hitoriblog.com/?p=15779
+Version: 0.1-1
+Section: Tweak
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.metawatchnotifier_0.1-1_iphoneos-arm.deb
+Size: 338410
+MD5sum: 099eb58b3541b2da14093d3b3d17f886
+Description: A hack that forwards every notifications from your iOS device to the MetaWatch.
+depiction: http://hitoriblog.com/depiction/MetaWatchNotifier.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.mmsreq
+Name: MMSReq
+Homepage: http://hitoriblog.com/?p=603
+Version: 0.31-3
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mmsreq_0.31-3_darwin-arm.deb
+Size: 41008
+MD5sum: a407826550bec1447c253268a90b481e
+Description: SBSettings Toggle. MMS retransmissioner.
+ softbank.ne.jp MMS retransmissioner.
+ Alternate software of Shinchaku MMS.
+depiction: http://hitoriblog.com/depiction/MMSReq.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.mobilemailquotepatcher
+Name: MobileMailQuotePatcher
+Homepage: http://hitoriblog.com/?p=470
+Version: 0.5-2
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Pre-Depends: firmware (= 3.1.2) | firmware (= 3.1.3) | firmware (= 3.2) | firmware (= 3.2.1)
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mobilemailquotepatcher_0.5-2_darwin-arm.deb
+Size: 11112
+MD5sum: 721a537c5de79f3215f68165005bddcb
+Description: This runtime patch add a quote delete feature to the MobileMail.app.
+depiction: http://hitoriblog.com/depiction/MobileMailQuotePatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.monkeytypingcanceller
+Name: MonkeyTypingCanceller
+Homepage: http://hitoriblog.com/?p=2386
+Version: 0.3-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.monkeytypingcanceller_0.3-1_iphoneos-arm.deb
+Size: 2450
+MD5sum: 2e8d15e6ecf65b7f8b77694f9dd56f27
+Description: MonkeyTypingCanceller shortens the time that elapses before a key confirm when you tap 10 key keyboard down.
+depiction: http://hitoriblog.com/depiction/MonkeyTypingCanceller.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.mountvlm
+Name: MountVLM
+Homepage: http://hitoriblog.com/?p=467
+Version: 0.1-4
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, coreutils, diskdev-cmds
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mountvlm_0.1-4_darwin-arm.deb
+Size: 13040
+MD5sum: 0a1f57a46409fa61db8495cdb83a0214
+Description: Add-on for SBSettings. 
+ MountVLM mount a volume on SD Card or and so on. 
+ Use with iPad Camera Connection Kit.
+depiction: http://hitoriblog.com/depiction/MountVLM.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.mrreaderpatcher
+Name: MrReaderPatcher
+Homepage: http://hitoriblog.com/
+Version: 0.3-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.mrreaderpatcher_0.3-1_iphoneos-arm.deb
+Size: 4566
+MD5sum: 563b6a3c62ed71e1197eb3818b4cd52c
+Description: MrReaderPatcher enables to operate Mr.Reader by hardware keyboard.
+depiction: http://hitoriblog.com/depiction/MrReaderPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.musiccommentator
+Name: MusicCommentator
+Homepage: http://hitoriblog.com/?p=198
+Version: 0.2-7
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.phoenix.pandoracontrols
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.musiccommentator_0.2-7_darwin-arm.deb
+Size: 13154
+MD5sum: a1f67dc75464a0b478391d5f0d0ccf54
+Description: Your own DJ on your iDevices.
+ Works on the iPhone4, iPhone 3GS, iPad, iPod touch 3G.
+depiction: http://hitoriblog.com/depiction/MusicCommentator.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.ncclearandhide
+Name: NCClearAndHide
+Homepage: http://hitoriblog.com/?p=4374
+Version: 0.1-1
+Section: Addons (NotificationCenter)
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.ncclearandhide_0.1-1_iphoneos-arm.deb
+Size: 4676
+MD5sum: 930944ba46b38f1611da15cd146da29f
+Description: This NotificationCenter widget clears all notifications and hide notification window at a same time.
+depiction: http://hitoriblog.com/depiction/NCClearAndHide.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.ncclearandhide6
+Name: NCClearAndHide6
+Homepage: http://hitoriblog.com/?p=15384
+Version: 0.3-1
+Section: Addons (NotificationCenter)
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.ncclearandhide6_0.3-1_iphoneos-arm.deb
+Size: 34414
+MD5sum: b95409696b3cce4fea5b7e1eaa1ebf4f
+Description: NCClearAndHide6 is a Notification Center Widget. NCClearAndHide6 clears all notifications on the Notification Center except for the apps that specified on the "Preferences -> NCClearAndHide6 -> Exclude Apps".
+depiction: http://hitoriblog.com/depiction/NCClearAndHide6.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.ncrainradar7
+Name: NCRainRadar7
+Homepage: http://hitoriblog.com/?p=27049
+Version: 0.0.4-1
+Section: Addons (NotificationCenter)
+Maintainer: moyashi
+Depends: firmware (>= 7.0), com.saurik.substrate.safemode, preferenceloader, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.ncrainradar7_0.0.4-1_iphoneos-arm.deb
+Size: 74032
+Installed-Size: 300
+MD5sum: 49a707a9f41530c78e4ee012bda1a8de
+Description: NCRainRadar7 is a notification center widget for iOS 7. It displays Yahoo! JAPAN Rain Radar.
+depiction: http://hitoriblog.com/depiction/NCRainRadar7.html
+author: moyashi
+
+Package: com.hitoriblog.ncrainradar8
+Name: NCRainRadar8
+Homepage: http://hitoriblog.com/?p=30439
+Version: 0.0.1-1
+Section: Addons (NotificationCenter)
+Maintainer: moyashi
+Depends: firmware (>= 8.0), com.saurik.substrate.safemode, preferenceloader, mobilesubstrate, com.chpwn.weeloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.ncrainradar8_0.0.1-1_iphoneos-arm.deb
+Size: 74222
+Installed-Size: 296
+MD5sum: bea06f7d16427c6f19187019c7712db1
+Description: NCRainRadar8 is a notification center widget for iOS 8. It displays Yahoo! JAPAN Rain Radar.
+depiction: http://hitoriblog.com/depiction/NCRainRadar8.html
+author: moyashi
+
+Package: com.hitoriblog.netbotpatcher
+Name: NetbotPatcher
+Homepage: http://hitoriblog.com/?p=15480
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.netbotpatcher_0.1-1_iphoneos-arm.deb
+Size: 3196
+MD5sum: 57a02523b5bdc9d2211cc1890993b3e8
+Description: NetbotPatcher changes navigation bar color in order to determine the Netbot and Tweetbot.
+depiction: http://hitoriblog.com/depiction/NetbotPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.nkf
+Name: nkf
+Homepage: http://sourceforge.jp/projects/nkf/
+Version: 2.0.9-2
+Section: Utilities
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.nkf_2.0.9-2_darwin-arm.deb
+Size: 106262
+MD5sum: 663f30c603e51340ab39572171c936c7
+Description: Network Kanji Filter
+author: The nkf Project <dummy@gmail.com>
+
+Package: com.hitoriblog.notificationonetouchclearbutton
+Name: NotificationOneTouchClearButton
+Homepage: http://hitoriblog.com/?p=4369
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.notificationonetouchclearbutton_0.1-1_iphoneos-arm.deb
+Size: 2314
+MD5sum: b006d39ebb0e2aa71c79a3625888b313
+Description: NotificationOneTouchClearButton for iOS 5
+depiction: http://hitoriblog.com/depiction/NotificationOneTouchClearButton.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.onchargelauncher
+Name: OnChargeLauncher
+Homepage: http://hitoriblog.com/?p=1287
+Version: 0.1-2
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, com.zimm.libdisplaystack, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.onchargelauncher_0.1-2_darwin-arm.deb
+Size: 10092
+MD5sum: 4c7f486412e83a4d073b0576e7e57da5
+Description: Launch specidied application when connect to a power source.
+depiction: http://hitoriblog.com/depiction/OnChargeLauncher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.pasteboardkey
+Name: PasteboardKey
+Homepage: http://hitoriblog.com/?p=15567
+Version: 0.7-4
+Section: Keyboards
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, co.cocoanuts.cnkeyboardui, co.cocoanuts.keylord, libactivator
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.pasteboardkey_0.7-4_iphoneos-arm.deb
+Size: 95020
+MD5sum: 87650dfd205459cebc172e16a2581087
+Description: PasteboardKey is a one of the keyboard bundle of the CocoaNuts Keylord. PasteboardKey handles pasteboard history.
+depiction: http://hitoriblog.com/depiction/PasteboardKey.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.pasteboardstacker
+Name: PasteboardStacker
+Homepage: http://hitoriblog.com/
+Version: 0.24-4
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, sbsettings
+Conflicts: com.spiritoflogic.photoalbumsplus
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.pasteboardstacker_0.24-4_darwin-arm.deb
+Size: 156148
+MD5sum: 9fec814ea8ae980d316fed51d1c7c5f4
+Description: Pasteboard history stacker for SBS.
+ Pasteboard history stacker for SBSettings.
+ 0.1-1 was conflict with some apps (ex Tags).
+ 0.1-2 may be solve that problem.
+ 0.2-1 Swipe to delete feature added and new clear button for delete whole history.
+ It became possible to set the number of history on the Preferences.
+ New /usr/bin/pb2stdio command bundled. 
+ 0.21-1 Clear button will perform delation via UIActionSheet.
+ 0.22-1 Added a preference item.
+ 0.23-1 Minor bug fix.
+ 0.24-1 Bug fix and iOS 4.0 support
+ 0.24-2 iPhone OS 3.2.1 support
+depiction: http://hitoriblog.com/depiction/PasteboardStacker.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.reeder2patcher
+Name: Reeder2Patcher
+Homepage: http://hitoriblog.com/?p=19162
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.reeder2patcher_0.1-1_iphoneos-arm.deb
+Size: 39054
+MD5sum: 566ec552263f9e6aeebcceb3553fa921
+Description: Reeder2Patcher modifies tweet format of the Reeder 2.
+depiction: http://hitoriblog.com/depiction/Reeder2Patcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.reeder3patcher
+Name: Reeder3Patcher
+Homepage: http://hitoriblog.com/?p=8572
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.reeder3patcher_0.1-1_iphoneos-arm.deb
+Size: 140904
+MD5sum: 194fc3e546e9f0755f9c9795865fbbf9
+Description: Reeder3Patcher enables to customize Twitter post format of Reeder3.0.x.
+depiction: http://hitoriblog.com/depiction/Reeder3Patcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.reederpatcher
+Name: ReederPatcher
+Homepage: http://hitoriblog.com/?p=990
+Version: 0.3-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.reederpatcher_0.3-1_darwin-arm.deb
+Size: 11248
+MD5sum: c936870123acba715d2a8ea5a07d900f
+Description: ReederPatcher modifies button effect on Twitter view for more speedy posting and adds some additional prefs on the Preferences.
+ See Preferences > ReederPatcher.
+depiction: http://hitoriblog.com/depiction/ReederPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.ruby-serialport
+Name: Ruby/SerialPort
+Homepage: http://ruby-serialport.rubyforge.org/
+Version: 0.6-2
+Section: Scripting
+Maintainer: moyashi <hitoriblog-NO-NO-SPAM@gmail.com>
+Depends: ruby1.8.6
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.ruby-serialport_0.6-2_darwin-arm.deb
+Size: 6608
+MD5sum: bf7b5c187398a62363afe38bbce9351c
+Description: Ruby/SerialPort is a Ruby's library that allow you to communicate via the RS232 port
+ It support POSIX (Linux, *BSD, Solaris, AIX), Cygwin and native Windows.
+author: Guillaume Pierronnet <dummy@mail.address>
+
+Package: com.hitoriblog.safarisharepatcher
+Name: SafariSharePatcher
+Homepage: http://hitoriblog.com/?p=17852
+Version: 0.3-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.safarisharepatcher_0.3-1_iphoneos-arm.deb
+Size: 58394
+MD5sum: afed2798e41c08a1fa935605bab27f81
+Description: SafariSharePatcher tweaks share text.
+depiction: http://hitoriblog.com/depiction/SafariSharePatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.sbankgrip
+Name: SBankGriP
+Homepage: http://hitoriblog.com/?p=487
+Version: 0.4-3
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, hk.kennytm.grip
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.sbankgrip_0.4-3_darwin-arm.deb
+Size: 8218
+MD5sum: 2e41ef2343b85839e00f6550bba1df24
+Description: This runtime patch forward i.softbank.jp dialog to the GriP.
+depiction: http://hitoriblog.com/depiction/SBankGriP.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.sbankpushfetcher
+Name: SBankPushFetcher
+Homepage: http://hitoriblog.com/?p=489
+Version: 0.2-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.zimm.libdisplaystack
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.sbankpushfetcher_0.2-1_darwin-arm.deb
+Size: 8192
+MD5sum: 303116bed492cbf0e9aa3d2e576712b6
+Description: Launch MobileMail.app or fetch mail immediately when shows up the i.softbank.jp dialog.
+depiction: http://hitoriblog.com/depiction/SBankPushFetcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.sbcc4script
+Name: SBCC4Script
+Homepage: http://hitoriblog.com/?p=2265
+Version: 0.2-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: ruby1.8.6
+Conflicts: ruby, com.hitoriblog.sbccscript
+Replaces: ruby
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.sbcc4script_0.2-1_iphone-arm.deb
+Size: 4360
+MD5sum: 77a06a26dc251b1ca632218302a12f4b
+Description: Additional script for StatusBarCustomClock4
+depiction: http://hitoriblog.com/depiction/SBCC4Script.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.sbccscript
+Name: SBCCScript
+Homepage: http://hitoriblog.com/?p=744
+Version: 0.1-3
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: com.hitoriblog.statusbarcustomclock, ruby1.8.6
+Conflicts: ruby
+Replaces: ruby
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.sbccscript_0.1-3_iphone-arm.deb
+Size: 3906
+MD5sum: 76b908f2a01401509e3db8372d1cf54f
+Description: Additional script for StatusBarCustomClock
+depiction: http://hitoriblog.com/depiction/SBCCScript.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.scripty
+Name: SBSettings Scripty
+Homepage: http://hitoriblog.com/?p=2620
+Version: 0.1-1
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate, com.hitoriblog.scriptyd
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.scripty_0.1-1_iphoneos-arm.deb
+Size: 5736
+MD5sum: 52a4049dae5c17a4c6b5c53251ac360d
+Description: Script based SBSettings toggle engine.
+ If you use this, You don't need to compile anymore to make your own SBSettings toggle which launch shell script.
+depiction: http://hitoriblog.com/depiction/Scripty.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.scriptyd
+Name: scriptyd
+Homepage: http://hitoriblog.com/?p=2620
+Version: 0.1-1
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.scriptyd_0.1-1_iphoneos-arm.deb
+Size: 3424
+MD5sum: 90a5d32f987fe332e27a37835309d7a0
+Description: Scripty helper daemon. It is necessary for Scripty to works correctly.
+depiction: http://hitoriblog.com/depiction/scriptyd.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.sharepatcher
+Name: SharePatcher
+Homepage: http://hitoriblog.com/?p=30562
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.sharepatcher_0.0.1-3_iphoneos-arm.deb
+Size: 45138
+Installed-Size: 260
+MD5sum: e24ce9161698ebfc460cd4c90b1893c0
+Description: SharePatcher adds JavaScript text processing feature on the Twitter / Facebook post view.
+depiction: http://hitoriblog.com/depiction/SharePatcher.html
+author: moyashi
+
+Package: com.hitoriblog.silentpatcher61
+Name: SilentPatcher61
+Homepage: http://hitoriblog.com/?p=571
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Conflicts: com.hitoriblog.silentpatchert, com.hitoriblog.silentpatcheri
+Replaces: com.hitoriblog.silentpatchert, com.hitoriblog.silentpatcheri
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.silentpatcher61_0.1-1_darwin-arm.deb
+Size: 3564
+MD5sum: 775d6b755c2448309a256a5306ab5780
+Description: Shutter sound and rec sound silencer
+depiction: http://hitoriblog.com/depiction/SilentPatcher61.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.silentpatcher7
+Name: SilentPatcher7
+Homepage: http://hitoriblog.com/?p=21379
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Conflicts: com.hitoriblog.silentpatchert, com.hitoriblog.silentpatcheri, com.hitoriblog.silentpatcher61
+Replaces: com.hitoriblog.silentpatchert, com.hitoriblog.silentpatcheri, com.hitoriblog.silentpatcher61
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.silentpatcher7_0.1-1_darwin-arm.deb
+Size: 3528
+MD5sum: d851e7a89bb0e936eb5bcc2487c712ae
+Description: Shutter sound and rec sound silencer
+depiction: http://hitoriblog.com/depiction/SilentPatcher7.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.silentpatcher84
+Name: SilentPatcher84
+Homepage: http://hitoriblog.com/?p=30749
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Conflicts: com.hitoriblog.silentpatchert, com.hitoriblog.silentpatcheri, com.hitoriblog.silentpatcher61, com.hitoriblog.silentpatcher7
+Replaces: com.hitoriblog.silentpatchert, com.hitoriblog.silentpatcheri, com.hitoriblog.silentpatcher61, com.hitoriblog.silentpatcher7
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.silentpatcher84_0.0.1-1_iphoneos-arm.deb
+Size: 10646
+Installed-Size: 196
+MD5sum: 27df04da50ef4810196bb7a19612b28c
+Description: Shutter sound and rec sound silencer
+tag: role::hacker
+depiction: http://hitoriblog.com/depiction/SilentPatcher84.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.silentpatcheri
+Name: SilentPatcher (International)
+Homepage: http://hitoriblog.com/?p=571
+Version: 0.3-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Conflicts: com.hitoriblog.silentpatchert
+Replaces: com.hitoriblog.silentpatchert
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.silentpatcheri_0.3-1_darwin-arm.deb
+Size: 4846
+MD5sum: 4c69d44fce015a9d19712425c6244ea4
+Description: Shutter sound and rec sound silencer.
+depiction: http://hitoriblog.com/depiction/SilentPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.silentpatchert
+Name: SilentPatcher (TrueSilent)
+Homepage: http://hitoriblog.com/?p=571
+Version: 0.2-3
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Conflicts: com.hitoriblog.silentpatcheri
+Replaces: com.hitoriblog.silentpatcheri
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.silentpatchert_0.2-3_darwin-arm.deb
+Size: 4492
+MD5sum: d103568cfd86ddb4d318259cbf86ba98
+Description: Shutter sound and rec sound silencer.
+depiction: http://hitoriblog.com/depiction/SilentPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.solidstateunlock
+Name: SolidStateUnlock
+Homepage: http://hitoriblog.com/?p=1021
+Version: 0.2-2
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.solidstateunlock_0.2-2_darwin-arm.deb
+Size: 9008
+MD5sum: 751b9ee192ecaaf45550ac1557ee5e22
+Description: Banish the lock screen
+depiction: http://hitoriblog.com/depiction/SolidStateUnlock.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.solidswitcher
+Name: SolidSwitcher
+Homepage: http://hitoriblog.com/?p=15363
+Version: 0.2-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.solidswitcher_0.2-1_iphoneos-arm.deb
+Size: 38354
+MD5sum: 3c800c5c94210c2a3535a896e9002a17
+Description: SolidSwitcher removes switcher animation.
+depiction: http://hitoriblog.com/depiction/SolidSwitcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.speakingpushnotification
+Name: SpeakingPushNotification
+Homepage: http://hitoriblog.com/?p=27474
+Version: 0.0.6-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.speakingpushnotification_0.0.6-1_iphoneos-arm.deb
+Size: 57302
+Installed-Size: 296
+MD5sum: 17b0de69b7b5b8bede516fef321d154f
+Description: Speaking Push Notification
+depiction: http://hitoriblog.com/depiction/SpeakingPushNotification.html
+author: moyashi
+
+Package: com.hitoriblog.spotlightexpander
+Name: SpotlightExpander
+Homepage: http://hitoriblog.com/?p=2292
+Version: 0.1-2
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.spotlightexpander_0.1-2_darwin-arm.deb
+Size: 12554
+MD5sum: 93cd33dc0fa59166e79409ea06aa96c9
+Description: Adds various web search items to the Spotlight.
+ Use with Activator and LastApp for quick launch and quick return.
+depiction: http://hitoriblog.com/depiction/SpotlightExpander.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.statusbarcustomclock
+Name: StatusBarCustomClock
+Homepage: http://hitoriblog.com/?p=725
+Version: 0.5-2
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hitoriblog.statusbarcustomclock4
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.statusbarcustomclock_0.5-2_darwin-arm.deb
+Size: 25738
+MD5sum: 1f4e098a98430f80ee4691323a07c48a
+Description: Customizable statusbar clock.
+ Customizable statusbar clock.
+depiction: http://hitoriblog.com/depiction/StatusBarCustomClock.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.statusbarcustomclock4
+Name: StatusBarCustomClock4
+Homepage: http://hitoriblog.com/?p=123
+Version: 0.4-1
+Section: Tweak
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hitoriblog.statusbarcustomclock
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.statusbarcustomclock4_0.4-1_darwin-arm.deb
+Size: 22714
+MD5sum: 8b734dffedcb6a2e4d1566f64cef92e6
+Description: Customizable Status bar clock
+depiction: http://hitoriblog.com/depiction/StatusBarCustomClock4.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.swipetomovecursor
+Name: SwipeToMoveCursor
+Homepage: http://hitoriblog.com/?p=2327
+Version: 0.5-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.swipetomovecursor_0.5-1_iphoneos-arm.deb
+Size: 10464
+MD5sum: fa9b506c68dd981e8a79a38d8be5db3b
+Description: SwipeToMoveCursor adds a various ways to move cursor.
+depiction: http://hitoriblog.com/depiction/SwipeToMoveCursor.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.switchernotifier
+Name: SwitcherNotifier
+Homepage: http://hitoriblog.com/?p=2301
+Version: 0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.switchernotifier_0.1-1_darwin-arm.deb
+Size: 4942
+MD5sum: be3e57f259678b7a05cd5a65afb22067
+Description: AppSwitcherBar is so laggy from iOS4.1. SwitcherNotifier adds sound or vibration when AppSwitcherBar will be activated.
+depiction: http://hitoriblog.com/depiction/SwitcherNotifier.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.timeserverclient
+Name: TimeServerClient
+Homepage: http://hitoriblog.com/?p=492
+Version: 0.2-3
+Section: System
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.timeserverclient_0.2-3_darwin-arm.deb
+Size: 133158
+MD5sum: 085337e56e59f427b171500ba6117b70
+Description: set the date and time via NTP
+ When installed this package, ntpdate is invoked periodically by launchd.
+ Run ntpdate every 60 minutes by default.
+ Please look "Settings > TimeServerClient".
+depiction: http://hitoriblog.com/depiction/TimeServerClient.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.tweetatokpatcher
+Name: TweetATOKPatcher
+Homepage: http://hitoriblog.com/?p=1999
+Version: 0.1-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.tweetatokpatcher_0.1-1_darwin-arm.deb
+Size: 2496
+MD5sum: 8ce8047a500f5ef3d9e0d9ab8c72905f
+Description: blue theme -> white theme
+depiction: http://hitoriblog.com/depiction/TweetATOKPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.tweetbotpatcher
+Name: TweetbotPatcher
+Homepage: http://hitoriblog.com/?p=8703
+Version: 1.7-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.tweetbotpatcher_1.7-1_iphoneos-arm.deb
+Size: 44744
+MD5sum: d67658729b58c3b9b6844976eb058383
+Description: TweetbotPatcher adds various features to the Tweetbot.
+depiction: http://hitoriblog.com/depiction/TweetbotPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.tweetlistpatcher
+Name: TweetListPatcher
+Homepage: http://hitoriblog.com/
+Version: 0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.tweetlistpatcher_0.1-1_iphoneos-arm.deb
+Size: 2656
+MD5sum: a737f87116848e4df098a5151eadf200
+Description: This patch modifies behavior of "Retweet with Comment" of the TweetList.
+ Cursor becomes jump to the head of the line.
+depiction: http://hitoriblog.com/depiction/TweetListPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.tweetlogixpatcher
+Name: TweetlogixPatcher
+Homepage: http://hitoriblog.com/?p=15892
+Version: 0.2-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.tweetlogixpatcher_0.2-1_iphoneos-arm.deb
+Size: 75336
+Installed-Size: 324
+MD5sum: 8e6cbcd9823f0054e249c468772ba130
+Description: TweetlogixPatcher force enables user streaming over 3G/LTE.
+depiction: http://hitoriblog.com/depiction/TweetlogixPatcher.html
+author: moyashi
+
+Package: com.hitoriblog.twittelatorpatcher
+Name: TwittelatorPatcher
+Homepage: http://hitoriblog.com/?p=1544
+Version: 0.1-2
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.twittelatorpatcher_0.1-2_darwin-arm.deb
+Size: 7288
+MD5sum: 4d85dfdbb9db37d69b824001c422e5a9
+Description: This patch add ATOK Pad relational function to the Twittelator.
+ Push title view on the post view after installation.
+depiction: http://hitoriblog.com/depiction/TwittelatorPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.twitterappgraphpatcher
+Name: TwitterAppGraphPatcher
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.twitterappgraphpatcher_0.0.1-1_iphoneos-arm.deb
+Size: 3550
+Installed-Size: 88
+MD5sum: 0e3d95f0f03161f57f1c436ee96275b5
+Description: Kill App Info Aggregator of Twitter.app
+author: moyashi
+
+Package: com.hitoriblog.twitterforiphonepatcher
+Name: TwitterForIphonePatcher
+Homepage: http://hitoriblog.com/?p=224
+Version: 0.5-2
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.hitoriblog.tweetie2rtpatcher
+Replaces: com.hitoriblog.tweetie2rtpatcher
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.twitterforiphonepatcher_0.5-2_darwin-arm.deb
+Size: 16498
+MD5sum: 3211460aa8e412ac673246345ef6eacc
+Description: This patch makes change the quote format of the Twitter for iPhone into the Japanese RT format. 
+ Some additional "useless" functions availabled from Ver.0.3.
+ Push Geotag button on the compose view.
+ Add ATOK Pad relational function from Ver.0.4.
+depiction: http://hitoriblog.com/depiction/TwitterForIphonePatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.twitterpatcher
+Name: TwitterPatcher
+Homepage: http://hitoriblog.com/?p=2271
+Version: 0.2-1
+Priority: optional
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, com.hitoriblog.evernotepatcher
+Conflicts: com.hitoriblog.tweetie2rtpatcher, com.hitoriblog.twitterforiphonepatcher
+Replaces: com.hitoriblog.tweetie2rtpatcher, com.hitoriblog.twitterforiphonepatcher
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.twitterpatcher_0.2-1_darwin-arm.deb
+Size: 19068
+MD5sum: 47127bfb2a85f582bab384d2f52e2301
+Description: Makes some modification in the Twitter for iPhone.
+ *Changes the quote format (Japanese Style)
+ *Restores the manual url shortener (Push Geotag button on the compose view)
+ *Adds the Jump to Head of Line function on the compose view
+ *Adds the ATOK Pad relational function
+ *Adds the "Send to Evernote" feature
+ *Always expand the cells of saved searches.
+depiction: http://hitoriblog.com/depiction/TwitterPatcher.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.universalexpander
+Name: UniversalExpander
+Homepage: http://hitoriblog.com/?p=15534
+Version: 0.1-2
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.universalexpander_0.1-2_iphoneos-arm.deb
+Size: 169404
+MD5sum: 295116392c9f7f19fd3a15ba510eebef
+Description: UniversalExpander enables TextExpander features on the many UITextView. If you change the settings, please restart the application.
+depiction: http://hitoriblog.com/depiction/UniversalExpander.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.vibeditor
+Name: VibEditor
+Homepage: http://hitoriblog.com/?p=557
+Version: 0.2-5
+Section: Utilities
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.vibeditor_0.2-5_darwin-arm.deb
+Size: 20994
+MD5sum: 6c6a467cbbb0f18565dcd6beb4f5ff06
+Description: Vibration pattern editor.
+ Vibration pattern editor.
+depiction: http://hitoriblog.com/depiction/VibEditor.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.wallpaperautochanger
+Name: WallpaperAutoChanger
+Homepage: http://hitoriblog.com/?p=190
+Version: 0.7-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.wallpaperautochanger_0.7-1_iphoneos-arm.deb
+Size: 17154
+MD5sum: 5acab5e6335646ef71755f50ceefe6f6
+Description: Wallpaper auto changer
+depiction: http://hitoriblog.com/depiction/WallpaperAutoChanger.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.webviewexmenu
+Name: WebViewExMenu
+Homepage: http://hitoriblog.com/?p=3664
+Version: 0.4-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.webviewexmenu_0.4-1_iphoneos-arm.deb
+Size: 35722
+MD5sum: 73ed76edcabe711d25ec154b61428bd8
+Description: WebViewExMenu adds extra menu on the all of WebView through triple tap.
+depiction: http://hitoriblog.com/depiction/WebViewExMenu.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.webviewzoomforceenabler
+Name: WebViewZoomForceEnabler
+Homepage: http://hitoriblog.com/?p=27758
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: moyashi
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.webviewzoomforceenabler_0.0.1-1_iphoneos-arm.deb
+Size: 39610
+Installed-Size: 260
+MD5sum: c06688e54b1c633f86ed48f08ddc3f46
+Description: WebViewZoomForceEnabler allows to "pinch" to zoom anywhere without regard to viewport property of the web page.
+depiction: http://hitoriblog.com/depiction/WebViewZoomForceEnabler.html
+author: moyashi
+
+Package: com.hitoriblog.wordrgstr
+Name: WordRgstr
+Homepage: http://hitoriblog.com/?p=613
+Version: 0.2-2
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Pre-Depends: firmware (= 3.0) | firmware (= 3.0.1) | firmware (= 3.1) | firmware (= 3.1.2) | firmware (= 3.1.3)
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.wordrgstr_0.2-2_darwin-arm.deb
+Size: 25838
+MD5sum: 266f0cf08ae163120528f4310da2f8ed
+Description: Add-on for SBSettings. Store word utility.
+ WordRgstr is a store word utility for Japanese IME.
+ WordRgstr can be used anywhere, even if on the Lock screen.
+depiction: http://hitoriblog.com/depiction/WordRgstr.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.yaautolock
+Name: YAAutoLock
+Homepage: http://hitoriblog.com/?p=450
+Version: 0.1-4
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Pre-Depends: firmware (= 3.1.2) | firmware (= 3.1.3) | firmware (= 3.2) | firmware (= 3.2.1)
+Depends: sbsettings, mobilesubstrate
+Conflicts: com.hitoriblog.autolock4
+Replaces: com.hitoriblog.autolock4
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.yaautolock_0.1-4_darwin-arm.deb
+Size: 21438
+MD5sum: 7566b10a6237e1173d6726bbe691e27c
+Description: Toggle for SBSettings. autolock toggle
+ YAAutoLock is a yet another autolock toggle with previous value resuming
+depiction: http://hitoriblog.com/depiction/YAAutoLock.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.yainsomnia
+Name: YAInsomnia
+Homepage: http://hitoriblog.com/?p=1351
+Version: 0.1-2
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.yainsomnia_0.1-2_darwin-arm.deb
+Size: 4296
+MD5sum: 671e8d538a589da5ea255255ad6b82ec
+Description: Yet Another Insomnia Toggle
+depiction: http://hitoriblog.com/depiction/YAInsomnia.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.yavibrate
+Name: YAVibrate
+Homepage: http://hitoriblog.com/?p=583
+Version: 0.1-3
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Conflicts: com.hitoriblog.vibrate4
+Replaces: com.hitoriblog.vibrate4
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.yavibrate_0.1-3_darwin-arm.deb
+Size: 34540
+MD5sum: c28331ee1f7f59e0815b469942d3d17e
+Description: Vibrate toggle for SBSettings.
+ Vibrate toggle for SBSettings.
+ This toggle toggles both Vibrate. (Normal and Silent)
+depiction: http://hitoriblog.com/depiction/YAVibrate.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: com.hitoriblog.yavpn
+Name: YAVPN Toggle
+Homepage: http://hitoriblog.com/?p=620
+Version: 0.1-3
+Section: SBSettings Addons
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: sbsettings, mobilesubstrate
+Conflicts: com.hitoriblog.vpntoggle
+Replaces: com.hitoriblog.vpntoggle
+Architecture: iphoneos-arm
+Filename: .//com.hitoriblog.yavpn_0.1-3_darwin-arm.deb
+Size: 30694
+MD5sum: 7afe9075f723d74c5dd41e50d234319e
+Description: Yet Another VPN toggle for SBSettings.
+ Yet Another VPN toggle for SBSettings.
+ Currently PPTP support only.
+ You should edit shell script file before use. 
+ /var/mobile/Library/SBSettings/Commands/com.hitoriblog.vpn.enablevpn
+ No status bar icon available.
+ It has no relation with system preference.
+depiction: http://hitoriblog.com/depiction/YAVPN.html
+author: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+
+Package: eb-utils
+Name: EB Library
+Homepage: http://www.sra.co.jp/people/m-kasahr/eb/index.html
+Version: 4.4.3-1
+Section: Development
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//eb-utils_4.4.3-1_iphoneos-arm.deb
+Size: 551820
+MD5sum: 1f50dd1a60a3a57b73a8547c39793dbe
+Description: EB is a C library and utilities for accessing CD-ROM books.
+author: Motoyuki Kasahara <m-kasahr@sra.co.jp>
+
+Package: httptunnel
+Name: GNU httptunnel
+Homepage: http://www.nocrew.org/software/httptunnel.html
+Version: 3.0.5-2
+Section: System
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//httptunnel-3.0.5-2_darwin-arm.deb
+Size: 36758
+MD5sum: ab89a5c305050722bda97ab49d74cf1b
+Description: httptunnel creates a bidirectional virtual data connection tunnelled in HTTP requests.
+ httptunnel creates a bidirectional virtual data connection tunnelled in HTTP requests.
+ The HTTP requests can be sent via an HTTP proxy if so desired.
+depiction: http://hitoriblog.com/depiction/httptunnel.html
+author: Lars Brinkhoff
+
+Package: jp.novi.FakeClockUp
+Name: FakeClockUp
+Homepage: http://hitoriblog.com/?p=1967
+Version: 0.6-1
+Section: Tweaks
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: .//jp.novi.FakeClockUp_0.6-1_iphoneos-arm.deb
+Size: 30762
+Installed-Size: 252
+MD5sum: 24c642a29b3079cd17ef5398af12395f
+Description: FakeClockUp accelerates UIKit transition animation.
+icon: file:///Library/PreferenceLoader/Preferences/FakeClockUp@2x.png
+tag: purpose::extension
+depiction: http://hitoriblog.com/depiction/FakeClockUp.html
+author: novi <novi.mad@gmail.com>
+dev: novi
+
+Package: privoxy
+Name: Privoxy
+Homepage: http://www.privoxy.org/
+Version: 3.0.16-2
+Section: System
+Maintainer: moyashi <hitoriblog_NO_NO_SPAM@gmail.com>
+Depends: pcre
+Architecture: iphoneos-arm
+Filename: .//privoxy-3.0.16-stable-2_darwin-arm.deb
+Size: 540236
+MD5sum: 48f9536d9354a0395df6c1b43349d22e
+Description: Privoxy is a non-caching web proxy.
+ Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
+depiction: http://hitoriblog.com/depiction/privoxy.html
+author: Privoxy Developers
+
+Package: ruby1.8.6
+Name: Ruby1.8.6
+Version: 1.8.6-p111-5
+Priority: optional
+Section: Scripting
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: berkeleydb, ncurses, openssl, readline
+Conflicts: ruby
+Replaces: ruby
+Architecture: iphoneos-arm
+Filename: .//ruby_1.8.6-p111-5_iphoneos-arm.deb
+Size: 1711290
+Installed-Size: 7148
+MD5sum: bb42204e78bb340795bb0c54ca5e9049
+Description: optimized for developer happiness
+
+Package: rubygems
+Name: RubyGems
+Version: 1.2.0-3
+Priority: optional
+Section: Packaging
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: ruby1.8.6
+Architecture: iphoneos-arm
+Filename: .//rubygems_1.2.0-3_iphoneos-arm.deb
+Size: 101334
+Installed-Size: 620
+MD5sum: 291aa303b5c03bdaf1d936ff9b219fba
+Description: standard ruby package manager
+

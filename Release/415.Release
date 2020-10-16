@@ -1,0 +1,12 @@
+Origin: Shuga's Repo
+Label: Shuga's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Packages, Themes, and Tweaks by Shuga and others.
+
+SHA256:
+ 57981b14df5e3d668bc6252ad87247694d18bdbd96f5dbddaa8cae2208a94e05 3270 Packages.bz2
+ 5c1f8dade20467427d33f7368ad5a9d9197294b86ebe4c7e9f57148155ac816c 3240 Packages.xz

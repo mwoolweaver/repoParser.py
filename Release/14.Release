@@ -1,0 +1,11 @@
+Origin: nitosoft beta testing repo
+Label: nitosoft beta server 2
+Suite: stable
+Version: 1.0
+Codename: reto2
+Architectures: iphoneos-arm
+Components: main
+Description: nitosoft beta repo for beta testing software prior to release
+MD5Sum:
+ 96c65e230e65e7c7d75ccae39839d009 60865 Packages
+ ffc35326b7dce3ec5d19f81077a56baa 12391 Packages.bz2

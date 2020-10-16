@@ -1,0 +1,157 @@
+Package: tech.kodeycodesstuff.redditrefresh
+Version: 1.0-b
+Architecture: iphoneos-arm
+Maintainer: Kodey Thomas <kodeyjjthomas@gmail.com>
+Author: Kodey Thomas <kodeyjjthomas@gmail.com>
+Tag: compatible_min::ios11.0
+Depends: mobilesubstrate
+Filename: download/tech.kodeycodesstuff.redditrefresh.deb
+Section: Tweaks
+Description: Ever accidentally refreshed reddit, alas no more
+ Ever accidentally refreshed reddit without meaning to, alas no more.
+ .Install this tweak and you won't even notice it until it comes in clutch.
+Depiction: https://basepack.co/d/tech.kodeycodesstuff.redditrefresh
+Icon: https://images.basepack.co/bf/4982d62fe241aa9ef62fd65f329d6a/rr-icon.jpg?w=200
+Name: RedditRefresh
+SHA256: 98cbca9931ed8a4120d134c0d578642cb8c10536fc4f998da00085a85d4736bb
+SHA1: c61282e484c4d9d20554e0c5f0a00cce166a7165
+MD5sum: cb2fc2d02c5d68d9d36a435e704d653d
+Installed-Size: 104
+Size: 4626
+SileoDepiction: https://repo.basepack.co/sileodepictions/tech.kodeycodesstuff.redditrefresh
+Prefer-Native: Yes
+Header: https://images.basepack.co/c5/529a6e62464bf89a0215f1914115b2/rr-banner.jpg
+Previews: https://images.basepack.co/06/033c3065dc4aacaa0e8d7dace72513/rr-sc1.jpg?w=500
+Homepage: https://basepack.co/p/tech.kodeycodesstuff.redditrefresh
+Support: https://basepack.co/p/tech.kodeycodesstuff.redditrefresh/support
+
+Package: com.thatmarcel.tweaks.lyrication
+Version: 2.1.8
+Architecture: iphoneos-arm
+Maintainer: Marcel Braun <marcel@strg.cc>
+Author: Marcel Braun <marcel@strg.cc>
+Tag: compatible_min::ios11.0
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: download/com.thatmarcel.tweaks.lyrication.deb
+Section: Tweaks
+Description: Live Lyrics for music
+ Ever wanted to sing along to the song you're listening to? Lyrication adds Apple Music style synchronized lyrics to the lockscreen, the control center and works with every music player app you have. If you use Spotify, Lyrication also adds lyrics inside there.
+Depiction: https://basepack.co/d/com.thatmarcel.tweaks.lyrication
+Icon: https://images.basepack.co/9b/375a9166884223b638a4899f9c196b/lyc-icon.jpg?w=200
+Name: Lyrication
+SHA256: e64eb395f642519141cf4dbdd5c5cd1d11ba8a7bedc45d37ca36816400b46162
+SHA1: b51127d8cfaa58ceb7a4f0b2dab9bc5955afd846
+MD5sum: dfafa3c50c2a762d7fd09d9580ceae3b
+Installed-Size: 1008
+Size: 110474
+SileoDepiction: https://repo.basepack.co/sileodepictions/com.thatmarcel.tweaks.lyrication
+Prefer-Native: Yes
+Header: https://images.basepack.co/28/571f246ee844df8036c2c4503efd9a/lyc-banner.jpg
+Previews: https://images.basepack.co/mu/lyrication2-sc1.jpg?w=600,https://images.basepack.co/mu/lyrication2-sc2.jpg?w=600,https://images.basepack.co/mu/lyrication2-sc3.jpg?w=600
+Homepage: https://basepack.co/p/com.thatmarcel.tweaks.lyrication
+Support: https://basepack.co/p/com.thatmarcel.tweaks.lyrication/support
+
+Package: com.thatmarcel.tweaks.controlwidget
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Marcel Braun <marcel@strg.cc>
+Author: Marcel Braun <marcel@strg.cc>
+Tag: compatible_min::ios11.0
+Depends: mobilesubstrate, com.muirey03.libmryipc, com.opa334.ccsupport, preferenceloader, ws.hbang.common(>=1.11)
+Filename: download/com.thatmarcel.tweaks.controlwidget.deb
+Section: Tweaks
+Description: Add a widget to your control center
+ Add a widget to your control center to have the most important things right next to your controls.
+Depiction: https://basepack.co/d/com.thatmarcel.tweaks.controlwidget
+Icon: https://images.basepack.co/3a/e358247a63416c88f864bd3cc1f65f/cw-icon.jpg?w=200
+Name: ControlWidget
+SHA256: 4190af030be7a6a0e0bebc99f2fe2363c6ec9fb2b50ab2127bf17d8ce8c85eb5
+SHA1: b0311e899594a530e40f3bfcc9425388c929ea78
+MD5sum: 54289089255bf4145c152baa686d7eb5
+Installed-Size: 464
+Size: 48710
+SileoDepiction: https://repo.basepack.co/sileodepictions/com.thatmarcel.tweaks.controlwidget
+Prefer-Native: Yes
+Header: https://images.basepack.co/e7/cfb9b5775846f894f8c66422a97b6c/cw-header.jpg
+Previews: https://images.basepack.co/e3/898f1d8323441a9c4672fa5d1e61f4/cw-sc1.jpg?w=500,https://images.basepack.co/a7/d5ee49654c43a2b2f022c60f8fdced/cw-sc2.jpg?w=500
+Homepage: https://basepack.co/p/com.thatmarcel.tweaks.controlwidget
+Support: https://basepack.co/p/com.thatmarcel.tweaks.controlwidget/support
+
+Package: com.thatmarcel.tweaks.docktyle
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Marcel Braun <marcel@strg.cc>
+Author: Marcel Braun <marcel@strg.cc>
+Tag: compatible_min::ios13.0
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>=1.11)
+Filename: download/com.thatmarcel.tweaks.docktyle.deb
+Section: Tweaks
+Description: Unlock other dock styles
+ Change your dock to a gradient, another iOS style or hide it completely. For an even cleaner home screen, you can also hide page dots
+Depiction: https://basepack.co/d/com.thatmarcel.tweaks.docktyle
+Icon: https://images.basepack.co/36/84c290e1144df2a5c2d3042a185543/dck-icon.jpg?w=200
+Name: Docktyle
+SHA256: a72f45392fcd1050bf5cddc7cd970ccebdeb56f23eeb3fb564dd71393022554e
+SHA1: 1f2b9985e06226cd0070f26830d8a6c2bf8be59d
+MD5sum: 8dc511c9817ee3faa0c2c907c056edc3
+Installed-Size: 264
+Size: 21524
+SileoDepiction: https://repo.basepack.co/sileodepictions/com.thatmarcel.tweaks.docktyle
+Prefer-Native: Yes
+Header: https://images.basepack.co/d0/8ddfbb7553458f908747e29dbb0252/dck-banner.jpg
+Previews: https://images.basepack.co/60/b23a05a7464eb68685ca07957f2634/dck-sc1.jpg?w=500,https://images.basepack.co/cb/575c033f6742f2b66d024394463e52/dck-sc2.jpg?w=500,https://images.basepack.co/77/004ac9ed244c73ab83cfc13603e457/dck-sc3.jpg?w=500
+Homepage: https://basepack.co/p/com.thatmarcel.tweaks.docktyle
+Support: https://basepack.co/p/com.thatmarcel.tweaks.docktyle/support
+
+Package: com.appleenterprise.nopassafterrespring
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <appleh4ckz@gmail.com>
+Author: @_AppleExpert <appleh4ckz@gmail.com>
+Tag: compatible_min::ios13.0
+Depends: 
+Filename: download/com.appleenterprise.nopassafterrespring.deb
+Section: Tweaks
+Description: NoPassAfterRespring is moving to a new repo, please go to https://appleexpertdev.github.io/AppleRebornCyd.github.io/. Thank you!
+ Disables passcode after a respring. To fully remove tweak, remove the tweak in your package manager and restart your iPhone. If you don’t restart your device, the device will still disable the passcode after respring.
+Depiction: https://basepack.co/d/com.appleenterprise.nopassafterrespring
+Icon: https://images.basepack.co/4b/fb9eacf8054f0f9028722338aed8c4/npar-icon.jpg?w=200
+Name: NoPassAfterRespring
+SHA256: 1dbbaaf798ec7265e6b56338341b817073a83ac068ace1840cfef4481e784a94
+SHA1: 1e3c70d5adfe87bc335c5b72f31a66f0bc12591b
+MD5sum: 9fb1426690156a2c601ec0242eae85a4
+Size: 880
+SileoDepiction: https://repo.basepack.co/sileodepictions/com.appleenterprise.nopassafterrespring
+Prefer-Native: Yes
+Header: https://images.basepack.co/9c/fcdc2d76734e5c8f33bdb697b5642f/npar-banner.jpg
+Previews: https://images.basepack.co/77/7b9c11b874476e8ee89ca24016095a/npar-sc1.jpg?w=500,https://images.basepack.co/59/5758e70c5a430a975deab08311fd08/npar-sc2.jpg?w=500
+Homepage: https://basepack.co/p/com.appleenterprise.nopassafterrespring
+Support: https://basepack.co/p/com.appleenterprise.nopassafterrespring/support
+
+Package: tech.kodeycodesstuff.spotifyblue
+Version: 1.4-b
+Architecture: iphoneos-arm
+Maintainer: Kodey Thomas <kodeyjjthomas@gmail.com>
+Author: Kodey Thomas <kodeyjjthomas@gmail.com>
+Tag: compatible_min::ios11.0
+Depends: mobilesubstrate, ws.hbang.common(>=1.15.1)
+Filename: download/tech.kodeycodesstuff.spotifyblue.deb
+Section: Tweaks
+Description: Opens Spotify When you Connect a Bluetooth audio device.
+ Automatically open Spotify when connecting to a bluetooth speaker.
+ .New in Version 1.3-b:
+ .Added functionality to open Apple Music
+Depiction: https://basepack.co/d/tech.kodeycodesstuff.spotifyblue
+Icon: https://images.basepack.co/4a/fa92f33fc34a3b9efae15e34273cfa/sb-icon.jpg?w=200
+Name: SpotifyBlue
+SHA256: d6e7f56dc05ddfe68b9a3171a0a1191937bec054347ae6a1352757183c10b9c1
+SHA1: 9de44340ac0b079106d6e4b2e999506ccde324ad
+MD5sum: 327f67e3e9847731af562ec7caa9f93b
+Installed-Size: 348
+Size: 89974
+SileoDepiction: https://repo.basepack.co/sileodepictions/tech.kodeycodesstuff.spotifyblue
+Prefer-Native: Yes
+Header: https://images.basepack.co/45/da78d92cbd480eb517edc16b0a633a/sb-banner.jpg
+Previews: https://images.basepack.co/82/9d76d45fe34dedb0c37f02959efd9e/sb-sc1.jpg?w=500,https://images.basepack.co/dc/61f010c0f34af0ab71e728753fde29/sb-sc2.jpg?w=500
+Homepage: https://basepack.co/p/tech.kodeycodesstuff.spotifyblue
+Support: https://basepack.co/p/tech.kodeycodesstuff.spotifyblue/support

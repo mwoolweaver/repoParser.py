@@ -1,0 +1,8 @@
+Origin: m156@nrkvv
+Label: m156@nrkvv
+Suite: stable
+Version: 1.1
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: m156@nrkvv's repository

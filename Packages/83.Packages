@@ -1,0 +1,33 @@
+Package: com.ashenyx.SwitcherDock-Beta
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ashenyx <ashenyxcode@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.ashenyx.SwitcherDock-Beta_1.0-1_iphoneos-arm.deb
+Size: 6108
+MD5sum: 55e03e8cb2f8562366f947a1309e71b9
+SHA1: 134a71131a4d17433ed99999c83ffa46a388d0de
+SHA256: 694d44158ad5d532920e58587fa6bdc42b2b5df403785e13dfb09fee51b2e7d6
+Section: Tweaks
+Description: Place your dock under your multi-tasking switcher cards!
+Author: Andy Shin <andrewcinn@gmail.com>
+Depiction: http://ashenyx.github.io/cydia/projectblue/depic/com.ashenyx.SwitcherDock-Beta.html
+Name: SwitcherDock
+Icon: http://ashenyx.github.io/cydia/projectblue/icons/SwitcherDock.png
+
+Package: com.ashenyx.ArtistCarrier
+Version: 1.5s-2
+Architecture: iphoneos-arm
+Maintainer: Ashenyx <ashenyxcode@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, PreferenceLoader
+Filename: ./debs/com.ashenyx.ArtistCarrier_1.5s-2_iphoneos-arm.deb
+Size: 16860
+MD5sum: 9c8e936caf32edb1803fbf70a6dfe4c4
+SHA1: a726ed0341b5a39b69f336aa0d429cedaeda38d7
+SHA256: 0e25af84ce51a589badceba7a2cd09874112bd2e73bcaf369504e5e9eaa3646f
+Section: Tweaks
+Description: Change the carrier name in the status bar to your now-playing artist name!
+Author: Andy Shin <andrewcinn@gmail.com>
+Depiction: http://ashenyx.github.io/cydia/projectblue/depic/com.ashenyx.ArtistCarrier.html
+Name: ArtistCarrier
+Icon: http://ashenyx.github.io/cydia/projectblue/icons/ArtistCarrier.png

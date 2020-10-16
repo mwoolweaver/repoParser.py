@@ -1,0 +1,9 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Description: Telaaedifex's Repository of tweaks and themes.
+#Icon:
+Label: Tela Repository
+Origin: Telaaedifex's Repository
+Suite: stable
+Version: 1.0.1

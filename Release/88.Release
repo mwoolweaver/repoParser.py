@@ -1,0 +1,12 @@
+Origin: AutoTouch Beta
+Label: AutoTouch Beta
+Suite: beta
+Version: 1.0
+Codename: AutoTouch
+Architectures: iphoneos-arm
+Components: main
+Description: Beta repository of AutoTouch
+Support: https://autotouch.net
+MD5Sum:
+ b4497aa1fe3a7d85fab1b7a45e8d0745 37218 Packages
+ 13d4487559d723175174a212f7c755d9 5086 Packages.bz2

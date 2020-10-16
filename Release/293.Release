@@ -1,0 +1,8 @@
+Origin: The Real Australian's Repo
+Label: The Real Australian's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: The Real Australian's Repo (/u/therealaustralian on Reddit)

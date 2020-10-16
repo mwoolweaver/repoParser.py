@@ -1,0 +1,64 @@
+Package: com.amooose.notiftoggle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dylan (amooose)
+Installed-Size: 136
+Depends: mobilesubstrate, libactivator, cy+os.ios (>= 8.0)
+Filename: ./debs/com.amooose.notiftoggle_1.0.0_iphoneos-arm.deb
+Size: 6708
+MD5sum: da4ad3587808a72ee3721756c52076c2
+SHA1: d4e63a79e032a36128d97204cd939a61dc484268
+SHA256: 9bef67a6a0b548c3c365f6f77029ed68bc0dacc8846ecb29b0288c736837ae3f
+Section: Tweaks
+Description: Toggles the Notification Center (aka Cover Sheet)
+Author: Dylan (amooose)
+Name: Notification Center Toggle
+
+Package: com.amooose.notiftoggle
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan (amooose)
+Installed-Size: 136
+Depends: mobilesubstrate, libactivator, cy+os.ios (>= 8.0)
+Filename: ./debs/com.amooose.notiftoggle_1.0.1_iphoneos-arm.deb
+Size: 6948
+MD5sum: 74c96f5a4e4dc6e6370f67f90fdcd680
+SHA1: 901177cefa0320a04e65ae66ea18160f9955ee4a
+SHA256: 6b3e0ba7e3810327429ec0ab0ad392bd0604c0bb38b3d7c4d28fb09fda8188bb
+Section: Tweaks
+Description: Toggles the Notification Center (aka Cover Sheet)
+Author: Dylan (amooose)
+Name: Notification Center Toggle
+
+Package: com.amooose.disablelongpress
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan (amooose)
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.amooose.disablelongpress_1.0.0_iphoneos-arm.deb
+Size: 3472
+MD5sum: 1dd8e116b75b73a40a4307a9e1a46ea6
+SHA1: e08bf8923a046079e268c8113f29f458d9fd3d4e
+SHA256: ae175c8098ed0dc4da694b7f82f2ee89c9fb73621398dbd4c799728d2f0476bf
+Section: Tweaks
+Description: Removes LongPress from Apollo
+Author: Dylan (amooose)
+Name: Disable LongPress Apollo
+
+Package: com.amooose.disablelongpress
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan (amooose)
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.amooose.disablelongpress_1.0.1_iphoneos-arm.deb
+Size: 4048
+MD5sum: d5deb54f2d974c3699589c2d32925a7b
+SHA1: 801c26c01bb5a40afa7f25fb05893b3fa4eb6e22
+SHA256: 9ecf8f57811eec426d9db392ec7bcb544d0bc2906717fd3fefb2f612fa208533
+Section: Tweaks
+Description: Removes LongPress from Apollo (now keeps account button longpress)
+Author: Dylan (amooose)
+Name: Disable LongPress Apollo
+

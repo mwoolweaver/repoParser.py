@@ -1,0 +1,559 @@
+Package: com.karimo299.autoblue
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 500
+Depends: mobilesubstrate, PreferenceLoader, ws.hbang.common
+Filename: ./deb/com.karimo299.autoublue_1.0.0_iphoneos-arm.deb
+Size: 251832
+MD5sum: 2ec9f05d60134190affe6d0eb1db1568
+SHA1: 9428f93506049ac9648065b7d4bb0e9a34d3a76a
+SHA256: 7633a77f6397a54008e9991c352a6d4ea46e75bfd117402931b03fa08c44bad2
+Section: Tweaks
+Description: Disables Bluetooth after a certain amount of time if there are no devices connected
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.autoublue
+Name: AutoBlue
+
+Package: com.karimo299.autoblue
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common,  preferenceloader, com.spark.libsparkapplist
+Filename: ./deb/com.karimo299.autoublue_1.1.0_iphoneos-arm.deb
+Size: 256688
+MD5sum: 9b005ae5a0919bd7c2a1fffdc9d682b1
+SHA1: 2715d8ce0faab41441bc89cf3ce0711be4718b25
+SHA256: 4cf4e928afb47ef6599409f6be91c094f5c3d73bb7a8419d8c681ac187250d59
+Section: Tweaks
+Description: Disables Bluetooth after a certain amount of time if there are no devices connected
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.autoblue
+Icon: https://karimo299.github.io/repo/icons/AutoBlue.png
+Name: AutoBlue
+SileoDepiction: https://karimo299.github.io/repo/sileo/autoblue/
+
+Package: com.karimo299.autoblue
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common,  preferenceloader, com.spark.libsparkapplist
+Filename: ./deb/com.karimo299.autoublue_1.1.1_iphoneos-arm.deb
+Size: 256760
+MD5sum: 75b776da585d845722e3c0d9be63dbce
+SHA1: 7765ead23b518963c426314e2edd34851cb72c32
+SHA256: 950e59f7bbb15e57b867084d0638f02946c63ba1586b41247c8d2530c8dc1e4a
+Section: Tweaks
+Description: Disables Bluetooth after a certain amount of time if there are no devices connected
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.autoblue
+Icon: https://karimo299.github.io/repo/icons/AutoBlue.png
+Name: AutoBlue
+SileoDepiction: https://karimo299.github.io/repo/sileo/autoblue/
+
+Package: com.karimo299.autoblue
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, appList
+Filename: ./deb/com.karimo299.autoblue_2.0.0_iphoneos-arm.deb
+Size: 262850
+MD5sum: f084080194c7ba043134b9d8dc9feb1a
+SHA1: bf15771dae3459801544d879faacac4f73574f16
+SHA256: b041c14880f40a73c5e7c2d651efd710435c24ee91eee3f16d04acd0860e5eec
+Section: Tweaks
+Description: Disables Bluetooth and WiFi after a certain amount of time if there are not connected.
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.autoblue
+Icon: https://karimo299.github.io/repo/icons/AutoBlue.png
+Name: AutoBlue
+SileoDepiction: https://karimo299.github.io/repo/sileo/autoblue/
+
+Package: com.karimo299.btpower
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.btpower_1.0.0_iphoneos-arm.deb
+Size: 3984
+MD5sum: a0e85dc31c6e1613abd15e9a11a16dae
+SHA1: ea9820ddc3621cd9d20083e8806fa653be3e913a
+SHA256: 2b6653217cfcef6ba7486c6a899e486b39b0a3bb12ab6d375c3a5f3063259f66
+Section: Tweaks
+Description: A tweak that shows current headset's battery level in the status bar
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.btpower
+Name: BTPower (BETA)
+SileoDepiction: https://karimo299.github.io/repo/sileo/btpower
+
+Package: com.karimo299.ccringer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Depends: mobilesubstrate, PreferenceLoader
+Filename: ./deb/com.karimo299.ccringer_1.0.0-5_iphoneos-arm.deb
+Size: 8856
+MD5sum: f66b03a5d1a5bd91973c3df76f4ee821
+SHA1: 127ddea02f3001fe2c17076334afde4cb6b41b50
+SHA256: be2e946f5777239790ed94535668b7af1345e059cc983eece7253c1212c6df53
+Section: Tweaks
+Description: Lets you change the ringer volume by tapping on the volume slider.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ccringer
+Name: CCRinger
+
+Package: com.karimo299.ccringer
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 276
+Depends: mobilesubstrate, PreferenceLoader, ws.hbang.common
+Filename: ./deb/com.karimo299.ccringer_1.0.1_iphoneos-arm.deb
+Size: 60388
+MD5sum: ff16e73ef25e8b0fa0a95e36d158cc20
+SHA1: 2b739eee74975a058291602594cf5e954b2f4392
+SHA256: 7a4ca3bfdd1da9a226e40a95594afec917235bb68add683f5dec87443a12bbc3
+Section: Tweaks
+Description: Lets you change the ringer volume by tapping on the volume slider.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ccringer
+Name: CCRinger
+
+Package: com.karimo299.ccringer
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 276
+Depends: mobilesubstrate, preferenceloader
+Filename: ./deb/com.karimo299.ccringer_1.0.2_iphoneos-arm.deb
+Size: 60468
+MD5sum: f78278091fcd34c84e3389c62089aff9
+SHA1: d9c162395174994e6bcee43c2dbc80ef6667a3c2
+SHA256: 4534760c7a22a2e0bc3222420d86b9372b42ae75b13459a2480a4e6fff87bcc6
+Section: Tweaks
+Description: Lets you change the ringer volume by tapping on the volume slider.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ccringer
+Icon: https://karimo299.github.io/repo/icons/CCRinger.png
+Name: CCRinger
+SileoDepiction: https://karimo299.github.io/repo/sileo/ccringer/
+
+Package: com.karimo299.ccringer
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 284
+Depends: mobilesubstrate, preferenceloader
+Filename: ./deb/com.karimo299.ccringer_1.0.3_iphoneos-arm.deb
+Size: 64812
+MD5sum: 9f82568d9fd6a06cd314c0fd5514221c
+SHA1: 1a2e20cb2b386e63dab114c7993223adbd86b1ba
+SHA256: b7b8d5eb9638bee7ec40a45af29a54d8d21836e4010401433e99ea6956e294cc
+Section: Tweaks
+Description: Lets you change the ringer volume by tapping on the volume slider.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ccringer
+Icon: https://karimo299.github.io/repo/icons/CCRinger.png
+Name: CCRinger
+SileoDepiction: https://karimo299.github.io/repo/sileo/ccringer/
+
+Package: com.karimo299.ccringer
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 276
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./deb/com.karimo299.ccringer_1.1.0_iphoneos-arm.deb
+Size: 62794
+MD5sum: 766723060f4f59ee7aa419d33ff36ccf
+SHA1: f7ba99840f129b522a211750564cd6113a9a29c5
+SHA256: ab24d9c1224f809fdea5b40f8ccb56fce6130958dd957dce316e35c26e2796b7
+Section: Tweaks
+Description: Lets you change the ringer volume by tapping on the volume slider.
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ccringer
+Icon: https://karimo299.github.io/repo/icons/CCRinger.png
+Name: CCRinger
+SileoDepiction: https://karimo299.github.io/repo/sileo/ccringer/
+
+Package: com.karimo299.controlplz
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 220
+Depends: mobilesubstrate, preferenceloader, applist, net.limneos.libbulletin, ws.hbang.common
+Filename: ./deb/com.karimo299.controlplz_1.0.0_iphoneos-arm.deb
+Size: 13852
+MD5sum: 59ff238420043827838978a277418349
+SHA1: 8face5d07012ef526756f191a0dbb42c7fd21aeb
+SHA256: 99507410c2e6fa243972aeb2ed444b39c5c81bd6b1c496267f13e988bd834930
+Section: Tweaks
+Description: Prevent you from using specific apps after a certain time
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.controlplz
+Name: ControlPlz
+SileoDepiction: https://karimo299.github.io/repo/sileo/controlplz/
+
+Package: com.karimo299.dndallow
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 216
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
+Filename: ./deb/com.karimo299.dndallow_1.0.0_iphoneos-arm.deb
+Size: 6880
+MD5sum: b6dd2942a6377c0f66ba4d3bcceee979
+SHA1: cc39aef062f0d3ac0b48c5fc3c5423ca1d1eb94a
+SHA256: 526578e366bfa62266520019b55da2a060735f9c008e763a5f6b7bc368d02dda
+Section: Tweaks
+Description: Allows specific apps to be shown when DND/Bedtime is activated.
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dndallow
+Name: DNDAllow
+SileoDepiction: https://karimo299.github.io/repo/sileo/dndallow/
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.0_iphoneos-arm.deb
+Size: 7536
+MD5sum: c3c0ba6ee95f0d7ae9b9bbf609d8d8cc
+SHA1: b4c90e759674896e9dc19a7788843f434d21f560
+SHA256: 9ef0960c523506aadd473fec75c59875e8ced730acdd74c8097aadc82de64e38
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing.
+Author: Karimo299 <karimo299@yahoo.com>
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.1_iphoneos-arm.deb
+Size: 26964
+MD5sum: 2c87229ab9f4d78b1aff86d360658ffb
+SHA1: 70ca8fb1db36893e90313381127561c7b01c5a76
+SHA256: 295a0678f003263db87cd4f3f9566979fe088d3b226f5d624aeb3bf5fdf51d10
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing.
+Author: Karimo299 <karimo299@yahoo.com>
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.2_iphoneos-arm.deb
+Size: 27356
+MD5sum: dd630b2f6292b7bc1a41d8bdbf0ae41b
+SHA1: 6a2b64baa214292d0dc4133134cd626c3c689136
+SHA256: 6795aa304bdc652c4830401d6bb9be071f4114630e6fbbc8364b6bc0aac0390a
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing.
+Author: Karimo299 <karimo299@yahoo.com>
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.2-1_iphoneos-arm.deb
+Size: 27496
+MD5sum: 5308ec36e221b14d34509890772b9ea5
+SHA1: b3cff143db6d91028d383a24480d2864ad805886
+SHA256: 26b7100f7b5fda0f67179df6d8b5d2fa66fef27ce0fe05b73f208c38be7866ca
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing.
+Author: Karimo299 <karimo299@yahoo.com>
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.3_iphoneos-arm.deb
+Size: 28628
+MD5sum: 03a70716920aa1cea096c8d4fc3618fc
+SHA1: 510afbb6aedaf6e5bf781c52f2b6e76fcb2f3027
+SHA256: 2a0aee283a0e549d535e64fb3eda415c70c1f7cb1369acb5d0199136eae2faa7
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.3-1_iphoneos-arm.deb
+Size: 28660
+MD5sum: 6481337581cf788ee795c6c0b1f33957
+SHA1: 936b835b7d9f0ebca756b8f6c1e2268c6e7fa418
+SHA256: 588fb3f4fbf14e2dd9e5574c351f14db4cd02da9f283e95cd3c684fe5c42c5b7
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dontkillmymusic
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.3-2
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.3-2_iphoneos-arm.deb
+Size: 26186
+MD5sum: 3e3abe87afbcb7b515a5fc017a5eb1cd
+SHA1: 4d3d396496a2d93d085bffc40da52a83280f46f1
+SHA256: 2145179827a01a89c074c214da81d5312cc93a6797e9996cca76aa45141f4fd8
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dontkillmymusic
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.4-1_iphoneos-arm.deb
+Size: 93466
+MD5sum: 400bcdaefa3960ca4e7a8be46fcb7175
+SHA1: 938e1a6d0eeb401f131b9ccb556f519b8fb0effe
+SHA256: af4e71940974fa5712e0bd57acac8e6326c08b105c71cf0be1b376c5ebed71a3
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dontkillmymusic
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 316
+Depends: mobilesubstrate, PreferenceLoader, AppList
+Filename: ./deb/com.karimo299.dontkillmymusic_1.0.4-2_iphoneos-arm.deb
+Size: 93548
+MD5sum: bb3b840729d5c133909c45078e7b64ea
+SHA1: 20d8ca81289d31a30efeee44be551301403841c9
+SHA256: bf70308e00020ac654d09c1cd6d9c48ed8ae646730a09ee0cb1b22679287634e
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dontkillmymusic
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 284
+Depends: mobilesubstrate, PreferenceLoader, com.spark.libsparkapplist, ws.hbang.common
+Filename: ./deb/com.karimo299.dontkillmymusic_1.1.0_iphoneos-arm.deb
+Size: 68970
+MD5sum: 6d6e9067da5df517426ad17b5e444b9b
+SHA1: a212bbf29bc0a60a3cdc7f9d09205aa5e99376f9
+SHA256: 0f09e37e5a28648d13993a6912ec7b82d28336b193d848a56e0b8b14743891ec
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dontkillmymusic
+Name: DontKillMyMusic
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 284
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, ws.hbang.common
+Filename: ./deb/com.karimo299.dontkillmymusic_1.1.1_iphoneos-arm.deb
+Size: 69294
+MD5sum: 275fab7445242d98e29c0f66e85474cf
+SHA1: c3f3139dac646e0b4cdbcc990bc8560be31a147c
+SHA256: c01cbee2e799e01bb712cea2bd13f17a406f63af67455d4d6ee2af7edaebf0db
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dontkillmymusic
+Icon: https://karimo299.github.io/repo/icons/DontKillMyMusic.png
+Name: DontKillMyMusic
+SileoDepiction: https://karimo299.github.io/repo/sileo/dontkillmymusic/
+
+Package: com.karimo299.dontkillmymusic
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299 <karimo299@yahoo.com>
+Installed-Size: 288
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common
+Filename: ./deb/com.karimo299.dontkillmymusic_1.2.0_iphoneos-arm.deb
+Size: 69776
+MD5sum: 3acd240f050a9fec6221208030f44fa8
+SHA1: 314906c160455e0f550d188e46e66e61be279504
+SHA256: 1cc070251ada918647d06626250d7ac9e393bfc8388e76a72dc215e7fbdd41a1
+Section: Tweaks
+Description: A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.
+Author: Karimo299 <karimo299@yahoo.com>
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.dontkillmymusic
+Icon: https://karimo299.github.io/repo/icons/DontKillMyMusic.png
+Name: DontKillMyMusic
+SileoDepiction: https://karimo299.github.io/repo/sileo/dontkillmymusic/
+
+Package: com.karimo299.leavemealone
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.leavemealone_1.0.0_iphoneos-arm.deb
+Size: 2534
+MD5sum: fbbfcaf2f5e3dc7edfb1de5a4665ffeb
+SHA1: c026b1ab138939fd776855e1ced3dba7dc0621e8
+SHA256: f986a012d4dade104b1f858d6ff152a2d096180e75022fdebb2d27fb48bc79f1
+Section: Tweaks
+Description: Removes the dnd banner on iOS 12
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.leavemealone
+Name: LeaveMeAlone
+SileoDepiction: https://karimo299.github.io/repo/sileo/com.karimo299.leavemealone/
+
+Package: com.karimo299.leavemealone
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.leavemealone_2.0.0_iphoneos-arm.deb
+Size: 9414
+MD5sum: d01d0f4eb869bb133f015c9473598213
+SHA1: 97af3b95f6bcb238150192d53a1733dfb45c9ea9
+SHA256: 5cf739dcda2630faa6562449a6e63d5de09f038aed148bdf5a288ecc4e6b5526
+Section: Tweaks
+Description: Adds the dnd icon under the date, and removes the annoying dnd banner on iOS 12
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.leavemealone
+Name: LeaveMeAlone
+SileoDepiction: https://karimo299.github.io/repo/sileo/leavemealone/
+
+Package: com.karimo299.leavemealone
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 280
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./deb/com.karimo299.leavemealone_2.1.0_iphoneos-arm.deb
+Size: 64086
+MD5sum: 56d0fb3e7ad7ee7e3d4b8aae366a3f47
+SHA1: be750c834b0ebdd124b65b179ca17e9dd62ac8ce
+SHA256: 6e499ec85c3066065b8626a1841c8cb498e3b654cbb8929dc7fb7e8bce8d7a7b
+Section: Tweaks
+Description: Adds the dnd icon under the date, and removes the annoying dnd banner on iOS 12
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.leavemealone
+Name: LeaveMeAlone
+SileoDepiction: https://karimo299.github.io/repo/sileo/leavemealone/
+
+Package: com.karimo299.notifreplace
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 332
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
+Filename: ./deb/com.karimo299.notifreplace_1.0.0_iphoneos-arm.deb
+Size: 18212
+MD5sum: 2f6735bcde5259534c550f6a6ae26df7
+SHA1: c5ade2052b0297c705854c0718a3bade78cd0e8f
+SHA256: 1cec77c94bca4fc3999159349e2f4f9e9223694bce66547570d5e6d354ff10ea
+Section: Tweaks
+Description: Replaces specific text in the notification, and messages
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.notifreplace
+Name: NotifReplace
+SileoDepiction: https://karimo299.github.io/repo/sileo/notifreplace/
+
+Package: com.karimo299.notifreplace
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 332
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
+Filename: ./deb/com.karimo299.notifreplace_1.0.1_iphoneos-arm.deb
+Size: 18044
+MD5sum: fba497e9414063fa021a88e532280dc9
+SHA1: f9ef5295bb98fa8c22ae58c700333f1fcd027eef
+SHA256: 7d9c875a67229d088514895f6c33b6390649e32d2ec99bb451cc015d7a8922d4
+Section: Tweaks
+Description: Replaces specific text in the notification, and messages
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.notifreplace
+Name: NotifReplace
+SileoDepiction: https://karimo299.github.io/repo/sileo/notifreplace/
+
+Package: com.karimo299.ytstatus
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.ytstatus_1.0.0_iphoneos-arm.deb
+Size: 2880
+MD5sum: cc6d534734d4a22c2847a34caf4cb793
+SHA1: 848328d275e20c266608c22de63cc67cbf6c0f4b
+SHA256: 59b07c2294ded838928c28c237d79e69cf1df3b248cbf8a160a07262453f2ecc
+Section: Tweaks
+Description: Adds statusBar to Youtube when the pause screen is on
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ytstatus
+Name: YTStatus
+SileoDepiction: https://karimo299.github.io/repo/sileo/ytstatus/
+
+Package: com.karimo299.ytstatus
+Version: 1.1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.ytstatus_1.1.0-1+debug_iphoneos-arm.deb
+Size: 3398
+MD5sum: cf2c5f8c9384464ff12152663b21ac96
+SHA1: 5f1792a989b1ae6e6406cdf0bc904ddc7d0b90fb
+SHA256: a469735085ba52d38146136b08aa90f23e1e96dd2836cbd814e0f156de6589c8
+Section: Tweaks
+Description: Adds statusBar to Youtube when the pause screen is on
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ytstatus
+Name: YTStatus
+SileoDepiction: https://karimo299.github.io/repo/sileo/ytstatus/
+
+Package: com.karimo299.ytstatus
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Karimo299
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/com.karimo299.ytstatus_1.1.1_iphoneos-arm.deb
+Size: 3126
+MD5sum: 0d7dc6e6f5cc0a9382833af3c999d285
+SHA1: 2b5894ff55421364730b40102a5e5bac6aadfc0b
+SHA256: 13a52b4ed3c9f05160cb1e579874ad9ea25a7dae53d6dc0020b683b92ca2ae18
+Section: Tweaks
+Description: Adds statusBar to Youtube when the pause screen is on
+Author: Karimo299
+Depiction: https://karimo299.github.io/repo/depictions/?p=com.karimo299.ytstatus
+Name: YTStatus
+SileoDepiction: https://karimo299.github.io/repo/sileo/ytstatus/
+

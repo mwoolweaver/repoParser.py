@@ -1,0 +1,53 @@
+Package: com.lazynagy.kasper
+Name: Kasper
+Architecture: iphoneos-arm
+Description: Simple White Glyphs
+Homepage: http://www.twitter.com/Lazynagy
+Depiction: http://ahmadnagy.github.io/depicKASPER.html
+Maintainer: LazyNagy <ahmad.ios.tweaks@gmail.com>
+Author: LazyNagy <ahmad.ios.tweaks@gmail.com>
+Section: Themes
+#Depends: 
+Filename: ./debs/Kasper.deb 
+Size: 298008
+MD5sum: 032eed587ddc099746a1a2134ddf7718
+#Conflicts:
+#Replaces:
+Version: 1.0
+
+Package: com.lazynagy.wthr
+Name: Wthr
+Architecture: iphoneos-arm
+Description: iOS weather widget, now on your HS.
+Homepage: http://www.twitter.com/Lazynagy
+Depiction: http://ahmadnagy.github.io/depicWthr.html
+Maintainer: LazyNagy <ahmad.ios.tweaks@gmail.com>
+Author: LazyNagy <ahmad.ios.tweaks@gmail.com>
+Section: Widgets
+#Depends: 
+Filename: ./debs/Wthr.deb 
+Size: 107714
+MD5sum: 7e3fd8f60e9ffd3612e536695e1ad42a
+#Conflicts:
+#Replaces:
+Version: 0.02
+
+
+Package: com.lazynagy.AppBox
+Name: AppBox
+Architecture: iphoneos-arm
+Description: Widget looking app box
+Homepage: http://www.twitter.com/Lazynagy
+Depiction: http://ahmadnagy.github.io/depicAppBox.html
+Maintainer: LazyNagy <ahmad.ios.tweaks@gmail.com>
+Author: LazyNagy <ahmad.ios.tweaks@gmail.com>
+Section: Widgets
+#Depends: 
+Filename: ./debs/AppBox.deb 
+Size: 21150
+MD5sum: 860d954cc75f0ab97e532213b811c53b
+#Conflicts:
+#Replaces:
+Version: 0.02
+
+

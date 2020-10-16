@@ -1,0 +1,2498 @@
+Package: com.chewmieser.statusvollite
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 468
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.chewmieser.statusvol
+Filename: debs/com.chewmieser.statusvollite_0.8_iphoneos-arm.deb
+Size: 53524
+MD5sum: d359adc7f4fffb4eb0b0f635fdfd3a06
+SHA1: e580ebc70ef9a3c453b17db8537d08cb2aec2dc7
+SHA256: 00e82a29199605883b483b7827e0bae1dd4c96577cc7bb511ac4f92415de3546
+Section: Tweaks
+Description: An updated and hopefully bug-free version of StatusVol 2. Tested on iOS 9.3.3, not tested on iOS 10.1.1. All credits to Steve Rolfe who brought this tweak to life.
+Author: Steven Rolfe
+Depiction: https://fidele007.github.io/depictions/?p=com.chewmieser.statusvollite
+Name: StatusVol 2
+
+Package: com.chewmieser.statusvollite
+Version: 0.9
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 468
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.chewmieser.statusvol
+Filename: debs/com.chewmieser.statusvollite_0.9_iphoneos-arm.deb
+Size: 53978
+MD5sum: 05f3dabffa581f4bb07f64644f1846f1
+SHA1: 349f4fadc9b4c0db6cf128ae07812ea462e8437b
+SHA256: 74cf16eaaca54e65fcd0b9e5a9dec89c76dee499bed2f5065a5355ff9eed7e5c
+Section: Tweaks
+Description: An updated and hopefully bug-free version of StatusVol 2. Tested on iOS 9.3.3, not tested on iOS 10.1.1. All credits to Steve Rolfe who brought this tweak to life.
+Author: Steven Rolfe
+Depiction: https://fidele007.github.io/depictions/?p=com.chewmieser.statusvollite
+Name: StatusVol 2
+
+Package: com.chewmieser.statusvollite
+Version: 0.9-12+debug
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 480
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.chewmieser.statusvol
+Filename: debs/com.chewmieser.statusvollite_0.9-12+debug_iphoneos-arm.deb
+Size: 60568
+MD5sum: 0dab89b5c7fb006a09b0a72b78bc0d2b
+SHA1: 32b9ab18429df5cf34f2eca43070410a5cfb1e8c
+SHA256: 16f3d247aa95a25cb9c63d2cafe86052ce0c210b45d68e25ee3296bdf7ffaea2
+Section: Tweaks
+Description: An updated and hopefully bug-free version of StatusVol 2. Tested on iOS 9.3.3, not tested on iOS 10.1.1. All credits to Steve Rolfe who brought this tweak to life.
+Author: Steven Rolfe
+Depiction: https://fidele007.github.io/depictions/?p=com.chewmieser.statusvollite
+Name: StatusVol 2
+
+Package: com.chewmieser.statusvollite
+Version: 0.9-13+debug
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 566
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.chewmieser.statusvol
+Filename: debs/com.chewmieser.statusvollite_0.9-13+debug_iphoneos-arm.deb
+Size: 59140
+MD5sum: 6a4a2438901d5b5cb466b40d74346985
+SHA1: 8ea81f655861552eec09da719bbf9ffa96d36a78
+SHA256: 8301ca274e5e4b8ade6471361225d4b3e230e08a7a820f6d451af196bc80bc9d
+Section: Tweaks
+Description: An updated and hopefully bug-free version of StatusVol 2. Tested on iOS 9.3.3, not tested on iOS 10.1.1. All credits to Steve Rolfe who brought this tweak to life.
+Author: Steven Rolfe
+Depiction: https://fidele007.github.io/depictions/?p=com.chewmieser.statusvollite
+Name: StatusVol 2
+
+Package: com.chewmieser.statusvollite
+Version: 0.9-4
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 468
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.chewmieser.statusvol
+Filename: debs/com.chewmieser.statusvollite_0.9-4_iphoneos-arm.deb
+Size: 53834
+MD5sum: 26b2289b0d961f796a7a95d3e86e1514
+SHA1: 597172a30a80acca6f9a61f7cf66670ad6407703
+SHA256: 3e62c595149fb5aa0f098f1bf98dd1b79060ac8c08ef89924e72123663cecffa
+Section: Tweaks
+Description: An updated and hopefully bug-free version of StatusVol 2. Tested on iOS 9.3.3, not tested on iOS 10.1.1. All credits to Steve Rolfe who brought this tweak to life.
+Author: Steven Rolfe
+Depiction: https://fidele007.github.io/depictions/?p=com.chewmieser.statusvollite
+Name: StatusVol 2
+
+Package: com.chewmieser.statusvollite
+Version: 0.9-7
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 468
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.chewmieser.statusvol
+Filename: debs/com.chewmieser.statusvollite_0.9-7_iphoneos-arm.deb
+Size: 53624
+MD5sum: 479ca18510bfa8c8082ed3add26b1df0
+SHA1: 02cd6c78671f9cc103918074ab9b41416015482d
+SHA256: daa195fc68eb57dab8a993f2b1690aa9aa1ae763227432c301799f81b7ac81df
+Section: Tweaks
+Description: An updated and hopefully bug-free version of StatusVol 2. Tested on iOS 9.3.3, not tested on iOS 10.1.1. All credits to Steve Rolfe who brought this tweak to life.
+Author: Steven Rolfe
+Depiction: https://fidele007.github.io/depictions/?p=com.chewmieser.statusvollite
+Name: StatusVol 2
+
+Package: com.chewmieser.statusvolx
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 336
+Depends: mobilesubstrate
+Conflicts: com.chewmieser.statusvol,com.chewmieser.statusvollite
+Filename: debs/com.chewmieser.statusvolx_0.4_iphoneos-arm.deb
+Size: 19352
+MD5sum: 07db48705098f4ec8d35c57ad756f9ac
+SHA1: 5b8d0ffe314d469008900f4b2a4aa1280db52748
+SHA256: 2acf5777723f61563b61346c009069ef2d0e1750f4a204c06340b3f786d1afe0
+Section: Tweaks
+Description: Volume HUD in your status bar
+Author: Steven Rolfe
+Depiction: https://fidele007.github.io/depictions/?p=com.chewmieser.statusvolx
+Name: StatusVol X
+
+Package: com.chewmieser.statusvolx
+Version: 0.5-1+debug
+Architecture: iphoneos-arm
+Maintainer: Steven Rolfe
+Installed-Size: 568
+Depends: mobilesubstrate
+Conflicts: com.chewmieser.statusvol,com.chewmieser.statusvollite
+Filename: debs/com.chewmieser.statusvolx_0.5-1+debug_iphoneos-arm.deb
+Size: 25924
+MD5sum: f8019dc272256154549740fe9c7a68c1
+SHA1: ad55168ad8dbcda95d47c7acc57c02e85325b37c
+SHA256: f28dc0171273644d84bc44b72a5f41efe78d8d4968f68758f8926539889b5dfe
+Section: Tweaks
+Description: Volume HUD in your status bar
+Author: Steven Rolfe
+Depiction: http://apt.steverolfe.com/depiction/statusvolx.html
+Name: StatusVol X
+
+Package: com.fidele007.3dtouchautodismiss
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.3dtouchautodismiss_0.0.1_iphoneos-arm.deb
+Size: 3306
+MD5sum: 9e844e495118c012bf5aca14145ac4d4
+SHA1: b4e68dd701a898abafe09a0345820b43877cfdb5
+SHA256: 2cd54780ed50602b2689e478444b2c4269706b45479f33d4a4f58c61f7ef6219
+Section: Tweaks
+Description: Auto dismiss 3D touch menu on touch release.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: 3DTouchAutoDismiss
+
+Package: com.fidele007.anotherlockkeyboard
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: ws.hbang.lockkeyboard
+Filename: debs/com.fidele007.anotherlockkeyboard_0.0.1_iphoneos-arm.deb
+Size: 5412
+MD5sum: 286d56c4eed92120b1d9d7412897a63c
+SHA1: d40f01e430b8effcf66ad00415c67b87725016a7
+SHA256: d567329e5023d762296c93189b4ff82960de1312e80c06a6cc4c5b4bbfe7aba6
+Section: Tweaks
+Description: A variance of system wide lock keyboard that respects the light and dark keyboard. This tweak is heavily inspired by HashBang's LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AnotherLockKeyboard
+
+Package: com.fidele007.anotherlockkeyboard
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: ws.hbang.lockkeyboard
+Filename: debs/com.fidele007.anotherlockkeyboard_0.0.2_iphoneos-arm.deb
+Size: 7186
+MD5sum: 998daf369cdfd59a768ac53c31192ede
+SHA1: 70c9476a0d76866a6deb439cece14f63010c4536
+SHA256: 38771cce96d7155b86bc7f3f7929005517cbe27a8b42f0999f45605f1c7ca632
+Section: Tweaks
+Description: A variance of system wide lock keyboard that respects the light and dark keyboard. This tweak is heavily inspired by HashBang's LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AnotherLockKeyboard
+
+Package: com.fidele007.anotherlockkeyboard
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: ws.hbang.lockkeyboard
+Filename: debs/com.fidele007.anotherlockkeyboard_0.0.3_iphoneos-arm.deb
+Size: 8132
+MD5sum: 00a691502d307ad345c3b79115660ce1
+SHA1: a63f34b8c52e782a572c11f82ca183daad3f387f
+SHA256: 418fa4b93374f0ff38c193e0e66a05b32e8c6e1614711ff3134417e4ad66e651
+Section: Tweaks
+Description: A variance of system wide lock keyboard that respects the light and dark keyboard. This tweak is heavily inspired by HashBang's LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AnotherLockKeyboard
+
+Package: com.fidele007.anotherlockkeyboard
+Version: 0.0.3.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: ws.hbang.lockkeyboard
+Filename: debs/com.fidele007.anotherlockkeyboard_0.0.3.1_iphoneos-arm.deb
+Size: 8060
+MD5sum: 189ae602606dcc307084faaff8eec2a2
+SHA1: dcb22929d6543734b7b5f903312cdf7e8fab2ed8
+SHA256: b4f28750344f660aa3b5ff3794d6b1027f2c8b2f0595e7adf1a5e9976a01fab3
+Section: Tweaks
+Description: A variance of system wide lock keyboard that respects the light and dark keyboard. This tweak is heavily inspired by HashBang's LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AnotherLockKeyboard
+
+Package: com.fidele007.anotherlockkeyboard
+Version: 0.0.3.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: ws.hbang.lockkeyboard
+Filename: debs/com.fidele007.anotherlockkeyboard_0.0.3.2_iphoneos-arm.deb
+Size: 8026
+MD5sum: d7517c02776bcac62d6939d9b8a9298b
+SHA1: 647e6a1a06ec6ff4033a1222f1885fb3d1639323
+SHA256: b088b918fcd963010a0e88b2275090862cf716f3cd1a038c777966a1caa2d5cb
+Section: Tweaks
+Description: A variance of system wide lock keyboard that respects the light and dark keyboard. This tweak is heavily inspired by HashBang's LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AnotherLockKeyboard
+
+Package: com.fidele007.apexcreationflipswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 124
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: debs/com.fidele007.apexcreationflipswitch_0.0.1_iphoneos-arm.deb
+Size: 6218
+MD5sum: 93652d8ef95cf36cc742700486919fb3
+SHA1: 0d9337e10dddee8adc05e2815307bf2e49a74b25
+SHA256: 5631ec9bd9b30b79e18b1ede47be2e70d152a467956afa024bebbe0a0439561a
+Section: Addons (Flipswitch)
+Priority: optional
+Description: Flipswitch for "Allow New Creation" option in Apex 2!
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Apex Creation Flipswitch
+
+Package: com.fidele007.autocorrectflipswitchforios9
+Version: 0.0.1-10
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 964
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 9.0)
+Filename: debs/com.fidele007.autocorrectflipswitchforios9_0.0.1-10_iphoneos-arm.deb
+Size: 980530
+MD5sum: eaca7f51fc00021dd1dcfacfd3a89b84
+SHA1: f794c8b026546a04accec48659695a0b035634be
+SHA256: 9f596516513cf8364dc5b5604f8032bc2384001c2f568b34a898b455526cb71a
+Section: Addons (Flipswitch)
+Description: The title says it all.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AutoCorrect Flipswitch for iOS 9
+
+Package: com.fidele007.autolowpowermode
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.autolowpowermode_0.0.1-2+debug_iphoneos-arm.deb
+Size: 122402
+MD5sum: 56fcbe062496fcdce3a4471479bb90a4
+SHA1: bc77ea4c856d327b1fba163fea12c544caf36ef8
+SHA256: 9751d7138503febcdf4ab56845bfe71e4e94f9a66e59c13bd56a456157462059
+Section: Tweaks
+Description: Automatically turn on Low Power Mode when device's battery is low.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AutoLowPowerMode
+
+Package: com.fidele007.autopass
+Version: 0.0.1-21+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1184
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.autopass_0.0.1-21+debug_iphoneos-arm.deb
+Size: 22350
+MD5sum: 5c8f9b382ac65c50754e6e4c77cc471e
+SHA1: 28d116fa8c0d2a50741d82a25408fe9e134d0841
+SHA256: 9d93002e6955055c2965d89dd20f72c02faa25673c7c60de9b24ac9e2a699a79
+Section: Tweaks
+Description: Autofill password for AppStore.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: AutoPass
+
+Package: com.fidele007.autopass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1184
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.autopass_0.0.2_iphoneos-arm.deb
+Size: 21020
+MD5sum: 9cc0ed70115437a28ea99f57c80a7edc
+SHA1: b8710f493bb87c00604d16f4255f07c976e591af
+SHA256: 0d02e8b063bebdaa76e405d302db3f8da245c1ba620ec7301d02de89c523cf20
+Section: Tweaks
+Description: Autofill password for AppStore.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.autopass
+Name: AutoPass
+
+Package: com.fidele007.backcamdefault
+Version: 0.0.1-23
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.backcamdefault_0.0.1-23_iphoneos-arm.deb
+Size: 3334
+MD5sum: 885195abd82fc863d8969e7854eac25f
+SHA1: 4bcc7775ab2922843ab52bb5b158b2f8be6b4467
+SHA256: 9f3584c4a550a9d1b306e1840c67a4f2bd27e98e2743eff2c934307226d1a8bc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak to set back camera as default so as to avoid seeing unseemly sight.
+Author: fidele007
+Name: BackCamDefault
+
+Package: com.fidele007.backtrack
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.backtrack_0.0.1-4+debug_iphoneos-arm.deb
+Size: 11112
+MD5sum: 60780a7e946e912dc27fed9b79828046
+SHA1: 3db97fded8e9f5a892e2d0377d22ee2922351545
+SHA256: 5c713bd427e385878c66c03ac8c5b6d888dea4c419b075a93550a5253d9f87d9
+Section: Tweaks
+Description: Activator action to go back to the previous app.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Backtrack
+
+Package: com.fidele007.betterbreadcrumb10
+Version: 0.0.1-19
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 129
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.betterbreadcrumb10_0.0.1-19_iphoneos-arm.deb
+Size: 11362
+MD5sum: e5b74cc5284ef69715b54714cba8fcce
+SHA1: 41d8cbe107f752a84fa5175fd0bc7b5971f126c1
+SHA256: dc39880cfc37039374976e9411b4f1f13040e0f2df34a30f9dbed0e0952e2aa3
+Section: Tweaks
+Description: Better version of Breadcrumb10 tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: BetterBreadcrumb10
+
+Package: com.fidele007.betterbreadcrumb10
+Version: 0.0.1-23+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 161
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.betterbreadcrumb10_0.0.1-23+debug_iphoneos-arm.deb
+Size: 160264
+MD5sum: 7a3625a14e8836ba0d0a1886426a3a1c
+SHA1: c4991a8913356730218535bce85a611f35b011e7
+SHA256: 97c64fba5eb293f1ee54b59d1e6308eb5dadaac5ba48cf9179574b7438557f1c
+Section: Tweaks
+Description: Better version of Breadcrumb10 tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: BetterBreadcrumb10
+
+Package: com.fidele007.betterbreadcrumb10
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.betterbreadcrumb10_0.0.2_iphoneos-arm.deb
+Size: 16814
+MD5sum: 34d38a5b14ab18c16be86d94afdfaf63
+SHA1: 2cde4c27921c41d7a1bf2385cc925841003bc523
+SHA256: 6fa03409c068b1a2bb291713c44ac01a7efc9761fc6fb9f8f47fed2836a36268
+Section: Tweaks
+Description: Breadcrumb10 has glitches here and there where the Wi-Fi icon overlaps with other status bar icons or sometimes just doesn’t disappear even when the Wi-Fi is turned off. It's the little things that bug me so I make another one and name it BetterBreadcrumb10. If you don't notice any glitches using Breadcrumb10 or that they don't bother you, you don't need this.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: BetterBreadcrumb10
+
+Package: com.fidele007.betterbreadcrumb10
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 856
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.betterbreadcrumb10_0.0.3_iphoneos-arm.deb
+Size: 17604
+MD5sum: b3371387d34ed76920b4636c03366f5c
+SHA1: b4c489e02f4a1d5d3d412a27827ae11ed1eda811
+SHA256: 25d5d8399963293c594ffae7d8ae4ddae2055024322b391b1f0be5a8795ba28b
+Section: Tweaks
+Description: Breadcrumb10 has glitches here and there where the Wi-Fi icon overlaps with other status bar icons or sometimes just doesn’t disappear even when the Wi-Fi is turned off. It's the little things that bug me so I make another one and name it BetterBreadcrumb10. If you don't notice any glitches using Breadcrumb10 or that they don't bother you, you don't need this.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.betterbreadcrumb10
+Name: BetterBreadcrumb10
+
+Package: com.fidele007.betterbreadcrumb10
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.betterbreadcrumb10_0.0.4_iphoneos-arm.deb
+Size: 17518
+MD5sum: 9dd1a4f01dd3d6e05b394a0251582932
+SHA1: fe4eb73f1db6c91b2284a9273813027f1f2c8296
+SHA256: 290a9ae3f0476d82a0ce37aac9692dd30d75f87996c685862a5007173b0f49ed
+Section: Tweaks
+Description: Breadcrumb10 has glitches here and there where the Wi-Fi icon overlaps with other status bar icons or sometimes just doesn’t disappear even when the Wi-Fi is turned off. It's the little things that bug me so I make another one and name it BetterBreadcrumb10. If you don't notice any glitches using Breadcrumb10 or that they don't bother you, you don't need this.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.betterbreadcrumb10
+Name: BetterBreadcrumb10
+
+Package: com.fidele007.betterbreadcrumb10
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.betterbreadcrumb10_0.0.5_iphoneos-arm.deb
+Size: 18002
+MD5sum: aad591bd8ede674326180316d513fc33
+SHA1: 4021d847ca29dea586576615e721a2f6719f14f8
+SHA256: 6f2d4e8c00baca1c3c3a6c7daaf6829a674fb4833bda73344f990fa8932b9d2b
+Section: Tweaks
+Description: Breadcrumb10 has glitches here and there where the Wi-Fi icon overlaps with other status bar icons or sometimes just doesn’t disappear even when the Wi-Fi is turned off. It's the little things that bug me so I make another one and name it BetterBreadcrumb10. If you don't notice any glitches using Breadcrumb10 or that they don't bother you, you don't need this.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.betterbreadcrumb10
+Name: BetterBreadcrumb10
+
+Package: com.fidele007.betterbreadcrumb10
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.betterbreadcrumb10_0.0.6_iphoneos-arm.deb
+Size: 17946
+MD5sum: fbd878c3b00f442a0bde09cd747596bd
+SHA1: 25718edccb6d51ee527817798edfbf7f077ab36f
+SHA256: 1052ef2a0ea6575754408ab6002046e159f5e08e9c5c588ff539b5bb62626de3
+Section: Tweaks
+Description: Breadcrumb10 has glitches here and there where the Wi-Fi icon overlaps with other status bar icons or sometimes just doesn’t disappear even when the Wi-Fi is turned off. It's the little things that bug me so I make another one and name it BetterBreadcrumb10. If you don't notice any glitches using Breadcrumb10 or that they don't bother you, you don't need this.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.betterbreadcrumb10
+Name: BetterBreadcrumb10
+
+Package: com.fidele007.bettervideo
+Version: 0.0.1-18
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.bettervideo_0.0.1-18_iphoneos-arm.deb
+Size: 8190
+MD5sum: 7d60086a48169420fb6d984193566158
+SHA1: ad4bdcad7b6bfa3323590b2fc30a026622f136d4
+SHA256: 5218941dd425c363f8266b3019c7e44bc7ea0bab0528b6e8f24ea779b54e8357
+Section: Tweaks
+Description: BetterVideo aims to improve built-in video player experience for all iOS users. The current features available are:
+ - Suppress the playback controls view when changing volume
+ - Quick dismissal time for playback controls view
+Author: fidele007
+Name: BetterVideo
+
+Package: com.fidele007.calleridtoggle
+Version: 0.0.1-88
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 892
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 9.0)
+Filename: debs/com.fidele007.calleridtoggle_0.0.1-88_iphoneos-arm.deb
+Size: 910392
+MD5sum: fd8204d294d5b36725ddd094998083da
+SHA1: 85f84b817b0abe57694e2440f7569e2ea8ebab69
+SHA256: 32716fdf21c56b6ef943cc0919298175b780a887447f3d19eb06d22613cdc070
+Section: Addons (Flipswitch)
+Description: Flipswitch for Caller ID in Settings > Phone > Show My Caller ID.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: CallerIDToggle
+
+Package: com.fidele007.cclink
+Version: 0.0.1-36
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 85
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.cclink_0.0.1-36_iphoneos-arm.deb
+Size: 5778
+MD5sum: c18a70d862392aeb89882b7feb2b66e2
+SHA1: 4dfb6373eb9e4e71904dfec9384c88ebb08fecab
+SHA256: b5cf0e4bfc5d0ec997bb338bf12d2b2eec30452c7a620fb4dc6899b09fb6c384
+Section: Tweaks
+Description: Copy now playing title/link in Control Center by pressing and holding on the title.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: CCLink
+
+Package: com.fidele007.cclink
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.cclink_0.0.2_iphoneos-arm.deb
+Size: 6274
+MD5sum: 463762e6c19b356d37c8dd04de27eab6
+SHA1: 207ea3867ab9d924186f7f298b23514b00ebf40a
+SHA256: db0825e86613db41072bb66555308638a85350ab56db80a14510aa3e19a1ca6d
+Section: Tweaks
+Description: Copy now playing title/link in Control Center by pressing and holding on the title.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: CCLink
+
+Package: com.fidele007.cclink
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.cclink_0.0.3_iphoneos-arm.deb
+Size: 6878
+MD5sum: b1d1030533db5a20276dd04637958da7
+SHA1: cc35ca81a961a10f8fc4d33facbec0b95851ade2
+SHA256: 5f60e3d38a5da43fa70ff0ef8218836da583bcd43c7add190c3f1a748a27bf36
+Section: Tweaks
+Description: Copy now playing title/link in Control Center by pressing and holding on the title.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: CCLink
+
+Package: com.fidele007.cclink
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.cclink_0.0.3-1+debug_iphoneos-arm.deb
+Size: 9018
+MD5sum: 2a0b20fce14b23863df1c36af1deec42
+SHA1: 541758b9ecd5edecb0c2c57d8619e036fc276d30
+SHA256: 4c662b5858064171ef7361a4bebfb0f0b35b85abb1259f71c30e74dacf414dc0
+Section: Tweaks
+Description: Copy now playing title/link in Control Center by pressing and holding on the title.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: CCLink
+
+Package: com.fidele007.cclink
+Version: 0.0.3-7+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.cclink_0.0.3-7+debug_iphoneos-arm.deb
+Size: 9224
+MD5sum: 0e023b3101f2e1e08b87bbbb1b3e60a8
+SHA1: e895aa2561e5c796a415ee23aa748223d61f0770
+SHA256: a43175351da7cd3a1e9d47f99f3fe193559e2f4b0dc607142c5b65a362a0b2d5
+Section: Tweaks
+Description: Copy now playing title/link in Control Center by pressing and holding on the title.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: CCLink
+
+Package: com.fidele007.cydiacounter
+Version: 1.0-6
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 101
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.cydiacounter_1.0-6_iphoneos-arm.deb
+Size: 5064
+MD5sum: d18863cf36e46fc5a10ae09cf6a1e22f
+SHA1: 1e6ec3ca3f4fc380f574fb445f7f2dcd9d4921ef
+SHA256: 53c2683c28b3b87b0487302a0469d3d13506fd99085a3ae32696ea4fe8ffa7e1
+Section: Tweaks
+Description: Show number of installed packages under User, Expert and Recent sections.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: CydiaCounter
+
+Package: com.fidele007.databar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.databar_0.0.1_iphoneos-arm.deb
+Size: 59508
+MD5sum: 8e7998ae9eaf552ac1384c5821d9f899
+SHA1: 5b0c711c78b59db4dfa0ba433790746b4ee4dc64
+SHA256: 56853131d46bd3a50b697ca8204e3be1a10b045c6791c8cbb6a92e80ea473c47
+Section: Tweaks
+Description: Color status bar when cellular data is enabled. Toggle tweak and/or choose color in the Settings.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: DataBar
+
+Package: com.fidele007.databar
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.databar_0.0.2_iphoneos-arm.deb
+Size: 71098
+MD5sum: 15eb9464ce9973ea006f64d6d99dfe49
+SHA1: 3909c49d921db494505845bc92ac6914b850fbf4
+SHA256: 931ba27f2b5c00e0e4406078fd0d1a9ea24a36f0fd8fbbf95f906a625f3a3e2b
+Section: Tweaks
+Description: Color status bar when cellular data is enabled. Toggle tweak and/or choose color in the Settings.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: DataBar
+
+Package: com.fidele007.databar
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.databar_0.0.3_iphoneos-arm.deb
+Size: 67344
+MD5sum: d4deae29c187c21439cd12bc8e2631a2
+SHA1: 6b7d56063e61137fbb8eee8e5405d89c7db50950
+SHA256: bad5f84f984d69d9ebbf9941f1d9bad70ea7a7c103ac88f85a6d3d478020dd57
+Section: Tweaks
+Description: Color status bar when cellular data is enabled. Toggle tweak and/or choose color in the Settings.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: DataBar
+
+Package: com.fidele007.databar
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 348
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.databar_0.0.4_iphoneos-arm.deb
+Size: 67392
+MD5sum: e90be1f72ff902d94cd0ab2778b8ddcc
+SHA1: 14e4a1d30046005b2ecf7ee31788818db433ef68
+SHA256: 8d7de2d6cf0b382b6d4470acdc7caaf2c11fe0abe30f467266c70a213f20acca
+Section: Tweaks
+Description: Color status bar when cellular data is enabled. Toggle tweak and/or choose color in the Settings.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: DataBar
+
+Package: com.fidele007.devicespoofer
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1184
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.devicespoofer_0.0.1_iphoneos-arm.deb
+Size: 8806
+MD5sum: d9149302e09e41bb8a5b66273076364f
+SHA1: 873fdb34c7ff29e3dad7d004504056a759a31669
+SHA256: e2db658bffb7b9beb8ea466dc3a0a797055b5903df17ed29efbe33fddf84d2f7
+Section: Tweaks
+Description: Spoof device (iPhone or iPad) for selected apps.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Device Spoofer
+
+Package: com.fidele007.echo
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 646
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.echo_2.1-1_iphoneos-arm.deb
+Size: 1649234
+MD5sum: 7212ce9cbb2000988275acc81dc5fe1e
+SHA1: da4d9752f1908d44bc43508823c01603ebbafd8f
+SHA256: eae1f111e7a3a84b349b58dff751e9496c923a55e42a381569c13d9c45f6d1ef
+Section: Tweaks
+Description: Make your device come alive with sounds!
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.echo
+Name: Echo
+
+Package: com.fidele007.emojikey
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 322
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.emojikey_1.0-2_iphoneos-arm.deb
+Size: 48926
+MD5sum: ecde09f61baaaf3279261c6ec2937fce
+SHA1: be4b4ea7f8f98801619051e77be3f11096e7f5e2
+SHA256: ea3d7ef8adfc39b2625b35ce8eae96c4d44359aa62d7a85defa304828d67da85
+Section: Tweaks
+Description: Replace Dictation key with Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.emojikey
+Name: EmojiKey
+
+Package: com.fidele007.emojikey
+Version: 1.1-10
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 322
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.emojikey_1.1-10_iphoneos-arm.deb
+Size: 50328
+MD5sum: 620f902b914c9d77064935dc53178ebc
+SHA1: 4770df616ca58c83e0c848112636d4624af30f93
+SHA256: 7db240e2298fcdaf8357531229ec1357f28cfba2f78d558c67508024af6e5e72
+Section: Tweaks
+Description: Replace Dictation key with Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.emojikey
+Name: EmojiKey
+
+Package: com.fidele007.emojikey
+Version: 1.3-21+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 496
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.emojikey_1.3-21+debug_iphoneos-arm.deb
+Size: 47586
+MD5sum: c7aa1f0d8c66257e443d6cad87a891c9
+SHA1: 452ed720313c3b7731da8de9bec96ddf1c36c993
+SHA256: 15f0168c7e728e16fd2f9e45dd4b3e369eae732640b2167bdddcdfbf2bc22bd9
+Section: Tweaks
+Description: Replace Dictation key with Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.emojikey
+Name: EmojiKey
+
+Package: com.fidele007.emojikey
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.emojikey_1.5_iphoneos-arm.deb
+Size: 50300
+MD5sum: 9e9728818570ff5a73b3d12cac19152a
+SHA1: d6a7f2ce8687a5869cea8b851cf843a97fa5e6f1
+SHA256: 137dcf107896aad06caa0487c7e17589a00c35f2edba84dc46bcb22e04a984d8
+Section: Tweaks
+Description: Replace Dictation key with Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.emojikey
+Name: EmojiKey
+
+Package: com.fidele007.emojikey
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 676
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.emojikey_1.5.1_iphoneos-arm.deb
+Size: 52250
+MD5sum: 51e1f859c83849e7f73849b57ff0943a
+SHA1: 8ed1423e013336186afb2d055ff426799ad9d7aa
+SHA256: e12e65505353e2be37a72e2d0b1ead91722f5f0b400e7a899f7aca7632209d48
+Section: Tweaks
+Description: Replace Dictation key with Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.emojikey
+Name: EmojiKey
+
+Package: com.fidele007.emojikey
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 484
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.emojikey_1.5.2_iphoneos-arm.deb
+Size: 48436
+MD5sum: dc3bb4b2c1c7b51c513495dfab48e887
+SHA1: da74caf94d984e878466f32606429dc8a1c25cdd
+SHA256: 31436f5cfd199e62a6246e0c0b6b3a98c99ddb1ceef4b09072b20b5189eff5de
+Section: Tweaks
+Description: Replace Dictation key with Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.emojikey
+Name: EmojiKey
+
+Package: com.fidele007.emojikey
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 676
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.emojikey_1.5.3_iphoneos-arm.deb
+Size: 52546
+MD5sum: 9074cac6779f6f56056d2e9f9d9af3b6
+SHA1: dac87988e4fa5c721fa89a26636ba36cce99b7e0
+SHA256: 03d76c8653cfd64b55f17ba18dd6dfa43a99cf06f445f5860d8e4d421c90be56
+Section: Tweaks
+Description: Replace Dictation key with Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.emojikey
+Name: EmojiKey
+
+Package: com.fidele007.facebookfontsfix
+Version: 43.0-7
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.facebookfontsfix_43.0-7_iphoneos-arm.deb
+Size: 5310
+MD5sum: 33664c1ee5e4e5bc6040147b8fef2aa4
+SHA1: ba8fa7a534bb5500712effd25581651cbf963da3
+SHA256: 53f54f7bb9e120699d7d3ddf9ef35dcd8c80e0f74c14be7c38bc2d8001829e40
+Section: Tweaks
+Description: No more truncated text on Facebook.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.facebookfontsfix
+Name: Facebook Fonts Fix
+
+Package: com.fidele007.facebookfontsfix
+Version: 43.0-95+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 121
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.facebookfontsfix_43.0-95+debug_iphoneos-arm.deb
+Size: 125480
+MD5sum: f2c7d9309a31288bfe4c9a5721853817
+SHA1: 4d895a0f526c9c3f0592c71a7e781fabed587c5b
+SHA256: 6ed125e923c285161fcc9373da2ad1db36a15f2ccae8e0993ea84efb8cf34367
+Section: Tweaks
+Description: No more truncated text on Facebook.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.facebookfontsfix
+Name: Facebook Fonts Fix
+
+Package: com.fidele007.facebookfontsfix
+Version: 43.0-97+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.facebookfontsfix_43.0-97+debug_iphoneos-arm.deb
+Size: 7672
+MD5sum: 71f77b8c21ef1c1fbee407cc7a9e8a9f
+SHA1: fff931a4609883236f3a114cc6af0204055ac8d5
+SHA256: 6aa222b1b32b92499c4910a4612b442f8b11f5339a06ac5f1624399e5413e1dc
+Section: Tweaks
+Description: No more truncated text on Facebook.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.facebookfontsfix
+Name: Facebook Fonts Fix
+
+Package: com.fidele007.flashtoggle
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.flashtoggle_0.0.1_iphoneos-arm.deb
+Size: 4208
+MD5sum: a297bd25a37d19b3507090269d95ce0f
+SHA1: 7465a92ff6434d966b8674f259e75e638fdf6cb7
+SHA256: 147ff5c1258e61aed68a1ae26f31972ac5505fe2b7645ebeb7906693580e0aa2
+Section: Tweaks
+Description: Toggle Camera flash by tapping instead of tapping and choose. Long press the Camera flash to show the flash choice menu.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: FlashToggle
+
+Package: com.fidele007.fullscreenalbumart9
+Version: 0.0.1-97
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 206
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.fullscreenalbumart9_0.0.1-97_iphoneos-arm.deb
+Size: 20548
+MD5sum: 66cfabb0a3d0d07c348b589a1afeebb6
+SHA1: 08654747b663e485b956f048974a94a42913f877
+SHA256: 82e3f7c83f6f392eeaa28cadcdb904640547c3ee03aee9ce9351fc051481cc69
+Section: Tweaks
+Description: Fullscreen album art on your lock screen, including option for animating album art from right to left and left to right back and forth.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: FullScreenAlbumArt9
+
+Package: com.fidele007.goodautocorrect
+Version: 0.0.1-24
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 149
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.goodautocorrect_0.0.1-24_iphoneos-arm.deb
+Size: 154136
+MD5sum: 235c5803851cd477cd0d672e93afd548
+SHA1: 8a41ba6f7c5e2d0cf35ed8a70645f703ce9529db
+SHA256: 0fe1ee49841429c8e02466dbe901bca42638474f7390a0593ed1c1cfe392160a
+Section: Tweaks
+Description: Disable autocorrect automatically when you hide the prediction bar.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: GoodAutoCorrect
+
+Package: com.fidele007.goodautocorrect
+Version: 0.0.1-33
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 149
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.goodautocorrect_0.0.1-33_iphoneos-arm.deb
+Size: 154136
+MD5sum: a1427b24d087b7b8eba4622ececa002f
+SHA1: 235c228d595eb1c60e6e18f704c9e75960379252
+SHA256: 4208a78e4de7bd0ce2fa073fd8ce67bcf0fd36344485d608eb503f2487f40af4
+Section: Tweaks
+Description: Disable autocorrect automatically when you hide the prediction bar.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: GoodAutoCorrect
+
+Package: com.fidele007.goodautocorrect
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 400
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.goodautocorrect_0.0.2_iphoneos-arm.deb
+Size: 5644
+MD5sum: 05d1c0df5fed574cd98ba121e3cfc43d
+SHA1: d989349966c813ed47284963b47efeee338a3f09
+SHA256: 633f302e814d7e14956e477f10df90a65085918dae9036279a852fe19958be0f
+Section: Tweaks
+Description: Disable autocorrect automatically when you hide the prediction bar.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.goodautocorrect
+Name: GoodAutoCorrect
+
+Package: com.fidele007.homewifi
+Version: 0.0.1-323+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 419
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.homewifi_0.0.1-323+debug_iphoneos-arm.deb
+Size: 417796
+MD5sum: 127fb24ab98b3b06cb4a1ce2ffc20b51
+SHA1: 01bdc203f9bef49e8c8afd809c5cca5b46610a53
+SHA256: 3fd23327799e392282e9a58ba0f132d8869197ace2c3575b9db821937a65d0f4
+Section: Tweaks
+Description: Bypass passcode on known wifi.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: HomeWifi
+
+Package: com.fidele007.homewifi
+Version: 0.0.1-324+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 419
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.homewifi_0.0.1-324+debug_iphoneos-arm.deb
+Size: 417794
+MD5sum: b32ffa1fadc97b236472398b9fcc7f99
+SHA1: ed0a8dc6ade475bc2420996c59716712e00db2bc
+SHA256: 83701efb18add1584a3bdfc78f8154312fb73df1233baba771b2aa1333cecb1f
+Section: Tweaks
+Description: Bypass passcode on known wifi.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: HomeWifi
+
+Package: com.fidele007.homewifi
+Version: 0.0.2-14+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1344
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.homewifi_0.0.2-14+debug_iphoneos-arm.deb
+Size: 836402
+MD5sum: a9a863305c5da8c580691f510223c930
+SHA1: fd485fd965ec5bb1e75b2ef531f53b56a7a10ff9
+SHA256: 6644d457172610f8b5fbb38c0d96eef5b12ddceff419b022fe956b94f9957ddf
+Section: Tweaks
+Description: Bypass passcode on known wifi.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.homewifi
+Name: HomeWifi
+
+Package: com.fidele007.homewifi
+Version: 0.0.2-9+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1335
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.homewifi_0.0.2-9+debug_iphoneos-arm.deb
+Size: 1353762
+MD5sum: bc6463557102f81c93df6405e65e1ddc
+SHA1: 9f786785bd83fa2ed7213fab8523961ab8ce77d1
+SHA256: f5c783d983f67352851187136a1e7dd3cc8cdb22e7c755824baca35098537f16
+Section: Tweaks
+Description: Bypass passcode on known wifi.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.homewifi
+Name: HomeWifi
+
+Package: com.fidele007.homewifi
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1481
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.homewifi_0.0.3-1+debug_iphoneos-arm.deb
+Size: 837066
+MD5sum: d59f9a1acdf21819155fca2a42c80be0
+SHA1: 5fe4d3e079dd46d34310d7df777cba9cc2128cd1
+SHA256: 36f232edffda7904370094e0ea4fce86cb456be0bd7a682c6edf18cde6abfc6c
+Section: Tweaks
+Description: Bypass passcode on known wifi.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.homewifi
+Name: HomeWifi
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1440
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-1+debug_iphoneos-arm.deb
+Size: 190124
+MD5sum: 3289cb7edb083453811257fc6a0f2753
+SHA1: a5c2028d5e58dbb9d9a43457940497656d6300f7
+SHA256: 5ee789851fa2465abda827d9a07018d285db4ef9f9298bbb8fc56e9d2b6bb752
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-1085+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 2280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-1085+debug_iphoneos-arm.deb
+Size: 258886
+MD5sum: 6ca00f0fb08aafad3b27a382cb734c70
+SHA1: fe305b74c619a5198864a9e3ecbfe70bcc3e61b6
+SHA256: 2d79765c1f175bc50b8ca66ca2d75fc2451b4116be05ed3ddbce5e4b6032b6da
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-25+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1444
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-25+debug_iphoneos-arm.deb
+Size: 190642
+MD5sum: 81cb3fbee76b2ebd680cae2664bab55b
+SHA1: 3741debdabd37d098fbafb73e7e3ab93bd8d346c
+SHA256: c8de1ef7a4abf172edfeaed0f5d89795079024eb32979e0afa062a77f3ca2259
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-275+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 2036
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-275+debug_iphoneos-arm.deb
+Size: 225038
+MD5sum: 3118fe77a627038a139578afba5d498a
+SHA1: 56f493013d36b5cb7e8071becb57c48ffe173752
+SHA256: 56dbe38f8e41b35446d5accf6fe3195d6101ad7cb1ffe2ba3b618979bf0870e6
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-276+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 2036
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-276+debug_iphoneos-arm.deb
+Size: 225224
+MD5sum: be833f5f60313be7b26f3da0a5e82b9d
+SHA1: 7730acd7bd7af6535ac9e2cb232fa474fee803da
+SHA256: a366edd837f3edd27d3b45e9021a04f8663a9264be1309a33d77b2754ba41fa1
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-281+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 2036
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-281+debug_iphoneos-arm.deb
+Size: 225338
+MD5sum: c0f43dfa5e529d13a126f0df828dc1b9
+SHA1: b795523dfb08bd0bb92872b59df971cd74581550
+SHA256: 15ae44a0cff9aed6749563990f85b7fb1708a5892fa49ce62783a817e4704697
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-487+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 2112
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-487+debug_iphoneos-arm.deb
+Size: 236148
+MD5sum: 417ee511dc9cbf9c74eaa7b7bd55401d
+SHA1: 72b0f2510e6dcedbbba4b2df6449c83f88bf6e1e
+SHA256: c787b1be1a02f7241f7be49553a66d8e12ce78c83a0f234b08cfea9afa427d31
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-684+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 2152
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-684+debug_iphoneos-arm.deb
+Size: 241282
+MD5sum: bb0817198f977c5231b2f056f8fdb21e
+SHA1: e039f533d76533c3e33f11281ce9434a6299468b
+SHA256: ea773082b05ae00b85c1dfb42e697784df00dba04a8bf5b5b91dc2058ec4e47a
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.hotdog
+Version: 3.3.3-99+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1484
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.hotdog_3.3.3-99+debug_iphoneos-arm.deb
+Size: 197164
+MD5sum: b4f33e60cfa5177e1e22e5e7e611abc3
+SHA1: b92b5c297f14334198fa5b4f355e61ee29681872
+SHA256: 121dc7c752f7210ed8e6dc85a36bb14dde61dba7fddd0979e0f2a4ba3388bb80
+Section: Tweaks
+Description: A cool tweak to customize your iOS experience.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Name: HotDog
+
+Package: com.fidele007.imessagereadreceiptsflipswitch
+Version: 0.0.1-37
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 953
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 9.0)
+Filename: debs/com.fidele007.imessagereadreceiptsflipswitch_0.0.1-37_iphoneos-arm.deb
+Size: 970292
+MD5sum: 7338f26ce2e318838f0ae3aa3560826e
+SHA1: 39120ae4a787cd20e4c6a0796b80750bab975f59
+SHA256: 973014b28b95fc53e75b0bf08882f1524e42c17ab48c933f652ae764acac27cb
+Section: Addons (Flipswitch)
+Description: A Simple Switch for the Flipswitch API!
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: iMessage Read Receipts Flipswitch
+
+Package: com.fidele007.khmersmarterkeyboard
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 276
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.khmersmarterkeyboard_1.5_iphoneos-arm.deb
+Size: 29004
+MD5sum: 7a444323d08b335f8f8392f751c42d7e
+SHA1: 360a5c3998fd177219553df72c6d05abab4f8513
+SHA256: a5b6887bbcb5183b3fe4a26f490ebf5d78267cdb80b0d2807e3bcaffb737c391
+Section: Tweaks
+Description: Various improvements on Khmer Smart Keyboard.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterkeyboard
+Name: Khmer Smarter Keyboard
+
+Package: com.fidele007.khmersmarterkeyboard
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 276
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.khmersmarterkeyboard_1.5.1_iphoneos-arm.deb
+Size: 29052
+MD5sum: fe80ad7dd9d6394965d4ff9b77816a03
+SHA1: ec4bb064658506ab481de778d28da50db7e5f88b
+SHA256: 2b3da01d1059e6dfb69eebecc845c98e5901a140460984d4d2a666edfd9d7543
+Section: Tweaks
+Description: Various improvements on Khmer Smart Keyboard.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterkeyboard
+Name: Khmer Smarter Keyboard
+
+Package: com.fidele007.khmersmarterkeyboard
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 276
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.khmersmarterkeyboard_1.5.2_iphoneos-arm.deb
+Size: 29148
+MD5sum: 156c81be5b4d7e2711654565524ddb22
+SHA1: dd772ae9ab1e712737cb67ed55618c5841181a46
+SHA256: eaa523799db4182601c3e05a653ea716457b6250c8d46f52fb46d7375dbb6fe0
+Section: Tweaks
+Description: Various improvements on Khmer Smart Keyboard.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterkeyboard
+Name: Khmer Smarter Keyboard
+
+Package: com.fidele007.khmersmarterkeyboard
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 464
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.khmersmarterkeyboard_1.5.3_iphoneos-arm.deb
+Size: 101396
+MD5sum: 353c785d78a1b7a9977c2cb8a15f0048
+SHA1: 819ac557259a2a2958ba5216eb5e60c044a62888
+SHA256: e2c1ba9cc7ce3aeffef3868426bb0d2f4d2e51c2b000ebf0ce9602b8f7bac6a0
+Section: Tweaks
+Description: Various improvements on Khmer Smart Keyboard.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterkeyboard
+Name: Khmer Smarter Keyboard
+
+Package: com.fidele007.khmersmarterkeyboard
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 480
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.khmersmarterkeyboard_1.5.4_iphoneos-arm.deb
+Size: 101820
+MD5sum: 8707480658698461e01636404618099a
+SHA1: 6ca7b648de97b3e48528a200c5eb31e0b6644b3b
+SHA256: 0d184e373bcfbe6648cefdca1ecf6154dfadb55b54151ce41b0c025b5166a3e6
+Section: Tweaks
+Description: Various improvements on Khmer Smart Keyboard.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterkeyboard
+Name: Khmer Smarter Keyboard
+
+Package: com.fidele007.lastgrabberapp
+Version: 0.0.1-10
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 149
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/com.fidele007.lastgrabberapp_0.0.1-10_iphoneos-arm.deb
+Size: 6372
+MD5sum: b4e9e9ed4c3c9c1a5461ca360180fb9a
+SHA1: 610ad2a069ba60dc612275b004d21099291bb685
+SHA256: 0d3c8b0bd0a5d4295b751fca155118fc50e0c4e52f5aaa5e015f0dcdc1f61723
+Section: Tweaks
+Description: Last app on the bottom left of your lock screen.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: LastGrabberApp
+
+Package: com.fidele007.lastnotification
+Version: 0.0.1-40
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 158
+Depends: mobilesubstrate, libactivator
+Filename: debs/com.fidele007.lastnotification_0.0.1-40_iphoneos-arm.deb
+Size: 162322
+MD5sum: a60768c482eca75ed4532415946c46f5
+SHA1: 726bd61a964ddf53f9bf11b65970c4bf344872e6
+SHA256: 51a778eaee25b2adf9543e48f6beb34407fdb2be8623a7667c3942961461335b
+Section: Tweaks
+Description: Show your last notification via an Activator action.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: LastNotification
+
+Package: com.fidele007.lastnotification
+Version: 0.0.1-42
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 158
+Depends: mobilesubstrate, libactivator
+Filename: debs/com.fidele007.lastnotification_0.0.1-42_iphoneos-arm.deb
+Size: 162322
+MD5sum: 66e9a856b85d93a7f179f56fe2627171
+SHA1: e92a05f11c1f01b867a677085d4ca4c7b261c706
+SHA256: 89f7b101f79f9c89847d2fe117df840af13028940a3e1d3d0e2aeb0e5e0c0ea4
+Section: Tweaks
+Description: Show your last notification via an Activator action.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: LastNotification
+
+Package: com.fidele007.launchscreen
+Version: 0.0.1-255+debug
+Architecture: iphoneos-arm
+Maintainer: Force Fidele KIEN
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.launchscreen_0.0.1-255+debug_iphoneos-arm.deb
+Size: 38942
+MD5sum: 33f053814567a25aa41e5a2f5b4be563
+SHA1: 693b118ae33763056ab98c22f30e3cd02d316e74
+SHA256: 5ca6d9ee9cf238715ac1c515058f0207f08796ad5d79c7c7872e3df2f4f9bc07
+Section: Tweaks
+Description: Customize launch screen for iOS apps.
+Author: Force Fidele KIEN
+Name: LaunchScreen
+
+Package: com.fidele007.lowpowericon
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate, com.thomasfinch.priorityhub
+Filename: debs/com.fidele007.lowpowericon_0.0.1_iphoneos-arm.deb
+Size: 3476
+MD5sum: 5ffc7fb28fad4c273408d92c5a15b89f
+SHA1: ea9fd2142f51d65e5a0f23b4135c4794e81c7ec2
+SHA256: ca182569a084ac261c3df6a77e86dafdd3279ae64d2914f9137ce4f977a20584
+Section: Tweaks
+Description: Show low power mode icon for Priority Hub's notification.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: LowPowerIcon
+
+Package: com.fidele007.lowpowericon
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate, com.thomasfinch.priorityhub
+Filename: debs/com.fidele007.lowpowericon_0.0.2_iphoneos-arm.deb
+Size: 3878
+MD5sum: d3fb3a61c9b03fa0a4c4fa158b7a83ad
+SHA1: 3db865822ac5a0e77836421a15a785b9056b96a5
+SHA256: e2cb444da121f757d467b481db807ebe1574ed26d0ea8e87fcea3475a390c8fb
+Section: Tweaks
+Description: Show low power mode icon for Priority Hub's notification.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: LowPowerIcon
+
+Package: com.fidele007.marrows
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.marrows_0.0.1_iphoneos-arm.deb
+Size: 3596
+MD5sum: b68c74bdee1749c6c6fcf91f98d13f3b
+SHA1: afd1f9d39bb9be614c0a4ad01c80e1acdb49b932
+SHA256: aab4d942a84d56b7416fb69548bbec71556c2a13a8489e220b96ce5fb8eecbbf
+Section: Tweaks
+Description: Fix confusing arrows in Mail app.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Marrows
+
+Package: com.fidele007.messengerflower
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.messengerflower_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3900
+MD5sum: 70669c19449367ae10f5555802cdd73a
+SHA1: 68393fa669f1060b468cd99eebe5196bdd7f13e6
+SHA256: 3eeeffc8a7df5bb501ed53439859508f4e2a869f78519675e0d0b01c4ded66cc
+Section: Tweaks
+Description: Flowers in Messenger!
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: MessengerFlower
+
+Package: com.fidele007.messengernotification
+Version: 0.0.1-45
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 85
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.messengernotification_0.0.1-45_iphoneos-arm.deb
+Size: 4336
+MD5sum: 4269f0ecd337c1b84f5383b632f9ad73
+SHA1: d214fe4b105fc2a5de9e589f2f760106dc1afb36
+SHA256: 4776d6d6e99d01c741611a4f4407ad7e210a7f5a39785ac6ba0412e8f4777521
+Section: Tweaks
+Description: Messages app-like notification for Messenger.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: MessengerNotification
+
+Package: com.fidele007.miscreet
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.miscreet_0.0.1_iphoneos-arm.deb
+Size: 7642
+MD5sum: 3acbb6186ebcf638a722efe51dcd507d
+SHA1: 1d6e11ede88f4b1024649aceeaa0fb480ef5d5c2
+SHA256: 87d293eaf4995e510e1c68579357fa71a3726802778b6b6a86f5dfe76159115f
+Section: Tweaks
+Description: Ninja mode in Messenger!
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.miscreet
+Name: Miscreet
+
+Package: com.fidele007.multiplereturntosender+
+Version: 0.0.1-274
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 244
+Depends: mobilesubstrate
+Conflicts: com.mohammadag.multiplereturntosender
+Filename: debs/com.fidele007.multiplereturntosender+_0.0.1-274_iphoneos-arm.deb
+Size: 43160
+MD5sum: 1355d488f075add9aa8306f0ab44f920
+SHA1: 4553ec98b92cfdff7b05a4c9f4799f43d9ada6f0
+SHA256: 21636b662abc0f68ad6e3ddb7449f53923ef2a7dab1c625d30ac7219ce1b5364
+Section: Tweaks
+Description: Good old MultipleReturnToSender, but cooler. Send message by pressing multiple Return keys.
+Author: fidele007
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.multiplereturntosenderplus
+Name: MultipleReturnToSender+
+
+Package: com.fidele007.multiplereturntosender+
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 340
+Depends: mobilesubstrate
+Conflicts: com.mohammadag.multiplereturntosender
+Filename: debs/com.fidele007.multiplereturntosender+_0.0.2_iphoneos-arm.deb
+Size: 37428
+MD5sum: 0c29e0c9b7b66c0d54448d7a745ad5ad
+SHA1: 7ec9ef6f7a88efee2298539c750047e487b2b135
+SHA256: 2fb45beae516d2dd10fb76806338527a81ca67d0d281282a12fc4ef72e9aaa87
+Section: Tweaks
+Description: Good old MultipleReturnToSender, but cooler. Send message by pressing multiple Return keys.
+Author: fidele007
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.multiplereturntosenderplus
+Name: MultipleReturnToSender+
+
+Package: com.fidele007.nightdictionary
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.nightdictionary_0.0.1-4+debug_iphoneos-arm.deb
+Size: 11720
+MD5sum: b3675275487fc8cade3510700ddc2535
+SHA1: d4eaa605bb964c6c787ab1dd24e0e48f99100862
+SHA256: c00dd3cb2a4eee9dde3f94e7e104097ca74a44ae7d2f8cb8f67a8940ed7ca411
+Section: Tweaks
+Description: Dark mode for the built-in dictionary of iOS.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NightDictionary
+
+Package: com.fidele007.nocallratingfbmessenger
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.nocallratingfbmessenger_0.0.1_iphoneos-arm.deb
+Size: 120844
+MD5sum: 25fd8bf43d870a58bc6650e92b112e57
+SHA1: ea1c5c80bcc1ffd9668baf8d83878165fb0f4005
+SHA256: 00c31d5bc128fdf2ba7af8978d2fd9a46e7cdb351b5f64402b970a763bed0668
+Section: Tweaks
+Description: No call rating after calls in Messenger app.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NoCallRatingFBMessenger
+
+Package: com.fidele007.nocallratingfbmessenger
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.nocallratingfbmessenger_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4532
+MD5sum: 8779ab79b77c6555fb9bd23956ac75d2
+SHA1: d1692532155281f69de942eccd3cf274f268d814
+SHA256: 12200f7292df27d83fd914a18ee5f74fa0fd05d8eaa7a85b0ea287ef9cc59095
+Section: Tweaks
+Description: No call rating after calls in Messenger app.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NoCallRatingFBMessenger
+
+Package: com.fidele007.normalbattery
+Version: 0.0.1-14
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 101
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.normalbattery_0.0.1-14_iphoneos-arm.deb
+Size: 5102
+MD5sum: a3d08e6a2ba9f51c0280871c1049eefe
+SHA1: 8c6d2aa17ca49e70cb7f0378116639e6012b2bbe
+SHA256: e90ee6a3c04454487c76269afa0796cefcfbfe4b6c7b8a983c385433d68c6483
+Section: Tweaks
+Description: Show normal battery color when Low Power Mode is enabled.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NormalBattery
+
+Package: com.fidele007.normalbattery
+Version: 0.0.1-9
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 85
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.normalbattery_0.0.1-9_iphoneos-arm.deb
+Size: 88078
+MD5sum: dc542b8d0a3adec3e79ca15fed003d50
+SHA1: 42d8776cd60f7cdd597dd60d653d1f807199cc02
+SHA256: da1002a382923c23ef660047cd779c38ea525bbb63471f866bec2fdab3387c85
+Section: Tweaks
+Description: Show normal battery color when Low Power Mode is enabled.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NormalBattery
+
+Package: com.fidele007.noticopy
+Version: 0.0.1-40
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 85
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.noticopy_0.0.1-40_iphoneos-arm.deb
+Size: 9032
+MD5sum: b7e4a069e91a562301f27724a7672ede
+SHA1: 5994059d6f054e14a208aff91ece623603ca574c
+SHA256: 0392e95a03f3ae0e0f8f3d10d1bd1225f002767462f875ea54747f55236a7ac4
+Section: Tweaks
+Description: Long press on notifications on Lock Screen and in Notification Center to copy the text.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NotiCopy
+
+Package: com.fidele007.noticopy
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.noticopy_1.1_iphoneos-arm.deb
+Size: 7662
+MD5sum: 0f46a673abeb977222880c19026f9f59
+SHA1: 3f3f64b05d746a2295f9b3942fd3e227a16d00f0
+SHA256: 04b9f45e8b43a4c68b7d1383ff1071b200d7a2f95629d25426b274c56ad924cf
+Section: Tweaks
+Description: Long press on notifications on Lock Screen and in Notification Center to copy the text.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NotiCopy
+
+Package: com.fidele007.noticopy
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.noticopy_1.1.1_iphoneos-arm.deb
+Size: 18788
+MD5sum: 26c592aa03b067ba8691c7b5bffa60a2
+SHA1: 2ea0b364299d587e9bbff48b9e73a81b01271719
+SHA256: 19bd456bf4cb19bc6eb77487bee906d1f9c53ac450c93f408a2fa496da7c7908
+Section: Tweaks
+Description: Long press on notifications on Lock Screen and in Notification Center to copy the text. Starting from iOS 13, "Copy text" is added as a notification action button.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NotiCopy
+
+Package: com.fidele007.novoicemailfbmessenger
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.novoicemailfbmessenger_0.0.1_iphoneos-arm.deb
+Size: 3408
+MD5sum: e34c1fbed5a31cd9d1ac4150d060aa0d
+SHA1: fab5b930005b7cbd4cc63803dac7df218bb288cc
+SHA256: fc154e57d3a8b7fc2e9ce58d8492485ff28c645c6ba3252784e2303ade874146
+Section: Tweaks
+Description: Disable voicemail which activates after call is not picked up.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NoVoicemailFBMessenger
+
+Package: com.fidele007.novoicemailfbmessenger
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.novoicemailfbmessenger_0.0.1-4+debug_iphoneos-arm.deb
+Size: 4490
+MD5sum: f6f428ada7a71dfbf63e6759ca828cf5
+SHA1: 78d9034c9d56f387ef81792742667cdafeba5d66
+SHA256: a6a6a4a6198d9ea462b10869e3ce78299b162046f3c9ae0300bd73ebe2237782
+Section: Tweaks
+Description: Disable voicemail which activates after call is not picked up.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: NoVoicemailFBMessenger
+
+Package: com.fidele007.onlyactiveapps
+Version: 0.0.1-31
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 149
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/com.fidele007.onlyactiveapps_0.0.1-31_iphoneos-arm.deb
+Size: 6938
+MD5sum: 89824a0bdce6ccee8b63cadc122a6151
+SHA1: 7ccfbbbe69151e57bd5409ef69120d6400880888
+SHA256: 1074bbbaf429c0382bb9a4ef36f452c3977b186f007b99afbd3ab093cd00bf41
+Section: Tweaks
+Description: Only keep active apps in your App Switcher. An update for iOS 9 of the original tweak Remove Recents by EvilPenguin.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: OnlyActiveApps
+
+Package: com.fidele007.onlyactiveapps
+Version: 0.0.1-33
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 149
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/com.fidele007.onlyactiveapps_0.0.1-33_iphoneos-arm.deb
+Size: 6870
+MD5sum: 7dfe51b15968c4389f2fd4b0305f6fb1
+SHA1: c5824afcd8d7efb5d12cc868b67541c8303487e0
+SHA256: 279c56a2477800cf3c5cc2f7e32744795aeb6b2953c6e79584ff29d5c2f8aac4
+Section: Tweaks
+Description: Only keep active apps in your App Switcher. An update for iOS 9 of the original tweak Remove Recents by EvilPenguin.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: OnlyActiveApps
+
+Package: com.fidele007.predictioneverywhere
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.predictioneverywhere_0.0.1_iphoneos-arm.deb
+Size: 3674
+MD5sum: 9eba7e384381f5894ff5ae96b1995c13
+SHA1: e670df6cbf0d25a85a40f88216baf33cac96d24e
+SHA256: 797890f836f5545662e99d019999323780e55cd4f37e0e535dcdbef6beadebd2
+Section: Tweaks
+Description: A remake of the 'Enable Predictive Text' patch. This tweak improves on the patch by automatically disabling the prediction bar for Emoji keyboard and fixing UI glitch for some languages when showing and hiding the prediction bar.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Prediction Everywhere
+
+Package: com.fidele007.requestreceipt
+Version: 0.0.1-15+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.requestreceipt_0.0.1-15+debug_iphoneos-arm.deb
+Size: 6160
+MD5sum: ebfc2477ba028805479507aa64fb885d
+SHA1: 772e898c9e60d45bd9c621f8bed63134388746b5
+SHA256: 95a725b4406626231cbba2fa437700795c5f6aa26ad0f2510dfe6241923bfed4
+Section: Tweaks
+Description: Request new storekit receipt everytime you open an app.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: RequestReceipt
+
+Package: com.fidele007.requestreceipt
+Version: 0.0.1-61+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1056
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.requestreceipt_0.0.1-61+debug_iphoneos-arm.deb
+Size: 9374
+MD5sum: 698c26efb7456d27fb70529a6742e467
+SHA1: eda5cedc3c66fc0719c1089f144629f7b726cb04
+SHA256: 873dc326f87c126d67bdc41b630d70faae164180bd1066a6b486f0fd569588ff
+Section: Tweaks
+Description: Request new storekit receipt everytime you open an app.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: RequestReceipt
+
+Package: com.fidele007.reversenc
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.reversenc_0.0.1_iphoneos-arm.deb
+Size: 4212
+MD5sum: c6192deee466ad8280733dff82fd41d9
+SHA1: 14633bc0c923400aaeaa19ccd319f1ccf90ef925
+SHA256: 8d4b25987069ea10a42780366b9eb16b156535624e978d45b3d7312d24d9b7b6
+Section: Tweaks
+Description: Swap Today and Notifications in Notification Center!
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ReverseNC
+
+Package: com.fidele007.reversenc
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.reversenc_0.0.2_iphoneos-arm.deb
+Size: 5644
+MD5sum: a3de4ab1da9135adc1e7b1ae1531fb40
+SHA1: b5d477dc761ab563b04f7d429578c59a45ca068e
+SHA256: adfb286c31ab83d53758f3b967dd667c044b2b1c41f74484624bdc26d85af319
+Section: Tweaks
+Description: Swap Today and Notifications in Notification Center!
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ReverseNC
+
+Package: com.fidele007.scrollerearbuds
+Version: 0.0.1-51
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 85
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.scrollerearbuds_0.0.1-51_iphoneos-arm.deb
+Size: 5154
+MD5sum: 3db262a226b1ab6844c40567e4e15a48
+SHA1: b6135793868c23d17c4e680e7f5fa3680fe33097
+SHA256: d69789133ef56b4fe78560d926db957a5dfac6f49f50d57c66f0c8fb1a7bda36
+Section: Tweaks
+Description: Turn pages in Kindle app with headset volume buttons.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: VolumePageTurner
+
+Package: com.fidele007.showsongmetadataios9
+Version: 0.0.1-34
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 85
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.showsongmetadataios9_0.0.1-34_iphoneos-arm.deb
+Size: 8734
+MD5sum: 47f064cc059c362c0159e5e0e531d18f
+SHA1: 402e2fdb5fc4353c28c03e9a69dbbc2f508da018
+SHA256: fbadb5df1aa3754a91e55386e03d34db7671d74d8299dfcdd87f3e00e3a426bd
+Section: Tweaks
+Description: Show song metadata in Music app. Based on ShowSongMetadata tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ShowSongMetadata iOS 9
+
+Package: com.fidele007.showsongmetadataios9
+Version: 0.0.1-53
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 85
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.showsongmetadataios9_0.0.1-53_iphoneos-arm.deb
+Size: 9846
+MD5sum: f9e55b76b99f576a12fe67da724e0cc1
+SHA1: a148f417549bda3078257efa59fadf8e856424c3
+SHA256: 1576844dde5130f418f47c672dc2697189cc93687f9a5f15a010055abdb03d95
+Section: Tweaks
+Description: Show song metadata in Music app. Based on ShowSongMetadata tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ShowSongMetadata iOS 9
+
+Package: com.fidele007.showsongmetadataios9
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.showsongmetadataios9_0.0.2_iphoneos-arm.deb
+Size: 8996
+MD5sum: aa5f9689e4dd7a6bb35a5f2e938c2f24
+SHA1: 89c7ecccb5c3fdd248311d88d4e009658f2bb641
+SHA256: 5d15026560205fae51fa31c43425f2f3c6cd1c39cbe332192d4b94b65761965d
+Section: Tweaks
+Description: Show song metadata in Music app. Based on ShowSongMetadata tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ShowSongMetadata iOS 9
+
+Package: com.fidele007.slidetounlock10
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.slidetounlock10_0.0.1_iphoneos-arm.deb
+Size: 3214
+MD5sum: 819fd05824c8c7a67a2fc648081c595c
+SHA1: 69962eaa74968f3089b8e959c0e7f9040519eea2
+SHA256: 03f14c145171a4af6c7fad493e13068c7455569ae5dc184e9265a343922a9201
+Section: Tweaks
+Description: Bring back Slide to Unlock to iOS 10. This tweak brings up the passcode view when you slide to the right (normally to show Today view), or unlocks your device if you have no passcode set.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: SlideToUnlock10
+
+Package: com.fidele007.slidetounlock10
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.slidetounlock10_0.0.2_iphoneos-arm.deb
+Size: 4354
+MD5sum: 8923583ce17c37c50af7dfc7bf0ebde9
+SHA1: 5cce8950124aa64129669e52d98de252d2d859be
+SHA256: 8fb6ba85f688226b9ae91912c1cefaea8e67594d01b2b99721ee3972b5736662
+Section: Tweaks
+Description: Bring back Slide to Unlock to iOS 10. This tweak brings up the passcode view when you slide to the right (normally to show Today view), or unlocks your device if you have no passcode set.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.slidetounlock10
+Name: SlideToUnlock10
+
+Package: com.fidele007.smallerccbuttons
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate, com.rpetrich.flipcontrolcenter
+Filename: debs/com.fidele007.smallerccbuttons_0.0.1_iphoneos-arm.deb
+Size: 3624
+MD5sum: f4f9187a76c78402435fa038723ee95e
+SHA1: ca4aa10efa633ee9020f976f50553774509268b0
+SHA256: bc41f31fcea9c10f5426747a6c2bbe5cf03295ac3040591687ac125bd2eacf01
+Section: Tweaks
+Description: Make bottom CC buttons smaller (like stock iOS) for FlipControlCenter.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: SmallerCCButtons
+
+Package: com.fidele007.smallerccbuttons
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate, com.rpetrich.flipcontrolcenter
+Filename: debs/com.fidele007.smallerccbuttons_0.0.2_iphoneos-arm.deb
+Size: 3272
+MD5sum: 067951da9dcbf5d8055b723ce0adbf2e
+SHA1: c3d957b3ae108b17a440443c2c958a662e7058e0
+SHA256: a57867c8309043d0808ee3697646a08e5959f8b5bae0dd0ad986b31da4462c24
+Section: Tweaks
+Description: Make bottom CC buttons smaller (like stock iOS) for FlipControlCenter.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: SmallerCCButtons
+
+Package: com.fidele007.statusbarinappswitcher
+Version: 0.0.1-42
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 149
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.statusbarinappswitcher_0.0.1-42_iphoneos-arm.deb
+Size: 153606
+MD5sum: 4fd162730b08de9842bff68acaef0f02
+SHA1: fd647e2892d60a005133eac775084d1981a0bc1a
+SHA256: c21f66b6e955eb8b401ef629e79d3fda17049581bd3ef1b45f82fdc1b6d3c591
+Section: Tweaks
+Description: Show status bar in App Switcher.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Status Bar in App Switcher
+
+Package: com.fidele007.statusbarinappswitcher9+
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.statusbarinappswitcher9+_0.0.1_iphoneos-arm.deb
+Size: 3064
+MD5sum: 6c6087b566c3f0c90a1daa964e7cf7be
+SHA1: 109827f674de2dc05d2b8073befba5dd6dc60565
+SHA256: 443e43cbc031e5c3f389e6e60b626c349dda8448e66105eb4f99808a5d74306d
+Section: Tweaks
+Description: Show status bar in App Switcher for iOS 9-iOS 10.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Status Bar in App Switcher 9+
+
+Package: com.fidele007.stickycaps
+Version: 0.0.1-27+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.stickycaps_0.0.1-27+debug_iphoneos-arm.deb
+Size: 4034
+MD5sum: 2878ee4a2d0dfbb1cb84aa22352a8a7f
+SHA1: c584524ef18940a37aee7b002e68fa1986de3fdd
+SHA256: c45769098c171f2faa67d2ceee1f7ae551500641a80798f2d9fba1a1ec967da7
+Section: Tweaks
+Description: Make Capslock on iOS Keyboard sticky when using special characters and when switching keyboards.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: StickyCaps
+
+Package: com.fidele007.stickycaps
+Version: 0.0.1-52+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.stickycaps_0.0.1-52+debug_iphoneos-arm.deb
+Size: 4566
+MD5sum: 6da40a55ad3896fe93edaea7a725cee4
+SHA1: c30ef3bbbeda193ac831b870d7dc2d15ff877f60
+SHA256: ec86efbaf8d91230597e7eb250e338c166435bfefbde07652aaae2a9f1cfd52a
+Section: Tweaks
+Description: Make Capslock on iOS Keyboard sticky when using special characters and when switching keyboards.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: StickyCaps
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.0.1-121
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 254
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.0.1-121_iphoneos-arm.deb
+Size: 33346
+MD5sum: dcde5566e21a91957e7225a790207fd9
+SHA1: ecb103e1ef1f8728f721be87f8f39faf1a4c66ca
+SHA256: 9afbd707118741831331ac4cb54915c84ca6a89544d401fac28fc5490e59332f
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.0.1-123
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 250
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.0.1-123_iphoneos-arm.deb
+Size: 33412
+MD5sum: 76fca9843e5d3174fa5983280221b7a6
+SHA1: b22a06f36f619bb6403b562e3da565e320d148af
+SHA256: 27da4fbcd8cf383c7cbce00e5bdb91ed7bd5bada68b56085578573919c10c48f
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.0.1-200
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 250
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.0.1-200_iphoneos-arm.deb
+Size: 35070
+MD5sum: b5e0ef2d5c2e4967127067fba1b1f9c8
+SHA1: ad21736b787007a0e52202d752fc7f7ad1803e6f
+SHA256: 357f464527c1380b921984320e19ffde28945c9d5aa3ee824396a9061295a099
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.0.1-201
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 250
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.0.1-201_iphoneos-arm.deb
+Size: 35188
+MD5sum: bd621f953aad990caa4db193eb9bd40f
+SHA1: 8473aa5b7e77f1dc0a3e6a6246b9e381245fc63e
+SHA256: aa9ee70487ca690fdb09e884f0b912c278bcc615116dcb72106f60616487a3d5
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.0.1-216
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 250
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.0.1-216_iphoneos-arm.deb
+Size: 247930
+MD5sum: 2333aa289b3029cf9ac999de425d8368
+SHA1: e146d251f07f7f28dfb907374a3078398fc049e4
+SHA256: 1d5976444afcd607f5b8d9dbd09d5dd035453c9a70ab4c64adf2b3ae98c3a8f3
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.0.1-43
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 101
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.0.1-43_iphoneos-arm.deb
+Size: 9444
+MD5sum: 1cb3f62f3477666e7e296002bf5a7e6b
+SHA1: fbd2c7f8f5f44dab4f375d42703f09eef2646fb4
+SHA256: 2f1f8f91dec80134435d8189cd1ebfcb5aa71b1cb3a1eef7a4fe4f9dc0c3fff5
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.0.1-56
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 101
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.0.1-56_iphoneos-arm.deb
+Size: 9458
+MD5sum: 3f874106bc6af2f5160945f7b7da1dd9
+SHA1: 613584f7d294f31a9610aea19ddbd556009c65f9
+SHA256: c6c1724d4da9a70a8b8ec4a3a7608ce4cf98ec6d5458efd05dab30686c32abbc
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.1-16+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 326
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.1-16+debug_iphoneos-arm.deb
+Size: 325758
+MD5sum: 3cb455fa1a4190f5ddd3e941af4a3661
+SHA1: 4d94a27ac90a4d9fa43643d8988742bab5d8c6b5
+SHA256: d13d01081cc7a184042988326773a00f9afda2df405bc9c7921bef632c307c57
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.1-17+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 326
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.1-17+debug_iphoneos-arm.deb
+Size: 325758
+MD5sum: 47873c3efaf0e6f053f2adaa2cf54486
+SHA1: 5af3003d7d1486f66fc7abe15ce4a08098a711da
+SHA256: a68310778f2d6ed62001b01b60f40d333832f520e37e3b6d687d5573358350bb
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.1-22+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 1312
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.1-22+debug_iphoneos-arm.deb
+Size: 34274
+MD5sum: 5fed1cfbd9408e63b99aa9e67732c30d
+SHA1: ff237b86fe74d13d651a2a1d80ad92a524ea5e2a
+SHA256: 89bf1b1d0f13ee7e2d96f1e657aba4fcb618c497cc502432abf5fd67c9aaae42
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 316
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.2_iphoneos-arm.deb
+Size: 29566
+MD5sum: 43c2cc4feefc3d695ece2f1941d7b831
+SHA1: ee5c9a212c385313baad94ab0b6e4516a2c62f2e
+SHA256: 6ae8bb749f27e1c64bd239674cfac650d16213d93092dc0ccc5821f713e67418
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.swipedownforactivator
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 316
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: debs/com.fidele007.swipedownforactivator_0.2.1_iphoneos-arm.deb
+Size: 29472
+MD5sum: 11968edad785089508e4f14bceb41f5d
+SHA1: ee90c742f39067760909f73bf1911d964ba5bff5
+SHA256: c1b631ac0215393bbac02f17e40ecd793d041bdc924648a7cdecdd1cccaaaff0
+Section: Tweaks
+Description: Trigger Activator actions by swiping down on SpringBoard (native spotlight invoker), swiping down and swiping up on default lock screen view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.swipedownforactivator
+Name: Swipe for Activator
+
+Package: com.fidele007.themeboard
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.themeboard_0.0.1_iphoneos-arm.deb
+Size: 7590
+MD5sum: 1f9342c1916fe34ce5588301469f11a7
+SHA1: bfb08a66340fc568c15fadcfa8e631a03a4f8a6c
+SHA256: 03bd3d95c37a32e8ab77cca545d937c2175365e6b10f17d6c701763a2eade7a7
+Section: Tweaks
+Description: Keyboard theme intended to be used with LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ThemeBoard
+
+Package: com.fidele007.themeboard
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 248
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.themeboard_0.0.2_iphoneos-arm.deb
+Size: 7620
+MD5sum: a2328bc52a15bea6b20fe0129d0ac61c
+SHA1: 77f28cace3de799a912d0c7e840e3376cebee4a9
+SHA256: 071843aa0fefd668cd3c966f937b1185da406c57315202e93d17bece1b3652e7
+Section: Tweaks
+Description: Keyboard theme intended to be used with LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ThemeBoard
+
+Package: com.fidele007.themeboard
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.fidele007.themeboard_0.0.3_iphoneos-arm.deb
+Size: 7454
+MD5sum: 66f1cc36913c6b5b14122293f8ee451a
+SHA1: 7839142ee0df6974182969a6be16942b4f96b9c7
+SHA256: 83bdad07cf67409ce0bbd2eeb217d6889887443cf9d37815f82a4f761c344c95
+Section: Tweaks
+Description: Keyboard theme intended to be used with LockKeyboard tweak.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: ThemeBoard
+
+Package: com.fidele007.touchidrespringfix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.touchidrespringfix_0.0.1_iphoneos-arm.deb
+Size: 3482
+MD5sum: 12eac9503a1d69d46649f4a29cfb9f79
+SHA1: bc8971fef44474aa98271cc563f2a0da8c41a2a6
+SHA256: 64d46a1669664331664e91bbab813148aee1b80bf19de9bfdd736fee02f18814
+Section: Tweaks
+Description: Fix bug where Touch ID doesn't work after a respring!
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Touch ID Respring Fix
+
+Package: com.fidele007.triplespace
+Version: 1.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 435
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.triplespace_1.2-3+debug_iphoneos-arm.deb
+Size: 432150
+MD5sum: a908d47f3da52b2b5409306654d987f3
+SHA1: 93c157b53dbb230780936bf56d43ed3517c6bdbf
+SHA256: 95e5f41383073e52396428a85b3555c86d8123ce656ffb5047047485c609192b
+Section: Tweaks
+Description: Shortcut for triple space. Now with support for Google Keyboard.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: TripleSpace
+
+Package: com.fidele007.universalmute
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 358
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.universalmute_1.1.1-1_iphoneos-arm.deb
+Size: 51092
+MD5sum: 56b8ee8079515b55c5aa4fe104adfb0c
+SHA1: 342b1d0b674c8d877dbf7f35e986588a49915346
+SHA256: d37c46f68476d7966cffe474ea1b01e46f69e0d6898bd1aecb729a1c46deb6e4
+Section: Tweaks
+Description: Mute the media volume when the ringer is muted.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: UniversalMute
+
+Package: com.fidele007.universalmute
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 500
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.universalmute_1.1.2_iphoneos-arm.deb
+Size: 65510
+MD5sum: f9f2b89142dfa895fb72a69ab48a8073
+SHA1: cd1e8d771e90ef47ac770681632a69b9a4438c66
+SHA256: 0cf30445f27158f5ca45c23f187f9469915db55744b9c4cfd86315f38959e7b6
+Section: Tweaks
+Description: Mute the media volume when the ringer is muted.
+Author: fidele007
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.universalmute
+Name: Universal Mute
+
+Package: com.fidele007.universalmute
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 680
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.universalmute_1.1.3_iphoneos-arm.deb
+Size: 52490
+MD5sum: 6e966f9af05f161156b9699a2c542898
+SHA1: bf9f18475448fec96997bcaddc66087bbbcb7da5
+SHA256: be8087f50c0c8e1e52b141355818e0c85ab0141376faa3c27d5a991ba02258d3
+Section: Tweaks
+Description: Mute the media volume when the ringer is muted.
+Author: fidele007
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.universalmute
+Name: Universal Mute
+
+Package: com.fidele007.universalmute
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 680
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.universalmute_1.1.4_iphoneos-arm.deb
+Size: 52718
+MD5sum: a26a043d05e5a1187291dd72b67dfc52
+SHA1: 34106dd77484287a359ff6c8881ef940b9210eee
+SHA256: 62e57154ecf804e79fec3f30ea86c2e686c7a9388f74a4c37ac55388942a063d
+Section: Tweaks
+Description: Mute the media volume when the ringer is muted.
+Author: fidele007
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.universalmute
+Name: Universal Mute
+
+Package: com.fidele007.universalmute
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: fidele007
+Installed-Size: 628
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.universalmute_1.2_iphoneos-arm.deb
+Size: 47476
+MD5sum: 8a12c582da7a5cd1781e7ad18ea02d7e
+SHA1: 8556d43c3cd1a2d8854023604d98cb68b59735ea
+SHA256: 048c3adf2eb7291989abe9aa320639afd49b0961376ee15b6e3ec3c081037e00
+Section: Tweaks
+Description: Mute the media volume when the ringer is muted.
+Author: fidele007
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.universalmute
+Name: Universal Mute
+
+Package: com.fidele007.unsize
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.unsize_0.0.1_iphoneos-arm.deb
+Size: 3704
+MD5sum: 259d9fab934fd1c68f52c02e13f3145f
+SHA1: 341200227d6b748ff723349f6294c7443b284234
+SHA256: 0e72617d301b3e3453efcf5dfbf0199bc59296f2e4ccbdfce677f54b22a02d44
+Section: Tweaks
+Description: Show disk usage of an app in its uninstall alert.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Unsize
+
+Package: com.fidele007.unsize
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.unsize_0.0.2_iphoneos-arm.deb
+Size: 3904
+MD5sum: 1fcc802dfe7acbd44bcc4ecfed1c8836
+SHA1: e9fb3a8910a6454e226c461d4bd4fe4d9a6d1f6c
+SHA256: d504c60cf03ff653de89919e1deb711d1a93da478160a05c17143dec55eec759
+Section: Tweaks
+Description: Show disk usage of an app in its uninstall alert. Thanks to the open-source Uninstall Application Size by CyKey for showing where to get the app's size.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Unsize
+
+Package: com.fidele007.unsize
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.unsize_0.0.3_iphoneos-arm.deb
+Size: 4414
+MD5sum: 73037d5ba3eb6e32dd7357656639dea4
+SHA1: 5ec8d5bd6db001a378f97a955e7ded69161dbdcb
+SHA256: 0d6972fa5fff01087e6acf794cce78422d14a56ce61115a26fe36fff68a2adf8
+Section: Tweaks
+Description: Show disk usage of an app in its uninstall alert.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Unsize
+
+Package: com.fidele007.uptime
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.uptime_0.0.1-5+debug_iphoneos-arm.deb
+Size: 9208
+MD5sum: cdc5d1e06bf75e3661fa5f4cf8494ca2
+SHA1: eae9be06dde0337920ecf10301128765d6e32757
+SHA256: 9298f2c0e85569e3a4202599a73e77fe1be67175e02d84b31d1b2edcfd0af115
+Section: Tweaks
+Description: Show system up time in power down view.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: UpTime
+
+Package: com.fidele007.whatsappcustomizer
+Version: 1.3.1-25+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 492
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.whatsappcustomizer_1.3.1-25+debug_iphoneos-arm.deb
+Size: 75324
+MD5sum: 0957a7d28535631a9b446bc99beb7564
+SHA1: 7ed51398ff90fdf89a8c03addbd7aeefc819f11d
+SHA256: 841756f228acc9201a8537440e1aa45b8eddc17308397d3c61284a6dd40920d2
+Section: Tweaks
+Description: Make WhatsApp colorful.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.whatsappcustomizer
+Name: WhatsAppCustomizer
+
+Package: com.fidele007.whatsappcustomizer
+Version: 1.3.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 487
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.whatsappcustomizer_1.3.1-7+debug_iphoneos-arm.deb
+Size: 483368
+MD5sum: 852b7293893551b8c072523fa5fd6854
+SHA1: 70176cc61334b13cef3c5023c2b7cdae964f5568
+SHA256: 16bc595cacacb20926c7513086202510b3eff5f02809da5b310707e41f972237
+Section: Tweaks
+Description: Change multiple colors in WhatsApp.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.whatsappcustomizer
+Name: WhatsAppCustomizer
+
+Package: com.fidele007.whatsappcustomizer
+Version: 1.3.4-6+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 480
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.whatsappcustomizer_1.3.4-6+debug_iphoneos-arm.deb
+Size: 65392
+MD5sum: 317aa20ffc48f507d2c1dd01fba8f437
+SHA1: afd059a7e9247dc60fb65edc68e05dd4ecb21f7e
+SHA256: 3e18000d0e7093cfd7f87e5d7d888bc695cd8eed89b550a5019642a2081ec0a3
+Section: Tweaks
+Description: Make WhatsApp colorful.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.whatsappcustomizer
+Name: WhatsAppCustomizer
+
+Package: com.fidele007.whatsappcustomizer
+Version: 1.3.5-15+debug
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.whatsappcustomizer_1.3.5-15+debug_iphoneos-arm.deb
+Size: 65058
+MD5sum: 70aed5eed2c42d8731b391154804cba9
+SHA1: 0e2bba299842126c98601a845082f5e892d1081a
+SHA256: d0d763bc36b2ca1bc1437ecea8adf265f00eb88b9f81d7524f2f7727d2a81345
+Section: Tweaks
+Description: Make WhatsApp colorful.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.whatsappcustomizer
+Name: WhatsAppCustomizer
+
+Package: com.fidele007.whatsappcustomizer
+Version: 1.3.61
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: debs/com.fidele007.whatsappcustomizer_1.3.61_iphoneos-arm.deb
+Size: 53542
+MD5sum: 3bae8f016b84bc9bdf2bd4c7972b56c9
+SHA1: 8fce2bc4ee3934f21005a51dfc760f9e93cd162a
+SHA256: 395633ed4d90bb5a12b86c43a85aec75a9369aa28b73ede014d21937a7b734b4
+Section: Tweaks
+Description: Make WhatsApp colorful.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: https://fidele007.github.io/depictions/?p=com.fidele007.whatsappcustomizer
+Name: WhatsAppCustomizer
+
+Package: com.modmyi.khmerlimons4ios9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Depends: com.bytafont.bytafont3
+Filename: debs/com.fidele007.khmerlimons4.deb
+Size: 45792
+MD5sum: 02663bbbd4ca5fe6df495081039c8688
+SHA1: c8f65ae8b1cce3e6827a32bcf820693a2e0107ce
+SHA256: 1e76a5f9553a1ffb75c0cd80baf3549a55a1582edc56dd036a4f4ab710e85824
+Section: Fonts (BytaFont 3)
+Homepage: https://www.facebook.com/fidele007repo
+Description: This installs Khmer Limon S4 font as your default Khmer Unicode font for iOS 9.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Khmer Limon S4 iOS 9
+
+Package: com.modmyi.khmersiemreapios9
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Depends: com.bytafont.bytafont3
+Filename: debs/Khmer_Siem_Reap_iOS9.deb
+Size: 54044
+MD5sum: 1f59ebe770cae69d3ddfd72ab6eafaba
+SHA1: 651d1a5575cb0a80dcc4c82b0049d88062ce4f57
+SHA256: fe71bab72e24c6ea117eaf15662329a672a5a897347a7ecc290c178792b78007
+Section: Fonts (BytaFont 3)
+Homepage: https://www.facebook.com/fidele007repo
+Description: This installs Khmer Siem Reap font as your default Khmer Unicode font for iOS 9.
+Author: fidele007 <kforcefidele@yahoo.com>
+Name: Khmer Siem Reap iOS 9
+

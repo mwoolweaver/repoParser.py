@@ -1,0 +1,211 @@
+Package: com.qiop1379.anactuallygoodfilzaeditor
+Version: 0.1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.anactuallygoodfilzaeditor_0.1.0~beta1_iphoneos-arm.deb
+Size: 98516
+MD5sum: 4687e5e88142e015e0d5a659a967bd86
+SHA1: dfe4e525a575dc4200b4b8b36aeff859acb6972a
+SHA256: cfef6e5e3174629c0293138987ce1fd71b5d82e39e118b61ab224a1e314af649
+Section: Tweaks
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Author: qwertyuiop1379
+Name: AnActuallyGoodFilzaEditor
+
+Package: com.qiop1379.copy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.copy_1.0.1_iphoneos-arm.deb
+Size: 7914
+MD5sum: f89b28fcfbde681b4e45063a6b38feb8
+SHA1: 50c2a6996ce4b3f811d47f9037199f4727ebe851
+SHA256: 56bc9fadbb6e59cfe837aa25eaaf75098873036452603cac54488a8ba8d1b153
+Section: Tweaks
+Description: Triple tap on UILabels to select and copy text
+Author: qwertyuiop1379
+Name: Copy!
+
+Package: com.qiop1379.designerxi
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 184
+Filename: debs/com.qiop1379.designerxi_1.2.1_iphoneos-arm.deb
+Size: 22628
+MD5sum: f7fa7ae908d1f01886859d9a445bf055
+SHA1: ada0b2b5216b7f2c98efa512f7ca70ee862e2102
+SHA256: 344ec04c7d07712dbd863afb80197b5ad87ccb9842da5a9a42b495d1e7f30275
+Section: Utilities
+Description: Easily create and manage themes or zeppelin icons directly from your device!
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/designerxi/index.html
+Name: DesignerXI
+
+Package: com.qiop1379.dockoutline
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 360
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.qiop1379.dockoutline_1.1.4_iphoneos-arm.deb
+Size: 8300
+MD5sum: cf61634afc93055e10393f5b78a88af2
+SHA1: e44484a0ec2e6ba32290aa5905a09bbcaf51c640
+SHA256: 27a5da6ca8a45bd5a40a1d4dccea22e932ffdd9aba29d8d7b2584d7019f2db3e
+Section: Tweaks
+Description: Turn the dock into an outline
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/dockoutline/index.html
+Name: DockOutline
+
+Package: com.qiop1379.flexbar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 732
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.flexbar_1.0.0_iphoneos-arm.deb
+Size: 205370
+MD5sum: 4e6c87d759bb31fc561a361761610c51
+SHA1: b9a0a3bc2cd6ca9869276ff9f7d6d4705e0a8d55
+SHA256: b2564c9cf16053319612385cf37f6ab9ea8d4839abb4fd06e105050e2deb21bf
+Section: Development
+Description: Open Flipboard Explorer by triple tapping on the status bar
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/flexbar/index.html
+Name: FLEXBar
+
+Package: com.qiop1379.fuckoffsu
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Depends: com.creaturecoding.crux
+Filename: debs/com.qiop1379.fuckoffsu_1.0.0_iphoneos-arm.deb
+Size: 726
+MD5sum: fd2ebb4cfcd160c9b0b9bb1cc5414604
+SHA1: 74568e0925b6f31f193b76c89aa748e4a94a97df
+SHA256: 2fc9ffe3613b8f4e9fe3d6c5568149c022bc56b1f3efc01dd604ace883f5c0a4
+Section: Tweaks
+Description: Always start in NewTerm2 as root
+Author: qwertyuiop1379
+Name: Fuck off, su
+
+Package: com.qiop1379.powerdown
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (<= 10.3.3) | com.midnightchips.ldrun
+Filename: debs/com.qiop1379.powerdown_1.4.1_iphoneos-arm.deb
+Size: 86174
+MD5sum: 92c2716eab8d69f40a2b297d4ff51467
+SHA1: 9f350643f93d668d167f79559fc2d9448e87bfa5
+SHA256: bc01efc746730ba2b13f50de89734dbef26762b2ef02d403b9b04cc1d1c18651
+Section: Tweaks
+Description: PowerDown rewritten for iOS 11
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/powerdown/index.html
+Name: PowerDown
+
+Package: com.qiop1379.romankeypad
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.romankeypad_1.1.2_iphoneos-arm.deb
+Size: 160206
+MD5sum: 1df36ad2892b1956cc9aa5df1671a072
+SHA1: 2afb63563bdc098d44bb99c9bafe5fd962ca7488
+SHA256: cb978da852f5e48fb0c7ba6386e3051e9df06400b80728861f85398760365317
+Section: Tweaks
+Description: Change the buttons in the phone app to Roman numerals
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/romankeypad/index.html
+Name: RomanKeypad
+
+Package: com.qiop1379.separatorbegone
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.separatorbegone_1.2.1_iphoneos-arm.deb
+Size: 3098
+MD5sum: 106798a6b09addd697bd2b5742068c25
+SHA1: 3844c66c11eb50b1e436b7e4206285163715130f
+SHA256: c9da927edc5991638bfbabb5e89bf9e546978309ec7b57b7f113c104f5a54d87
+Section: Tweaks
+Description: Remove the separator on UITableViews and UIStackViews
+Author: qwertyuiop1379
+Name: SeparatorBegone!
+
+Package: com.qiop1379.shreddit
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Depends: com.pixelomer.localizationinjector
+Filename: debs/com.qiop1379.shreddit_1.0.1_iphoneos-arm.deb
+Size: 952
+MD5sum: 11617012d8d761b6ed23356bf942be85
+SHA1: 2ccb81671716f9b4504799af3063be3666b09a90
+SHA256: 8bcc51d7c9cbc2eb21b68665032833394165d79fbe72c93a24b1e75661f8da5a
+Section: Tweaks
+Description: Change most of the reddit functions to end in -eddit. Doesn't really do much.
+Author: qwertyuiop1379
+Name: Shreddit
+
+Package: com.qiop1379.statuscolor
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 312
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.qiop1379.statuscolor_1.0.0_iphoneos-arm.deb
+Size: 156554
+MD5sum: 7569b5a9e3da0a82ed57177d2c8402e5
+SHA1: c42b1733f5bddfcec1b8499401a90850c9a038df
+SHA256: 3ab973e6a2a370cb2d511e659aeb1ec02c69de5037714ebb05742f140c0a4843
+Section: Tweaks
+Description: Color your status bar!
+Author: qwertyuiop1379
+Name: StatusColor
+
+Package: com.qiop1379.thinner
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.thinner_1.1.1_iphoneos-arm.deb
+Size: 65436
+MD5sum: 64af856d4d376362ec5f88ad8c5e2773
+SHA1: 27a04719dcb798f625e60401e94e6a77bafc2fb8
+SHA256: 767e5830fed24fad316dfc50066557e5eb52504bd64c3efad0b7309072631704
+Section: Tweaks
+Description: Change font weight on the lockscreen clock/date.
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/thinner/index.html
+Name: Thinner
+
+Package: com.qiop1379.zeppelicator
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 260
+Filename: debs/com.qiop1379.zeppelicator_0.0.2_iphoneos-arm.deb
+Size: 74774
+MD5sum: e6beae51ba0152accc6fc0421f398256
+SHA1: 7ba536b99aa20ef20d270758cd88114e49e40133
+SHA256: 1a69003fd3364cca0c2a011d03730fd1278429913aa90464c5618b593c756183
+Section: Utilities
+Description: Make custom icons for Zeppelin!
+Author: qwertyuiop1379
+Depiction: https://qwertyuiop1379.github.io/depiction/zeppelicator/index.html
+Name: Zeppelicator
+

@@ -1,0 +1,2698 @@
+Package: com.ichitaso.exsto13
+Section: Tweaks
+Installed-Size: 424
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.6
+Replaces: com.ichitaso.exsto13
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.zachatrocity.exsto, com.julioverne.exsto11
+Filename: ./debs/com.ichitaso.exsto13_0.0.6_iphoneos-arm.deb
+Size: 77472
+MD5sum: 8235239fd6a2fef95d93333152c36682
+SHA1: 9db15990519e0f001fcfe089865876c1eb88ed5a
+SHA256: 434154a82296b8c916565b800e5a3f0bcb08d01fa369ecafea43d229dd4c1e24
+SHA512: 65de858013e38bfe3575fa77e138c13969e75da1bc3abcb72e13296de658e33773211c3465ffe08045da5dd37a5f499d4bd9cad220beddbb2941bb42a70df043
+Description: Unleash your folders
+Author: ichitaso
+Name: Exsto13
+Depiction: https://cydia.ichitaso.com/depiction/exsto13.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/Exsto13.bundle/icon@2x.png
+
+Package: com.ichitaso.dropbear
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: firmware (>= 1.0)
+Filename: ./debs/Dropbear.deb
+Size: 1443938
+MD5sum: e9b4dce570417efcf8193b26a9e5b29b
+SHA1: 097324b16f748564365bca69a1c618cbc9a8aa3d
+SHA256: eff84cbb43d526d363a5a5e2f7a04af2c276bc8b0d8c2e6c7a8c51d8639f08ac
+SHA512: 525242aff05b6801279dfcc6477a8faa5d4b6a7154ab8a1a5d59b852aa07bb28d4f01aadfadf68397cce27ec311a9ffe20ead8ffe94f5964b22c96b2c71d994b
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Author: ichitaso
+Name: Dropbear
+
+Package: com.ichitaso.exsto13
+Section: Tweaks
+Installed-Size: 424
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.5
+Replaces: com.ichitaso.exsto13
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.zachatrocity.exsto, com.julioverne.exsto11
+Filename: ./debs/com.ichitaso.exsto13_0.0.5_iphoneos-arm.deb
+Size: 77204
+MD5sum: 9f4c4a0043efd51e3b2c18dba03bc42f
+SHA1: 3860b7606b64a426119dab2deabf88e3ba439c59
+SHA256: 302269728d5557ad7c3767d1225da92f857cb7f39a48445ccfcf0751834f0b83
+SHA512: 1959f3a94d54aefc859048a5dad0e6480a15d3036e8d1ff53edce4f8a5f82eeb3871f823cd10fbe65c399ee44594fc204f23e9a71923226843d0a51a4ff7e011
+Description: Unleash your folders
+Author: ichitaso
+Name: Exsto13
+Depiction: https://cydia.ichitaso.com/depiction/exsto13.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/Exsto13.bundle/icon@2x.png
+
+Package: com.ichitaso.hidekbsettings
+Section: Tweaks
+Installed-Size: 364
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.5
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.hidekbsettings_1.0.5_iphoneos-arm.deb
+Size: 43516
+MD5sum: 105b62df90ca31239d0562d427e8f491
+SHA1: ac35673f37dfd213c045098ed72164f479ab6af9
+SHA256: 223044af4315a1be286f875f7b760b2fc4dd5f5d61b6996c9d7185dac88239a9
+SHA512: 6ae9eba9c360c2d360cd97d81adbee4756c5e20b128b2a16b3ec98c41bbf6cb9c7ddb3eb5df753233b107f5fbf168d991b72359ca15315f18a7768eae95838d3
+Description: Hide "Keyboard Settings" from the globe button switcher
+Author: ichitaso <willfeeltips+hks@gmail.com>
+Name: HideKBSettings (iOS 11 to 13)
+Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/HideKBSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.hidekbsettings
+Section: Tweaks
+Installed-Size: 372
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.3
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.hidekbsettings_1.0.3_iphoneos-arm.deb
+Size: 44878
+MD5sum: ed7b8231673a1d6d1a8801e3221b7e22
+SHA1: 3155c68d40debab81f5826a594265548ce78045a
+SHA256: 28c72c8a5eabe504f4d370e1abad31a6c414629614466ded3993f983b7be331a
+SHA512: 5e6118662d602b5b63aa4c5e5cefc5df4fc1d85f52a1d0e08f25ea60a9efcb988ac05845878b27e81ebff7aded1c9657d5d4784bf2e4a04bd580b89a0cde5b57
+Description: Hide "Keyboard Settings" from the globe button switcher
+Author: ichitaso <willfeeltips+hks@gmail.com>
+Name: HideKBSettings (iOS 11 & 12)
+Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/HideKBSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.appleringsiphonex
+Section: Themes (Addons)
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: firmware (>= 11.0), com.anemonetheming.anemone
+Filename: ./debs/com.ichitaso.appleringsiphonex_1.0_iphoneos-arm.deb
+Size: 2082438
+MD5sum: f9b6a3271cc0ee8413ef2d6445b590c8
+SHA1: 4e71ef15e9cfdf2ec46d737cfb45d6c2aeb8654b
+SHA256: 75ff96dfe9dda6514e2354faa575dfc3496fd9b9639ac08f45f996b6f90421d1
+SHA512: 6338ccecc8c26a8ee49c9b4e0cdbba3b20fd34a70110e79f980240f9855010d3afbf1ef72a92a7e5686909eaf0d628c80d19d8c9c2937cc12dc667899b7b293d
+Description: Replace the AppleRings & iPhoneX Respring wheel for iOS 11.
+Author: ichitaso & Leo_Dec
+Name: AppleRings & iPhoneX Respring Themes
+Depiction: https://ichitaso.com/apt/depiction/appleringsiphonex.html
+Homepage: https://ichitaso.com
+Tag: compatible::ios11
+
+Package: com.ichitaso.powerselector11
+Section: Utilities
+Installed-Size: 1860
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.2.1
+Replaces: com.ichitaso.powerselector11
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.1_iphoneos-arm.deb
+Size: 200214
+MD5sum: 41512c6ecedf2974f75748d056dad374
+SHA1: da26db306643bec8293c2f8cdc594f68f19c377b
+SHA256: cf0f2b655464a8030ee3c90a3b2fbb7d5586fa5a66ada1e685cf518d3b721d91
+SHA512: acd134398f84108fbdf49cba882ab43093bb1332c51f3f6fd2ab1bf230407991ff1f6582ff89204a339568d4f569ef2b5eef4a4393bb52e198d28741535c38de
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 & 12)
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
+Package: com.bensge.wipi
+Section: Tweaks
+Installed-Size: 264
+Maintainer: bensge
+Architecture: iphoneos-arm
+Version: 1.5~b
+Depends: firmware (>= 6.0), libactivator, mobilesubstrate, preferenceloader
+Filename: ./debs/com.bensge.wipi_1.5~b_iphoneos-arm.deb
+Size: 27098
+MD5sum: 06bcb81fa90b4aea57c9222bfcf6e20c
+SHA1: 58ed778bed13ac308dc4c9b69d933a848dec2abc
+SHA256: 307f060a0cd1b3af1622664553ddf4699b0f82e95feda6812d7de98783b4d00e
+SHA512: 16d49402b8bf6cc13648d11ce396476b489fa34af29233986f4d8014fb0dca09c0dd37d64023d6fddf6618f00afaa415033c27a8a5001fd15fbd35ce180e0430
+Description: Activate system WiFi Picker with an Activator gesture, or by long-pressing the Control Center or FlipSwitch WiFi toggle. Automatically enables Wi-Fi if not enabled.
+Name: WiPi
+Author: bensge
+
+Package: com.r333d.cylinder
+Section: Tweaks
+Maintainer: ichitaso <willfeeltips+cylider@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.7~beta2
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.r333d.cylinder.cylinder_1.0.7~beta2_iphoneos-arm.deb
+Size: 506526
+MD5sum: bae36beb482d41bd6f90774df424b5fd
+SHA1: 638d3d525814d64e9f593fb41743f0e992915d58
+SHA256: 7005c522bf262d08ed8c4ec3bf188f4c12481ec6c8b038c912c9f1ad00de2988
+SHA512: ce071174c0f2706081aae169a509b611d1fddf917487e8490e44b572610d848b0e9a2f6c7f7e1bf9d085a0815dd4983e09fd683bf78b2b3341d28073ffaefc32
+Description: Make your icons dance
+Name: Cylinder
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Homepage: https://github.com/rweichler/cylinder
+Depiction: https://cydia.ichitaso.com/depiction/cylinder.html
+
+Package: com.ichitaso.batteryx
+Section: Tweaks
+Installed-Size: 340
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.2
+Replaces: com.ichitaso.batteryx
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 12.0)
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Filename: ./debs/com.ichitaso.batteryx_0.0.2_iphoneos-arm.deb
+Size: 39818
+MD5sum: 8cb9e247dcff77f6918cfc56757a8e7e
+SHA1: 3b97f9ea7c25dac0adbd6e51499779cfbe5a7be4
+SHA256: db0d817c25234614caf368e949c04cf47ab7e1398f3b18e4a0ac7be38c3b7a04
+SHA512: 49d40da17d1a166f8eae607f2d3865e9c48dc4c9320149bd1680ef6969db5f90884775910835d8b708ccd230a9bb780bfc8daf411d0e863ed45f2a4d6e5af3f6
+Description: Show Battery Percentege for iPhone X Series
+Author: ichitaso
+Name: BatteryPercentageX
+Depiction: https://cydia.ichitaso.com/depiction/batteryx.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+
+Package: com.ichitaso.quickcc
+Section: Tweaks
+Installed-Size: 432
+Maintainer: ichitaso <willfeeltips+qcc@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.3
+Depends: firmware (>= 11.0), firmware (<< 13.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.quickcc_1.0.3_iphoneos-arm.deb
+Size: 59846
+MD5sum: c7b94b05358f9b754ec79fafcd4465b3
+SHA1: b8c235114e04cbf9fd44f0535ed3b72326586c88
+SHA256: 841e1824d40c05f605a706648624baa3bb99663b1d168ab4a305ea18d7494ada
+SHA512: 9f0a340eb866cb390cc4bced8e8a84cea7c0a8f558e8b4b27304a66799507650b763f80d34105f80b85c6bc4211e6c965d47cd585c29f516ac87aa0687fba8bc
+Description: Expands Wifi and Bluetooth connectivity in Control Center
+Author: ichitaso <willfeeltips+qcc@gmail.com>
+Name: QuickCC
+Depiction: https://cydia.ichitaso.com/depiction/quickcc.html
+Homepage: https://cydia.ichitaso.com/depiction/quickcc.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/QuickCCSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.1_iphoneos-arm.deb
+Size: 39592
+MD5sum: f84a650dc943ee56ccf5fe7320ebb7e6
+SHA1: 62a3581244f461ea0e7a95fd943502f8eba70892
+SHA256: 66a60060c2dfbb28fe1d1d1aa2cf18cae29c8c876f0c5602f9f23d058ba0e3d9
+SHA512: 0b0ea96754d3d147782f2eb699eef9dbabea45846043c3447a329e09850564b593002b731fde2d9f265727a11ce3f02fc048d8657b98663f1f5cd1dee948a614
+Description: Use volume buttons to control screenshots and media controls
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.iconsp13
+Section: Tweaks
+Installed-Size: 928
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.1~beta1
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.ichitaso.iconsp13_0.0.1~beta1_iphoneos-arm.deb
+Size: 257082
+MD5sum: e43275b1119d7a7dcab20803824972b4
+SHA1: 143915c8f91e054be7e755fcc0912134711c7914
+SHA256: bf2c7da252faeb0ddf4215e4da82947c2ccacf8e1fd270fbcf16d1fdfb9eec5b
+SHA512: 2ba29dc6e929c2d8e7f236e64a84bba35a9d1120c1de4cb98b72622ef6e870e0d2801999d55df0bb97d6944a8c40662f116b233e8560d81dd845be4bfc95691b
+Description: Moves the iPhone home screen icon vertically.
+Author: ichitaso
+Name: IconSpacer13
+Depiction: https://cydia.ichitaso.com/depiction/iconsp13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.primalfolder
+Section: Tweaks
+Installed-Size: 584
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 0.0.9
+Replaces: com.ichitaso.primalfolder
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Filename: ./debs/com.ichitaso.primalfolder_0.0.9_iphoneos-arm.deb
+Size: 73566
+MD5sum: 855374f9491a5ce8f361a79627bac759
+SHA1: eab88a9539d0a57c2979258d12d287d019963c46
+SHA256: 6a5f84ffbd609f14f134ec510492548d6b728b844e4197728d011d4aca6a5360
+SHA512: cce711dd73921632d41d9345f6e34ade75c60fa249a9e46267ecdacb50b25d054743c7af75b9acd7f1e627f505bfc6c258c627ee0a56bf6246df378eb87e431b
+Description: Display to folder as icon and launch action for Folders
+Author: ichitaso <willfeeltips+pf@gmail.com>
+Name: PrimalFolder
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder.html
+homepage: https://ichitaso.com
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/PrimalFolder@2x.png
+
+Package: com.ichitaso.winterboardapp
+Priority: optional
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.9.3915
+Depends: winterboard, apt7
+Filename: ./debs/com.ichitaso.winterboardapp_0.9.3915_iphoneos-arm.deb
+Size: 165204
+MD5sum: c0bad8e3066b03c3a6633db1187cdbe6
+SHA1: 065ee7f9e6d23c97dc8859f1c5d132d12a1b8615
+SHA256: aa9a9b02cdfdb0cc161f6928ad3ed13144c85370672c7dc675de767a361ea890
+SHA512: 99f6ff9a22e831455a286059f2d01efe8613d042f0b7752c1f15353b3a3f7327b84b6193cc91648cad19aac2f977c1dfb568374b00949361c4ce8439fa43351b
+Description: Return the WinterBoard app.
+Name: WinterBoard App
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Homepage: http://www.saurik.com/id/9
+Icon: file:///Applications/WinterBoard.app/icon@2x.png
+
+Package: com.ichitaso.tibetankey84
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 8.4), firmware (<< 9.0), com.ichitaso.pasithea
+Filename: ./debs/Tibetan-Keyboard-84.deb
+Size: 3150
+MD5sum: dac0686149d3fb9ade33424e46f3be5e
+SHA1: 553c7af6b03f124aebd9769e7b5cf856705ad592
+SHA256: a0c92ccb447edd32ec7e1694fe04795e6bd377f58b9a512b0355a43674c82c9a
+SHA512: 553a2f029bc7d77292f6f25291cf172e106f7f97cad03d2a6fa0c84cb1bd37a3c709458ab72a049956a151a87eb73aa20593eb6ec3b7aa2f194f9d76d9c34678
+Description: Tibetan Keyboard for iOS 8.4
+Name: Tibetan Keyboard iOS8
+Author: ichitaso
+
+Package: com.ichitaso.moretheworld
+Section: Tweaks
+Installed-Size: 200
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-3
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Filename: ./debs/com.ichitaso.moretheworld_0.1-3_iphoneos-arm.deb
+Size: 9174
+MD5sum: c64990d8d144ebff109c5be2059873de
+SHA1: 81a048d5553c94dba64392a9c2da4a96f946944d
+SHA256: 61e0c56dbb252fa70f2bdeec5037d3eaf4aaaf8eacf4776f335d4924f5bedbb2
+SHA512: dba8b29fccfa3826c89d925c74818bc86f2589c6d961781889d50a02cde5b7eff85e63e08f604411b91c988ef198af8bf4ddf97c3f7eb0b172a78d608c4d5c9d
+Description: WebView in TheWorld is strengthened.
+Name: MoreTheWorld
+Author: ichitaso
+Depiction: https://ichitaso.com/apt/depiction/moretheworld.html
+
+Package: com.ichitaso.iconsp13
+Section: Tweaks
+Installed-Size: 928
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.1
+Replaces: com.ichitaso.iconsp13
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad, com.ichitaso.fiveicondock13, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock, com.minazuki.fiveicondock
+Filename: ./debs/com.ichitaso.iconsp13_0.0.1_iphoneos-arm.deb
+Size: 258660
+MD5sum: 1af6feb1e0cd92fc0d085e5d6344b2e8
+SHA1: 4dfa2e3da76cd6414925fa9cb79df02d133eb91b
+SHA256: b445e7fed8ae538cda0bbc9d494825edcf9dfab99aae72694fb18bc214f586b4
+SHA512: 4a40a8b565ba4753351429274e17e4df59533a0949e0830327efaa3686cdd6349cf3057a09c778fa4b67ba33302502f888ab7cc8f99019ca6285fcaf87a25c5e
+Description: Moves the iPhone home screen icon vertically.
+Author: ichitaso
+Name: IconSpacer (iOS 13 - 14)
+Depiction: https://cydia.ichitaso.com/depiction/iconsp13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/IconSpacerSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.4
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.4_iphoneos-arm.deb
+Size: 42040
+MD5sum: 7f8276a74e8c679ffff1cc3f450b71a6
+SHA1: f86258833978a0a2575845e4e804e9cc3e9f7ac2
+SHA256: add12e10b9ff08eac53f510aa5860f8c913c0d02aec6390bc05fcf28677ae85f
+SHA512: a3ada4dd338fce0cbe00f10763d57c20e0f6aed4b6907dbd0413e778387dcd824de318911cbc201107354529e27ec4ee78f9fe90edd4911229fdb4c22888e55e
+Description: Use volume buttons to control screenshots and more
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.npsharesheet
+Section: Tweaks
+Installed-Size: 476
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.7
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.npsharesheet_1.0.7_iphoneos-arm.deb
+Size: 55466
+MD5sum: 809ea077886a48a85e9d4e3eb8939ed8
+SHA1: ff1da642ba4a7b4d327bc8709ead42f546b94dfd
+SHA256: adfc23076bb0ecb269e182ec8c6cf2d0b4ef7b1c67c9ad8854134dd887ceede6
+SHA512: ebf553eb5915871e33be3e5b0841ebe844e6557eeab20adf35853c3815eb8cbee26ffdb8718e91d6e4f1bc2cc6b44b2264445360e94f4755a0c07e644a9266a8
+Description: Quickly share the Now Playing song by ControlCenter
+Author: ichitaso
+Name: NPShareSheet
+Depiction: https://cydia.ichitaso.com/depiction/npsharesheet.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/NPShareSheetSettings.bundle/icon@2x.png
+
+Package: com.mysticwall.sysinfoplus11
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.1
+Replaces: com.mysticwall.sysinfoplus
+Conflicts: com.mysticwall.sysinfoplus12
+Filename: ./debs/com.mysticwall.sysinfoplus_1.1_iphoneos-arm.deb
+Size: 1428334
+MD5sum: ba99b353e98c3c7b9d9d6cf4fdeea4a3
+SHA1: 565265b4a380f875a4a4444ad033796b4cc6f89c
+SHA256: 0bd8b3ae0a7c1050734f5b133afa03ee11c061b131c48f1d3000d81e7413e58e
+SHA512: ff907a6e7160e219b96d8e1b4d20256ee93c9d3bcecbbde6a729ae08852fb6003f6c7edc2cd89b22d104f96f67654a77b0d7979ab4fe386a5a0ae113b3fbedef
+Description: SysInfoPlus shows various information and system status such as system information, process status, memory status, disk space, network routing tables and so on.
+Author: Kouichi ABE <kouichi@MysticWALL.COM>
+Icon: file:///Applications/SysInfoPlus.app/icon.png
+Name: SysInfoPlus 1.1
+Homepage: http://www.iphone.mysticwall.com/SysInfoPlus/index.html
+dev: kouichi
+
+Package: com.ichitaso.youtubepatcher
+Section: Tweaks
+Installed-Size: 152
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-10
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.youtubepatcher_0.1-10_iphoneos-arm.deb
+Size: 4424
+MD5sum: bc88b804b20b794429e9b65a52b84de5
+SHA1: db9de8bf97b2b743f3870b5d15f57593cb2200aa
+SHA256: 38db9e38a2bf8f326e30703e7bbc47dc185c9b71d2ad2bf6639a82ee37a2985e
+SHA512: 089bb44c511f47c243fd051654e6d9a0b1c2a111a858c24409f23ec5f191702c054245c8bd5241176f8ae35519a3bea06aaac8d4a2365b851138ad38e379af46
+Description: No inline Ads/Background Play back
+Name: YouTubePatcher
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+
+Package: com.ichitaso.networkdisabler
+Section: Tweaks
+Installed-Size: 1044
+Maintainer: ichitaso <willfeeltips+ntd@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.0
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.ichitaso.networkdisabler_1.0.0_iphoneos-arm.deb
+Size: 198290
+MD5sum: f1b2b324a22fce7f5b13bc4ce619af7b
+SHA1: be7e37601215b3a7fb94b9bb3cc60e4e297d298d
+SHA256: 64c430cd6a7641b4370ec3e538cc495ab16fc265df1e00d20de890ad862593c1
+SHA512: b51b0dbd676aefc64b1f915cfc6ed033361c18893c0fabbc48d24bf3e843ae3c929a729138a555c4f4c6c75f20a547dba429a287a6cd76211b37ac15a30f79ee
+Description: Control your network when using apps
+Author: ichitaso <willfeeltips+ntd@gmail.com>
+Name: NetworkDisabler
+Depiction: https://cydia.ichitaso.com/depiction/networkdisabler.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/NetworkDisablerSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.lineatpatcher
+Section: Tweaks
+Installed-Size: 308
+Maintainer: ichitaso <willfeeltips+lap@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1-6
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.lineatpatcher_0.1-6_iphoneos-arm.deb
+Size: 47626
+MD5sum: 19cb6ab447297943d4404490918edc20
+SHA1: a8b7b51766850cc13b634dc71f2f72ff16a1dc86
+SHA256: 3b2147962d2e5e9aa955ab2ce32424c58d2bab560f3fe8593f39fe261a1a3bd0
+SHA512: b5d83624995b95fd334d02181a9273e7f1f733a311f15af05fbb5a50fad4b941b272c5303a3c3895e6c042e641b319466056eb56a5ccb1def5c84fbd750c1bf1
+Description: Patch to avoid age authentication of LINE & LINE@
+Name: LineAtPatcher
+Depiction: http://ichitaso.com/apt/depiction/lineatpatcher.html
+Homepage: http://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension
+Author: ichitaso <willfeeltips+lap@gmail.com>
+Icon: file:///Library/PreferenceBundles/LineAtPatherSettings.bundle/LineAtPather@2x.png
+
+Package: com.ichitaso.exsto13
+Section: Tweaks
+Installed-Size: 424
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.4
+Replaces: com.ichitaso.exsto13
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.zachatrocity.exsto, com.julioverne.exsto11
+Filename: ./debs/com.ichitaso.exsto13_0.0.4_iphoneos-arm.deb
+Size: 77176
+MD5sum: f67f39c3aedad595b5cf9f34a21dc72f
+SHA1: 87d695d63c8054d176080d1c2545816304d173bc
+SHA256: be304add1a31f74fd5d98f8d51119f0eeb827b3a27a765bb5fd8a2983f22be62
+SHA512: 38c3611925a3c240b63eb9e936e25284c663c20b90792153945cecea8a6b005f5ddd1b74b40d3bc95d0f9c9cce2b2d2b7373332a738b760c29b8550c58667c28
+Description: Unleash your folders
+Author: ichitaso
+Name: Exsto13
+Depiction: https://cydia.ichitaso.com/depiction/exsto13.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/Exsto13.bundle/icon@2x.png
+
+Package: com.myrepospace.ipon3g.IMEPmodokiLite
+Section: Tweaks
+Maintainer: ipon3g
+Architecture: iphoneos-arm
+Version: 0.4.4
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 5.0), firmware (<< 7.0)
+Conflicts: com.myrepospace.ipon3g.IMEPmodokiLite, jp.ipon3g.IMEPmodoki
+Filename: ./debs/com.myrepospace.ipon3g.IMEPmodokiLite_0.4.4_iphoneos-arm.deb
+Size: 40528
+MD5sum: a9dd0e005410f7332c0cf693707ee30f
+SHA1: cdc42f925e35dc8b64ed3eaee9f72789d907881f
+SHA256: 9733b69aeb8b166db0c50420196be340bc4accb31c6b913123b4a5fc40aea364
+SHA512: 18a86020c29b5be2b473f9668018d33494e5fc6bad15c40cc193b1c569c5e9e6b89cc8dc563190105dfa45df9ef19834dcd7c3e6905dc3691f62cd8e36bb8f0f
+Description: IME patch. beta version. 
+Name: IMEPmodokiLite
+Homepage: http://d.hatena.ne.jp/ipon3g/20120209/1328772586
+Author: ipon3g
+Icon: file:///Library/PreferenceLoader/Preferences/IMEPmodoki@2x.png
+
+Package: com.ichitaso.primalfolder
+Section: Tweaks
+Installed-Size: 584
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 0.0.8
+Replaces: com.ichitaso.primalfolder
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Filename: ./debs/com.ichitaso.primalfolder_0.0.8_iphoneos-arm.deb
+Size: 73692
+MD5sum: cc7574b22207de8a1664f439cf36ec9c
+SHA1: 76d318d02dc236aaf7faaea78dd440191ba56e31
+SHA256: be3d2d1131677918ffb7c89a24d9bdc5210c9e432773f7d93e8ba4acb92d8f4b
+SHA512: 6ed5438571e45fe6dbd8e55e943464ee6acf4c473dc52b5fec4e2a4750acf1bede8fca120a9d0a8a4c6883e23ce7656aaffc2fa0a54de46259c35c09f7db20b8
+Description: Display to folder as icon and launch action for Folders
+Author: ichitaso <willfeeltips+pf@gmail.com>
+Name: PrimalFolder
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder.html
+homepage: https://ichitaso.com
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/PrimalFolder@2x.png
+
+Package: com.ichitaso.quickcc
+Section: Tweaks
+Installed-Size: 432
+Maintainer: ichitaso <willfeeltips+qcc@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.4
+Depends: firmware (>= 11.0), firmware (<< 13.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.quickcc_1.0.4_iphoneos-arm.deb
+Size: 60132
+MD5sum: dac315815d232423eeb6f7ea6d06eed3
+SHA1: afd3c4215612ae9fc6c6bf2109c2e84357dab935
+SHA256: 815df3bdb21c6d26f7fde8a542493c2b8579250cef41e093b165aad3b9671e8a
+SHA512: df4886b76471d17c9e658676d84d8a88b663029a70e325b89510765eb468b4411d78a65245986882a81e6ce3edc536e6b201d885328f2537d03b2a638c8440d5
+Description: Expands Wifi and Bluetooth connectivity in Control Center
+Author: ichitaso <willfeeltips+qcc@gmail.com>
+Name: QuickCC
+Depiction: https://cydia.ichitaso.com/depiction/quickcc.html
+Homepage: https://cydia.ichitaso.com/depiction/quickcc.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/QuickCCSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1.0
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.1.0_iphoneos-arm.deb
+Size: 49022
+MD5sum: 08ff18a45d940b1c0296491b5f641962
+SHA1: e797a60b6dec8b1feb2a3a404ca56df06f0583a3
+SHA256: a1ec7e4da301e412ec86e76aec133739058faba49ff523800199b9f527cf2ec4
+SHA512: fc64e0a13f28ac8190df41199e512e78d9bbd8ffb99c446935b361672cc2daf0e5aee32340b64a78854ab9c88b9e1684c394feb6e30cdeb2561ce8494dfa0814
+Description: Use volume buttons to control screenshots and more
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.powerselector11
+Section: Utilities
+Installed-Size: 2156
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2.8
+Replaces: com.ichitaso.powerselector11
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.8_iphoneos-arm.deb
+Size: 207358
+MD5sum: 8c8a28d02b0ba3efcdc1e5c3c927e294
+SHA1: cd0f94643367c6f1b88f303cd69218c20450d5b5
+SHA256: 6addeda98e173a8d41c3b616af4b03227426db51e5290f5ea3549d5648284b0b
+SHA512: dc2449a2fff4f5c6ceeaa7263040870363d73674260ebf5e371ffc5c3e7704d8a284e9b8aade99c1b2ce5c88751df554c4bde16656c10066f28ed4d5744800bf
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 13)
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.dictationtoggle
+Section: Tweak
+Installed-Size: 360
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.1-1
+Replaces: com.ichitaso.dictationtoggle
+Depends: mobilesubstrate, firmware (>= 5.1), gsc.dictation, preferenceloader
+Conflicts: jp.r-plus.nodictation, cy+model.iphone (= 3.1),  cy+model.iphone (= 3.2), cy+model.iphone (= 3.3)
+Filename: ./debs/com.ichitaso.dictationtoggle_1.1-1_iphoneos-arm.deb
+Size: 109674
+MD5sum: cbe0260801c4826478c22d16b2abf6b9
+SHA1: 96b7d283829854b33b1b91ba436c6e264184a82e
+SHA256: d94fa605fc40b7832f9412e468509ba0b8beb3291f3935f975e4fb906afe85ea
+SHA512: 3550dc4fbc51c8eb9c6a93b34ef268e1ac4e16dd74626f601bddf0706f1e1b894e34be84f79df2054eda966bf70182057444bde0d3520098b55cf4390134f0cd
+Description: toggle keyboard dictation button with Settings
+Name: DictationToggle
+Author: ichitaso
+dev: ichitaso
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/DictationSettings.bundle/Dictation@2x.png
+
+Package: com.ichitaso.otadisabler
+Section: System
+Installed-Size: 200
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-6
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.1-6_iphoneos-arm.deb
+Size: 23550
+MD5sum: 933a26ca508bc0e1d2c5cd7d245b361b
+SHA1: 5d479af453cb016852c371b35dc70a85453af455
+SHA256: 31805bbfb83c17e544a8195f9f0cde199bf01ebd207d840736ae3b0a4d95b491
+SHA512: 8c37d2037ec322a19b7c42ff74bdab6525916e23f7ea3c01bbfc88c3714864c27875a7cf36407dca4b16e2212749f39643cb9e6ffa6e3ea1166a46cba75edd10
+Description: Delete and disable OTA badge
+Name: OTADisabler
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Author: ichitaso
+
+Package: com.ichitaso.npsharesheet
+Section: Addons (ControlCenter)
+Installed-Size: 280
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.3
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.npsharesheet_1.0.3_iphoneos-arm.deb
+Size: 46330
+MD5sum: 574150e3a27e2878afe5f1c0b99a5bf8
+SHA1: b954a7daae22b31528adb052975b8b249e281e48
+SHA256: a0686dd11b826847da5c99f172b900640370910ae7269203cef39b758d7d3a9a
+SHA512: a4887372213260c53fd482c6f62daea74890a27c575af8413842c3a2ce553ba44a7f5de883c6303b4b9dddab427f46469231ae9c7bd78651525c3eb842630585
+Description: Quickly share the Now Playing song by ControlCenter
+Author: ichitaso
+Name: NPShareSheet
+Depiction: https://cydia.ichitaso.com/depiction/npsharesheet.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/NPShareSheetSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.shuttersoundswitch
+Section: Tweaks
+Installed-Size: 1600
+Maintainer: ichitaso <willfeeltips+sss@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.3
+Replaces: com.ichitaso.shuttersoundswitch
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.efrederickson.almpoum
+Filename: ./debs/com.ichitaso.shuttersoundswitch_1.0.3_iphoneos-arm.deb
+Size: 360834
+MD5sum: e371497d593cd011be4f2262dfb8cef5
+SHA1: 559920f508a4fd31952d4490e9484c95727febab
+SHA256: 1895799acfeedbbe3065377fad710709d162c95b1013e874b58ddc74372407ae
+SHA512: 4b6a7b90a1a241b2eb295346c9d018c6b92166f2710d10edbb140a9f2b96fa15b587c0d16e2ff0a94f7974b84861a5bad3d560a1af6186306767b69843c82881
+Description: Extension of the Shutter Sound and ScreenShot, Photos app
+Author: ichitaso <willfeeltips+sss@gmail.com>
+Name: ShutterSoundSwitch
+Depiction: https://cydia.ichitaso.com/depiction/shuttersoundswitch.html
+Homepage: https://ichitaso.com/jailbreak/iphone-shuttersoundswitch/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/ShutterSoundSettings.bundle/ShutterSoundSwitch@2x.png
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.7
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.7_iphoneos-arm.deb
+Size: 45084
+MD5sum: 047aad8616b74e05b3e4e2310e6aba84
+SHA1: 4c116569a5a346149af469001704945f3ad1e451
+SHA256: 2c51e32c7aade24b63c6a42bd93d5043bc2fef923c79cb3ea27e5087bf9fe7cd
+SHA512: 25a471807456832b02004c04c10fefb3bec2048d58687aaa1783e9301e1f12546533a53647f1a1466857a6bb20fc917a52bf1b07ca7a46a509c19e7dab2453dc
+Description: Use volume buttons to control screenshots and more
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.hpbdisabller
+Section: Tweaks
+Installed-Size: 284
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.hpbdisabller_0.1-1_iphoneos-arm.deb
+Size: 35776
+MD5sum: a581963b5f685fed16ea0bde34b2e543
+SHA1: 004401ad096d35de4046e4637200709a4d6f9777
+SHA256: a40b1218f2e98f7be6be3ba857eb3f127bddaf4a840caf6891b568abe0c27d95
+SHA512: b5bdcfcd187077bcccb1c4e4200960ade36bf043302e4f93f71b5b571021eea145eaaf1c07d842ed8a4f1545f90df22f591f01d1df269ec5fedc788cc5aed494
+Description: Disable official headphone buttons
+Name: Headphone Button Disabller
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/hpbdisabller.html
+
+Package: com.ichitaso.powerselector11
+Section: Utilities
+Installed-Size: 1860
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2.6
+Replaces: com.ichitaso.powerselector11
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 204154
+MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
+SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
+SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
+SHA512: 778e3222a10d4eaeb2cd650ac4f6656fa175dc1ac4e0b7b5b04edcf618668b552e503986aa8b5abd64bf8e0a69ce4d5e0b4dd72c9ac87863d51c74081a31413b
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 13)
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.twinkleadkiller
+Section: Tweaks
+Installed-Size: 152
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-3
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.twinkleadkiller_0.1-3_iphoneos-arm.deb
+Size: 3386
+MD5sum: 524770e22d12e570fb87f5bbd7ea7e36
+SHA1: 2cc34ee21e972ccd1e6266068df5ff541b39295d
+SHA256: c290a29f84f2ed9f558ada0d60fcf7724c7c882343b01f50877dd74e95337ca7
+SHA512: fcc14a5349e36472547d11a57f2913fdca1e3fd514d49d004d26d060ca656fa37e1b06933fff53148eff503b6dda38e0587b2ec956da0f884d27b3fbeea7b520
+Description: twinkle for iOS Ads Remover.
+Name: TwinkleAdKiller
+Author: ichitaso
+Homepage: https://ichitaso.com/ipad/iphone-twinkle-for-ios/
+
+Package: com.ichitaso.ikawidget2ad
+Section: Tweaks
+Installed-Size: 152
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.ikawidget2ad_0.1-1_iphoneos-arm.deb
+Size: 4818
+MD5sum: ac7c7daf93b96973b24ee75a1de4ae6f
+SHA1: d6286f73c6b786cf72c6463ead9e8aec34847b21
+SHA256: c2955c62d69ae1d0c2032017151a98054ba509cebca505c9231428a9a21ea5e5
+SHA512: e576cdff6032107773c852a6ea11c454969a4e28429cab0f04de30471d572b7cc5de95f8ecc127c35229a7c08b32554150695ced013b57a536faefabfc19a310
+Description: Remove iKaWidget2 Ads
+Name: iKaWidget2AdKiller
+Depiction: https://cydia.ichitaso.com/depiction/ikawidget2.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/ikawidget2.json
+Homepage: https://ichitaso.com
+Author: ichitaso
+
+Package: com.ichitaso.textlinkaction
+Section: Addons (Action Menu)
+Installed-Size: 112
+Maintainer: ichitaso <willfeeltips@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 4.0), actionmenu
+Filename: ./debs/com.ichitaso.textlinkaction_0.1-1_iphoneos-arm.deb
+Size: 8132
+MD5sum: b6c8053d679a9e93420e8a7b8c53a7b5
+SHA1: 4791525cd1e3ee8568a0f5085062fbc54498d1a4
+SHA256: aa248dcc988baa8b9e00da0eededcd4e71e6a0a5fc9fc34bd7b4f65718fdf1ff
+SHA512: ccd2a0207cf7a761ab2c166b4409643873fc3345269d50d765ffca0cc5693a5bc48d8f2c5adcd629387ab77a5bd236cb7a9ba09a5e9ee1ac35571df079ec0608
+Description: It will open the URL of the selected Text.
+Author: ichitaso <willfeeltips@gmail.com>
+Name: TextLink (Action Menu)
+Depiction: http://ichitaso.com/apt/depiction/textlinkaction.html
+Homepage: http://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, ios7support::1, ios8support::1
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.6
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.6_iphoneos-arm.deb
+Size: 45054
+MD5sum: 10201093ea524927b3f4498a4c9040da
+SHA1: 7d4587141c38a2268f8f39e715788eef2a5d2802
+SHA256: 09344702c44c6b5ccaaed7dc7ce0ae09cfe70d6662260db1fd7cf0ac4bc85eaf
+SHA512: 8df19cc4f22777d1003b00ad908d88dce79ff471d4e84ac655d26675a766304c8eb3e8cc99515208c93dda49373e3e02e14c17462455987ef0950571ef5aabd5
+Description: Use volume buttons to control screenshots and more
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.8
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.8_iphoneos-arm.deb
+Size: 45600
+MD5sum: c548a233e17e821c8ce8d9b36d7f4870
+SHA1: 6701d510f238b2dd4881690fe4f5225ac4b7c9fa
+SHA256: 8a3b0ac09ad350a1473adbb07fbcad258e3af5d84b942addd483d62de85d7026
+SHA512: a4ff4eca4e932ef68e3be610e07c520cd639fb1486f2261617ebdbba2e82bfba32ce46ee53f59fdcbcb047cc3313f43b1cf25a19e0d2500673a58cdc53996569
+Description: Use volume buttons to control screenshots and more
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.pokegols
+Section: Tweaks
+Installed-Size: 2040
+Maintainer: ichitaso <willfeeltips+pgls@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-9
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.pokegols_1.0-9_iphoneos-arm.deb
+Size: 1587210
+MD5sum: fa00f16320225c22cfc9659eab799a5f
+SHA1: d0c8047c5cb5df8f51c3cc3c37fb297fa651a417
+SHA256: c71b08eea416074b462e3fdf452dc117bae575b73e5677e6996dc111fe5de798
+SHA512: 8f76e2311cdc3355b55ec8c2d96f0f1d539dcf6eb9397611fbc78f4c3c7b62100629fbad4a312c77c2285a010203bbce485201b2436ca328c8dd1308c8a04ddc
+Description: PokeGO Team gif Lock Screen animation!
+Author: ichitaso <willfeeltips+pgls@gmail.com>
+Name: PokeGo LS GIF
+Depiction: https://cydia.ichitaso.com/depiction/pokegols.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PokeGoLS.bundle/icon@2x.png
+
+Package: com.ichitaso.moretheworld
+Section: Tweaks
+Installed-Size: 200
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-4
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.ichitaso.moretheworld_0.1-4_iphoneos-arm.deb
+Size: 17906
+MD5sum: ede276fbc0503682dd6b04b90c0f9872
+SHA1: 992196c8e01e3b297e0f24cc07825a7ac0178559
+SHA256: 1c37674854a0ef6057ea11a40bcfa58e5b597870fce6c9e4f11f0db35b44d9da
+SHA512: fbbcd9a710b31a1f8bf6288870179ca92ddd9386da7d6a06c62cc62d7ec0705df4ede5656d91b2510ab52446fc7c3b1d44cd1671eaef92b0be3f90331261a3dd
+Description: WebView in TheWorld is strengthened.
+Name: MoreTheWorld
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/moretheworld.html
+
+Package: com.ichitaso.tibetankey81
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 8.0), firmware (<< 8.2), com.ichitaso.pasithea
+Filename: ./debs/Tibetan-Keyboard-81.deb
+Size: 4610
+MD5sum: f47a4ecad8357266c9cd51a3eea40fa0
+SHA1: 6bcd93aab8d31d8615ec75dcfe39ab7aeb87b90c
+SHA256: 92384ce83cf274b5cfb02b64fe1776e978d8529d9967b4d92a115a6332b0bffa
+SHA512: 6744b60419bf1d36ae0d18da1ad8115ab39e5c6e217ed30438be69e97c92cc97398f2951cb5b7747e4ffbadf9f141954b4c9462ba03eba197f76381d17f5f2da
+Description: Tibetan Keyboard for iOS 8.
+Name: Tibetan Keyboard iOS8
+Author: ichitaso
+
+Package: com.midnightchips.localhostssh
+Section: System
+Maintainer: MidnightChips
+Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: mobilesubstrate, firmware (>= 11.0), sed
+Filename: ./debs/com.midnightchips.localhostssh_0.0.1.deb
+Size: 818
+MD5sum: 7a939bcc5323b3ba580350ab94e40f28
+SHA1: 6ce2077d974fd3eb5f05126416f269789d5edf08
+SHA256: 5abb053310d9b5b7778fc9a08af8b9dd0776b636ae12b434751ff07e83a28058
+SHA512: b4e7e2c12d3be6b728d1289896440f04f20e8ef6cc2f88bc6056d65b2e0413ef07cfcb8d527ee3fb233bf760208846104f58d24f7cb6ebd63b67cbd8e0f4912a
+Description: Access localhost through SSH on iOS 11
+Name: Local SSH
+Author: MidnightChips
+
+Package: com.ichitaso.tibetankey102
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 10.0), firmware (<< 10.3), com.ichitaso.pasithea2
+Filename: ./debs/Tibetan-Keyboard-102.deb
+Size: 3322
+MD5sum: 16ffc70c320b5139798228fb33f4176f
+SHA1: 64fad495e144fde44c708de0f799d7fa3e87fd30
+SHA256: deb012483729a61c0f1d996bf3a77388c4e8a1d64cab0c28d404156f2036cd6e
+SHA512: f5e20264795d06a5b8d9f09b55305ac75ed4be3364bd2dff86ef56f677362452485e0b8cf1220ab4903f774e9a1ac71aa5ef8437ad5c131ae1c3f9dd8d574eb0
+Description: Tibetan Keyboard for iOS 10 - 10.2
+Name: Tibetan Keyboard iOS10
+Author: ichitaso
+
+Package: com.ichitaso.hidekbsettings
+Section: Tweaks
+Installed-Size: 372
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.2
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.hidekbsettings_1.0.2_iphoneos-arm.deb
+Size: 44990
+MD5sum: 3ff6bc82d7efc8bcce19c5abdb5041c3
+SHA1: 6d165521cbb3b1a6667e30c56b5a8c7ae109d06d
+SHA256: e5ecdf55d1b946e13f40151b1d4dd8ab3b5944a6850b479d4b334233cc432143
+SHA512: fd49af298b9814185586093ee87f47dc0684437d29eeae81d813193b40ad345b6b6cb383a909e9e7954e925e4abc59d8c2e02aad1d61551b293a9cafb692aa0a
+Description: Hide "Keyboard Settings" from the globe button switcher
+Author: ichitaso <willfeeltips+hks@gmail.com>
+Name: HideKBSettings (iOS 11 & 12)
+Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/HideKBSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.badgecleaner2
+Section: Tweaks
+Installed-Size: 312
+Maintainer: ichitaso <willfeeltips+bc2@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.1
+Replaces: com.ichitaso.badgecleaner2
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
+Conflicts: com.ichitaso.badgecleaner, com.flex2areo.apptools
+Filename: ./debs/com.ichitaso.badgecleaner2_0.0.1_iphoneos-arm.deb
+Size: 47384
+MD5sum: 5436692748f504aad94dff5ae29840f1
+SHA1: 5fc32ee6ee90712ba87c680816f9e90347b135b3
+SHA256: 31fefbb3ca51f5c819cf0a812a1fc7892bdf624e9184c904d95b70b7a9ab86cf
+SHA512: c3611d012247aa32f4c7c5e26332d6612354b8b864633f8e732d1dd24f8841a6bfba346dc8e54ab803e8365532f518bf51508d906b9a8618e85e6ca97ce98c83
+Description: Swipe icons to clear badges and more!
+Author: ichitaso <willfeeltips+bc2@gmail.com>
+Name: BadgeCleaner2
+Depiction: https://cydia.ichitaso.com/depiction/badgecleaner2.html
+Homepage: https://cydia.ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/BadgeCleanerSettings.bundle/BadgeCleaner@2x.png
+
+Package: com.ichitaso.autolockcc
+Section: Addons (ControlCenter)
+Installed-Size: 128
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-3-1
+Depends: com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.autolockcc_0.1-3-1_iphoneos-arm.deb
+Size: 21738
+MD5sum: d053e8aace7773f80c0c7f335d9c960c
+SHA1: 83edc67d2aae9c5d63990126733bd2224427ee79
+SHA256: 4ff9220d4c57735f221864a98faf1813c1c49e7f4503c701fb8cc6fbb65ca709
+SHA512: 9152bfd89513eb890b2cf2fabe1bdebeda93982c8319eda800b36d85488a566fd789ed2c9470c015d17180006d1ad39d2263440b0d6c7d2cd4fbe3d19617aa2b
+Description: Turn on / off Auto lock from the control center.
+Author: ichitaso
+Name: AutoLockToggle (CCSupport)
+Depiction: https://cydia.ichitaso.com/depiction/autolocktoggle11.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/ControlCenter/Bundles/AutoLock.bundle/SettingsIcon@2x.png
+
+Package: com.ichitaso.exsto13
+Section: Tweaks
+Installed-Size: 424
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.8
+Replaces: com.ichitaso.exsto13
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.zachatrocity.exsto, com.julioverne.exsto11
+Filename: ./debs/com.ichitaso.exsto13_0.0.8_iphoneos-arm.deb
+Size: 77704
+MD5sum: f939176ad6fb0007f125877714051782
+SHA1: ff1dfce12ddaf0aaa37b56a1474aafecbd788635
+SHA256: 43919e5cfd5845303ea21616fa4eb4ef3122c07439b5e34433a6105beafcbaf7
+SHA512: 21f9053880f5fe527a54953ed13f28aec3b8563b40c9174ccf648f2aa429f69dd676b7b1584bab1b10b0330d18ce6e3ed76d8bf06f9409c83553b0e86dbcb0d1
+Description: Unleash your folders
+Author: ichitaso
+Name: Exsto13
+Depiction: https://cydia.ichitaso.com/depiction/exsto13.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/Exsto13.bundle/icon@2x.png
+
+Package: com.ichitaso.batteryx
+Section: Tweaks
+Installed-Size: 340
+Maintainer: ichitaso <willfeeltips+btx@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.4
+Replaces: com.ichitaso.batteryx
+Depends: mobilesubstrate, preferenceloader, applist
+Pre-Depends: firmware (>= 12.0)
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
+Size: 44898
+MD5sum: 37462754ac0cc47270f000b7ed5ba291
+SHA1: e6b18852225d44d7f665266845e6febb1cc20cb3
+SHA256: f4878f55ccee974ef7832cddff051f9cbb756fd76f87b3a646c0df1aef91be3c
+SHA512: 04f4db8e88c7365ace8c6b5a7fd6afd36f36436bca9c56aa55495dc4c7e23c8641b5a0923913b276a07c7f4f1b77b7ff78df9288f08947c818db985de9148c19
+Description: Show Battery Percentege for iPhone X Series
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Name: BatteryPercentageX
+Depiction: https://cydia.ichitaso.com/depiction/batteryx.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+
+Package: com.ichitaso.noupdatemark9
+Section: Tweaks
+Installed-Size: 200
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-2
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.noupdatemark9_0.1-2_iphoneos-arm.deb
+Size: 3122
+MD5sum: 74909046d88c6934271ff2a77acb6ad5
+SHA1: 610ab0f8bcd2d0565b457cbf495488ccf886362e
+SHA256: 2afbbba547589938d948d57cf81374e1a97cd8d8e7eb21e5f4b2a7c535736e85
+SHA512: a2b2b3930d30cfacbef16fe572ed0dc24d3c71c72980bba7a79fd7382df78debcf3e9d0c27f6fff5726210f0a971df5f2c643da6140ddf87e35808dfd4948dca
+Description: No more annoying install/update Mark
+Author: ichitaso
+Name: NoUpdateMark (iOS9 to 13)
+Depiction: https://cydia.ichitaso.com/depiction/noupdatemark9.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios9 compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: com.ichitaso.networkdisabler
+Section: Tweaks
+Installed-Size: 540
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.2
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.ichitaso.networkdisabler_0.0.2_iphoneos-arm.deb
+Size: 61846
+MD5sum: 12c484dcb2e4fd4d4cc3cfc0d9d16d3c
+SHA1: 191b9554128cdc77515154f25622b43689f770d7
+SHA256: 17f02799ddebf1fa650a70d467c759c0b60d682f1706295374f3ca605d721b65
+SHA512: bf19cf828c552b2eeda6c6ef68e4aa4d27b5178a1836238ce2e8621aba276c16d04226bf7e0fb393c3c38f21a90865d15e5b6ef854a2f25c024a45134c09e8aa
+Description: Control your network when using apps
+Author: ichitaso
+Name: NetworkDisabler
+Depiction: https://cydia.ichitaso.com/depiction/networkdisabler.html
+Homepage: https://cydia.ichitaso.com/depiction/networkdisabler.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/NetworkDisablerSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.quickwifi
+Section: Tweaks
+Installed-Size: 272
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Replaces: com.ichitaso.quickwifi
+Depends: firmware (>= 8.0), mobilesubstrate, com.a3tweaks.flipswitch
+Conflicts: com.bensge.wipi
+Filename: ./debs/com.ichitaso.quickwifi_0.1-1_iphoneos-arm.deb
+Size: 25766
+MD5sum: d366351e7df3354c31ae7e2cd4b6cd21
+SHA1: 9a2975345c84fdb13b048901133a4032bd713d0a
+SHA256: d7c51ad48a43b96156bfafb7a85ac8618fdc17ace09cc15352452db291db5afb
+SHA512: 53f259932717fbf11e957c9281d7cf50a3939c5c86d709d7b0fe1698e68c31b97db0e5b3b25de4c658d8ed3837b32f972c6e439c395f793e81eee8a9e2068221
+Description: Switch Wifi to be connected quickly with Flipswitch.
+Author: ichitaso
+Name: QuickWiFi
+Depiction: http://ichitaso.com/apt/depiction/quickwifi.html
+Homepage: http://ichitaso.com
+
+Package: com.unthreadedjb.unthredera1n
+Priority: standard
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0
+Replaces: com.unthreadedjb.unthredera1n
+Pre-Depends: cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 2.1) | cy+model.ipod (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipad (= 1.1), firmware (= 4.3.4) | firmware (= 4.3.5) |  firmware (= 5.0) | firmware (= 5.1)
+Conflicts: repo.weiphone.unthredera1n
+Filename: ./debs/com.unthreadedjb.unthredera1n_1.0_iphoneos-arm.deb
+Size: 155366
+MD5sum: d8b325819101a28a7ac1b4de043a19f7
+SHA1: 2223f98388375e8d793feeb4cd63055118d9b2d7
+SHA256: 1928fbc5d180fffe651921d268929f916b02a0ab2b8b0ce53d8b774b218d0122
+SHA512: 9c98953dee98694b6c7f4fce977e3674e486f2017fdb0917dfe9b4cab05ce813898f9beb1695a083ab50acba3d03cbc598bbcf4c0cdd0f5de91eca5d08e0643a
+Description: iOS 4.3.4 - 5.1 Untethered Jailbreak by @UnthreadedJB for iPhone 3GS / iPhone 4(GSM/CDMA) / iPod Touch(3G/4G) / iPad 1
+Name: Unthredera1n
+Depiction: http://ichitaso.com/apt/depiction/unthredera1n.html
+Homepage: http://unthreadedjb.com/
+Author: UnthreadedJB
+Tag: role::enduser
+
+Package: jp.novi.FakeClockUp2
+Section: Tweaks
+Installed-Size: 292
+Architecture: iphoneos-arm
+Version: 0.7.3
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 4.3)
+Filename: ./debs/jp.novi.FakeClockUp2_0.7.3_iphoneos-arm.deb
+Size: 75612
+MD5sum: a3a6f237cf8c20425d830eef719557f1
+SHA1: 5eefe8c24a792709e93835702f080b13af97f058
+SHA256: 73f2f4325a49f9e965ee3750db384e61661be94a3937e1b794fac960a61f75bd
+SHA512: 12579f332ef0543305d84e196e210bb028c5a358a14a78369dafe254605756bb33f6ad1f3b7eef90c4bbc291817d8ea959d2a018c1aaf2fd5c5f7d4279f3f2d0
+Description: FakeClockUp accelerates UIKit transition animation.
+Name: FakeClockUp - ichitaso
+author: novi & r_plus & ichitaso
+Icon: file:///Library/PreferenceBundles/FakeClockUpSettings.bundle/FakeClockUp@2x.png
+Tag: purpose::extension 
+Depiction: http://willfeeltips.appspot.com/depiction/FakeClockUp.html
+
+Package: com.ichitaso.quickwifi11
+Section: Addons (ControlCenter)
+Installed-Size: 232
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.1-5-1
+Depends: com.opa334.ccsupport, mobilesubstrate
+Pre-Depends: firmware (>= 11.0)
+Conflicts: com.bensge.wipi, com.ichitaso.quickwifi
+Filename: ./debs/com.ichitaso.quickwifi11_1.1-5-1_iphoneos-arm.deb
+Size: 28936
+MD5sum: 9f072c6a5875a0c9cf6766ddcc477ea5
+SHA1: 6ac9855308df216f276c5d30a02b2838f69b55ad
+SHA256: 81ff2edd61bc8b27da5ec054d65afbf68c2b042343fb75517685a8c4b4729d87
+SHA512: 55d47a95f1f432e9cc707ecffbe235814cf10dc77d60ddb509af94f6cd8e5af7fab76cbe84206cf1b464036863eb14b5a2609aaec61dc58179a9f5834afd7784
+Description: Switch Wifi to be connected quickly with CC.
+Author: ichitaso <willfeeltips+qw11@gmail.com>
+Name: QuickWiFi (CCSupport)
+Depiction: https://cydia.ichitaso.com/depiction/quickwifi11.html
+Homepage: https://ichitaso.com
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/ControlCenter/Bundles/QuickWiFiCC.bundle/SettingsIcon@2x.png
+
+Package: com.ichitaso.fiveicondock13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.4
+Replaces: com.ichitaso.fiveicondock13
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/com.ichitaso.fiveicondock13_0.0.4_iphoneos-arm.deb
+Size: 5022
+MD5sum: 32ecb9e2ba7b0033c7e2489da2a69957
+SHA1: dedd3840549a8e3dfeefb71656b91938b7beadaa
+SHA256: 6f64d6d4ae185234d7e98339b792240f098d23fa4ab968aec827904f2c9d8818
+SHA512: 124a93698abd1b6bbc366dd87d9c6454d336bb18fa39d10056369f6cecceda8e9d735271c4bd89ae78845204e84be8be5c61e0ce3089a1fc6b23086c7aef7e1d
+Description: Five Icons on your Dock for iOS 13
+Author: ichitaso
+Name: FiveIconDock13
+Depiction: https://cydia.ichitaso.com/depiction/fivedock13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.quickcc
+Section: Tweaks
+Installed-Size: 452
+Maintainer: ichitaso <willfeeltips+qcc@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.5
+Replaces: com.ichitaso.quickcc
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 11.0), firmware (<< 14.0)
+Conflicts: com.jakeashacks.realcc, com.ps.cconandoff
+Filename: ./debs/com.ichitaso.quickcc_1.0.5_iphoneos-arm.deb
+Size: 64086
+MD5sum: da316e539a81a8ad555f1537239635b8
+SHA1: 28752a510e3fc4ea93fd76001b5dd47796fd1d24
+SHA256: 408d3012e98ab4bc55a808211fed795bf916799ad95477a524d04db0c55b4e9b
+SHA512: 3b3115aeb2c3b406530433e2fb398618b5549088463c76c83a5a97d117c416f7ee7fd2f624ae2eba3e47528c65bbe65abc631de4464920deb482ec93f6cfd19b
+Description: Expands Wifi and Bluetooth connectivity in Control Center
+Author: ichitaso <willfeeltips+qcc@gmail.com>
+Name: QuickCC
+Depiction: https://cydia.ichitaso.com/depiction/quickcc.html
+Homepage: https://cydia.ichitaso.com/depiction/quickcc.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/QuickCCSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.twitterlist
+Section: Tweaks
+Installed-Size: 104
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.twitterlist_0.1-1_iphoneos-arm.deb
+Size: 2404
+MD5sum: 98061825c6829529907961f2a3a09424
+SHA1: 70b74133ea0e811d38e517969929323d96692318
+SHA256: 15e97fc9b2985c04356870ad8c97a6e3d6fb22a5e1826476627c4085a0d2be56
+SHA512: 6bdb6d3e2e1053cea900d224ab071064f60a16c520fe8bb63565a4593a73c76374bc0de101d7f7ba7b92d1d6eb34b0c8de908c4234824b90a0773aec29eac853
+Description: Twitter's official app allows to swipe through lists
+Name: TwitterListEnabler
+Depiction: https://cydia.ichitaso.com/depiction/twitterlist.html
+Homepage: https://ichitaso.com
+Author: ichitaso
+
+Package: com.ichitaso.tibetankey12
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 12.0), firmware (<< 13.0), com.cannathea.pasithea2
+Filename: ./debs/Tibetan-Keyboard-12.deb
+Size: 5052
+MD5sum: d9df1940934110d693add2381882a678
+SHA1: 25197a2a5d9a095ac85affdf735f75e96829cf6f
+SHA256: 1cbc41aa2f9919634edd8f5f13d29469526ea46193db22cff965ad96bef6d55b
+SHA512: 9660c589d3431449b2f17a2d4410e4a729f24b980d0cfd7a0964418073195eedb30e1194b5a567673e740309c8f2c9396c30aab378612a3a85db92e5737eda78
+Description: Tibetan Keyboard for iOS 12
+Name: Tibetan Keyboard iOS12
+Author: ichitaso
+
+Package: io.pangu.loader
+Priority: optional
+Section: System
+Maintainer: Pangu <axe@pangu.io>
+Architecture: iphoneos-arm
+Version: 1.2.0
+Depends: coreutils-bin, firmware (>= 7.0)
+Filename: ./debs/io.pangu.loader_1.2.0.deb
+Size: 1320044
+MD5sum: d497c2ecbf6fc7adec667fa9a8fa080b
+SHA1: 63ba199937d8e39ee6ecb006f45db74fe9fcea54
+SHA256: 3dd6e5150209c1be6cb8953ff756992be5c3ad234fbe2a4812d3851dc00cc5a0
+SHA512: a4e9c6cf8f22ad3a9601c0100ae999bb0fd04ab47e831fa348613e1ba5016a7c8e1a8c013a021adfb50b8ed98dc393791f063c2dc487555f7a28a8f9098b188c
+Description: Pangu Loader for iOS
+Author: Pangu <axe@pangu.io>
+Name: Pangu Loader for iOS
+#Depiction: http://cydia.saurik.com/info/io.pangu.loader/
+
+Package: us.nakedproductions.dylibdisabler3
+Priority: optional
+Section: Utilities
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 3.0-0
+Replaces: us.nakedproductions.dylibdisabler3
+Depends: firmware (>= 10.0)
+Conflicts: us.nakedproductions.dylibdisabler, us.nakedproductions.dylibdisabler2
+Filename: ./debs/us.nakedproductions.dylibdisabler_3.0-0_iphoneos-arm.deb
+Size: 666914
+MD5sum: 13e2434452f97abd6db29126dae9984c
+SHA1: 6aeb69f6e862e7803fdc76ca108d28d38d20d632
+SHA256: 921e9cb1af2350b1c61ed458a640ef8312bc76067dce5a0eec1e530839d2a8e2
+SHA512: 071a9e9a8a04fcd9a273ebdaac5dd0fb6e0fbbcdc74e7c0b0c98e7acc8611ad24a4a314737da1942d4526441676e785c10d78cffd429ed79d68196d24b52d2b2
+Description: DylibDisabler removes and disables dylibs for mobile substrate tweaks.
+ DylibDisabler works for iOS10 and iOS11.4b3. It also works for the iPhone and iPad.
+ You might need to make the app run as root. Use the DDChmod script to get the right permissions - then apply with terminal.
+ **USE AT YOUR OWN RISK! I TAKE NO RESPONSIBILITY IF YOU NEED TO RESTORE YOUR iOS DEVICE!**
+Name: DylibDisabler 3
+Author: EvilPenguin / ichitaso
+
+Package: com.ichitaso.twitterlist
+Section: Tweaks
+Installed-Size: 104
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-2
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.twitterlist_0.1-2_iphoneos-arm.deb
+Size: 2576
+MD5sum: 0148bcf7d077edcbf10b9ca1d93fb6fa
+SHA1: 26804cae06e219a802691b09827851d69fc2bd0a
+SHA256: 971c7f547babaf9ad4878136b9a789d1a33511d276e56c4f24662100bcc67ead
+SHA512: 4345b0aa6dd0f84f2ad68839c2a5d1eef85fb199bc051fcdd891aaabb300a2987cee1ffccfcb1e608c08819a976d8dcfa69c29e6c069ee1437caf9d6f8945bf6
+Description: Twitter's official app allows to swipe through lists
+Name: TwitterListEnabler
+Depiction: https://cydia.ichitaso.com/depiction/twitterlist.html
+Homepage: https://ichitaso.com
+Author: ichitaso
+
+Package: com.ichitaso.fiveicondock13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.5
+Replaces: com.ichitaso.fiveicondock13
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/com.ichitaso.fiveicondock13_0.0.5_iphoneos-arm.deb
+Size: 4500
+MD5sum: 1ffa3c6747c91f5764e8fbc13f9bfcf0
+SHA1: 4a16a4ac00b95992aa0465c04e7761dea81b0b91
+SHA256: 863b5259384d2110de2bd0fc257cd66877a7ec12ab1f80647677af5851774abf
+SHA512: f2e0e87c4bfd850fe547a3755c49951c72d56d7116d0ee0d5c6a004b1ff278e9a6c6356812f0fcfd06aafd855878ab4c8cef7b32faa2c126e3333dc27928341d
+Description: Five Icons on your Dock for iOS 13
+Author: ichitaso
+Name: FiveIconDock13
+Depiction: https://cydia.ichitaso.com/depiction/fivedock13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: us.nakedproductions.dylibdisabler2
+Priority: optional
+Section: Utilities
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 2.0
+Depends: mobilesubstrate
+Filename: ./debs/us.nakedproductions.dylibdisabler_2.0_iphoneos-arm.deb
+Size: 695296
+MD5sum: f3045837a01c70f9fcb42087cf01ca48
+SHA1: 998e7cd71809aa31e31074ec89cc7ac9dc76d532
+SHA256: fed85fdf8d8cdfcd807abb8c6e948bd393a9bccb70f4f388d8007fd783b44e43
+SHA512: b0ac7b98fbe002947637f2168f9f6d3ebe85f31a411d0ea9636275e0eedb36476384e10f53dc18df69b47a4267c60a6b2c46752d21326a7d519cbcf166df4e0a
+Description: Remove and Disable Dylibs.
+Name: DylibDisabler2
+Author: EvilPenguin <evilpenguin@nakedproductions.us>
+
+Package: com.ichitaso.primalfolder2
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.6
+Replaces: com.ichitaso.primalfolder2
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Filename: ./debs/com.ichitaso.primalfolder2_0.0.6_iphoneos-arm.deb
+Size: 52582
+MD5sum: 187a7989c9ddac81dd5f87dae1fe37ca
+SHA1: cdedf029412a32d6691b51039eae6848d8880fa7
+SHA256: 2be82bfa1f328c5061fc732537a32b4c372449fd01927729eb7e8ed6660dbd2d
+SHA512: b39a7be98402343e32b07b0fe4b6b0578707222ec057b17213db0d0f6dea10762f12b3f6cf3fbf0c95bad68ab8652f141d946feaac7aaf4845194537b84be30c
+Description: Display to folder as icon and launch action for Folders
+Author: ichitaso
+Name: PrimalFolder 2
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.tibetankey71
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 7.1), firmware (<< 8.0), com.ichitaso.pasithea
+Filename: ./debs/Tibetan-Keyboard-71.deb
+Size: 3294
+MD5sum: 3523da1d8248f2c99513b7c6acfd771a
+SHA1: 04fb25e979844dacc3294674d1afc1e4523bdb31
+SHA256: 6931f16c16d579d9b16721a4598e38e7fe536bd8faac499756884d8820321263
+SHA512: cc58027fbfd62044257c4043824884cfe44e3563422af4d2bc1b4b2c23663e43909eaa8258bd324161468683248996d9df337874c6457e4835fb106a73558a45
+Description: Tibetan Keyboard for iOS 7.1.x
+Name: Tibetan Keyboard iOS7.1.x
+Author: ichitaso
+
+Package: com.ichitaso.spnosuggest
+Section: Tweaks
+Installed-Size: 120
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/com.ichitaso.spnosuggest_1.0_iphoneos-arm.deb
+Size: 3084
+MD5sum: bd03df8f8bdc81e6f4c02336e9a0e60b
+SHA1: d5f10982d257bced7767d005866a2ba0fac520cb
+SHA256: e42e4020fe0d9bdf3839aa6f87f6aa424c7bb5979db1b8d988c9a0d4126403e4
+SHA512: 5278051f97eb550a06a0183c926a883ecae49aa33545473ababb875a023bcad95e6048b953fbf6a79e196b81b765ed85a2710b048743c542ac4ddc8df631858d
+Description: Clear Spotlight search history / suggestions
+Name: Spotlight No Suggest
+Author: ichitaso <willfeeltips+spn@gmail.com>
+Depiction: http://ichitaso.com/apt/depiction/spnosuggest.html
+
+Package: com.ichitaso.shuttersoundswitch
+Section: Tweaks
+Installed-Size: 1620
+Maintainer: ichitaso <willfeeltips+sss@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.4
+Replaces: com.ichitaso.shuttersoundswitch
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.efrederickson.almpoum
+Filename: ./debs/com.ichitaso.shuttersoundswitch_1.0.4_iphoneos-arm.deb
+Size: 373624
+MD5sum: f1856434d68004c3e226c2356a2a68d1
+SHA1: d303f6e8af18d268e65b04f778ad0162b2f1eb70
+SHA256: 83ae0a37cf978a2691944565356efd1341f8ea8814cf6aa64f3dd1b24c82888c
+SHA512: b8b5aa809fa3657353a52a36600a82be33b023c7a7852cdba4492217654f6f86f127dc37bd79d38ecece18e0a141fb6d06c683ec650048ac8f4ff4f58e3b7a0d
+Description: Extension of the Shutter Sound and ScreenShot, Photos app
+Author: ichitaso <willfeeltips+sss@gmail.com>
+Name: ShutterSoundSwitch
+Depiction: https://cydia.ichitaso.com/depiction/shuttersoundswitch.html
+Homepage: https://ichitaso.com/jailbreak/iphone-shuttersoundswitch/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/ShutterSoundSettings.bundle/ShutterSoundSwitch@2x.png
+
+Package: com.ichitaso.otadisabler
+Section: System
+Installed-Size: 200
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-7
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 24350
+MD5sum: f396c8ff22030f444031327ee35d8240
+SHA1: 08398741d0d7b857bd636463c8ff067a21609785
+SHA256: 2c7a96c946521cfdfdc22daf5e81cced08048255349cdf9445dfe87ba6f4d467
+SHA512: 1dd83100b6803cf9174cd8e1ca147abcbb71ae1687baeedcb7aa3e909c7727eb9360f79d0521fcf62527e15f119ffb9bb70c6822b271fb7fc76d4166fbbdc22f
+Description: Delete and disable OTA badge
+Name: OTADisabler
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Author: ichitaso
+
+Package: com.ichitaso.sspatcher6
+Section: Tweaks
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0
+Pre-Depends: firmware (>= 6.0)
+Filename: ./debs/SSPatcher_iOS_6_1.0.deb
+Size: 1180
+MD5sum: 5c61aa309196df9e6e94c73ccf152da7
+SHA1: e1cf62071d920b04d0b80f28b9a10a9fe9d55de8
+SHA256: 860678f883c6660540f1bab27415bac9b870890014bff4b05611bf8dac88ec8d
+SHA512: 87ede2a0e644becb75873f8350e7e4211a046b14aa5f21503d4c7ee64b9ad33a6e45ac919cd6bbf87ea126ed9ee597e5be1f7f87b62865c70d0df6127daacb0f
+Description: Shutter sound and rec sound silencer.
+Name: SSPatcher iOS 6 to 13
+Depiction: https://cydia.ichitaso.com/depiction/sspatcher6.html
+Homepage: https://ichitaso.com/
+Author: ichitatso
+
+Package: com.it0ny.cleverdump
+Priority: optional
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.2
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.it0ny.cleverdump_1.2_iphoneos-arm.deb
+Size: 58222
+MD5sum: 091802590ddb1302021e2ef676210679
+SHA1: b2df256f5ebd95a0f00253584c43617dca9dc792
+SHA256: acb8e1124e8fef8f2670fd89aeaa0e7e8ebe791f480a8e1384fc799b27e90565
+SHA512: abf3dea58a1c963aa1d7e17147a95c4eeac2037bf17093af30e9f56ae38bd7fbb331f28110b3f67867ea3d3786b40363bd9784d7079f008a0adf0390a1c4077b
+Description: Extract using class-dump to Applications header file. This Tweak is for developers.
+Name: cleverdump
+Author: Anton Titkov
+
+Package: com.ichitaso.3gshdvideoenabler
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0-1
+Depends: firmware  (<= 4.2.1), cy+model.iphone (= 2.1)
+Conflicts: com.iphonerepocenter.hdvideoenabler3gstheme
+Filename: ./debs/com.ichitaso.3gshdvideoenabler.deb
+Size: 3714
+MD5sum: c0c87c465d95c535deec771e520a038b
+SHA1: 636ae4ef1f4c152ff2dff7a01e5931936ff03ee1
+SHA256: d00e05611ef672db86deb65d0d4c010aff32f2c60bcb857498c3bc7e9e102489
+SHA512: 25e5fb174b84bf6b4e8bc5cb74da6fd1d95913b228054802e98bc0f03c31888cc209de8ef5fcce74cb92813168fee415cc8960e5d7dde8def345fa279c43b862
+Description: SuperHD Video Rec Enabled for iPhone 3GS.
+Author: ichitaso
+Name: 3GS HD Video Enabler
+Depiction: http://ichitaso.com/apt/depiction/3gshdvideo.html
+Homepage: http://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension
+
+Package: com.ichitaso.batteryx
+Section: Tweaks
+Installed-Size: 340
+Maintainer: ichitaso <willfeeltips+btx@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.3
+Replaces: com.ichitaso.batteryx
+Depends: mobilesubstrate, preferenceloader, applist
+Pre-Depends: firmware (>= 12.0)
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Filename: ./debs/com.ichitaso.batteryx_0.0.3_iphoneos-arm.deb
+Size: 44668
+MD5sum: 0e7f3abeb0dc149eb6da73d3ea229703
+SHA1: 931af3b8f47a0cad0bce4f72ae95b71e5abc05a2
+SHA256: 22eb0ad71aa748b7dc5b143a50a4c36eae4c0472ffaa0eff1c5553f07068b4f1
+SHA512: 797fb9ab2550b5480fe918c8789e54ba0aa7bc859b2ce531a99fafaa9d03794c5fd42341e5bc9abe48ad7f0ead87d176fc4fc7494fe7ba36c5fc857ac958faef
+Description: Show Battery Percentege for iPhone X Series
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Name: BatteryPercentageX
+Depiction: https://cydia.ichitaso.com/depiction/batteryx.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+
+Package: com.ichitaso.npsharesheet
+Section: Tweaks
+Installed-Size: 480
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.6
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.npsharesheet_1.0.6_iphoneos-arm.deb
+Size: 56070
+MD5sum: dbce48b1975cd541edf7e3e3c6f19a2e
+SHA1: 1cdeedc3235da98fc0d4f49638e3cd5ccc2e9aa7
+SHA256: c4d6b3872e6e7c71aa92aab1665550e9654d3057d6efe4384c23cd97e36cbcea
+SHA512: b4a3f560f8664cd7840a917c24be7a3982d356de6d0fc971172a2e18c5035f6e5c4ca34910caf8488a2daf0024f3b48d14888b8e0b45b2acb2a9137f7b5595c8
+Description: Quickly share the Now Playing song by ControlCenter
+Author: ichitaso
+Name: NPShareSheet
+Depiction: https://cydia.ichitaso.com/depiction/npsharesheet.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/NPShareSheetSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.moretheworld
+Section: Tweaks
+Installed-Size: 88
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-2
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Filename: ./debs/com.ichitaso.moretheworld_0.1-2_iphoneos-arm.deb
+Size: 10242
+MD5sum: c9208f9c5ca8c694c599436588cdcaae
+SHA1: 023e0bd08e83c96a62524215e6da5132436d931e
+SHA256: a896fbfe468fe8b03d4825cf8833c294a5c2f1de7efc8c2d712fd9ab77bdb7bd
+SHA512: 5176254f75a5716c85a4d041591bb61201bcd1fc81da3888f01bd39e87ed0c33fb8f3c8ec96423d04016d77dad8af6c15da8a89073daf81093338cf315a7bf64
+Description: WebView in TheWorld is strengthened.
+Name: MoreTheWorld
+Author: ichitaso
+Depiction: https://ichitaso.com/apt/depiction/moretheworld.html
+
+Package: com.ichitaso.semirestore11
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.1-beta1
+Replaces: com.ichitaso.semirestore11
+Depends: cy+cpu.arm64
+Pre-Depends: firmware (>= 11.3), firmware (<< 12.0)
+Conflicts: com.pwn20wnd.semirestore11
+Filename: ./debs/com.ichitaso.semirestore11_1.0.1-beta1_iphoneos-arm.deb
+Size: 90900
+MD5sum: 4ee13a59cb6355e68b84ea252e99ca09
+SHA1: 35cdb701d68644eed696a247c02331b99574236b
+SHA256: 72e01c81e05e1007a7a17c9cbd2fd7acbbd611cf4577f65e4efd2e8ebaf90241
+SHA512: 1eace1a95d5ef64a3c9a72bfb3181c97d97d14c9b50c370c76c7c771a8b6bf2845efcd65bc28b20aa4fcaec2cd8ab778e323e9d69df9aac88a5e3ce834bfcf05
+Description: Only for iOS 11.3 - 11.4.1 for now...
+Author: Pwn20wnd
+Name: SemiRestore11 / Rollectra
+
+Package: com.ichitaso.fiveicondock13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.2
+Replaces: com.ichitaso.fiveicondock13
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/com.ichitaso.fiveicondock13_0.0.2_iphoneos-arm.deb
+Size: 4476
+MD5sum: c46b029969b9815d0d9be40894c1b405
+SHA1: 85f885fe2326796e5643c04f727ae1706c354c8d
+SHA256: a67a8f018e5ede72329c66233005aa955eef32c1ed2e6a162e5da3f3b7548ba1
+SHA512: f45aad343058057b822254ea2c57e7e8326bce7f1b8b9dee6bae48b1976c00b74a64ad2f8bcfef3ca49a1c098ea289b974f8140fffc395e74db37e8b7461142b
+Description: Five Icons on your Dock for iOS 13
+Author: ichitaso
+Name: FiveIconDock13
+Depiction: https://cydia.ichitaso.com/depiction/fivedock13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.mysticwall.sysinfoplus12
+Section: System
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.2
+Replaces: com.mysticwall.sysinfoplus
+Conflicts: com.mysticwall.sysinfoplus11
+Filename: ./debs/com.mysticwall.sysinfoplus_1.2_iphoneos-arm.deb
+Size: 1688284
+MD5sum: 7f9ee8fcdd44aa60cf2db4fd307f1968
+SHA1: 58d41f2f4d6d925334a053dc97f7c7327db09e4a
+SHA256: 12a7a418f97f157e5c7120db282a43c83ceac93d91d46f73309cf24d35038373
+SHA512: e4a0e168be43e0a09c6d2c456e19d5fa62ac849b747b11b4cb8ca85155fe03a1a33825e58828d67ae5f935bf80845b05589aaeb39930598207bc52650b7812b9
+Description: SysInfoPlus shows various information and system status such as system information, process status, memory status, disk space, network routing tables and so on.
+Author: Kouichi ABE <kouichi@MysticWALL.COM>
+Icon: file:///Applications/SysInfoPlus.app/icon.png
+Name: SysInfoPlus 1.2
+Homepage: http://www.iphone.mysticwall.com/SysInfoPlus/index.html
+dev: kouichi
+
+Package: com.ichitaso.otadisabler
+Section: System
+Installed-Size: 204
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-8
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.1-8_iphoneos-arm.deb
+Size: 28102
+MD5sum: 4b549576518205bbc0a6eb041984562c
+SHA1: c1f686b4313fbfe00dac854d500b7fe23b7a2f5d
+SHA256: 8142ae1fdc929e1c01db1a4f53f18094335ae60fd18e721ab3f375ac57a9daa9
+SHA512: 3ecc3a2a2e20fe44bb014d2c54fe2601a6db69720b772a42e036ff991cea27780a4bc4cd82c398c71503018168831a2aad31cd775dcf6d31f5fd2b17556816f2
+Description: Delete and disable OTA badge
+Name: OTADisabler
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Author: ichitaso
+
+Package: com.ichitaso.powerselector11
+Section: Utilities
+Installed-Size: 2156
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2.7
+Replaces: com.ichitaso.powerselector11
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.7_iphoneos-arm.deb
+Size: 207982
+MD5sum: 4cb02e1f3f90e10e1c99b90604235740
+SHA1: 46b2ae2f71df02e72d2a1329d626fc3df082359a
+SHA256: 82f2c4c1bd932d8bb15ec8fabfba780834acef8abca6c6f411dd61b56e9ae73b
+SHA512: 7d47c785168eff58425b3509a56490706622e9380396fa0510ccb3d2e744fdf4579f6128425b5a8052b2edd9ee1b1fa44674a974ce8c73c2515bbd46e9447e85
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 13)
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.tibetankey11
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 11.0), firmware (<< 11.4.1), com.ichitaso.pasithea2
+Filename: ./debs/Tibetan-Keyboard-11.deb
+Size: 5074
+MD5sum: d572e2fa8cff41387b349762e6eb223f
+SHA1: 0f55b240b3ef1c6960beec3a004202c32b2a57fb
+SHA256: e00c6109f4815837ee395f4592c94101d48c9a2037a646a97f369665209ae39c
+SHA512: c6bdcfc37c9ba82a6e4220abd8b19e101fe538192a9091050af2192a337d2db8959efe29cb8ba30859fdba1156c8e5dfd5417fb8b4ed13d506d63581e683cb4b
+Description: Tibetan Keyboard for iOS 11 - 11.4
+Name: Tibetan Keyboard iOS11
+Author: ichitaso
+
+Package: com.ichitaso.tibetankey90
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 9.0), firmware (<< 9.2), com.ichitaso.pasithea
+Filename: ./debs/Tibetan-Keyboard-90.deb
+Size: 3156
+MD5sum: 12da51ed24782315f9a35606fae56d82
+SHA1: 87c10d57411b9bf08fd5cd6aba373075e3cb6edb
+SHA256: 81d267680d9ae57dfbd8d15f868d713224659f7e4705931f7809c4a7fbcbaaef
+SHA512: 10fbaf4e8975ee990d94932092664add919dadfd89209df95d6f8c228b69e2d85c5ea07dc41d6dd3cedbf80a545ccbff623bfe40d51a316341473139eb09e6de
+Description: Tibetan Keyboard for iOS 9.0.x
+Name: Tibetan Keyboard iOS9.0.x
+Author: ichitaso
+
+Package: com.ichitaso.ondeviceconsole
+Section: System
+Installed-Size: 132
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.1
+Replaces: com.ichitaso.ondeviceconsole
+Conflicts: com.eswick.ondeviceconsole
+Filename: ./debs/com.ichitaso.ondeviceconsole_1.0.1_iphoneos-arm.deb
+Size: 7458
+MD5sum: 5816f05f979993541ed9a39f4f7b3535
+SHA1: 087f10145bb44f81d519a7b77f12c37e182d8c57
+SHA256: 8fe79e47ade7a50ba6a6b200ddd0d3ff8fe0c6ca8122343b4aeca631783674bf
+SHA512: ff350fa994b475b205b618f0f2491f9ae03b0f088c766abf17f0efcea1c3c1e8b5337c134f646a6b151a5c0c50f596c4a2e84712936a8b4b982987714d557779
+Description: Tool to view system log from the shell.
+ Signed for Electra Jailbreak.
+ Forked from https://github.com/cgm616/ondeviceconsole
+Author: Evan Swick and cgm616
+Name: ondeviceconsole Signed
+Depiction:
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ondeviceconsoleDp
+Tag: role::hacker
+
+Package: com.ichitaso.quickcc
+Section: Tweaks
+Installed-Size: 432
+Maintainer: ichitaso <willfeeltips+qcc@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.2
+Depends: firmware (>= 11.0), firmware (<< 13.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.quickcc_1.0.2_iphoneos-arm.deb
+Size: 59392
+MD5sum: 18c9a7451c02efbefd79933b8543602a
+SHA1: 2d32d055caa1e0041598d2b59eb4e3bd3aa712b6
+SHA256: 027c5b237c7c88ffc5cc150d1e957eaddd12617975ad5989e816a8b412322a18
+SHA512: d84a1765c65e67c008a5effade5a30ea436240a061b2e370087f42bb9342a1809f8762e1f188265f77e684d0ee460fe6a63b47b1b4502a8b3f4e40141583c484
+Description: Expands Wifi and Bluetooth connectivity in Control Center
+Author: ichitaso <willfeeltips+qcc@gmail.com>
+Name: QuickCC
+Depiction: https://cydia.ichitaso.com/depiction/quickcc.html
+Homepage: https://cydia.ichitaso.com/depiction/quickcc.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/QuickCCSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.fivehome13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.1
+Replaces: 
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.ichitaso.fivehome13_0.0.1_iphoneos-arm.deb
+Size: 2876
+MD5sum: ab3b2e0beb8f0eccbcc95d7ebc3ebc4a
+SHA1: 8eefeb005de0b690ed8cf16735ac955f8dd1e073
+SHA256: 0d2dc711f0c3c716fc8579d1ef567c9fb72a73ad26db5a96d5a14d478a3ff4ed
+SHA512: bcd1d8ceac1dc4c7ba28750fbd1b37c730f03f8ae6c4cec87f8c562d73498d02203d7f40233d1af6bb3a89bc10e3e751b25f4fd5ce90c80a46423ab468fc7255
+Description: Add a fifth column of icons to your Home screen
+Author: ichitaso
+Name: FiveColumnHomeScreen13
+Depiction: https://cydia.ichitaso.com/depiction/fivehome13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.5
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.5_iphoneos-arm.deb
+Size: 43558
+MD5sum: 8a3b19ea47d2dc2b7293dc6fe2c7632b
+SHA1: c0df18016c20f2b24ed2118086c6d85c5a2216df
+SHA256: 452e6dbe69d0593207546bece92bba4959d3b34e8c40885101166b691ad7491b
+SHA512: d9a67f1cab31ecf58e7c11804dccb7c6c898e0c4e81135a9611cbf53ae572fb37baad7d56bded8ed36f8ae10fd9bf1b639fc7130c9ab5fbc640fc3fa674b2da3
+Description: Use volume buttons to control screenshots and more
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.transparentdock13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.2
+Replaces: 
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 13.0)
+Conflicts: 
+Filename: ./debs/com.ichitaso.transparentdock13_0.0.2_iphoneos-arm.deb
+Size: 3148
+MD5sum: 547b48997541f306a70d9f468a15f03f
+SHA1: bd2d413071f04ae0632d338c7a7927c59f08b3f6
+SHA256: fd02b13de0f97b15fc8cfd3bf5ad2c2156a0cc467d48db1bf3587a1350fe8d1e
+SHA512: 1c429584fea4b93441d7b139cdf7afad7e32de43cd0419086e954e09821a06b93e6d7bdb7777691427f933a78c3c77d75fbb09247cdf7dbbd8dc36a5044a11d9
+Description: Transparent Dock for iOS 13
+Author: ichitaso
+Name: TransparentDock13
+Depiction: https://cydia.ichitaso.com/depiction/transparentdock13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.quickcc
+Section: Tweaks
+Installed-Size: 432
+Maintainer: ichitaso <willfeeltips+qcc@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.1
+Depends: firmware (>= 11.0), firmware (<< 13.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.quickcc_1.0.1_iphoneos-arm.deb
+Size: 59178
+MD5sum: 9ccbfb8493b23374686013b953baa560
+SHA1: bdca1a17adec85080188d4c0c3b42f44cf247d22
+SHA256: 0d1b732a70ee8caff8f8b0f6c4a13b5eb3c88124aefb1cd20da8a08de3fb61c3
+SHA512: 2e6795bc8e7aac0bbd05089dcefaa7d9973b698131e4815c19b96b499969b2ad4a3e3c9d3466725926618a2e6d07064383e204495e7f205465a3f8eec5443796
+Description: Expands Wifi and Bluetooth connectivity in Control Center
+Author: ichitaso <willfeeltips+qcc@gmail.com>
+Name: QuickCC
+Depiction: https://cydia.ichitaso.com/depiction/quickcc.html
+Homepage: https://cydia.ichitaso.com/depiction/quickcc.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/QuickCCSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.hidedots13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.1
+Replaces: 
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 13.0)
+Conflicts: 
+Filename: ./debs/com.ichitaso.hidedots13_0.0.1_iphoneos-arm.deb
+Size: 2486
+MD5sum: 22c58119ba31c3600b04aa3fb2f782b8
+SHA1: 398e3220bf53210fa652998ba404a227059cb29e
+SHA256: 69c8c0df317a83d695a350bba62087685b33866b49fa9db918f4a7841381fa16
+SHA512: 3193f3a0821de469dee790fe114a4eb3d83f72659193b4be0b3fc240bfe7c3545b0e081b3676a7538f3acbb082ca00f4dcadabd284e3593646cc1976141976eb
+Description: Hides page dots for iOS 13
+Author: ichitaso
+Name: HidePageDots13
+Depiction: https://cydia.ichitaso.com/depiction/hidedots13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.exsto13
+Section: Tweaks
+Installed-Size: 424
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.7
+Replaces: com.ichitaso.exsto13
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.zachatrocity.exsto, com.julioverne.exsto11
+Filename: ./debs/com.ichitaso.exsto13_0.0.7_iphoneos-arm.deb
+Size: 77726
+MD5sum: 6a7bba79e1471134a422786fbb04e1f6
+SHA1: 63fc1a9b465a8a1dfb4e0c3759889930c8ee16e7
+SHA256: 2da2208ec45b14915d59f4ab2ee38eab9a0dfce53e0d1adfa60dda5fe08ad8c1
+SHA512: 417e17b002da2eef97b4c953c91b70fc1445238fbb3811205a2a37edaff6fdb4c9c480fd08b391eba0dc510b93546e18d7cbfe9b2bf404fd8178a56a570eab91
+Description: Unleash your folders
+Author: ichitaso
+Name: Exsto13
+Depiction: https://cydia.ichitaso.com/depiction/exsto13.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/Exsto13.bundle/icon@2x.png
+
+Package: com.ichitaso.tibetankey92
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 9.2), firmware (<< 9.3), com.ichitaso.pasithea
+Filename: ./debs/Tibetan-Keyboard-92.deb
+Size: 4514
+MD5sum: edfc429ee5565aee60595027d1923341
+SHA1: fd0d0e7784b08c6caca49493eaa97942fd12ba41
+SHA256: 28e9109f95ab655ae46eda68b2d86683cb1fe125e3a85f89bf0693b364681671
+SHA512: 233bf28f7cda2cc26f2f53d4bc01aef98fe49f1cf0728821237fd519ee062d10c5dc73781d80888ce3e5f99b4d63b13815b6b39c8295dd5180c3f96fdecafde8
+Description: Tibetan Keyboard for iOS 9.2.x
+Name: Tibetan Keyboard iOS9.2.x
+Author: ichitaso
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.2
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.2_iphoneos-arm.deb
+Size: 39732
+MD5sum: 5737681dce461859bb5bb6d6c17e65ed
+SHA1: 4bdf4257db25e77489022b0d34d0eca6d3186ec6
+SHA256: 9359649b180be90ae1057634ad7f9a572fbdce243e4443716724ad446ed0fefa
+SHA512: cf6fdb12d3725a848c3aa87dfd45231498a47c60b6035b827dfac7365d9bb835c9fc64d3106f8bb80753c00d377800315aeb9c9c0506acf3c861de548ffce9db
+Description: Use volume buttons to control screenshots and media controls
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.quickcc
+Section: Tweaks
+Installed-Size: 432
+Maintainer: ichitaso <willfeeltips+qcc@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.0
+Depends: firmware (>= 11.0), firmware (<< 13.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.quickcc_1.0.0_iphoneos-arm.deb
+Size: 58636
+MD5sum: 768daa4df2d758416b3bef87e81058a2
+SHA1: 0cb602263039860f155b549393a3bca4b58dab8c
+SHA256: 8bd61fd51eb35a33ef563166c3a09ec0227b9c64dd0da211436166da18288b7e
+SHA512: 63a603e9ddbe87272542bc784aabe1e685691fc727760588527a64064fece07b5016e319b8b9c2c9c44f4b46e126c96143378debfee6524533ae35db44918989
+Description: Expands Wifi and Bluetooth connectivity in Control Center
+Author: ichitaso <willfeeltips+qcc@gmail.com>
+Name: QuickCC
+Depiction: https://cydia.ichitaso.com/depiction/quickcc.html
+Homepage: https://cydia.ichitaso.com/depiction/quickcc.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/QuickCCSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.tibetankey93
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 9.3), firmware (<< 10.0), com.ichitaso.pasithea
+Filename: ./debs/Tibetan-Keyboard-93.deb
+Size: 3168
+MD5sum: f8e5ce88ca038c79adfed566b7072cba
+SHA1: feb6ead946b4238c06d056f2fc39b97d3f165bf2
+SHA256: 8b8b650441e423baaed5a53f60063e7081006c96218b795897322b7c5436cc55
+SHA512: 496f0d88390e0a1b59effc8740fde683beba76b63011bae9fd1b8de23111a2a22a4755c7427ae2010b653a005082ddec3c1c7a907f6c785cd7499da69a71c3d3
+Description: Tibetan Keyboard for iOS 9.3.x
+Name: Tibetan Keyboard iOS9.3.x
+Author: ichitaso
+
+Package: com.ichitaso.disableswipex
+Section: Tweaks
+Installed-Size: 348
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.6-1
+Depends: mobilesubstrate, preferenceloader, applist
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.disableswipex_0.6-1_iphoneos-arm.deb
+Size: 40638
+MD5sum: a4630d290f782b21b4c21919a5b9a020
+SHA1: bdd98cea23e3cf01f4787a10a477c8d3fd634908
+SHA256: 9a5358731d25e9eed5354932c157fb0a300cb14d43311bedfb3764c5f79d0795
+SHA512: ec206a5dcc7a163054d16e3a528d7ca30136c1ba94c6f651685ba23353a020f460e726383aaba0b6544363551d634b1e3bd7698ee1da199a7f81952f7f0ec2d7
+Description: Disable right and left swipe gestures while using the keyboard on iPhone X
+Author: ichitaso
+Name: DisableSwipeX
+Depiction: https://cydia.ichitaso.com/depiction/disableswipex.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/DisableSwipeX.bundle/icon@2x.png
+
+Package: com.ichitaso.ringertoggle
+Section: Addons (ControlCenter)
+Installed-Size: 164
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.ringertoggle_0.1-1_iphoneos-arm.deb
+Size: 19236
+MD5sum: ea993730f92c5662477b8d6ba9c0b7b0
+SHA1: da165b1100925443fec2a0bd2e912a8af2eca7d5
+SHA256: 3912a714ef2e6631d54fd1b0824432fc0fec92eb3c0b828072e74f8e8a046b1d
+SHA512: de2d2a2241ef660f2df79d2b53272d8c43c8e5e26d5f58a11355a438796559e0f1f4920442ba60317ca04ad7560a19a8e9a5ec9d73b85f6cdb24eab84ce88bcb
+Description: Turn on / off Silent Switch from the control center.
+Author: ichitaso
+Name: RingerToggle (CCSupport)
+Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
+
+Package: com.ichitaso.disableswipex
+Section: Tweaks
+Installed-Size: 348
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.5-1
+Depends: mobilesubstrate, preferenceloader, applist
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.disableswipex_0.5-1_iphoneos-arm.deb
+Size: 40434
+MD5sum: c43a85dbb6ee85e8e992ce0bcb84cf38
+SHA1: 15c817e167c19b63d0bd9b6b8665c887fa5f1303
+SHA256: 1631c20fa73348007e3c7a2f1417da7dade873fadffcf28481383d1b6f3cf647
+SHA512: 20b1de6f46726c488d304be2130aab208196849fd6354763be10d2e4f254265364078c6579b0629a88538b60fdcb6463f03675e7523ad73b17bb2e0773e76e56
+Description: Disable right and left swipe gestures while using the keyboard on iPhone X
+Author: ichitaso
+Name: DisableSwipeX
+Depiction: https://cydia.ichitaso.com/depiction/disableswipex.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/DisableSwipeX.bundle/icon@2x.png
+
+Package: com.ichitaso.spectrogram
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.3
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1)
+Filename: ./debs/com.ichitaso.spectrogram_0.0.3_iphoneos-arm.deb
+Size: 41408
+MD5sum: 7fe473db6b2b2730a14c8714450951cc
+SHA1: 4decb0a3822a04eeb78cef711db28297efa5d2f2
+SHA256: 1856e328077f90e07f4a75417d1830d532ab1bcef083444e5913a43c6346c034
+SHA512: be80362b6d3aaf5543d55581930168dcf0d8ecb85fd839bc2fe0234dfdaf4514d6dabee0674d277c967933c69ddfd3d30a3fc392a2d5fa09aa8ef458d41d881d
+Description: Use volume buttons to control screenshots and media controls
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.bb2cadkiller
+Section: Tweaks
+Installed-Size: 152
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.2
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.bb2cadkiller_0.2_iphoneos-arm.deb
+Size: 4326
+MD5sum: 310bf1c53164ba3d07bc838c3f7ae661
+SHA1: 9ba371d1535e9b54e01c1e0ea75a097ee9e63924
+SHA256: 36c2f2c15f75399621a1294408f7901c41f5fbcfa357561e59c9457c77e463f2
+SHA512: 9e9d1fa2b9540e0bf912b5835fc690d32e00050d87a50daa5df762a0d6de4f9e304366301a32420bd012f7dc37536c10691820d729fcd1293585b8f80d920d43
+Description: BB2C Ads Remover (Check ver.1.3.86)
+Name: BB2CAdKiller
+Author: ichitaso
+
+Package: com.ichitaso.npsharesheet
+Section: Addons (ControlCenter)
+Installed-Size: 508
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.4
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.npsharesheet_1.0.4_iphoneos-arm.deb
+Size: 53948
+MD5sum: 8a1d67fca7f52a4f5213f13b3ae26b98
+SHA1: 4735b16c804d86965bb16900eecd08e437b20731
+SHA256: ee8a8416f6fe0f90987562c27c2b186594b95948ba05d82fea82355deb0c60d7
+SHA512: 5892032ce050197bcf0964f81be8d62eb237a659522a38226b647aebe22b367014c661c87d8c007fe063cbee7e0fd1d8ee27f7166bb0887789bf68eea34ad5b7
+Description: Quickly share the Now Playing song by ControlCenter
+Author: ichitaso
+Name: NPShareSheet
+Depiction: https://cydia.ichitaso.com/depiction/npsharesheet.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/NPShareSheetSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.sl
+Section: Terminal Support
+Installed-Size: 196
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 5.10
+Filename: ./debs/com.ichitaso.sl_5.10_iphoneos-arm.deb
+Size: 9796
+MD5sum: 444df1a358288b891bf287545d179e94
+SHA1: abf58cd4b0bfc893bee78f91f2075c5a4319c93e
+SHA256: 3e3a2d648be813a6d50d59079224a641935ce439a65f35f23cac8c7e24e4fc52
+SHA512: e6efb2b6cf2203f25e69cce178a77aa26a9e7b8521b483c2470949031056b696dad360a21de12b6804bdbf228e8fa6a426ffdf9818c41c7e5c0be67480e6976a
+Description: SL Cure your bad habit of mistyping
+Name: sl
+Depiction: https://cydia.ichitaso.com/depiction/sl.html
+Homepage: https://github.com/mtoyoda/sl
+dev: Toyoda Masashi
+Tag: purpose::console
+Author: Toyoda Masashi
+
+Package: com.ichitaso.powerselector11
+Section: Utilities
+Installed-Size: 2156
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2.9
+Replaces: com.ichitaso.powerselector11
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.9_iphoneos-arm.deb
+Size: 207286
+MD5sum: 4752a178b3f02e3d7366991b6531cf8c
+SHA1: 6e77c2172ebbe5cd83a6360c852f8ca4995152e4
+SHA256: 53b868a43ab1c3a03f466e885069a6f52ba8b345b539851f9459217a209323d4
+SHA512: 061f9cf940660d1a25f239da6f4c0151982b126f547b40f101d4517dfe90d0f2c8f0de1fb50e2ae5389d9ccb21d1353685585429cf5c696d3e4af5a9a6643136
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 13)
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.fiveicondock13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.3
+Replaces: com.ichitaso.fiveicondock13
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/com.ichitaso.fiveicondock13_0.0.3_iphoneos-arm.deb
+Size: 4806
+MD5sum: 1a5807312fc3e7e569eb1d9be37d1fa5
+SHA1: b46c15753186d4e9b42fc091b582654386e123b4
+SHA256: 4d630b5bac19575d897d0cd3829f7b1738cc65604f39bc4d2dc0f8ebea5b99a4
+SHA512: 4250847d70ad428af018386d11c1795ad1f5f1a70c4d739e7672a1042fcbf3f573589c92e6df87eddff4fad649bfc1fe9a46d0daf4ec58a130129b5a2d2d03ae
+Description: Five Icons on your Dock for iOS 13
+Author: ichitaso
+Name: FiveIconDock13
+Depiction: https://cydia.ichitaso.com/depiction/fivedock13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.npsharesheet
+Section: Tweaks
+Installed-Size: 476
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.5
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.npsharesheet_1.0.5_iphoneos-arm.deb
+Size: 53988
+MD5sum: dc0c22b8cc9b809065b80478155d9d71
+SHA1: 06fa6d3cd9f5f971cb69071a8f9fcce132023c3d
+SHA256: e0e696885dd04eb779a67c27cc0285032e6d2faf6c194a6c07df311a7f7d2ac6
+SHA512: 8f85d27f12aca0f6558b50f7fb8966e78d76443eded614f1d2b1a3f6d2cc03ae12df8ba43caae493d30412debd906eb8372519b3c29935982d63e7912aadf274
+Description: Quickly share the Now Playing song by ControlCenter
+Author: ichitaso
+Name: NPShareSheet
+Depiction: https://cydia.ichitaso.com/depiction/npsharesheet.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/NPShareSheetSettings.bundle/icon@2x.png
+
+Package: com.reddit.googlesearchbar
+Section: Addons
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: com.eldwin.iWidgets (>= 1.1.2)
+Filename: ./debs/com.reddit.googlesearchbar_0.1-1_iphoneos-arm.deb
+Size: 11192
+MD5sum: 34d537c68d772d17a87739ee23ab9801
+SHA1: 30b1ca4f1302da95dc6d4c40f9e0526681cd44dc
+SHA256: 9d57de270e2527dcddd87d7531dd2f666175bba566818d49cea6f73fc1c363b6
+SHA512: 4ba6cf49d1d24c204f32b7457257d1adad24ec55da48faeef84dfb3766a54bc621016c245308ce4cd4786a6188acd724787e134355020f03100e8bdc56393c0e
+Description:Google search bar iWidget
+Name: Google search bar
+Homepage: http://www.reddit.com/r/iOSthemes/comments/2g73nb/wipdemoiwidget_google_search_bar/
+Author: Old_Macdonald2
+
+Package: com.ichitaso.locationservicecc
+Section: Addons (ControlCenter)
+Installed-Size: 180
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-4-1
+Depends: com.opa334.ccsupport (>= 1.2)
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.locationservicecc_0.1-4-1_iphoneos-arm.deb
+Size: 37068
+MD5sum: 8f9e46ddff7bb6f12c19915f2320f94d
+SHA1: d0f21b7a4388cec70fa56ef5077ef6f672520ecf
+SHA256: f087c1b43e291377405980deeff7ad3e56a60a2524a6355034f1a4e46905c70a
+SHA512: 77a5f45114726ccab1c5f9e70096a17da0bab834c06ffb40e044868e078c4beb825643a3a067cb1b2e19ff5f19b0bed1aebb8d1cc67e9032080a6f6beae1af13
+Description: Turn on / off LocationService from the control center.
+Author: ichitaso
+Name: LocationService (CCSupport)
+Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
+
+Package: com.ichitaso.ssflash
+Section: Tweaks
+Installed-Size: 336
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.3-1
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.ssflash_0.3-1_iphoneos-arm.deb
+Size: 82180
+MD5sum: f4277c906393cfa46abf990070237c7c
+SHA1: 5859031557f763ac9753b3c9787396e65f285f6b
+SHA256: 1e20b6dff5f4ac2f80cda5aab0159f79ab6ec32d7baaaea59109d03c83360c25
+SHA512: 875fe966f99a4582c33948b1edae2f452d095821bc528f32ebf613fc64ce7f552ebd01434e92150d385c61857aa95b1d2a216e2c069f152e1361208832186904
+Description: ScreenShot Flash Toggle and Alert Editor
+Name: SSFlashToggle
+Author: ichitaso
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/SSFlashToggleSettings.bundle/SSFlashToggle@2x.png
+Depiction: http://willfeeltips.appspot.com/depiction/SSFlashToggle.html
+
+Package: com.ichitaso.nexustimeiwidget
+Section: Addons
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: ./debs/com.ichitaso.nexustimeiwidget_1.0_iphoneos-arm.deb
+Size: 1538
+MD5sum: 9a4995e8a35178f3750c694a910da291
+SHA1: 8ca006930604cd4052bae5e46552fc871e431bd3
+SHA256: a048bf6628f905ec8777a4692bb6430c8d4196bf531ea064fa2141a5d3e349f9
+SHA512: e407dbe23b4ba774974170612afb8de0c9dc4e771da5b04697212efe4a6f6ca79c45fe822252079b75a1d669b33484e74f58e9466054f00b68d940d7f847a868
+Description: Nexus Time iWidgets addon. 
+Name: Nexus Time iWidget
+Homepage: http://ichitaso.com
+Author: Junes
+
+Package: us.nakedproductions.dylibdisabler
+Priority: optional
+Section: Utilities
+Maintainer: EvilPenguin|
+Architecture: iphoneos-arm
+Version: 1.3
+Depends: mobilesubstrate
+Filename: ./debs/us.nakedproductions.dylibdisabler_1.3_iphoneos-arm.deb
+Size: 36644
+MD5sum: c227ad8104020ee14e454d9e90ec5500
+SHA1: 6c1add114a1a57f5026949483111bf2c45e96092
+SHA256: b3c015dd7f78a01ee30624dfd78c7a098fa603344f445ee13b35a5f920fda803
+SHA512: 5f34083916bdc430e2fbf59d233fd8d170b85ae5028f4054c9f5a5d5c8735fe3516cbaaade550659a5f5f204ae1a465860d0d1a999d0a46cb0655d1fb51d7b84
+Description: Remove and Disable Dylibs.
+Name: DylibDisabler
+Author: EvilPenguin <evilpenguin@nakedproductions.us>
+
+Package: com.ichitaso.bb2cadkiller
+Section: Tweaks
+Installed-Size: 72
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.bb2cadkiller_0.1_iphoneos-arm.deb
+Size: 3066
+MD5sum: dbe92aaf4c84b7fee3bb420129db9cac
+SHA1: fa7a2d1cab2d217b3605595222ccce9dbc36d295
+SHA256: 3992e8db01500f6d4b82a30ca6645c398475b62079f93e1fafb4b70f19c2147e
+SHA512: fc9a24fd13d08088f1bebd6e8a35a5abb6fc27adc751824b89cf6d53e289dd4fd917ec6000724b42e67e3a74d04534ec9f3f2cd2186a779b18045012ce29a083
+Description: BB2C Ads Remover.
+Name: BB2CAdKiller
+Author: ichitaso
+
+Package: com.ichitaso.dropbearssh
+Section: Networking
+Installed-Size: 904
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0.1
+Replaces: com.ichitaso.dropbearssh
+Depends: firmware (>= 10.0), com.a3tweaks.flipswitch, openssl
+Conflicts: openssh, com.ichitaso.sshflipswitch, com.jamied360.switch.ssh, org.coolstar.scp-sftp-dropbear, com.julioverne.dropbearswith, com.brunonfl.wifisshfordropbear
+Filename: ./debs/com.ichitaso.dropbearssh_1.0.1_iphoneos-arm.deb
+Size: 261436
+MD5sum: afa87b19e226a6fe5f91b52b46e69e1e
+SHA1: 8308839fbabe03f4841ad0faa73282657afb363a
+SHA256: b7e495836c031384ba34b66f2563ad17db7dd1f5af8b1f93eeaa9a6d98b2c50d
+SHA512: 44039d58381162242dd64a17c650f07aacdaaad8974fd8aa5de461035012894b12e5beed019945a55cebf7ea79a8b63e0ab0a053d70c3e66413785ee6430cd4b
+Description: DropbearSSH for Yalu Jailbreak
+Name: DropbearSSH
+Homepage: http://ichitaso.com
+Depiction: http://cydia.ichitaso.com/depiction/dropbearssh.html
+Author: ichitaso
+dev: ichitaso
+
+Package: com.ichitaso.fivehome13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.3
+Replaces: 
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.ichitaso.fivehome13_0.0.3_iphoneos-arm.deb
+Size: 4432
+MD5sum: 7b902f659101e8f214e1d9b3354551a3
+SHA1: 6e37e88daa7dfe8480d7b554dae0a5dda1449db0
+SHA256: 0c508e48736f46fd5283f121b955a3280b2789e804db3501ce28a0e99d5682bc
+SHA512: 0e40d47ca1dcc00190b50d599c7f8f3f40b4d42f1f88ea858d1afcf1aa414fcfe6be3f3d37e0d93f7437c892b84efdbdcae618be27383565a9d8c5b969cf1500
+Description: Add a fifth column of icons to your Home screen
+Author: ichitaso
+Name: FiveColumnHomeScreen13
+Depiction: https://cydia.ichitaso.com/depiction/fivehome13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.hpbdisabller
+Section: Tweaks
+Installed-Size: 412
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-2
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.hpbdisabller_0.1-2_iphoneos-arm.deb
+Size: 39936
+MD5sum: fed195283b0876e3ed732ef1f413f78c
+SHA1: ca6db31cf8646e63ca0c81df149451c297f75742
+SHA256: b07a5cc5ae78e9968575c4fa3c4076c587fac1536ebae095fcf7b75a14434fb3
+SHA512: 0fa1fc0d4fac0a26f3b6356c51366c3744d48274fea528bf090b682997de0d3034015e613ce4da83c86408615d050b461eee2096c2103dbbe825add1f5336281
+Description: Disable official headphone buttons
+Name: Headphone Button Disabller
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/hpbdisabller.html
+
+Package: com.ichitaso.pokegeniehideads
+Section: Tweaks
+Installed-Size: 120
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: mobilesubstrate
+Filename: ./debs/com.ichitaso.pokegeniehideads_0.0.1_iphoneos-arm.deb
+Size: 2626
+MD5sum: a5853bc150bbcbe73306f5dce7f29181
+SHA1: 263a060f60eb80096b15b56a3056d0e572720cd1
+SHA256: 0f5f9282cc8598f8adb45ec3eddc14bf3fdb87cc5034da2c2d0a1373f5aa8171
+SHA512: 4b7c23077e8202ee2c20c3867c352d98ae1b00c4f8f9399c94314d3e356a816a74761fba6117d3799cf66d695d953967522b5dcc8dccbfc3b88fdfdc68f77d29
+Description: Hide Poke Genie Ads
+Name: PokeGenieHideAds
+Author: ichitaso
+
+Package: com.ichitaso.disableswipex
+Section: Tweaks
+Installed-Size: 348
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.4-2
+Depends: mobilesubstrate, preferenceloader, applist
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.disableswipex_0.4-2_iphoneos-arm.deb
+Size: 39638
+MD5sum: e9572a046b51f7ef91273c8a26c26846
+SHA1: 14171e1df747c82d8d027ac1d83e756dda5665e2
+SHA256: eebbca27a252af4ee62b670e74d085a945f2ab31d586f4195595484407f5e5c3
+SHA512: 395270166625e4d1112a8b711224a82a3ebdf155f67a61c1b159147969072e9e4a0c4d08e08812b3fb8c04f4cfd042560323817cee4f7a700f98368e82c281e5
+Description: Disable right and left swipe gestures while using the keyboard on iPhone X
+Author: ichitaso
+Name: DisableSwipeX
+Depiction: https://cydia.ichitaso.com/depiction/disableswipex.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/DisableSwipeX.bundle/icon@2x.png
+
+Package: com.ichitaso.silentpatcheri5
+Section: Tweaks
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0-4
+Depends: firmware (<< 6.0)
+Filename: ./debs/SSPatcher_iOS_5_1.0-4.deb
+Size: 1474
+MD5sum: ab4a404b63d32f94f8df7b957b035e85
+SHA1: 231e21057c9c973d49fe6ffd69c4627a9c640e27
+SHA256: 09cc0274dfff8126fef5ec3f8bb327d29ab6173ab89d9f764a6d761daa43ba3a
+SHA512: c63cc14bfe34a1677f133e5fbd7d55726d3779e1127eac79b3affe338c3dbf33d7bac8a932b4dbdfa451655ad04ebea96e610a53c46fea7d95fff7df92108c30
+Description: Shutter sound and rec sound silencer.
+Name: SSPatcher iOS 5
+Depiction: http://ichitaso.com/apt/depiction/silentpatcheri5.html
+Homepage: http://ichitaso.com/
+Author: ichitatso
+
+Package: com.ichitaso.lineswitcher
+Section: Tweaks
+Installed-Size: 904
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-9
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.lineswitcher_0.1-9_iphoneos-arm.deb
+Size: 119774
+MD5sum: 9e33fde2a4ac9eb83ab4fe5af60244b9
+SHA1: 1c7f1e296ab70316722b63ec4e506a2e3b7304dc
+SHA256: a9ac4fdd642dce8331491a7e6d260aa40d49b01710431c8b471cb6c8ce84f230
+SHA512: 05f3d963ebbfa2d0632dc364c29a9dde71b5e96d79a1f046052cd1aeb747802a296b733b9894a7420577d716f435bc034dfd33fcb078f888794d91f9052f5bee
+Description: Extension of LINE App.
+Author: ichitaso
+Name: LINE Switcher
+Depiction: https://cydia.ichitaso.com/depiction/line-switcher.html
+Homepage: https://ichitaso.com/jailbreak/line-switcher/
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/LINESwitcher.bundle/LINESwitcher@2x.png
+
+Package: com.ichitaso.fivehome13
+Section: Tweaks
+Installed-Size: 136
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.2
+Replaces: 
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 13.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.ichitaso.fivehome13_0.0.2_iphoneos-arm.deb
+Size: 4144
+MD5sum: 9d21e434a4a46b8889984728e9c5bf0f
+SHA1: 1e6e2ab5ffabbe97a7914a829bca1e2a11e0c7c4
+SHA256: 246c48aa9cbe2fb0ccd27800dc4537b6f5576352cbfe4d93e33b9d71325b3e7d
+SHA512: 36965d9f87d62909ac4904d6e1db0636743c39292d8e7d4e7c8d1529894adceb00998d567b15b6b11d920ffa18e9e6ff7696ce2b987e9c2be5b1aa403251256d
+Description: Add a fifth column of icons to your Home screen
+Author: ichitaso
+Name: FiveColumnHomeScreen13
+Depiction: https://cydia.ichitaso.com/depiction/fivehome13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+
+Package: com.ichitaso.autobrightness11
+Section: Addons (ControlCenter)
+Installed-Size: 120
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-4-1
+Depends: com.opa334.ccsupport
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.ichitaso.autobrightness11_0.1-4-1_iphoneos-arm.deb
+Size: 13214
+MD5sum: e121f7f58de9ff7cc2fad99d2421beeb
+SHA1: 5193d80290ae9aeb9bd334e221b3c3f76439868d
+SHA256: 2ddad8bb6d2fe01ef09cf0b697a5322c8d840eca0b1c4d1b9f422c2e0eebbdb7
+SHA512: 8e5b329c9594980f1d5eaf708abac91e73d71e7337007052618788f629b1def359826723d7e8d41c42132d0dc79e1338f7860b84e3d3fd4ffb16a5f032046ba3
+Description: Turn on / off Auto-Brightness from the control center.
+Author: ichitaso
+Name: AutoBrightnessToggle (CCSupport)
+Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/ControlCenter/Bundles/AutoBrightness.bundle/SettingsIcon@2x.png
+
+Package: com.ichitaso.pasteboardswitch
+Section: Addons (Flipswitch)
+Installed-Size: 456
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-7
+Depends: firmware (>= 7.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader
+Filename: ./debs/com.ichitaso.pasteboardswitch_0.1-7_iphoneos-arm.deb
+Size: 114904
+MD5sum: 6f5a47917b59c67050ceda687da21d91
+SHA1: 509db3c8de5fbf8400ab2fa933c8d0dc47651c75
+SHA256: fba370b65333f7c7e256c583ab71ac9d8e30a417dec9fbbea2f9cf39fe5ce3ab
+SHA512: db6105a2120758917bd5842d10d1bc9d974a0f1e4026ff989ae8df4f5aac3d306d5c84e13f0b4e004cb3f716ea36da5d09407f1a9bf23289e486dc3958b9fe32
+Description: Saves the history copied to pasteboard.
+Name: PasteBoardSwitch
+Homepage: http://ichitaso.com/
+Depiction: http://ichitaso.com/apt/depiction/pasteboardswitch.html
+Author: ichitaso
+Icon: file:///Library/PreferenceBundles/PBSSettings.bundle/PasteBoardSwitch@2x.png
+
+Package: com.ichitaso.pokegols
+Section: Tweaks
+Installed-Size: 2040
+Maintainer: ichitaso <willfeeltips+pgls@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-8
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.pokegols_1.0-8_iphoneos-arm.deb
+Size: 1586664
+MD5sum: ead731070450e9c358f2046f511200d9
+SHA1: 3284e04f8bca5916225ab06034f43bcf763fa7d2
+SHA256: dc8587da9a1ca237c69a99c0a0e0ce2959f14040701bbc8ebdd62365c850ccff
+SHA512: 590692c5cc6fccab64dff2027eefa6685984c250215e9594387147a4fadd42560f2fc6b7e6f30c97b410160f3913a9d24e17229fc10c7cbd2cd6f17c101f58fb
+Description: PokeGO Team gif Lock Screen animation!
+Author: ichitaso <willfeeltips+pgls@gmail.com>
+Name: PokeGo LS GIF
+Depiction: https://cydia.ichitaso.com/depiction/pokegols.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PokeGoLS.bundle/icon@2x.png
+
+Package: com.ichitaso.powerselector
+Section: Addons (Flipswitch)
+Installed-Size: 300
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 1.0-9
+Replaces: com.ichitaso.powerselector
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Pre-Depends: firmware (>= 4.0), firmware (<< 11.0)
+Conflicts: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector_1.0-9_iphoneos-arm.deb
+Size: 51724
+MD5sum: d6124d93ce52f5b03d35d8673806127f
+SHA1: 9ff37f9c04754fec601184b051e17e84965d7bd4
+SHA256: d44ceadb419ae93b308a8a1bfd242de75f2c883a96f65aea445435b6ad3df798
+SHA512: 98e1c03e56735738e2013883b510fc56f3dcb1fe96710ad9fde7cb7b10a6cc86f3a34a6026f9aee48c95d5c31b8103c93111e96307b584639f3a03fbfbf89f22
+Description: The power supply relation of a device is operated.
+Name: PowerSelector (Flipswitch)
+Author: ichitaso
+Homepage: http://ichitaso.com/
+Tag: purpose::extension
+Depiction: http://ichitaso.com/apt/depiction/powerselector.html
+
+Package: com.ichitaso.tibetankey7
+Section: Keyboards
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.1-1
+Depends: firmware (>= 7.0), firmware (<< 7.1), com.ichitaso.pasithea
+Filename: ./debs/Tibetan-Keyboard-7.deb
+Size: 3302
+MD5sum: 486e2753580513fe46eb0d5e004af24b
+SHA1: f756875e1a0a40ca1ed9ccf41a000a5ecbab5aa2
+SHA256: d6ebea9dfa4a0d1e0fbb6d59ff8a565e725101fa808fc52ecfee123133d8c6cb
+SHA512: 25c1fe39f0328f23ce12f0ff371cf619e08a70aec05d2b358c4ad6b2e297c9c3af0e3b394878e4e304de11ee2c02bda8b8aac02d38d0bbb2d26106ec1e3c5e36
+Description: Tibetan Keyboard for iOS 7.0.x
+Name: Tibetan Keyboard iOS7.0.x
+Author: ichitaso
+
+Package: com.ichitaso.quickpredict
+Section: Tweaks
+Installed-Size: 396
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.3
+Replaces: 
+Depends: mobilesubstrate, preferenceloader
+Pre-Depends: firmware (>= 11.0)
+Conflicts:
+Filename: ./debs/com.ichitaso.quickpredict_0.0.3_iphoneos-arm.deb
+Size: 49928
+MD5sum: b2ac23d5ab297245f899bba30f111dc3
+SHA1: 7dbe7780555c750ca4ba517865447b63fcbde63f
+SHA256: 01f1d58d3cbf742fb8881b84dc0cb920a277c9e68a082f9845274876722dbad7
+SHA512: af95b07cad47510e86de189c671824735cdd24f5048b9f8224c0aaaf3f60aadbd9977cae8efc353212fe9d054535c40fb7a6665588dab74020283d473e6f230e
+Description: Easily switch between Predict keyboards
+Author: ichitaso
+Name: QuickPredictKey
+Depiction: https://cydia.ichitaso.com/depiction/quickpredict.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: com.ichitaso.primalfolder2
+Section: Tweaks
+Installed-Size: 400
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 0.0.7
+Replaces: com.ichitaso.primalfolder2
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Filename: ./debs/com.ichitaso.primalfolder2_0.0.7_iphoneos-arm.deb
+Size: 52098
+MD5sum: cdbd9aeb3fb24471ac9667f86363a15d
+SHA1: 766f7a3327d952b2ae4e7e72437efb5c8d85f9b7
+SHA256: 33044fa68335859562b39cab063cd7fa316bd35fe01a96f07731baabee6cf35e
+SHA512: 575e40700192fe4e8fe1a9724f2e0a859bedca4766424d3778f3f85cf1f403eb879b738e45fcf90124415eb51ac9252ed0f9166f75f2b0a34ab4d15bf5913671
+Description: Display to folder as icon and launch action for Folders
+Author: ichitaso
+Name: PrimalFolder 2
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
+

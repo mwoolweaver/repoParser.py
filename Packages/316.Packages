@@ -1,0 +1,14 @@
+Package: com.medicaddict.aviat3
+Name: Aviat3
+Version: 0.0.1-14+debug
+Section: Tweaks
+Maintainer: mrvayga
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/aviat3.deb
+Size: 4224
+Repo: medicAddict Repo
+MD5sum: ecd57f1fef1409f4299a21a38b33779e
+Description: This tweak displays a UIView on the dashboard
+Author: mrvayga <mrvaygaflex @gmail.com>
+Depiction: 

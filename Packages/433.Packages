@@ -1,0 +1,190 @@
+Package: com.rishanan.hostadblocker
+Name: Host AdBlocker 
+Version: 1.6-3
+Architecture: iphoneos-arm
+Conflicts: com.reddestdream.minimalhostsblocker,com.rishanan.hostadblockerBETA
+Description: Block them annoying ads system wide including apps and browsers! Email me if an domain has to be patched. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//HostAdBlocker.deb
+Size: 20942bytes
+MD5sum: 085013e9ff653ced64bb0fa2cb58ac41
+Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
+
+Package: com.rishanan.NLM
+Name: NeverLowerMusic
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Do not let any incoming notification interrupt/lower your music. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//NeverLowerMusic.deb
+Size: 2046bytes
+MD5sum: 4e8c2a2c9b71ac60ac096a11bea16b04
+Depiction: https://rishanan.github.io/depic/com.rishanan.nlm/index.html
+
+Package: com.rishanan.OTAK
+Name: OTA Killer
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Kills update. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//OTAK.deb
+Size: 810bytes
+MD5sum: ec68e7922a09cdbb09233642c26fa67f
+Depiction: https://rishanan.github.io/depic/com.rishanan.otak/index.html
+
+Package: com.rishanan.hp
+Name: HideProfiles
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide profiles, fix "max app limit" issue on cydia impactor. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//HideProfiles.deb
+Size: 776bytes
+MD5sum: ff994972e99a5a23c0e6fa8e3db10c13
+Depiction: https://rishanan.github.io/depic/com.rishanan.hp/index.html
+
+Package: com.rishanan.as
+Name: ActiveSubstrate
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Alert user on boot/respring if substrate is activated successfully.
+Maintainer: Rishanan
+Author: Rishanan
+Section: Tweaks
+Filename: debs//com.rishanan.as_1.0_iphoneos-arm.deb
+Size: 4638bytes
+Installed-Size: 117
+MD5sum: af60e3532890dd3564d72de5bde2b595
+Depiction: https://rishanan.github.io/depic/com.rishanan.as/index.html
+
+Package: com.rishanan.su
+Name: SafariUnleashed
+Depends: mobilesubstrate, preferenceloader
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Safari's ultimate tweak. 
+Maintainer: Rishanan
+Author: Rishanan
+Section: Tweaks
+Filename: debs//com.rishanan.su_1.2.1_iphoneos-arm.deb
+Size: 16870bytes
+Installed-Size: 246
+MD5sum: 88e866a168b42d62156cd2e433ca54e3
+Depiction: https://rishanan.github.io/depic/com.rishanan.su/index.html
+
+Package: com.rishanan.lpnr
+Name: LowPowerNoRaise
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable raise to wake when lowpower mode enabled.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.lpnr_1.0_iphoneos-arm.deb
+Size: 4630bytes
+Installed-Size: 117
+MD5sum: 997c99bd741d97934dc9e292ea201725
+Depiction: https://rishanan.github.io/depic/com.rishanan.lpnr/index.html
+
+Package: com.rishanan.touchpass
+Name: TouchPass
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable passcode unlock, only Touch ID unlock with failsafe!
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.touchpass_1.0_iphoneos-arm.deb
+Size: 4958bytes
+Installed-Size: 117
+MD5sum: 6c18ba089f5c188ed8ba11fa35d444bd
+Depiction: https://rishanan.github.io/depic/com.rishanan.touchpass/index.html
+
+Package: com.rishanan.asc
+Name: AlwaysShowChanges10
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable "Show All Changes" for all packages automatically.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.asc_1.0_iphoneos-arm.deb
+Size: 4114bytes
+Installed-Size: 117
+MD5sum: 51be53198db5242494b0623be2baef15
+Depiction: https://rishanan.github.io/depic/com.rishanan.asc/index.html
+
+
+Package: com.rishanan.springplus
+Name: SpringPlus
+Depends: mobilesubstrate, preferenceloader, com.rish.libspring
+Conflicts:com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
+Version: 1.3-2
+Architecture: iphoneos-arm
+Description: All round modification for your iDevice.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.springplus_1.3-2_iphoneos-arm.deb
+Size: 47140bytes
+Installed-Size: 359
+MD5sum: ee47d1b54517921eb5e2cada238c9786
+Depiction: https://rishanan.github.io/depic/com.rishanan.springpluss/index.html
+
+Package: com.rish.libspring
+Name: libSpringPlus
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Essential lib for SpringPlus
+Maintainer: Rishanan
+Author: Rishanan
+Section: Development
+Filename: debs//com.rish.libspring_0.0.2_iphoneos-arm.deb
+Size: 5312bytes
+Installed-Size: 117
+MD5sum: 3b6c9143fd716bf0db36f30117a7f4cf
+Depiction: https://rishanan.github.io/depic/com.rishanan.libspringplus/index.html
+
+Package: com.rishanan.batteryplus
+Name: BatteryPlus
+Depends: mobilesubstrate
+Version: 1.1-3
+Architecture: iphoneos-arm
+Description: Best battery management for ios 10.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.batteryplus_1.1-3_iphoneos-arm.deb
+Size: 8482bytes
+Installed-Size: 117
+MD5sum: f45d6ad9af20a10d276c6efed5ccfb03
+Depiction: https://rishanan.github.io/depic/com.rishanan.batteryplus/index.html
+
+Package: com.rishanan.springplus11
+Name: SpringPlus11
+Depends: mobilesubstrate, preferenceloader
+Conflicts:com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP, com.rishanan.springplus, com.rishanan.BIOS10
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Internal settings unlocked for ios 11.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.springplus11_1.1.1_iphoneos-arm.deb
+Size: 46746bytes
+Installed-Size: 350
+MD5sum: 02cb6d107f2c2d171f2554265fd84617
+Depiction: https://rishanan.github.io/depic/com.rishanan.springpluss11/index.html

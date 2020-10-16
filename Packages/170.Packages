@@ -1,0 +1,544 @@
+Package: com.elor7824.aceofspadeslockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.aceofspadeslockglyph_1.0_iphoneos-arm.deb
+Size: 61166
+MD5sum: c64425d8e37da737f5127123cf3bb555
+SHA1: 4260f56ea34a8daf18811187892690dd26fb3745
+SHA256: 842f0728d3955bfa2b2fa754893a8ad469f8ecbbbab77317c716f4f70979e5b2
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring an Ace of Spades, as suggested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.aceofspadeslockglyph/index.html
+Name: Ace of Spades Lockglyph
+
+Package: com.elor7824.adinkralockglyph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.adinkralockglyph_1.0.1_iphoneos-arm.deb
+Size: 39486
+MD5sum: 6b95cb8a919f4b4db402145b461279e8
+SHA1: 8bd69b054dcec42b63f0734f729bd16529a71915
+SHA256: a57a797e84efd943a199e1f98d44044aa46ee8d80f9acfd0dfd3b4804ac706d1
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for the Adinkra African symbol, as requested by /u/ioskiid
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.adinkralockglyph/index.html
+Name: Adinkra Heart Lockglyph
+
+Package: com.elor7824.albrechtlockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.albrechtlockglyph_1.0_iphoneos-arm.deb
+Size: 50240
+MD5sum: 98d9e539c1a6bcfb73375fedbe65e90e
+SHA1: 9958a00453817b44778018b7eafbfbfdd1b89f98
+SHA256: 962cb59105f786ffc2031b029f083fe0e8db07c83de25a96dbbf06e23b350aaf
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the Albrecht praying hands, as requested by /u/VirtualBruiser
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.albrechtlockglyph/index.html
+Name: Albrecht praying hands Lockglyph
+
+Package: com.elor7824.americaskulllockglyph
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.americaskulllockglyph_1.0.2_iphoneos-arm.deb
+Size: 59722
+MD5sum: 3ab45848f697536a08ec0dae58394bda
+SHA1: fa015da35ecb4b3fb59d9606b10fa19b3c99db24
+SHA256: 9bfe1f81f47d430f77ab4b154d8c55e053aa1d0508f6e077000b4bf2ec61d8a3
+Section: Themes (Lockglyph)
+Description: A lockglyph theme that features the American flag on a skull, as requested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.americaskulllockglyph/index.html
+Name: America Skull Lockglyph
+
+Package: com.elor7824.asulockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.asulockglyph_1.0_iphoneos-arm.deb
+Size: 56668
+MD5sum: 45e731059058606b13393f93255a1dbf
+SHA1: e052221a3ab56cd7cb6cbf822325b59f729266ec
+SHA256: a5e5a0b6f72b176b252bb15e549ae4820a6d00c689b361ea48e70e4b0c978dd3
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the Arizona State logo, as requested by /u/KingJordo
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.asulockglyph/index.html
+Name: ASU Lockglyph
+
+Package: com.elor7824.breakingbadlockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.breakingbadlockglyphs_1.0_iphoneos-arm.deb
+Size: 214620
+MD5sum: 0f8282eb773b3e136be61ad2c78e1ce2
+SHA1: 9e6dcf49842af576320e46bc80b5e987191486f6
+SHA256: e593606aeb06ca706d228ad631c85b162e43c03dbd84fcca9ac9bd1d999eb6a5
+Section: Themes (Lockglyph)
+Description: A set of lockglyph themes for Breaking Bad fans, as suggested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.breakingbadlockglyphs/index.html
+Name: Breaking Bad Lockglyphs
+
+Package: com.elor7824.chicagobhlockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.chicagobhlockglyphs_1.0_iphoneos-arm.deb
+Size: 198260
+MD5sum: 16a8337bce1a598989e1c6a5a043b8d7
+SHA1: a05fc7b8bb8df5b8d724aee308feb9ce5d1a9d84
+SHA256: 38350ede8ed076875d4a2f45dcda763a4de0c8d17ab3b4de7a71eb98f4860aa5
+Section: Themes (Lockglyph)
+Description: A set of lockglyph themes featuring the Chicago Blackhawks, as requested by Pat R.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.chicagobhlockglyphs/index.html
+Name: Chicago Blackhawks Lockglyphs
+
+Package: com.elor7824.circleusalockglyph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.circleusalockglyph_1.0.1_iphoneos-arm.deb
+Size: 40378
+MD5sum: bd8d3b3e4fb6cc2557dde8e434ec7391
+SHA1: 51a1d1396d5cee677dc0fdc1769b2973e6d73d69
+SHA256: c118067b24767d6960f3918cbccf3263726ef19d50240608cc046933d874f75d
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring a cool American flag as a circle, as requested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.circleusalockglyph/index.html
+Name: Circle America Lockglyph
+
+Package: com.elor7824.cubuffslockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.cubuffslockglyph_1.0_iphoneos-arm.deb
+Size: 34674
+MD5sum: f4167cfb0738e846fd8cb649c413bc37
+SHA1: 2b480329e8091fa0ff248bf6887abd6bfe84363c
+SHA256: 363b624c056275a0e2049770edae3f1c14ca6d2eaddeb19786928b72d2621c74
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the University of Colorado Boulder mascot.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.cubuffslockglyph/index.html
+Name: CU Buffs Lockglyph
+
+Package: com.elor7824.dblockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.dblockglyph_1.0_iphoneos-arm.deb
+Size: 66192
+MD5sum: 8c16063d2843c78cc2778d30406564c8
+SHA1: 6c2295acc8dca8a5e1387c93dd5dc09bd7b50203
+SHA256: b7e1d3b41fd7e862a5a8424d03fc0ff77daab83cb99b3c0c3767e221a0fe1e10
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for the 7 star Dragonball, as requested by /u/xJordyy.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.dblockglyph/index.html
+Name: Dragonball Lockglyph
+
+Package: com.elor7824.dbzeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs//com.elor7824.dbzeppelin_1.0_iphoneos-arm.deb
+Size: 5094
+MD5sum: 06bf4b54b4ffd4c9cb9879af6e08abd4
+SHA1: dd8190bba8e086725682d502861979edffc304c5
+SHA256: cbdeb47166dc256989eca8a7759c8f4ba82812ee9438bb6f0fe2d29bb50004f1
+Section: Themes (Zeppelin)
+Description: A Zeppelin logo for the 7 star Dragonball, as requested by /u/xJordyy.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.dbzeppelin/index.html
+Name: Dragonball Zeppelin
+
+Package: com.elor7824.esolockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.esolockglyphs_1.0_iphoneos-arm.deb
+Size: 476840
+MD5sum: d0f59b3314cde99f30e6a0e5b743c123
+SHA1: f2f71d3fffb3861e9bb7b871f2c39e68d9b20ee8
+SHA256: 1d2e3e6411308370069fbd4983bcb919fe4e819b6442df690efdf62497a5c828
+Section: Themes (Lockglyph)
+Description: A set of lockglyph themes for the Elder Scrolls Online fan.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.esolockglyphs/index.html
+Name: ESO Lockglyphs
+
+Package: com.elor7824.esorespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: winterboard
+Filename: ./debs//com.elor7824.esorespringlogo_1.0_iphoneos-arm.deb
+Size: 310046
+MD5sum: 2fa2f1d14c16456d9c2d8fb18152145f
+SHA1: 05388e3a895a1ff90b426b064c2ab0ee9139aceb
+SHA256: a8450572459c61c8c1dc6921ffe81cd031db4e748b0369cd31845bb81a9a0d22
+Section: Themes (Winterboard)
+Description: A respring logo for the Elder Scrolls Online fan.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.esorespringlogo/index.html
+Name: ESO respring logo
+
+Package: com.elor7824.esozeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs//com.elor7824.esozeppelin_1.0_iphoneos-arm.deb
+Size: 10050
+MD5sum: f552ead4d197443b726ba99aa28afe93
+SHA1: 566fe6f568c048dadd7ecfc591dbd3f6c1a3c697
+SHA256: 95c4402b75f78e94732caec5260e1552116f232188fe4afbd7145df6cc997104
+Section: Themes (Zeppelin)
+Description: A Zeppelin logo for the Elder Scrolls Online fan.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.esozeppelin/index.html
+Name: ESO Zeppelin
+
+Package: com.elor7824.halolockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.halolockglyphs_1.0_iphoneos-arm.deb
+Size: 174124
+MD5sum: 86ec882e79839b0e4897d5484357dd45
+SHA1: 74340121bb17fc21d3fe109a1758f726a4e22555
+SHA256: c47cff605653615232cff2d85e0600d147e1dd2ecb436e160ded0f05758582f9
+Section: Themes (Lockglyph)
+Description: A set of lockglyph themes featuring Master Chief's helmet, energy sword, and the legendary logo, as requested by /u/blindSniper123
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.halolockglyphs/index.html
+Name: Halo Lockglyphs
+
+Package: com.elor7824.herolockglyphs
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.herolockglyphs_1.2_iphoneos-arm.deb
+Size: 923762
+MD5sum: d3f55584d92fe2a6c761c42afa3990d9
+SHA1: 30acc4a0f96bd85d202affe6ddcfca77251d3cbe
+SHA256: 1c5cea9ba74fb73cee8696a46f972b6f568d72acfcdcaeaa1850f444fe190593
+Section: Themes (Lockglyph)
+Description: A collection of lockglyph themes that feature multiple superheroes
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.herolockglyphs/index.html
+Name: Superhero Lockglyphs
+
+Package: com.elor7824.jokerlockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.jokerlockglyph_1.0_iphoneos-arm.deb
+Size: 48728
+MD5sum: a620804b232a0bc4058d6ed02233d37b
+SHA1: 523f46769ab1b5af2bde5ef03b916de5888e8be6
+SHA256: 143bebd99d217b61db444d2858c529a86dceb390afaca1226a2ede45a9048c91
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring The Joker, as suggested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.jokerlockglyph/index.html
+Name: Joker Lockglyph
+
+Package: com.elor7824.lakingslockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.lakingslockglyphs_1.0_iphoneos-arm.deb
+Size: 90604
+MD5sum: 403a8e14e019ff7ea0460b51732828bc
+SHA1: e4ead1aad9634f48ee26f6484c15928425115b91
+SHA256: 0ecb7c4ee21f4ba60f722e5d9040a37f6cfb9ab08d82ec11e9f68005fe650e75
+Section: Themes (Lockglyph)
+Description: A set of lockglyph themes featuring two logos for the LA Kings, as requested by /u/M32OT
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.lakingslockglyphs/index.html
+Name: LA Kings Lockglyphs
+
+Package: com.elor7824.ltsj6modd
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.bushe.lockhtml4
+Filename: ./debs//com.elor7824.ltsj6modd_1.0.1_iphoneos-arm.deb
+Size: 498348
+MD5sum: 896f896375ff8053ffe1015c11f178d7
+SHA1: 2a3762649e2c8a7b18ac8fc041495e20203a9dc8
+SHA256: f62134f4c192b4df525000d7d4a449cdb5f089ab61567a0a768bdf0bad5c5bb9
+Section: Themes (LockHTML4)
+Description: A very cool LockHTML4 lockscreen theme
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.ltsj6modd/index.html
+Name: LT SJ6MODD
+
+Package: com.elor7824.magpullockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.magpullockglyph_1.0_iphoneos-arm.deb
+Size: 45134
+MD5sum: d24fbc2065e787c4f697272a9d0eb5a9
+SHA1: 1924ff421550b20a7ce611937e0f3e6d0fee791e
+SHA256: d6eb34712c5e0ef4b5e1de04579bf63a65b8b5e471ac54c9edcc13790d96de12
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the Magpul logo, as suggested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.magpullockglyph/index.html
+Name: Magpul Lockglyph
+
+Package: com.elor7824.noveskelockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.noveskelockglyph_1.0_iphoneos-arm.deb
+Size: 52358
+MD5sum: 16f63e5b44dbce129803f2b6a7fcd448
+SHA1: edefa40935c9d8dd9fe9df5da423c300d63566b4
+SHA256: 8532dd0779f16146c44f3e10e0d617b884125559d99acccb0a06fc659748b2eb
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the Noveske logo, as suggested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.noveskelockglyph/index.html
+Name: Noveske Lockglyph
+
+Package: com.elor7824.noxtheme
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: winterboard
+Filename: ./debs//com.elor7824.noxtheme_1.1_iphoneos-arm.deb
+Size: 5111090
+MD5sum: 8d41441af7762c08e0a659273b6984b8
+SHA1: 0851a6d9b1b9267ebc765c1b21872ad5e889092d
+SHA256: f88113cbccad31078d2372501b81dae8d05815636431d1ddb26a57827ae4f342
+Section: Themes (Winterboard)
+Description: My very first theme! Nox is a dark theme for iPhone and iPhone 6+! See bellow for screenshots. Special thank you to all the people at /r/iOSthemes for all the support and advice that I have recieved! I will be adding more icons soon!
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.noxtheme/index.html
+Name: Nox
+
+Package: com.elor7824.ohiolockglyph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.ohiolockglyph_1.0.1_iphoneos-arm.deb
+Size: 46682
+MD5sum: de8086a1365402f090862d02c87b79ac
+SHA1: 1bc6771217cfc61f4f52a7f13098432d32257fda
+SHA256: 644fce14bc09ab42da243ecb46fda0730a7bf8419874e8bd0a1ec230379b661f
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for Ohio State University, as requested by /u/_King21Jay
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.ohiolockglyph/index.html
+Name: Ohio State Lockglyph
+
+Package: com.elor7824.pangulockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.pangulockglyph_1.0_iphoneos-arm.deb
+Size: 67170
+MD5sum: f4947d2184449a4706b783ec58d78b5d
+SHA1: 8c0109513c9204c68316ff10321eb2ec46e5daa1
+SHA256: f5c35dfa633b2dd90f1178838fd3d674065e77581f567dc5a986f73224d3e346
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the Pangu logo.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.pangulockglyph/index.html
+Name: Pangu Lockglyph
+
+Package: com.elor7824.pokemonlockglyphs
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.pokemonlockglyphs_1.0.2_iphoneos-arm.deb
+Size: 119950
+MD5sum: 4f561ea45ce726b7e2d698a10851392e
+SHA1: 4c9d085e18b1d0f64dc4b249dee36b69ecc6967c
+SHA256: 101eaf533bd7494ab691c3cf9f2160574146050271cb141dc92004eebd6aca7e
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the three original starter pokemon
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.pokemonlockglyphs/index.html
+Name: Pokemon Lockglyphs
+
+Package: com.elor7824.rx7lockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.rx7lockglyph_1.0_iphoneos-arm.deb
+Size: 43674
+MD5sum: d44f0d67649d95d2d5f07d1d241f5864
+SHA1: c948380558f84df8d80d22442582a7a5a7266134
+SHA256: 7ffc7446a87e9c3aa7ba2499111d4dd4b030acee622bccbc8e2f7e0022384246
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring a RX7 logo, as requested by /u/dandaman919.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.rx7lockglyph/index.html
+Name: RX7 Lockglyph
+
+Package: com.elor7824.sankofalockglyph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.sankofalockglyph_1.0.1_iphoneos-arm.deb
+Size: 43726
+MD5sum: 45ce35b8d2dc457d82ea094658f27231
+SHA1: e3044857101dd6f66b302e03048808c1fb2d3d02
+SHA256: 8172853e055ca904f9547cb46c60e1c10fcbb2baae3b818d1547dfb2ccb73b2d
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for the Sankofa African symbol, as requested by /u/ioskiid
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.sankofalockglyph/index.html
+Name: Sankofa Bird Lockglyph
+
+Package: com.elor7824.seahawkslockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.seahawkslockglyph_1.0_iphoneos-arm.deb
+Size: 48950
+MD5sum: 48c04c82ed420eb7ec0e5a9d12586214
+SHA1: d35b7d6aadb5ee9b362e957109beeaf3ed1253f3
+SHA256: e2ad9279f5be9d6e7c945ecebe33ac813ee41074035203563cfbbb1fd04d3a25
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the Seattle Seahawks, as suggested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.seahawkslockglyph/index.html
+Name: Seattle Seahawks Lockglyph
+
+Package: com.elor7824.shieldlockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.shieldlockglyphs_1.0_iphoneos-arm.deb
+Size: 89958
+MD5sum: 39642b4fa42c88a562aa11eb9f78b0e0
+SHA1: 200167e5516d2a152ddcde63fc055e685fe07f5d
+SHA256: b76e64e59173c77e6332a6a8b10403329b46eea1d4087bea848a968020146a34
+Section: Themes (Lockglyph)
+Description: A lockglyph theme that features a S.H.I.E.L.D symbol as well as a Mjolnir symbol, as requested by /u/furmat60
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.shieldlockglyphs/index.html
+Name: S.H.I.E.L.D Lockglyphs
+
+Package: com.elor7824.southbrisbanefutsal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.southbrisbanefutsal_1.0_iphoneos-arm.deb
+Size: 75298
+MD5sum: c660c7a2ac49ad7e03a1725a7b860296
+SHA1: 4324adc66bc2d0839db9ebbf93cee8d3c76b2089
+SHA256: 9ac6d70271a5bacac18036cc27ae0c9b1fe6c9d6b30ae4326e7a068fb39d0142
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the South Brisbane Futsal logo, as requested by /u/Terrenc3Peterson
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.southbrisbanefutsal/index.html
+Name: South Brisbane Lockglyph
+
+Package: com.elor7824.spartanlockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.spartanlockglyph_1.0_iphoneos-arm.deb
+Size: 77450
+MD5sum: 1ca5693222556eac73bc23564b87124d
+SHA1: b31814f9d07f3e986e1bced498d9fbba851e5965
+SHA256: 839185c1a03dafc6c34cdba3e5fb1d73d499145d56ee113b3afde0a229b7653a
+Section: Themes (Lockglyph)
+Description: A lockglyph theme that features a Molon Labe spartan, as requested by /u/Willyb211
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.spartanlockglyph/index.html
+Name: Molon Labe Lockglyph
+
+Package: com.elor7824.supremelockglyph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.supremelockglyph_1.0.1_iphoneos-arm.deb
+Size: 33382
+MD5sum: 04d9497b59fbbca77cb71a96c420e33f
+SHA1: dc2d5847d983d8c76412c66438e125b81973fa43
+SHA256: 46df26966a4261d4378ad5473f42ff16eae4b8025190d804079a4cfd46d0f6ff
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for the Supreme logo, as requested by /u/shortlightskin
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.supremelockglyph/index.html
+Name: Supreme Lockglyph
+
+Package: com.elor7824.transformerslockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.transformerslockglyphs_1.0_iphoneos-arm.deb
+Size: 96798
+MD5sum: dfeb3a04b3c0f5044ac21d8f2ce967a1
+SHA1: 6e7ccac34cbd0c586202deb3d0a7a43bddc9d3d7
+SHA256: 4fef9db4ec4d3c6dbed44dfcce9772a8bfeb51cab9a6afde888631d959d38967
+Section: Themes (Lockglyph)
+Description: Two lockglyph themes featuring the Decepticon logo as well as Optimus Prime's head, as requested by /u/NASAcaveman
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.transformerslockglyphs/index.html
+Name: Transformers Lockglyphs
+
+Package: com.elor7824.wvulockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.wvulockglyph_1.0_iphoneos-arm.deb
+Size: 56002
+MD5sum: cfdbdb71f9637c067dc601d6aae53eed
+SHA1: 15e0af40768dc071ec6b33ebb3c193382412ff42
+SHA256: 43f29e81ef1f035b4fa651111ba7309d60f26013430571aec1ae5505378c1fab
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the West Virginia University logo, as requested by /u/thisvacuumsucks.
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Depiction: http://elor7824.github.io/depictions/com.elor7824.wvulockglyph/index.html
+Name: West Virginia University Lockglyph
+

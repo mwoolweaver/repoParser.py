@@ -1,0 +1,64 @@
+Package: com.aerialx.ishshit
+Version: 1.2.8b2
+Architecture: iphoneos-arm
+Maintainer: iAperion <aperion@hotmail.ca>
+Filename: ./debs/com.aerialx.ishshit_1.2.8b2_iphoneos-arm.deb
+Size: 4192638
+MD5sum: c6b735f9d8e7c89c4df6882d6c1f5fb3
+SHA1: 0b3858b3ea7a2f97de50a8787bb6e507303ff307
+SHA256: f976892dd95489a4c01bc3805b3b37b379ef6910228e0dc2bc483df5bddaa341
+Section: Utilities
+Description: Easily backup firmware SHSH blobs!
+Author: Aaron Lindsay <aaron@aaronlindsay.com>
+Dev: aerialx
+Icon: file:///Applications/iSHSHit.app/Icon.png
+Name: iSHSHit
+
+Package: com.iApeiron.savethemblobs
+Version: 1.0b1
+Architecture: iphoneos-arm
+Maintainer: iAperion <aperion@hotmail.ca>
+Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
+Size: 24624910
+MD5sum: 88083401d5c888a5be172c01182d7693
+SHA1: 70e5f9ff1d8080c1ceb618e3362858782f466f86
+SHA256: e5dfe37c5e34d047150e46f41b72e0e23bb72293431ac4a088b9d8e49256271b
+Section: Utilities
+Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
+Author: iAperion <aperion@hotmail.ca>
+Name: Savethemblobs
+
+Package: kloader
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: axi0mX
+Depends: firmware (>= 4.0)
+Filename: ./debs/kloader_1.0.2_iphoneos-arm.deb
+Size: 12486
+MD5sum: fef541ee1d6b691b4e6b6b7f9b03c938
+SHA1: da518309bf316682f32d8d644413598902016c2d
+SHA256: a472328bf6e1d110b2a042679bce73a36a983f34e760fb4c0161c6f2dbbd0347
+Section: System
+Priority: optional
+Homepage: https://github.com/axi0mX/ios-kexec-utils/blob/master/kloader.c
+Description: NEW IMPROVED KLOADER
+ armv7 support for iOS 4.0-9.3.5 (requires tfp0 kernel patch)
+ arm64 support for iOS 7.0-8.4.1 (requires tfp0 kernel patch and patched LLB/iBoot/iBSS/iBEC)
+ will automatically wake up device after 2 seconds (no button press required, should work 99.9% of the time)
+Author: winocm, xerub, axi0mX
+Name: kloader
+
+Package: setuptools
+Version: 0.6c11
+Architecture: iphoneos-arm
+Maintainer: iAperion <aperion@hotmail.ca>
+Depends: python
+Filename: ./debs/setuptools_0.6c11_iphoneos-arm.deb
+Size: 1640236
+MD5sum: bcc26ebb4900a19c2d42be79cba8484b
+SHA1: 3ec0a42d56735485f28273093a44d59c94be85e3
+SHA256: c9b39ed36c6fd26329a9ddcb5033fc5ae5567c646fe8e3509b2bec83ad2ad698
+Section: Packaging
+Description: package manager for Python modules
+Name: Setup Tools
+

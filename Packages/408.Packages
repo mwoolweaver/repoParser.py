@@ -1,0 +1,16 @@
+Package: com.raff.notifill
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: rafferli
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.raff.notifill_1.0.3_iphoneos-arm.deb
+Size: 23754
+MD5sum: e45db64437c985589d00d5bb8f3b5059
+SHA1: 2897620cd6dfdcae4ed3db1e88b238962bac8de0
+SHA256: 423e1dae46fd7e1bb624fd3bda4ba1edc368a9fd424f2d9b05d1ee565cd56ee4
+Section: Tweaks
+Description: See when notifications are about to leave
+Author: rafferli
+Name: NotiFill
+

@@ -1,0 +1,33 @@
+Package: com.simalary.powerapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Harper <19harperc@gmail.com>
+Installed-Size: 2100
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.simalary.powerapp_1.0_iphoneos-arm.deb
+Size: 904580
+MD5sum: 9cde28bd835365501699638634a81889
+SHA1: 80952f5c382bf9c75ab8565219de893fc628155e
+SHA256: 684f1d1d2e970270c142e3dcee31bddf9c74b20e8012c01f9ce196b692c0018e
+Section: Utilities
+Description: Easily access power options for your device with Obturo.
+Author: Chris Harper <19harperc@gmail.com>
+Depiction: https://simalary.github.io/beta/depictions/Obturo/index.html
+Name: Obturo
+
+Package: com.simalary.reducewhitepointmodule
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Simalary (Chris)
+Installed-Size: 126
+Depends: mobilesubstrate
+Filename: ./debs/com.simalary.reducewhitepointmodule_1.0_iphoneos-arm.deb
+Size: 20688
+MD5sum: d87ce2bdf49f05bc9f90603a71296b75
+SHA1: 60b7f278f24220bfd4f8a57d753af62cf1c67d32
+SHA256: 3e6f26550fadd9c41c70842c813bbecfcbd61617d303727340676e3349a49181
+Section: Control Center (Modules)
+Description: Toggle Reduce White Point with Control Center.
+Author: Simalary (Chris)
+Name: ReduceWhitePointModule
+

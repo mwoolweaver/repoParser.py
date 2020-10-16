@@ -1,0 +1,20 @@
+Origin: PixelFireDev
+
+Label: PixelFireDev
+
+Suite: stable
+
+Version: 0.1.1
+
+Codename: dslk
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: PixelFireDev repo
+
+MD5Sum:
+05866ab1ace04ca9fb3436f3720cff88 460 Packages
+cd398d0d46a42660618a7f23f20fe760 317 Packages.gz
+99919323fd04a9f08812d9d50950be30 355 Packages.bz2

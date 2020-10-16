@@ -1,0 +1,15 @@
+Package: com.pillowbear.NotSoRecentlyUsed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: pillowbear <dogerino@outlook.fr>
+Depends: mobilesubstrate
+Filename: debs//com.pillowbear.NotSoRecentlyUsed.deb
+Size: 3114
+MD5sum: f5f6a4e6abea3aedd71462a91dd199f0
+SHA1: ac830a6a49fee43eb17fdc2748187cd3106a9c27
+SHA256: 5507fd3809bd04e5217fe526dc67de9ebd6b5844186ee4deb9e005454745638d
+Section: Tweaks
+Description: Up to 150 recently used emojis !
+Author: pillowbear <dogerino@outlook.fr>
+Depiction: http://pillowbear.github.io/depic/com.pillowbear.NotSoRecentlyUsed/index.html
+Name: NotSoRecentlyUsed

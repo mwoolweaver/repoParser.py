@@ -1,0 +1,76 @@
+Package: com.and4y.diraagu
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: and4y <anday112@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.DhiraaguOld.deb
+Size: 10938
+MD5sum: f0b4ca4bd07f6529138049f6014f42c6
+Description: Maldives Telecom operator Dhiraagu Old logo for zeppelin
+Name: Dhiraagu Zeppelin
+Author: Fr0st <anday112@gmail.com>
+
+Package: com.yourepo.hanyfu.stylusitc
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.stylusitc_1.0_iphoneos-arm.deb
+Size: 547908
+MD5sum: ee228a6bdf973f8d569046b0d4960ff1
+Description: Bytafont TweakMode Font for My personal use, dont download
+Name: Stylus ITC
+Author: hanyfu
+
+Package: com.yourepo.hanyfu.stylusitcfont
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.stylusitcfont_1.0_iphoneos-arm.deb
+Size: 8776756
+MD5sum: 097250e3ebf0ed0a011c7446ba6e9054
+Description: Stylus ITC Font for bytafont 3m not a tweak mode , iOS 8 and 9
+Name: Stylus ITC Font
+Author: hanyfu <antikilerz@hotmail.com>
+
+Package: io.hanyfu.Nunito
+Version: 1.0
+Section: Fonts
+Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.Nunito.deb
+Size: 161608
+MD5sum: 73f1f97de1d72fe760be925f67c29066
+Description: BytaFont Tweakmode font
+Name: Nunito TM Font
+Author: Mohamed Haneef <hanyfu@hotmail.com>
+Homepage: http://www.hanyfu.info
+Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.Nunito
+
+Package: io.hanyfu.minivan50
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.minivan50.deb
+Size: 11448
+MD5sum: e8479fd4621f21c401476a644c80c47f
+Description: Maldives 50th independence day logo for zeppelin
+Name: Minivan 50 Zepplin logo
+Author: Mohamed Haneef <hanyfu@hotmail.com>
+Homepage: http://www.hanyfu.info
+Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.minivan50
+
+Package: io.hanyfu.robro
+Version: 1.0
+Section: Fonts
+Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.robro.deb
+Size: 963586
+MD5sum: 00738c79ed6f76ad72ba4e1e601b9e27
+Description: BytaFont Tweakmode font
+Name: Robro Font
+Author: Mohamed Haneef <hanyfu@hotmail.com>
+Homepage: http://www.hanyfu.info
+Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.robro
+

@@ -1,0 +1,9 @@
+Origin: tyler's repo
+Label: tyler
+Suite: stable
+Archive: stable
+Version: 0.9
+Codename: cyntinel
+Architectures: iphoneos-arm
+Components: main
+Description: The software herein is beta. I am not liable for problems or misuse. You have been warned.

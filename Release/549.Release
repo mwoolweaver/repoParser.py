@@ -1,0 +1,8 @@
+Origin: Rango’s Repo
+Label: Rango’s Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Customize IOS to your liking and get the features you want!

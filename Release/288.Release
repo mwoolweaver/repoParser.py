@@ -1,0 +1,8 @@
+Origin: Martin Pham Cydia
+Label: Martin Pham Cydia
+Suite: stable
+Version: 1.0
+Codename: martinpham
+Architectures: iphoneos-arm
+Components: main
+Description: Martin Pham's Cydia Repository

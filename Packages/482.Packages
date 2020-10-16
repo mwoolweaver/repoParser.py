@@ -1,0 +1,547 @@
+Package: com.1phone.cydia.icon.pack
+Version: 3.1.4
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Filename: ./debs/szifon.com.icon.deb
+Size: 7774
+MD5sum: 1f9759a44d5969d161fc00e0014599f7
+SHA1: a05b80608c81cdf81bf91bb6cd39834be08e8a3d
+SHA256: 418b290ff51fd151db263e84436bf7aa12b71c465387626c794a67817c0de57a
+Section: szifon.com
+Homepage: http://szifon.com
+Description: Szifon.com Cydia ikon csomag, a source-ok listájában teszi ki a Szifon logót a source neve és címe elé.
+Author: Szifon.com <hello@szifon.com>
+Name: Szifon.com ikon csomag
+
+Package: com.1phone.hosts.file
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/reklam.mentesito.deb
+Size: 62130
+MD5sum: fa0dc9b4d76cd4e873e8bad6467ed048
+SHA1: c35a902e8335d497e9533f09ad4f27b660f1a46e
+SHA256: fb70f38b8defa251a891a1d5000fd1bfa435cfbbd7c59f065b2ce449c1d779d7
+Section: szifon.com
+Homepage: http://szifon.com/2008/09/18/hirdetesek-tiltasa-iphone-on/
+Description: A /etc/hosts fájlt írja felül, hogy ne jöjjenek be a kéretlen reklámok. Egyes alkalmazások működésében okozhat problémákat az abban található reklámok blokkolása miatt, ha az adott app erre “hisztis” (például az SBSettings lehet ilyen). A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: Reklámszűrő hosts fájl
+
+Package: com.szifon..billentyuzet.Fix.30
+Version: 5.1.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 3.0), firmware (<= 5.1.1)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.billentyuzet.fix.3.0.deb
+Size: 2594
+MD5sum: c34e30d3633019a3ef5c63f10eed4ddb
+SHA1: 1e88924f87fd9fa14166fa5d9d7c156747c81618
+SHA256: 83a80256f0c28d8ac0f0683ed96eff28ef6e2d3a4363ae72e5cc00490aaab734
+Section: szifon.com
+Homepage: http://szifon.com/2012/05/31/frissitesek-telenor-carrier-fix-magyar-billentyuzet-fix-ultrasn0w-fixer/
+Description: Magyar billentyűzet fix iOS 3.x, 4.x, 5.x rendszerre. Ez a frissítés tartalmazza a dupla mássalhangzókat is, és több speciális karaktert. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Mordon, Jadeye, atesz88
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Magyar billentyűzet fix
+
+Package: com.szifon.CydiaHU
+Version: 1.1.10
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/CydiaHU.deb
+Size: 6534
+MD5sum: e3d339bdda3300a0b7d9d80164b026c6
+SHA1: aad1efff6adf63cfa9b56ad4e39179f9ff9914bf
+SHA256: 3112e84c68528dce4ed94b4269cce975d5dfaf42a47638c149ea55da15044bb9
+Section: szifon.com
+Homepage: http://szifon.com/2012/11/04/szifon-com-magyar-felhasznaloi-felulet-a-cydiahoz/
+Description: Magyar nyelvi csomag a Cydia 1.1.6-os és újabb verzióihoz. Használatához a készülék nyelvét magyarra kell állítani. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Cydia magyar UI
+
+Package: com.szifon.FlipControlCenterHU
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack, com.rpetrich.flipcontrolcenter (<= 0.4)
+Filename: ./debs/FlipControlCenterHU.deb
+Size: 2932
+MD5sum: 1a21145876d67df0cb21b65d3707f9ac
+SHA1: f8c729ea76d9cb003144d6908a681821e43062ce
+SHA256: 2478eb0f1282a4144888029e9f218acd6085b25a698cc7090def9b862ef9773b
+Section: szifon.com
+Homepage: http://szifon.com/2013/12/28/flipcontrolcenter-szabd-testre-a-vezerlokozpont-ikonjait/
+Description: Magyar nyelvi csomag a FlipControlCenter 0.4-es verziójához. Használatához a készülék nyelvét magyarra kell állítani. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: H2CO3, Jadeye
+Author: Jadeye & H2CO3 / Szifon.com <hello@szifon.com>
+Name: FlipControlCenter magyar UI
+
+Package: com.szifon.aid.fix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/aid.fix.deb
+Size: 1386
+MD5sum: 0223413e7dd25268c06651db1d15bd8e
+SHA1: 5d626cb57a02f442cd9c28e9ce5dc3476488c9a4
+SHA256: 0aca914077971df3c2c11b0d6629e2f2e5adda572a2372ee3b6bb8f04b5c3305
+Section: szifon.com
+Homepage: http://szifon.com/2014/09/15/aid-dylibappbuyer-uj-apple-id-t-es-jelszot-lopo-malware-jailbreakelt-keszulekeken/
+Description: Ez a csomag ellenőrzi a /System/Library/LaunchDaemons/ alatt a com.archive.plist, illetve a /bin/ alatt az updatesrv és az ezek által létrehozott egyéb fájlok létezését és törli azokat, ha léteznek. A telepítés után a csomag törölhető, az ellenőrzés csak telepítéskor fut le. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Aid.dylib malware fix
+
+Package: com.szifon.billentyuzet.fix.6x
+Version: 11.1.2
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 6.0)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.billentyuzet.fix.6.x.deb
+Size: 2846
+MD5sum: 29ef01b99f63dc3bc8f7375cb6cf029d
+SHA1: 4821628f5cac72e883136077e614fe96384c99d8
+SHA256: 88d6e002e8056b374d99107433e34482518f2e3f3a72473d0b603dd106f6942a
+Section: szifon.com
+Homepage: http://szifon.com/2012/05/31/frissitesek-telenor-carrier-fix-magyar-billentyuzet-fix-ultrasn0w-fixer/
+Description: Magyar billentyűzet fix iOS 6.x vagy újabb rendszerre. Ez a frissítés tartalmazza a dupla mássalhangzókat is, és több speciális karaktert. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Mordon, Jadeye, atesz88, hatesz1979
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Magyar billentyűzet fix 6.x+
+
+Package: com.szifon.bpmenetrend
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>=3.1.3), firmware (<= 4.2.1)
+Depends: com.1phone.cydia.icon.pack, ldid
+Filename: ./debs/BpMenetrend.deb
+Size: 6984528
+MD5sum: 5c790c825f72ca861a9288d19412d73c
+SHA1: c171d7b6f62b25e8491a23aebfe103f234cd7ef3
+SHA256: 5b659c7e94882914d17dceddd33fcf3ee51a1a87c129b7fb4c50cac4380200c1
+Section: szifon.com
+Homepage: http://szifon.com/
+Description: A BpMenetrend 1.1.8-as verziója, amely elfut még iOS 3.x és 4.x rendszeren. Azok számára lehet hasznos, akik iPhone 2G-t vagy 3G-t használnak, és így az App Store-ból már nem tudják telepíteni az app aktuális verzióját, az 1.1.8-ast pedig nem mentették le időben. A csomag az alkalmazást fejlesztő iMind Kft hozzájárulásával készült. Bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: BpMenetrend 3.x-4.x-re
+
+Package: com.szifon.carrier.mms.telenor.4.0
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 4.0)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.telenor.4.0.deb
+Size: 39656
+MD5sum: 9a073342c7da49576d3735d87b2293f7
+SHA1: 6c937f7bac3da9ef4aa76eb43676f50ab891535d
+SHA256: 4683f1066d1e51161b79ceea5d6338ebbe8b7379c469970949b187f967288898
+Section: szifon.com
+Homepage: http://szifon.com/2010/08/04/magyar-carrier-javitas-4-04-0-1-alatt/
+Description: Magyar Telenor beállítások MMS/tethering/mobilnet és callfwd javítás, 4.0-s firmware-re. Miután feltelepítetted, a Settings > General > Network > Cellular Data Network menü alján találsz egy Reset Settings gombot, nyomd meg, és indítsd újra a telefont! A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Jadeye
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Telenor HU 4.0 Carrier Fix
+
+Package: com.szifon.carrier.mms.telenor.4.0.1
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 4.0.1)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.telenor.4.0.1.deb
+Size: 39640
+MD5sum: b3025000d96a2e2e697e93d485bec75c
+SHA1: f0561c8961c409e95bc1dd323d533dae8bc5fe59
+SHA256: b40b815e6b25b13237cfa5ebf1bdfcbdadb45e0c0b9aee7c0970275fbc396dcf
+Section: szifon.com
+Homepage: http://szifon.com/2010/08/04/magyar-carrier-javitas-4-04-0-1-alatt/
+Description: Magyar Telenor beállítások MMS/tethering/mobilnet és callfwd javítás, 4.0.1-s firmware-re. Miután feltelepítetted, a Settings > General > Network > Cellular Data Network menü alján találsz egy Reset Settings gombot, nyomd meg, és indítsd újra a telefont! A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Jadeye
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Telenor HU 4.0.1 Carrier Fix
+
+Package: com.szifon.carrier.mms.tet.logo.3.1
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 3.1), firmware (<= 3.1.3)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.3.1.deb
+Size: 39904
+MD5sum: d14585e6e86a4c89b824d3803d112087
+SHA1: be062b5e53a25a8816a36edb8c3bb334b24c9e04
+SHA256: bf951f9e2f740a1de0c3f8a40b9bfc3c74bc2c556c18526c678ef0b374c434b5
+Section: szifon.com
+Homepage: http://szifon.com/2009/09/29/komamasszony-hol-a-logo/
+Description: Univerzális carrier fix csomag 3.1.x-hez, amely mindhárom magyar szolgáltató hálózati beállításait tartalmazza, valamint grafikus logóra cseréli le a szolgáltatónév szöveges kiírását. Miután feltelepítetted, a Settings > General > Network > Cellular Data Network menü alján találsz egy Reset Settings gombot, nyomd meg, és indítsd újra a telefont! A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Jadeye
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Magyar Carrier Fix 3.x-re
+
+Package: com.szifon.carrier.mms.tet.telenor.4.1
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 4.1)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.telenor.4.1.deb
+Size: 155476
+MD5sum: ed5f6e0228f2e27ddad7367937b8252f
+SHA1: a3aa54164dee50d4ab5766ebeba2faee10943673
+SHA256: 4047a3ca194e576e90298b0f218c700f925c1da0c8d321340a8885a432cecf5d
+Section: szifon.com
+Homepage: http://szifon.com/2010/10/13/4-1-carrier-logo-mms-callforward-tethering-fix/
+Description: Magyar Telenor beállítások MMS/tethering/mobilnet és callfwd javítás, 4.1-es firmware-re. Miután feltelepítetted, érdemes egy reset network settings-et nyomni. A csomag alapját a wortel-féle commcenter patch adja, a carrier fájlokat Jadeye készítette, a logó pedig DNP kolléga keze munkája. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Telenor HU Carrier Fix 4.1
+
+Package: com.szifon.carrier.mms.tet.vodafone.4.1
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 4.1)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.vodafone.4.1.deb
+Size: 155498
+MD5sum: d5e0e2c1ce7a7b73bf66165acdaae7a9
+SHA1: a44cd1ac4f974dfd50c0e74e34a10b560e8d78b3
+SHA256: d038b0d62559659b43c0239c1a1c14ace12344d3beb538b908a3bfac5c685997
+Section: szifon.com
+Homepage: http://szifon.com/2010/10/13/4-1-carrier-logo-mms-callforward-tethering-fix/
+Description: Magyar Vodafone beállítások MMS/tethering/mobilnet és callfwd javítás, 4.1-es firmware-re. Miután feltelepítetted, érdemes egy reset network settings-et nyomni. A csomag alapját a wortel-féle commcenter patch adja, a carrier fájlokat Jadeye készítette, a logó pedig DNP kolléga keze munkája. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Vodafone HU Carrier Fix 4.1
+
+Package: com.szifon.carrier.mms.vodafone.4.0
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 4.0)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.voda.4.0.deb
+Size: 41896
+MD5sum: 302301d386f9edfc13576a6bc379582b
+SHA1: 47baef2f8429938859cc01aeba0bf283ce0507da
+SHA256: 68a6e056948f6fc1867a3b1361f9eeb08d7524a3d37ed5a79d1c27e9ebe4ec72
+Section: szifon.com
+Homepage: http://szifon.com/2010/08/04/magyar-carrier-javitas-4-04-0-1-alatt/
+Description: Magyar Vodafone beállítások MMS/tethering/mobilnet és callfwd javítás, 4.0-s firmware-re. Miután feltelepítetted, a Settings > General > Network > Cellular Data Network menü alján találsz egy Reset Settings gombot, nyomd meg, és indítsd újra a telefont! A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Jadeye
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Vodafone HU 4.0 Carrier Fix
+
+Package: com.szifon.carrier.mms.vodafone.4.0.1
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 4.0.1)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.voda.4.0.1.deb
+Size: 41884
+MD5sum: e0fe3ffbadc93e5455f794d00237127b
+SHA1: cb71d42a3808f7457ce059a715d9f0a5a092220e
+SHA256: d0b1146597ce0a7fa78d4353d2398302377721cad8642ea5219bba32cf60cdef
+Section: szifon.com
+Homepage: http://szifon.com/2010/08/04/magyar-carrier-javitas-4-04-0-1-alatt/
+Description: Magyar Vodafone beállítások MMS/tethering/mobilnet és callfwd javítás, 4.0.1-s firmware-re. Miután feltelepítetted, a Settings > General > Network > Cellular Data Network menü alján találsz egy Reset Settings gombot, nyomd meg, és indítsd újra a telefont! A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Jadeye
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Vodafone HU 4.0.1 Carrier Fix
+
+Package: com.szifon.carrier.reset
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.ericasadun.utilities, com.1phone.cydia.icon.pack, firmware (>= 4.0)
+Filename: ./debs/carrier.reset.deb
+Size: 1170
+MD5sum: 605256684985d1b52c1113eb57aa1add
+SHA1: 9de6c2939d8004241de5af090002d4c9fbd41d4f
+SHA256: 980d3a60c8088d285ef46b5d4d8325d941be41f5404d2513ae37de8cfa9f0643
+Section: szifon.com
+Homepage: http://szifon.com/2010/10/13/4-1-carrier-logo-mms-callforward-tethering-fix/
+Description: Ez a csomag minden telepítésekor alap helyzetbe állítja a carrier beállításokat. A csomag telepítése után húzd ki, majd dugd vissza a SIM-kártyát! A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: Magyar Carrier Reset 4.1
+
+Package: com.szifon.chown.fix
+Version: 3.1.2.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/chmod.fix.deb
+Size: 1132
+MD5sum: fb0ba8b65d03c9bc6f9df1f62824b28f
+SHA1: 1293a501b7b97e167bddb2ea64e38c517fe132af
+SHA256: 0be31350247c7981118a59d9dec2e1cfe849f8e58bec7a1c92df20f30e2df172
+Section: szifon.com
+Homepage: http://szifon.com
+Description: Ez a csomag az AddressBook, CallHistory, Mail, SMS, Notes, DCIM mappák és almappáik tulajdonosát változtatja mobile-ra. Akkor hasznos, ha például T-pot-tal teszel vissza egy régi mentést, és nincs kedved SSH-zni és egyenként állítgatni a chmod-okat. A csomag újratelepíthető és letörölhető. Csak telepítéskor futnak le a parancsok. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: CHOWN Javítás
+
+Package: com.szifon.com.magyar.helyes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 3.1), firmware (<= 3.1.3)
+Depends: com.1phone.cydia.icon.pack, mobilesubstrate
+Filename: ./debs/magyar.helyesirasell.deb
+Size: 1599832
+MD5sum: ec01bb37e59e5a04b26c24334fdd5709
+SHA1: 64ac9187e079252635a4ada1a9338388c5d03add
+SHA256: 66ced233b871ea462a5497f09f314600fde310e20d7f0993e95ae002122d3ae0
+Section: szifon.com
+Homepage: http://szifon.com/2009/06/30/3-0-os-csomagok-szifon-com-source/
+Description: Magyar helyesírás ellenőrző program az iPhone-ra. Az inspell és hunspell-re épül az openoffice.org magyar adatbázisát használva. Special thx: newl! Csak 3.1.x rendszeren működik. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: Magyar Helyesírás Ellenőrző 3.1.x
+
+Package: com.szifon.com.szaz
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 3.0), firmware (<= 3.1.3)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/szazalekos.aksi.deb
+Size: 2112
+MD5sum: 6f911aadcc883803c395e99c2af16993
+SHA1: d045c1f213d6b7e3cb126c3bfca6b07b6b708155
+SHA256: 50fc6c5d5e49c08d453e760a1b8be6ddce2f7f581f5a09c8e7d2005b46784033
+Section: szifon.com
+Homepage: http://szifon.com/2012/10/21/szifon-com-cydia-csomagok-mi-micsoda-es-melyik-mire-jo/
+Description: A csomag 3.x alatt az akkumulátor-töltöttség százalékos kijelzésére készít egy gombot, a kijelzést a Settings > General > Usage alatt tudod bekapcsolni! A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: Akkumulátor % kijelzés 3.x
+
+Package: com.szifon.com.ui.local.3.0
+Version: 3.5.3
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 3.0), firmware (<= 3.1.3)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.lokalizacio.3.1.2.deb
+Size: 267248
+MD5sum: 29bc74aa077b4aa397827b05068a9192
+SHA1: 11b97716882b3961fa63de345d4fbf41118d5d30
+SHA256: 3ed6b86f653e811ed8dad2a7a5ef2f82a9b98bb0ebde0ee6cc1bb05330277174
+Section: szifon.com
+Homepage: http://szifon.com
+Description: iPhone 2G/3G/3GS magyarítás 3.0 - 3.1.3-as rendszerre. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com  <hello@szifon.com>
+Name: Magyar UI 2G/3G/3GS 3.x
+
+Package: com.szifon.ipad.billentyuzet.Fix.30
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 3.2.1)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/ipad.bill.fix.3.2.deb
+Size: 2712
+MD5sum: 0cdd4d72c3c7f93742e34b2ae9f274d5
+SHA1: 686f3887d401754a648e8f9a3781e7c2fcd1ca87
+SHA256: 2ba6ce37b952a79b670c4d249cd33362cfe1fcd68d4ee7fa86468820fb4ac187
+Section: szifon.com
+Homepage: http://szifon.com/2010/05/05/ipad-billentyuzet-oouu-hotfix/
+Description: Magyar iPad billentyűzet fix 3.2.1-es rendszerre. Ez a frissítés tartalmazza a dupla mássalhangzókat is és több speciális karaktert. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Jadeye
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Magyar iPad Bill.fix 3.2.1
+
+Package: com.szifon.reset.fix
+Version: 7.1.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (<=8.4)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/reset.fix.deb
+Size: 2042
+MD5sum: 5077e7c7c06ebc29a66d766e418f6a92
+SHA1: 55c792c61e501d3bbe6aede80f9bf5b7cc428b06
+SHA256: 6198ed9b57d904ccb72c022d5ac3b37aeb32597d0dbb1d270269a5a0cb9fdbd3
+Section: szifon.com
+Homepage: http://szifon.com/2013/03/04/szifon-source-visszaallitasi-opciok-fix/
+Description: Ez a csomag kiszedi a Beállítások / Általános / Visszaállítás menüpont alól a jailbreakelt készülékeken nem használható "Összes tartalom, beállítás törlése" opciót. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Joejoe51
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Visszaállítás fix
+
+Package: com.szifon.sms.billentyuzet.fix
+Version: 5.1.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 3.0), firmware (<= 5.1.1)
+Depends: com.1phone.cydia.icon.pack
+Conflicts: com.szifon..billentyuzet.Fix.30
+Filename: ./debs/magyar.sms.billentyuzet.fix.deb
+Size: 3046
+MD5sum: 466fde2cbeef370ec358f18fd2fa0a84
+SHA1: 51e547a2fb0434f745533a5200806f84b2bde005
+SHA256: 63585aee99f38c54ec1b7d2a77d8706c37ff9c872cb1a6e113f85ab493bbde84
+Section: szifon.com
+Homepage: http://szifon.com/2013/03/08/szifon-source-magyar-sms-billentyuzet-fix
+Description: Magyar SMS billentyűzet fix iOS 3.x, 4.x és 5.x rendszerre. Ez a frissítés a billentyű lenyomásakor megjelenő lista legközelebbi helyére teszi az SMS 7 bites kódolásában használható ékezetes karaktereket, így azokat használva 160 karakter marad egy SMS felhasználható hossza. Ezen túl tartalmazza a normál ékezeteket és a dupla mássalhangzókat is, és több speciális karaktert. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Mordon, Jadeye, atesz88, hatesz1979
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Magyar SMS bill. fix
+
+Package: com.szifon.sms.billentyuzet.fix.6x
+Version: 11.1.2
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 6.0)
+Depends: com.1phone.cydia.icon.pack
+Conflicts: com.szifon.billentyuzet.fix.6x
+Filename: ./debs/magyar.sms.billentyuzet.fix.6.x.deb
+Size: 3582
+MD5sum: 96f3d1c5d98bd0d44594114c4cc24a7a
+SHA1: c6631dec6d40b24257dc1b91c8d93d7eba5eed8f
+SHA256: 3d444fbec36e9cae8d276c7227aa63cdf7e003dbe3825e2d67a8d5dc40605401
+Section: szifon.com
+Homepage: http://szifon.com/2013/03/08/szifon-source-magyar-sms-billentyuzet-fix
+Description: Magyar SMS billentyűzet fix iOS 6.x vagy újabb rendszerre. Ez a frissítés a billentyű lenyomásakor megjelenő lista legközelebbi helyére teszi az SMS 7 bites kódolásában használható ékezetes karaktereket, így azokat használva 160 karakter marad egy SMS felhasználható hossza. Ezen túl tartalmazza a normál ékezeteket és a dupla mássalhangzókat is, és több speciális karaktert. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző! Special thx: Mordon, Jadeye, atesz88, hatesz1979
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Magyar SMS bill. fix 6.x+
+
+Package: com.szifon.spad.fix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/spad.fix.deb
+Size: 1154
+MD5sum: 94d7a0881347eb3a9588a02032992eee
+SHA1: 72e127552bca70b295e4a7c48a9cf920648b5cea
+SHA256: 156c5131ccac8aba46314e8990a8b47e8185c900cdf99907b76380f743428845
+Section: szifon.com
+Homepage: http://szifon.com/2014/08/16/spad-dylibadthief-mar-75-000-keszulek-termel-bevetelt-a-reklamfogoknak/
+Description: Ez a csomag ellenőrzi a /Library/MobileSubstrate/ DynamicLibraries/ alatt a spad.dylib és libgad.dylib létezését, és törli azokat, ha léteznek. A telepítés után a csomag törölhető, az ellenőrzés csak telepítéskor fut le. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Spad.dylib malware fix
+
+Package: com.szifon.spec.bill
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 3.1), firmware (<= 3.1.3)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/spec.keyboard.deb
+Size: 172886
+MD5sum: e2ac86159222cde7c23933d4efbe1bfd
+SHA1: c9f5ce9d461902904b4f412c8f4c747632fcdb47
+SHA256: 9a8b9be386b006a7550c2651c8535c29ee8e8b0ce49c6c18282d1152d41cfb5a
+Section: szifon.com
+Homepage: http://szifon.com
+Description: Több ékezetes billetnyűt is kirak az alap billentyűzetre. Csak angol billentyűzet bekapcsolása mellett és csak 3.1.x-es rendszeren működik. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: Speciális Ékezetes Bill. 3.1.x
+
+Package: com.szifon.spyware.test
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/spyware.check.deb
+Size: 1106
+MD5sum: 977f22da357fe8a76de475d05cc163d5
+SHA1: 157697d5ecfe44e386189225f90cca494b7564f4
+SHA256: 6fd37a22ac2719930e07a9878d1ddc4be94bbf48dc5223004c3f1cb0c9610f0f
+Section: szifon.com
+Homepage: http://szifon.com/2009/11/15/spyware-itthon-1/
+Description: Ez a csomag ellenőrzi a /var/mobile/home és a /etc/rel mappák és fájlok létezését, illetve módosítja a /etc/hosts fájlt, hogy a spyware ne tudjon csatlakozni a szerverhez. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: SpyWare #1 Test/fix
+
+Package: com.szifon.telenor.carrierfix
+Version: 4.3.3
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (>= 4.2.1), firmware (<= 4.3.3)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.carrier.fix.telenor.4.3.3.deb
+Size: 54266
+MD5sum: cb7a323f5ffc52150a40cd465e207cd4
+SHA1: cb4c8d5a35cee0797f7ab19a7471a49b3e5641d4
+SHA256: 4afc304d90f8c6367a2919f9ccec0e0264a88b0a05c2ea45a1cf4c140edc3de3
+Section: szifon.com
+Homepage: http://szifon.com/2011/05/09/magyar-carrier-es-logofixek-frissitve-ios-4-3-3-hoz/
+Description: Magyar Telenor logó, hálózati beállítások (MMS/tethering/mobilnet és callfwd javítás) iOS 4.2.1-es és afeletti firmware-re. Miután feltelepítetted, és újraindult a készülék, írd be a PIN-t, majd vedd ki a SIM-et, és dugd vissza! Ha nem jelenik meg a logó, érdemes egy Reset network settings-et nyomni. A csomag alapját a wortel-féle commcenter patch adja, a carrier fájlokat Jadeye készítette, a logó pedig DNP kolléga keze munkája. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Telenor HU Carrier Fix 4.2+
+
+Package: com.szifon.tvujsag
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Filename: ./debs/szifontv.deb
+Size: 18920
+MD5sum: 9e1da303bdcf11ab73f4b96eb239ae44
+SHA1: c55965108dbbadb76430491e898fd5bb8d65c3dd
+SHA256: 84d8449a9bcc2ebecd173be5469c9cfe1bd6bfafc3a9e5a2556a08c0c5e2d3e8
+Section: szifon.com
+Homepage: http://szifon.com/
+Description: Ez a csomag egy ikont hoz létre a főképernyődre, amivel online böngészheted a magyar tévéadók műsorait. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: Monoscope (TV újság)
+
+Package: com.szifon.unflod.fix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/unflod.fix.deb
+Size: 1188
+MD5sum: 19278e9d865a3d7224f98e397038a2d3
+SHA1: f1c19f56cef2585a3038a53f3af98cd580af7aff
+SHA256: 4d67f7ec2de082f8bbdec77229829bd18fc7b866ba9989925655901a1c09e352
+Section: szifon.com
+Homepage: http://szifon.com/2014/04/18/unflod-dylib-apple-id-t-es-jelszot-lopo-malware-jailbreakelt-keszulekeken/
+Description: Ez a csomag ellenőrzi a /Library/MobileSubstrate/DynamicLibraries/ alatt az Unflod.dylib létezését, és törli, ha az létezik. A telepítés után a csomag törölhető, az ellenőrzés csak telepítéskor fut le. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Unflod.dylib malware fix
+
+Package: com.szifon.vodafone.3g.4.2.1
+Version: 4.2.1.1
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Pre-Depends: firmware (= 4.2.1)
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/magyar.vodafone.3g.carrier.fix.4.2.1.deb
+Size: 18584
+MD5sum: 97e656fd3fa95ee954dc514f58749955
+SHA1: d52dcf590803c8a7ac2c4992804ec299ceed58e2
+SHA256: 7dfd1e68bab8d8ded3ec6fd7fbdf865b13113c94e50e5db9d4b63264b69fd978
+Section: szifon.com
+Homepage: http://szifon.com/2011/03/03/magyar-carrier-es-logofixek-4-2-1-hez/
+Description: Magyar Vodafone beállítások (MMS/tethering/mobilnet) és callfwd javítás, 4.2.1-es firmware-re. Csak iPhone 3G-hez! Miután feltelepítetted, érdemes egy Reset network settings-et nyomni. A carrier fájlokat Jadeye készítette, a logó pedig DNP kolléga keze munkája. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: Vodafone HU Carrier Fix 3G
+
+Package: com.szifon.volan.menetrend
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Filename: ./debs/omnibusz.deb
+Size: 8966
+MD5sum: c6570608bfda867b0be2947322cc7c3c
+SHA1: fd9d5f8c34c7042483eba320a60bc94b2589a008
+SHA256: f14bb26d2aa74a09634e0b81ed49cf04fb7654ef45419505eaaa78599b2c387f
+Section: szifon.com
+Homepage: http://szifon.com/2012/05/23/omnibusz-volan-menetrend-iphone-ra/
+Description: Ez a csomag egy ikont hoz létre, amivel a Volán társaság útvonalai, járatai közül válogathatsz. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Szifon.com <hello@szifon.com>
+Name: OMNiBUSZ (Volán online menetrend)
+
+Package: com.szifon.wirelurker.fix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jadeye / Szifon.com <hello@szifon.com>
+Depends: com.1phone.cydia.icon.pack
+Filename: ./debs/wirelurker.fix.deb
+Size: 1128
+MD5sum: 6aeaae2753f4a858695fa63aa094a620
+SHA1: c96113e961dfeea63f30f0a791477b43f9eca5c2
+SHA256: 99385e4bed5a4c75adb94e47c55a83de427808c35b413e21f5a0d84b9db59baf
+Section: szifon.com
+Homepage: http://szifon.com/2014/11/07/wirelurker-avagy-ha-warezolsz-semmin-se-csodalkozz/
+Description: Ez a csomag ellenőrzi a /Library/MobileSubstrate/ DynamicLibraries/ alatt a sfbase.dylib fájl létezését és törli azt, ha létezik. A telepítés után a csomag törölhető, az ellenőrzés csak telepítéskor fut le. A csomag bármilyen részét írásos engedély nélkül felhasználni tilos, és törvénybe ütköző!
+Author: Jadeye / Szifon.com <hello@szifon.com>
+Name: WireLurker malware fix
+

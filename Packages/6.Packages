@@ -1,0 +1,677 @@
+Package: com.skrew.ringtones
+Version: 2.89-1
+Architecture: iphoneos-arm
+Maintainer: skrew <dont@mailme.com>
+Filename: ./Ringtones289.deb
+Size: 3955552
+MD5sum: a2285ae86706f34d956a1c31c24598ad
+SHA1: 2a7a9f8fb500581e1322c892a2c00ace3ad0e4ec
+SHA256: 248bdd080576b1dd08ad25345c49cda0da64bdae7fe3ffc583417bed5e56e42d
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Put your music library into ringtones without iTunes or any software, directly on your iPhone !
+Author: skrew <dont@mailme.com>
+Name: Ringtones
+
+Package: com.skrew.vwallpaper
+Version: 1.25
+Architecture: iphoneos-arm
+Maintainer: skrew <dont@mailme.com>
+Depends: com.skrew.skrewcommon (>= 1.68)
+Filename: ./vWallpaper125.deb
+Size: 10402142
+MD5sum: 0565a756b472420eaf2f10501e992ae9
+SHA1: 6fc4736554f5966deb1c7870e5bbe0b40ec1753a
+SHA256: ad18766d3d052a8d0a47961effd0700a1748e37de8d5603c61d9a0588080c3f0
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: (iOS4 only) Forget black Springboard, add a Video on it! Forget simple Ringtones, hello to Video Ringtones!
+Author: skrew <dont@mailme.com>
+Name: vWallpaper for iOS4
+
+Package: com.skrew.vwallpaper2
+Version: 0.0.8-1
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 33852
+Depends: com.skrew.skrewcommon2 (>= 0.0.4)
+Filename: ./com.skrew.vwallpaper2_0.0.8-1_iphoneos-arm.deb
+Size: 31683418
+MD5sum: 0a9c785d64a4a925c007d343bd0c8a49
+SHA1: 7a2bc1b3fd8f912df2387e8b1951bc3623d49f31
+SHA256: ddabfae54bbcf87ed70a1ac366082ea0747021448b6be275d20d8a4ffba9a31b
+Section: Multimedia
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper2 for iOS4/ARMV7
+
+Package: com.skrew.vwallpaper2os10
+Version: 0.5.0-3
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 22588
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9
+Filename: ./com.skrew.vwallpaper2os10_0.5.0-3_iphoneos-arm.deb
+Size: 16330060
+MD5sum: 47db6421d8f92567d0f447c756c2884d
+SHA1: 705360153e035581a7dce4c971f4df242b46f636
+SHA256: c8dc6dddf829c0030639c3e065e9c193ad68f6c05d91a562617fac79c5cea2df
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 10
+
+Package: com.skrew.vwallpaper2os10
+Version: 0.5.0-2
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 22588
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9
+Filename: ./com.skrew.vwallpaper2os10_0.5.0-2_iphoneos-arm.deb
+Size: 16330390
+MD5sum: 8a7cbe913c5b2b682f53bf91319b08d5
+SHA1: 8d75b1aaab6c103127f8513a80d516b4b8772f22
+SHA256: 431b64576fb4c4e01813ae8af2c19be5a4fd1363e8219cafbcea4b6b3060b24c
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 10
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-26
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37276
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-26_iphoneos-arm.deb
+Size: 33974104
+MD5sum: f73148a6f1daf133f7eeec401f97c583
+SHA1: 3dddb1cdb4f46c1d009f5c84b4a77882d0899a17
+SHA256: 739d9ad3d0f33b1fc4064b736ec2c73689fa25b13d1e81847f58f0793ba6ded5
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-19
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37280
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-19_iphoneos-arm.deb
+Size: 33974134
+MD5sum: 5bbba31907b0696244090cdbed352569
+SHA1: 3f4974411324bb9c3b49c646c8f4fab51ca025b6
+SHA256: c0043c6f8618a87fb915632e178eccbcadc3bf0660b7871eb1d7612cba1b4b24
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.8-1
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 35992
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.8-1_iphoneos-arm.deb
+Size: 32775164
+MD5sum: 8e09934a4f991496967fefb87b312425
+SHA1: 7569ac9e2c6626f59faaee56f2a26a067309678e
+SHA256: a9ba07f8e1bbf0c46fce9acf362dcf886afff9812ff85f4c0f437901a069127e
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-1
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 35992
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-1_iphoneos-arm.deb
+Size: 32776184
+MD5sum: 2d507fcd41f1e0263acf543fb28012f8
+SHA1: d0fdae5ddda97047bf04c8fcb20955e93c8f80c7
+SHA256: b39d207bbeada6bddc059c2a9e15fb6ade3454cd441e7dc4b3f8114cacd7ed43
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-2
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 35992
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-2_iphoneos-arm.deb
+Size: 32776360
+MD5sum: 5d1cb0bbed96111dd8361fe71c716746
+SHA1: c90164de0a1aae7447dd6a0ba6964e1d131b1c6e
+SHA256: 07869f9b9d9054e451277ae317df69e33cf4e305b396c8c51fd7ad4fd991b640
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-24
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37280
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-24_iphoneos-arm.deb
+Size: 33969752
+MD5sum: 3f8a93667020319b9a175dbf307b5530
+SHA1: a19cf1eea09125e203a831f475f0b70c7d51cb65
+SHA256: 43501e247cb814820c3484752dd8d4e9f1e46b3cb8d0e8b4a91bd52b3c2af5aa
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-25
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37276
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-25_iphoneos-arm.deb
+Size: 33969748
+MD5sum: 8f83a63d77c0b29892fc2b63e23e4921
+SHA1: add5b611981198eaca6f94b27b249c8eb0d41325
+SHA256: 9c1c1099dc96e27ae521375e7caa7a79357a1cdbb30160f86022c299dd350047
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-4
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37120
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-4_iphoneos-arm.deb
+Size: 33922818
+MD5sum: 0750759a41d995d884ea508a58877a38
+SHA1: 6c2e6cfcb814aef78eaaf1ad08331a59b61443af
+SHA256: 49b3e765d67c3c88d75ef6541a2a3e40e518f4128dc4fd070b437ddda930f1e7
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-30
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37216
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-30_iphoneos-arm.deb
+Size: 33971986
+MD5sum: 91f76aa2803c709d262c73c3b013edb6
+SHA1: da6c89f72861eb54481f43ed812942209e6a0c97
+SHA256: 98e375f3c2bd468147833c6509e955381708be02f16cb1b66e65d062e43df28e
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-31
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37216
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-31_iphoneos-arm.deb
+Size: 33971948
+MD5sum: aef3bd4e09f1cc8380671dcc15a24e69
+SHA1: 5a859274d050a247c87674a051d1cee05d2252ac
+SHA256: f1af4c5e1fc398e890ac43243b1a8716e9c887c3db21f88c67ee06d1c224a014
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-22
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37280
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-22_iphoneos-arm.deb
+Size: 33974126
+MD5sum: 50facf75dd7bd15e68c06aec9a7258cf
+SHA1: 89e4ea65056d9e9ae5d1697fa8c5e7a44fd60a0e
+SHA256: e5f4950ea2563fd2cb55d07bc6512f83fffd65d9893ed6bab096292b86f17eed
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-10
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37200
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-10_iphoneos-arm.deb
+Size: 33953762
+MD5sum: 56516f73f665b714a3840e435cf34fa4
+SHA1: e843df687e1dd2e51c9aff00e994f549f6e13547
+SHA256: 981cff639fcd75b4aae48abcd152bb0b6db2372522cb5ae9ee989c1e914dacd7
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-29
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37220
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-29_iphoneos-arm.deb
+Size: 33972840
+MD5sum: fb8eae25ba0f6fba11a4fcb8e3fd874c
+SHA1: 58fce9e2892d404b36affc71ee73c834943a3a8a
+SHA256: 1d1b27eb0b36e6892dc713bdaa520d8a9a3e4c183a0f56577f65c6a6b4029232
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-21
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37280
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-21_iphoneos-arm.deb
+Size: 33974118
+MD5sum: 83dde95ff0653fb2cb2174e2e005a807
+SHA1: 1b4683504dc5188edde8f0645b4f9b2bff09981d
+SHA256: 81b2fdc95f2b1002a71642dc28ec14a660ea28174c4ae4c58446987eba0689aa
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-23
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37280
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: ./com.skrew.vwallpaper2os5_0.0.9-23_iphoneos-arm.deb
+Size: 33969752
+MD5sum: 65c86ee6956b756f24fc01193b60c956
+SHA1: 5154b9c93eaad40d1b321f5cfeaecbe6c9af0afa
+SHA256: 6cb7fa2d346d65ccf664cdbdf34c09a817ac96f4c4f2e0918accdf4132b54d9b
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.skrew.vwallpaper2os6
+Version: 0.1.0-21
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 38500
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 6.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os6_0.1.0-21_iphoneos-arm.deb
+Size: 35276530
+MD5sum: 61d67cc4820563022e18bd7e63f98d50
+SHA1: 21a333e22fe7ce6b306295f268e85b315f0afb58
+SHA256: b20fdd7ce375162a92ac787eb543764f354c0c4f99a0894957cd609278ef553c
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS6/ARMV7
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-2
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 41756
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-2_iphoneos-arm.deb
+Size: 36457976
+MD5sum: 868dfb80b2af3666a6105d7bac5582bf
+SHA1: bd1e5b0ccef78067d69f51e6307e3ca072b39861
+SHA256: 96fd9a96bea7a8769772974e983e8b32dcfe9276c6c0c9f33755ed270be05c13
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-11
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 39836
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-11_iphoneos-arm.deb
+Size: 35748148
+MD5sum: 5496a21dcf9032174e00153940d8ebbb
+SHA1: e74de6de7b18284baccd6cecac78f055bf931959
+SHA256: 6459a7d880ae1f69d96c7b2cc70c59e1c439d10da00b79095bc678413bd46ed1
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-16
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 40000
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-16_iphoneos-arm.deb
+Size: 35832518
+MD5sum: 2368872fbb0f59ee961f4cce6c0ab844
+SHA1: 36f12d1988e2ca13ccba1cf8b73bdd3b7fe46e9a
+SHA256: 8bb6b93d9b068964f3e60db7dea3751b4d4f637df768e517b811e599f1989745
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-8
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 41760
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-8_iphoneos-arm.deb
+Size: 36451444
+MD5sum: 7d0a76c98949de7407476f66b40a1ae7
+SHA1: 1550a7f541464a9a5aeafe3d158733a6851c672d
+SHA256: 7d21c38a02484af0e15fc6e3c723ce84bed73c26df8add929d8345a8f1622dce
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-14
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 39836
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-14_iphoneos-arm.deb
+Size: 35748412
+MD5sum: 3393cb2405d41979a877ca52dd67a946
+SHA1: 1f915c66b0191758ca5257a059d69edc2846e8bd
+SHA256: fd4b7febe8c0a656c437e6a80828a07bcc19ce17064f421cabb5b93a62f6a7f4
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-13
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 39836
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-13_iphoneos-arm.deb
+Size: 35748302
+MD5sum: 77f4c775d901445801a14e274655f272
+SHA1: e00407ab13af8fe07a796bf1e6e327b7fd613280
+SHA256: eeee7f2b581e22129e167da75df2cfa85d19949f63b42ce79e4c7b4e1b9c51b9
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-15
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 40032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-15_iphoneos-arm.deb
+Size: 35841718
+MD5sum: 184b8055d57b924b1fc2a129c3e25a24
+SHA1: db515b20342c25aaccf246a040de97cb9fa60f4c
+SHA256: 5a1c75949a34e99e05b7032fb4a7c57db379154273aa4801e8b466fcbc73a0ac
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-9
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 41760
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-9_iphoneos-arm.deb
+Size: 36451926
+MD5sum: 809c17a1afac0d76ab0328a7c645b3fd
+SHA1: b43f091b15ce568d112d56bbf059447e1335028f
+SHA256: 1dba8da4ba9d0ae3a433e7624588e40401e5c92f28f28ef9ef1a07e745308ee3
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os7
+Version: 0.2.0-12
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 39836
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os5
+Filename: ./com.skrew.vwallpaper2os7_0.2.0-12_iphoneos-arm.deb
+Size: 35748176
+MD5sum: 313b0d3bedc1c661b5bac964ae8c18c3
+SHA1: ce4ae3890ecc9949344ba9bc09e86269643144de
+SHA256: d6d4f35a495c8daffb22c8e14c0a35f05502c3449ae652629992da24158cd513
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS7/ARMV7/ARM64
+
+Package: com.skrew.vwallpaper2os8
+Version: 0.3.0-1
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 40032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os7
+Filename: ./com.skrew.vwallpaper2os8_0.3.0-1_iphoneos-arm.deb
+Size: 35838318
+MD5sum: ac9a75dab6b1c5a1d61ed5d6c7ca8e9a
+SHA1: 1cd8e9eb48d225eb49be1c4640253fdc478da024
+SHA256: a30827cd180374e933eef98b6990591f1801f33e7f1c2668bae279956b0e3d9b
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 8
+
+Package: com.skrew.vwallpaper2os8
+Version: 0.3.0-4
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 39964
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os7
+Filename: ./com.skrew.vwallpaper2os8_0.3.0-4_iphoneos-arm.deb
+Size: 35829278
+MD5sum: d5d0872d260f7c20566a51602acb24ec
+SHA1: 7d62a76bccdf3f881808048a60b6e97c24b0f55a
+SHA256: e191da32f9f66e21faf2c5a04291be09aaabc46662599c9cf63ee4273a30447a
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 8
+
+Package: com.skrew.vwallpaper2os8
+Version: 0.3.0-2
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 40044
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os7
+Filename: ./com.skrew.vwallpaper2os8_0.3.0-2_iphoneos-arm.deb
+Size: 35847902
+MD5sum: 6dc9ac065b97626479e4c48f03e90b05
+SHA1: 57dd2e1c9c4fde2235f7685ce236a66fda4ed488
+SHA256: d443f8202e1159e2c8df8127a23fb07ebb43fd7402f2d513a86eec03a2fac9ab
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 8
+
+Package: com.skrew.vwallpaper2os9
+Version: 0.4.0-17
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 16380
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
+Filename: ./com.skrew.vwallpaper2os9_0.4.0-17_iphoneos-arm.deb
+Size: 12337808
+MD5sum: 3f0a269c064ff019f31cf40ea0d3f554
+SHA1: 1830909c6b03d8282d5b433ab469b4d8a7c2e4a0
+SHA256: 652458c1a6cd03b36c01018370cc8236c3e3551843d14d34035f48f85e8eed90
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 9
+
+Package: com.skrew.vwallpaper2os9
+Version: 0.4.0-16
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 16380
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
+Filename: ./com.skrew.vwallpaper2os9_0.4.0-16_iphoneos-arm.deb
+Size: 12338450
+MD5sum: 85407bfc59d03860848a30d8f27d0f06
+SHA1: f9ec4ba1aa5ada346b334597423a2f1f8bc3e320
+SHA256: a16a087381dd359d1bcce6d0cb944e4b31e45d2cf56d60e8b1bff70b8503ad10
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 9
+
+Package: com.skrew.vwallpaper2os9
+Version: 0.4.0-18
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 16380
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
+Filename: ./com.skrew.vwallpaper2os9_0.4.0-18_iphoneos-arm.deb
+Size: 12337872
+MD5sum: d46f0b00ca0ee0151181927163414aa0
+SHA1: f38fc6add1b9450fde8b7ab7b9220ad4a522f62a
+SHA256: a2acc85678629a8d5e2325bf2f6b5d66ffff049b24a398573fdd4d93fa5bdf9a
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 9
+
+Package: com.skrew.vwallpaper2os9
+Version: 0.4.0-11
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 16380
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
+Filename: ./com.skrew.vwallpaper2os9_0.4.0-11_iphoneos-arm.deb
+Size: 12337366
+MD5sum: 82f4eed9560c51b5fd87117869179123
+SHA1: ecc283f3950290b6369e39eb926eb4e9e553f5d4
+SHA256: 206086762fc7da47f21a859c407f23accb9196b51b14b859c675274ae6f4a693
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 9
+
+Package: com.skrew.vwallpaper2os9
+Version: 0.4.0-3
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 40432
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
+Filename: ./com.skrew.vwallpaper2os9_0.4.0-3_iphoneos-arm.deb
+Size: 23000626
+MD5sum: be2128b65aa5640d21e320cf2a41651a
+SHA1: ba81c2f333259ec773b284a72e4c9d7d55e47d47
+SHA256: ab1d79b9a85e25f6133a3d8a7c2ee20ca11980b164f0bfdcaa69634a62997070
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS 9
+

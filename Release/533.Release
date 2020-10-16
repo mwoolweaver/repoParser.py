@@ -1,0 +1,8 @@
+Origin: Harrison Apps Repo
+Label: Harrison Apps Repo
+Suite: stable
+Version: 1.0
+Codename: Harrison Apps Repo
+Architectures: iphoneos-arm
+Components: main
+Description: The official Harrison Apps, LLC Cydia repo.

@@ -1,0 +1,1449 @@
+Package: com.rob311.activator.airplay
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Installed-Size: 92
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/Activator/com.rob311.activator.airplay_0.0.1-3_iphoneos-arm.deb
+Size: 6474
+MD5sum: d802c39fa66871e164ded48ff4cbe690
+SHA1: d99273f3f477a154530f083cd1a65d52048b28b2
+SHA256: dc3a34196a9d44519d1f3051bc40dd5aeaa7487cde0ca4654081bab1d8868069
+Section: Tweaks
+Description: Activate the AirPlay menu.
+Author: rob311
+Name: Activator AirPlay
+
+Package: com.rob311.airplayflipswitch
+Version: 1.2.0-2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 816
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./deb/Flipswitch/AirPlayFlipswitch/com.rob311.airplayflipswitch_1.2.0-2_iphoneos-arm.deb
+Size: 649660
+MD5sum: f4eed2cb2bf526195740fdd120d33d00
+SHA1: d8e96c22b69e25aada9bc1d5317faae7b1723f0f
+SHA256: 842b47d56e6726dd0542c8a93467688a92ceda4bd5e60013a083c796f68f4c87
+Section: Addons (Flipswitch)
+Homepage: http://cydia.rob311.com/
+Description: A Flipswitch for Airplay.
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/airplayflipswitch/depiction.php
+Name: AirPlayFlipswitch
+
+Package: com.rob311.airplayflipswitch
+Version: 2.0.0-35
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 928
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./deb/Flipswitch/AirPlayFlipswitch/com.rob311.airplayflipswitch_2.0.0-35_iphoneos-arm.deb
+Size: 654464
+MD5sum: ea422ff9fe82efba42323fdb3b052b05
+SHA1: 68c1deec6f2982cad6b6ed622722e4a6472a2bab
+SHA256: 4e35d2a889dcc96e3dd94ed9e49aac6076f0e29b5054d11768c8b0cb5afec3dd
+Section: Addons (Flipswitch)
+Homepage: http://cydia.rob311.com/
+Description: A Flipswitch for Airplay.
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/airplayflipswitch/depiction.php
+Name: AirPlayFlipswitch
+
+Package: com.rob311.airplayflipswitch
+Version: 2.1.0-31
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 928
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./deb/Flipswitch/AirPlayFlipswitch/com.rob311.airplayflipswitch_2.1.0-31_iphoneos-arm.deb
+Size: 653990
+MD5sum: ac4b779ff3d1a82773f09615e51ad243
+SHA1: 9a1be5ae3235f637dda188d57d8d39cbfa41f297
+SHA256: e1038bf8d354f134e8f7dd85ccb89edbb7bca30ac4f2bedfca276bbcab50b706
+Section: Addons (Flipswitch)
+Homepage: http://cydia.rob311.com/
+Description: A Flipswitch for Airplay.
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/airplayflipswitch/depiction.php
+Name: AirPlayFlipswitch
+
+Package: com.rob311.alienbluestatusbarfix
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/AlienBlueStatusBarFix/com.rob311.alienbluestatusbarfix_0.0.1-1_iphoneos-arm.deb
+Size: 1968
+MD5sum: be310fed348594fa384c949373792e44
+SHA1: 7ce54a3b0bd9fdba5643f5f6016ec179665d6268
+SHA256: dee4fba176e10b93bc7bfd96d35f35a2b7386a617bc69d602237c2e6d823776e
+Section: Tweaks
+Description: Prevent the StatusBar from mysteriously disappearing after a screen rotation in AlienBlue.
+Author: rob311
+Name: AlienBlueStatusBarFix
+
+Package: com.rob311.alienbluestatusbarfix
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/AlienBlueStatusBarFix/com.rob311.alienbluestatusbarfix_0.0.1-2_iphoneos-arm.deb
+Size: 2002
+MD5sum: 07c042bee97b8ace2f55a83908248d7c
+SHA1: 4a357579c489407bb558f6689f9504626d149a06
+SHA256: 3008d28920ac337c8f22e1638897c14beeef06d2900df2e87d89b6a2ea5a3f05
+Section: Tweaks
+Description: Prevent the StatusBar from mysteriously disappearing after a screen rotation in AlienBlue.
+Author: rob311 <rob@rob311.com>
+Name: AlienBlueStatusBarFix
+
+Package: com.rob311.autoskipintro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/AutoSkipIntro/com.rob311.autoskipintro_0.0.1_iphoneos-arm.deb
+Size: 2080
+MD5sum: 07dd8d448344a9479bfddcb069eb26be
+SHA1: aaa15087076fea6e4db7a86eb5b6e543aee27437
+SHA256: 6d484f4ef0a8820611624fce78d5e4efd8a9e185e6d9c5d7aec249b6a3437f1d
+Section: Tweaks
+Description: Automatically skip intro and recap in Netflix.
+Author: rob311 <rob@rob311.com>
+Name: AutoSkipIntro
+
+Package: com.rob311.autoskipintro
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/AutoSkipIntro/com.rob311.autoskipintro_0.0.2_iphoneos-arm.deb
+Size: 2538
+MD5sum: 22029d6fca5e492ba61c1e05fcbd6d57
+SHA1: a041102e71c83ff0e6b996eec8d19293d1f12d5f
+SHA256: 49fc10812c3faea46c5cb6483f3cf77172c2aad684d76909c1314ae6989a3811
+Section: Tweaks
+Description: Automatically skip intro and recap in Netflix.
+Author: rob311 <rob@rob311.com>
+Name: AutoSkipIntro
+
+Package: com.rob311.batterydrainalertfs
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Installed-Size: 88
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./deb/Flipswitch/com.rob311.batterydrainalertfs_0.0.1-1_iphoneos-arm.deb
+Size: 6062
+MD5sum: 01de5e5dab190e16fb10c3f927ee05c6
+SHA1: 1b6e7af62b820d7b5f1c0298ee9d92d6cdfc387c
+SHA256: d14f2d9db51498b67584e44231ad4ba7a5cb46b78cf416cf99f5b595ae614b87
+Section: Addons (Flipswitch)
+Description: An Alert for Battery Drian.
+Author: rob311
+Name: BatteryDrainAlertFS
+
+Package: com.rob311.brightnesshalf
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Installed-Size: 100
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/Brightness/com.rob311.brightnesshalf_0.0.1-2_iphoneos-arm.deb
+Size: 5812
+MD5sum: dcc3a8df8c2eed37113767b3d98da93e
+SHA1: ccb368a596d889cc73a16c3e093a3fbfcf25f336
+SHA256: b2e4760e5b45a91c248b79ccf836e5d360df3992aa3a7a535603c67b54ea3ad8
+Section: Tweaks
+Description: An Activator set your Brightness all the way down.
+Author: rob311 <rob@rob311.com>
+Name: HalfBrightness
+
+Package: com.rob311.brightnessmax
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Installed-Size: 96
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/Brightness/com.rob311.brightnessmax_0.0.1-5_iphoneos-arm.deb
+Size: 5800
+MD5sum: de0c92a3198ac78b4d6c3b272ec1aa83
+SHA1: f35aa324304078fca2ee0a805d72129338f2b354
+SHA256: 454268d3eb87be03ccdbebe2e2d02f5897775315eaa092ddde20757138046cd6
+Section: Tweaks
+Description: An Activator set your Brightness all the way up.
+Author: rob311 <rob@rob311.com>
+Name: BrightnessMax
+
+Package: com.rob311.brightnessmedhigh
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Installed-Size: 92
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/Brightness/com.rob311.brightnessmedhigh_0.0.1-2_iphoneos-arm.deb
+Size: 5792
+MD5sum: 8edf09dc6efecbcd3644a1a3daac8186
+SHA1: 57fe36a88a9de40f0a5a66d9de0b323894dec60d
+SHA256: 79715353915a50e0167c84415d8658fdf537bc084cbe601bec4a32ac7eff1474
+Section: Tweaks
+Description: Turns your Brightness to 75%.
+Author: rob311
+Name: Brightness MedHigh
+
+Package: com.rob311.brightnessmin
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Installed-Size: 96
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/Brightness/com.rob311.brightnessmin_0.0.1-2_iphoneos-arm.deb
+Size: 5798
+MD5sum: 873b98cd37844fee9d566841879c476a
+SHA1: 5e698e9309b3cdd84ab09f9c531b7837785f653a
+SHA256: feb5dcb08f5fed796955539ff2bf718208643db3528e05a1ca5f17b98bbd2bff
+Section: Tweaks
+Description: An Activator set your Brightness all the way down.
+Author: rob311 <rob@rob311.com>
+Name: BrightnessMin
+
+Package: com.rob311.cleanup
+Version: 0.0.1-88
+Architecture: iphoneos-arm
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/com.rob311.cleanup_0.0.1-88_iphoneos-arm.deb
+Size: 178720
+MD5sum: 55912ca42f3a03eb648da6bc48b41ca6
+SHA1: 2ec3f7b7bfe59f2096b7a19c156496bc4b630f35
+SHA256: dab69d84175ae195d589d525caa557ad2b8d478a7040d11123ee4af0abf75b9c
+Section: Tweaks
+Description: CleanUp removes ugly web address links from the Control Center and Lock Screen label and replaces it with the less suspicious text "Web Video". Inspired by /u/essayerdenouveau post http://redd.it/2ufica.
+Author: rob311
+Name: CleanUp
+
+Package: com.rob311.clearrecentcalls
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/ClearRecentCalls/com.rob311.clearrecentcalls_0.0.1-1_iphoneos-arm.deb
+Size: 8848
+MD5sum: beb984e85e42a789ee81623a29c21f6f
+SHA1: c1dc91d97394016370e038fe7be6b1819b252266
+SHA256: 68663b7e8d008bff8a7565c0e4c4649e87c98d4474a0b5e926a196ebc012f21e
+Section: Tweaks
+Description: Adds an additional segment button to the "Recent Calls" section of the Phone App to "Clear All Recents" without having to go into edit mode first.
+Author: rob311 <rob@rob311.com>
+Name: ClearRecentCalls
+
+Package: com.rob311.clearrecentcalls
+Version: 0.0.1-14
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/ClearRecentCalls/com.rob311.clearrecentcalls_0.0.1-14_iphoneos-arm.deb
+Size: 108918
+MD5sum: f54cd2d846dc7f2452c0bab6d82c8f7d
+SHA1: 95fd8ee49cec8bdc8420cada035c2169cca20229
+SHA256: e09d066217bc1c80015a55d133f14877841f25d34b80d078ec1b1d035cfc4638
+Section: Tweaks
+Description: Adds an additional segment button to the "Recent Calls" section of the Phone App to "Clear All Recents" without having to go into edit mode first. You can Enable or Disable the alert that takes place before clearing the logs and hide the "Edit" button. Features a Localized "Clear" button available in any language the Phone App supports. Idea by Rall.S
+Author: rob311 <rob@rob311.com>
+Name: ClearRecentCalls
+
+Package: com.rob311.clearrecentcalls
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 260
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/ClearRecentCalls/com.rob311.clearrecentcalls_0.0.1-5_iphoneos-arm.deb
+Size: 20724
+MD5sum: 391191c25c3ae0441c0dd313a84dbf7d
+SHA1: fd200c6bc28c1719d5045c291bc283d082b1951d
+SHA256: 01b38ec1e759c11312c9a11bbd1195ae9814592b2cae5561c366485aa0a789ce
+Section: Tweaks
+Description: Adds an additional segment button to the "Recent Calls" section of the Phone App to "Clear All Recents" without having to go into edit mode first. You can Enable or Disable the alert that takes place before clearing the logs in the Settings App. Features a Localized Clear button available in any language the Phone App supports. Idea by Rall.S
+Author: rob311 <rob@rob311.com>
+Name: ClearRecentCalls
+
+Package: com.rob311.clearrecentcalls
+Version: 0.0.1-8
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 260
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/ClearRecentCalls/com.rob311.clearrecentcalls_0.0.1-8_iphoneos-arm.deb
+Size: 26440
+MD5sum: 997eae147a0979dd430b91313b7ed72f
+SHA1: 0c2c0375be2a850cd95b6aa317efc5283b1e5ae9
+SHA256: e011e81ab64199fc529335e71f78055e55dbe810506acf0af525a8dfa8a67a0b
+Section: Tweaks
+Description: Adds an additional segment button to the "Recent Calls" section of the Phone App to "Clear All Recents" without having to go into edit mode first. You can Enable or Disable the alert that takes place before clearing the logs in the Settings App. Features a Localized Clear button available in any language the Phone App supports. Idea by Rall.S
+Author: rob311 <rob@rob311.com>
+Name: ClearRecentCalls
+
+Package: com.rob311.clearrecentcalls
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 456
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/ClearRecentCalls/com.rob311.clearrecentcalls_0.0.2-1+debug_iphoneos-arm.deb
+Size: 105716
+MD5sum: ca700a264ef38e42fdb71d8ef9a3d493
+SHA1: 600f4413fb05ed7eaa070580c025cb80360f7adf
+SHA256: db96b346f541a7876a12b4dfae8dcded9d7a4c624ef7be9432f1ecc430b41d87
+Section: Tweaks
+Description: Adds an additional segment button to the "Recent Calls" section of the Phone App to "Clear All Recents" without having to go into edit mode first. You can Enable or Disable the alert that takes place before clearing the logs and hide the "Edit" button. Features a Localized "Clear" button available in any language the Phone App supports. Idea by Rall.S
+Author: rob311 <rob@rob311.com>
+Name: ClearRecentCalls
+
+Package: com.rob311.clearrecentcalls
+Version: 0.0.2-57+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 472
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/ClearRecentCalls/com.rob311.clearrecentcalls_0.0.2-57+debug_iphoneos-arm.deb
+Size: 107088
+MD5sum: cd91f115a5770eaa267940005843c1ac
+SHA1: 69321c5f7dedeb4cdcc84400c1073adc65e1de96
+SHA256: 9977424ccd3f2db3f764dd23a7f2b7cea42ee62a4eae7a8c9626dcffec87dbbd
+Section: Tweaks
+Description: Adds an additional segment button to the "Recent Calls" section of the Phone App to "Clear All Recents" without having to go into edit mode first. You can Enable or Disable the alert that takes place before clearing the logs and hide the "Edit" button. Features a Localized "Clear" button available in any language the Phone App supports. Idea by Rall.S
+Author: rob311 <rob@rob311.com>
+Name: ClearRecentCalls
+
+Package: com.rob311.cleverpinflipswitch
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 1408
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 6.0), com.filippobiga.cleverpin
+Filename: ./deb/Flipswitch/com.rob311.cleverpinflipswitch_1.1.0-1_iphoneos-arm.deb
+Size: 1272140
+MD5sum: 514dff3b3d77a7ffa76619be235685f6
+SHA1: e0b81a0669458baf7a2bf2b6ab1706b05a29b7a7
+SHA256: 617c1afecea162a70658887194e1bcd6e716fbced38948ba8e057cd1276fda67
+Section: Addons (Flipswitch)
+Homepage: http://cydia.rob311.com/
+Description: A Flipswitch for Cleverpin.
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/cleverpinflipswitch/depiction.php
+Icon: http://cydia.rob311.com/tweaks/cleverpinflipswitch/cleverpinflipswitch@2x.png
+Name: CleverPin Flipswitch
+
+Package: com.rob311.compassflipswitch
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Installed-Size: 764
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./deb/Flipswitch/com.rob311.compassflipswitch_1.0.0-1_iphoneos-arm.deb
+Size: 647578
+MD5sum: b01e08036d08b913e25f7401895a4a15
+SHA1: cf493c10678c900d0135b09cc3173a6d9abfa0ac
+SHA256: ac4eba99a3c8832f36b514cb9ae1af44239bb70d224f407ae01b1621087e0e32
+Section: Addons (Flipswitch)
+Description: Launchs The Compass App from a flipswitch.
+Author: rob311
+Name: Compass Flipswitch
+
+Package: com.rob311.controlsformusicapp
+Version: 1.0.0-77
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 684
+Depends: mobilesubstrate, firmware (>= 7.0), libactivator
+Filename: ./deb/Activator/ControlsForMusicApp/com.rob311.controlsformusicapp_1.0.0-77_iphoneos-arm.deb
+Size: 141976
+MD5sum: 807b73e64fdeefc224ba53e77017bcd4
+SHA1: 15b01060b8edd76a11c5f3eb43c18a55bd57538c
+SHA256: a29ef99e970f799f5c227ec1aae9ee17e2eb5a3d46f19bd020be81d945e9ded7
+Section: Tweaks
+Description: Add more Activator options to the Stock Music App. Currently Adds: Toggle Shuffle, Toggle Repeat, Play More Like This (iTunes Radio), Never Play This Track (iTunes Radio), Add to iTunes Wish List (iTunes Radio). arm64 Support. Setup in the Settings.App.
+Author: rob311 <rob@rob311.com>
+Name: Controls for Music App
+
+Package: com.rob311.controlsformusicapp
+Version: 1.1.1-155+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 7.0), libactivator
+Filename: ./deb/Activator/ControlsForMusicApp/com.rob311.controlsformusicapp_1.1.1-155+debug_iphoneos-arm.deb
+Size: 144386
+MD5sum: 592b8f3ed791ffb5afba7cc7223cdca9
+SHA1: a203f45a2d4abbbfb10416aee2c07706ad706ec0
+SHA256: 37be87f6cd2e0d9b17da904bc8a2a19e6bdde05efb91071c17f4a583d7ad40e3
+Section: Tweaks
+Description: Add more Activator options to the Stock Music App. Currently Adds: Toggle Shuffle, Toggle Repeat, Play More Like This (iTunes Radio), Never Play This Track (iTunes Radio), Add to iTunes Wish List (iTunes Radio). arm64 Support. Setup in the Settings.App.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.controlsformusicapp.hate/icon-small.png
+Name: Controls for Music App
+
+Package: com.rob311.dabtime
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 7.0), com.dba-tech.lockpages
+Filename: ./deb/DabTime/com.rob311.dabtime_1.0_iphoneos-arm.deb
+Size: 9570
+MD5sum: 8ed3c370336f147c6fc18d2856759714
+SHA1: 8ff1cdf2502ce01914966075047c023a1ba9b2be
+SHA256: b63a697ca81a41d60234aef7223da8848546bf4443dc3610378efe25175415bd
+Section: Tweaks
+Description: Countdown on lockscreen.
+Author: rob311 <rob@rob311.com>
+Name: DabTime
+
+Package: com.rob311.dabtime
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 444
+Depends: mobilesubstrate, firmware (>= 7.0), com.dba-tech.lockpages
+Filename: ./deb/DabTime/com.rob311.dabtime_1.0.2_iphoneos-arm.deb
+Size: 103238
+MD5sum: 0e3223837b628fee36eb729ff3563e79
+SHA1: d0be650deb3fa3836b827d0df26737e21bac6736
+SHA256: 2e96eb9940171742964501dc3bb4b119e4a5a7fd00ccebe04df0c3bd8a7ee1d6
+Section: Tweaks
+Description: Countdown timer on the lockscreen.
+Author: rob311 <rob@rob311.com>
+Name: DabTime
+
+Package: com.rob311.declineactivator
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Installed-Size: 96
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/HelloGoodbye/com.rob311.declineactivator_0.0.1-3_iphoneos-arm.deb
+Size: 5752
+MD5sum: 393e5242fd11c3f96d378a969127e944
+SHA1: 9abc9bf0b8248d5ba845da547ec97dbe4b1bfffe
+SHA256: 2c1fa252721c19124b2419ea0f99743d8e472d29a29fe0c07a8e570188d9c2ae
+Section: Tweaks
+Description: Hang up your phone with an Activator gesture.
+Author: rob311
+Name: DeclineActivator
+
+Package: com.rob311.drago
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./deb/Drago/com.rob311.drago_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10722
+MD5sum: bcc10be58edf845c414e042b90478e5b
+SHA1: 11705cf44078224352c7b54f5f1ad331f52aacb6
+SHA256: 565e5976f380da4322104ba2be8309d9c452d99e843d2f1b53524485390b6f9b
+Section: Tweaks
+Description: Full karma scores and the exact date added to the profile view in the Apollo reddit app.
+Author: rob311 <rob@rob311.com>
+Name: Drago
+
+Package: com.rob311.drago
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./deb/Drago/com.rob311.drago_0.0.2-1_iphoneos-arm.deb
+Size: 11140
+MD5sum: dc34447dace2455c4ed21e63f2bb8fe9
+SHA1: 5809f3259361a066005aba03c5384b30058d4501
+SHA256: e1c779cfef44058abfc6979c77145ea59659630f04a5718a8a091f437f606194
+Section: Tweaks
+Description: Full karma scores and the exact sign up date added to the profile view in the Apollo reddit app.
+Author: rob311 <rob@rob311.com>
+Name: Drago
+
+Package: com.rob311.fantasynodaily
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/com.rob311.fantasynodaily_0.0.2_iphoneos-arm.deb
+Size: 6250
+MD5sum: 2f9db6f79edc270781236c688c50c817
+SHA1: 89eade3d2091e1245ad8a822691c726104566432
+SHA256: d9982bf4fe4496c2c257b8a9fe19327b3e81f9cf5858d4a9d7b8d0a0833bbbf7
+Section: Tweaks
+Description: Remove "Daily" challenge from menus in Yahoo Fantasy.
+Author: rob311 <rob@rob311.com>
+Name: FantasyNoDaily
+
+Package: com.rob311.firewallip7flipswitch
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 168
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./deb/Flipswitch/Firewall_IP7_FS/com.rob311.firewallip7flipswitch_0.0.1-5_iphoneos-arm.deb
+Size: 72284
+MD5sum: 37fbaaf9bf5c1c634506bc5d9e499455
+SHA1: 372cd9d42c06777360ce5fe53c15281233521a26
+SHA256: 49579bf0279601400850810661d914866dca7273e8c2e2e294b41861fee8ce32
+Section: Addons (Flipswitch)
+Homepage: http://cydia.rob311.com/
+Description: A Flipswitch for Firewall iP7
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/firewallip7flipswitch/depiction.php
+Icon: http://cydia.rob311.com/tweaks/firewallip7flipswitch/firewallip7flipswitch@2x.png
+Name: Firewall iP7 Flipswitch
+
+Package: com.rob311.firewallip7flipswitch
+Version: 0.0.1-9
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 216
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: ./deb/Flipswitch/Firewall_IP7_FS/com.rob311.firewallip7flipswitch_0.0.1-9_iphoneos-arm.deb
+Size: 73176
+MD5sum: 01e9e51d51786f4c518f572833d6cbb0
+SHA1: 7e5dead404eafe858ad87cfb9fe624096a9c3a6e
+SHA256: c5fccfb86ef5c0c6c4e3378e913f84d79a8f132e7de9a8b02366d6c8a17f07be
+Section: Addons (Flipswitch)
+Homepage: http://cydia.rob311.com/
+Description: A Flipswitch for Firewall iP7
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/firewallip7flipswitch/depiction.php
+Icon: http://cydia.rob311.com/tweaks/firewallip7flipswitch/firewallip7flipswitch@2x.png
+Name: Firewall iP7 Flipswitch
+
+Package: com.rob311.goodbyeactivator
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Installed-Size: 96
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/HelloGoodbye/com.rob311.goodbyeactivator_0.0.1-6_iphoneos-arm.deb
+Size: 5744
+MD5sum: 5cfab93244ecaa3f90ad3e21f330a320
+SHA1: a4971d8046cb9c188510328563b5c7a4941e7a1e
+SHA256: 3e9b7237d3ebdaed9eb561303a8be97180fd33fcfdfd1276f93efb830ca46020
+Section: Tweaks
+Description: Hang up your phone with an Activator gesture.
+Author: rob311
+Name: GoodbyeActivator
+
+Package: com.rob311.helloactivator
+Version: 0.0.1-12
+Architecture: iphoneos-arm
+Installed-Size: 96
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/HelloGoodbye/com.rob311.helloactivator_0.0.1-12_iphoneos-arm.deb
+Size: 5838
+MD5sum: 29f799edda72a5a6e332f3dad097647a
+SHA1: 55d875cf330e68d56653ba98a8bb036f32ddf5ca
+SHA256: 35aba016095d6a4b7f0bbe58b85d843e314210b205ccd931a0aa511c68322ac0
+Section: Tweaks
+Description: Answer your phone with an Activator gesture.
+Author: rob311
+Name: HelloActivator
+
+Package: com.rob311.jigglemode
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Installed-Size: 124
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator
+Filename: ./deb/Activator/JiggleMode/com.rob311.jigglemode_0.0.1-1_iphoneos-arm.deb
+Size: 7020
+MD5sum: bdd4965df0a4e8e535846109d3b58d4b
+SHA1: b98cef75185bec57a0ae6da3d3b7503b3850df90
+SHA256: a849e242187af0ddb26e908e230f56b2e3741044f51992fd11afe1d76e8587a5
+Section: Tweaks
+Description: Use Activator to enter Homescreen edit mode (Jiggle mode)". Requested by /u/Oobermann
+Author: rob311 <rob@rob311.com>
+Name: JiggleMode
+
+Package: com.rob311.jigglemode
+Version: 0.1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator
+Filename: ./deb/Activator/JiggleMode/com.rob311.jigglemode_0.1.0-1_iphoneos-arm.deb
+Size: 14420
+MD5sum: 9c4de55598866dc96e685f761e5350fd
+SHA1: d5d743f79ae110c409bf08923cbc62031e5a54e7
+SHA256: 9433f62fc3b9b9356e625592db2ee504dd1e398de3b21e958efdbab26ee4c91c
+Section: Tweaks
+Description: Use Activator to enter Homescreen edit mode (Jiggle mode)". Useful when using 3D Touch tweaks. Requested by /u/Oobermann
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.jigglemode/icon-small.png
+Name: JiggleMode
+
+Package: com.rob311.listeninglauncher
+Version: 1.0.3-75
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 332
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader
+Filename: ./deb/Activator/com.rob311.listeninglauncher_1.0.3-75_iphoneos-arm.deb
+Size: 87530
+MD5sum: d9ff6d63a8d4673060dbc9bc55ddda18
+SHA1: a025bec9c938ead2759eff5a8d9ae24ffd5d47f2
+SHA256: b111aad6b393ad6e339b3a4afaa66739c94d7c5b807ee08d7f025a3ed1355772
+Section: Tweaks
+Description: Launches the Currently Playing App. If nothing is playing, launches the last app that you used ListeningLauncher with.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.listeninglauncher/icon-small.png
+Name: ListeningLauncher
+
+Package: com.rob311.listeninglauncher
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader
+Filename: ./deb/com.rob311.listeninglauncher_1.1.0-1_iphoneos-arm.deb
+Size: 90532
+MD5sum: b569b352634c0487ed9b9ecfa4eb44a7
+SHA1: 9e3855a7a9ec452cb40bf94fd2389de3292d7ae2
+SHA256: 129015dcb713ca41f097d56403e204b794540210192ed46764d0390f8a5c5d06
+Section: Tweaks
+Description: Launches the Currently Playing App. If nothing is playing, launches the last app that you used ListeningLauncher with.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.listeninglauncher/icon-small.png
+Name: ListeningLauncher
+
+Package: com.rob311.lowbrightness
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Installed-Size: 92
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/Brightness/com.rob311.lowbrightness_0.0.1-2_iphoneos-arm.deb
+Size: 5784
+MD5sum: 8036412e2ac4ba468a5c9a69b1829724
+SHA1: d57aae618122ee72350b7aa61af6e78e56db7996
+SHA256: f28e008919c5ff172e54a39980c9b44cb46e511f00ef455750281190aba5e137
+Section: Tweaks
+Description: Turns your Brightness to 25%.
+Author: rob311
+Name: Low Brightness
+
+Package: com.rob311.mutecallflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 280
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 9.0)
+Filename: ./deb/Flipswitch/MuteFS/com.rob311.mutecallflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 38764
+MD5sum: 34b69e44ccd6220d2bcd8218f5f2cb5b
+SHA1: 15e7efb5605459c54fff5843bab27a9c85ee9fb9
+SHA256: a38414a31a1647fbabadb8535b2e82bb4719a222a654f2550174cf20b0685d8c
+Section: Addons (Flipswitch)
+Description: Toggle the mute button for Phone and Facetime calls using a Flipswitch.
+Author: rob311 <rob@rob311.com>
+Depiction: Toggle the mute button for Phone and Facetime calls using a Flipswitch. Compatible with iOS9.x
+Name: MuteCallFlipSwitch
+
+Package: com.rob311.mutecallflipswitch
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 280
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 9.0)
+Filename: ./deb/Flipswitch/MuteFS/com.rob311.mutecallflipswitch_0.0.1-3_iphoneos-arm.deb
+Size: 39026
+MD5sum: c9d135c3cf74ceccbc6576c46b183404
+SHA1: 238e91c8264d6c58196c06f435dbc51506fbe41c
+SHA256: 7f84366f5ae3e44e852d7785e278b433c06eba04a2ae64a06886060914b302b8
+Section: Addons (Flipswitch)
+Description: Toggle the mute button for Phone and Facetime calls using a Flipswitch.
+Author: rob311 <rob@rob311.com>
+Depiction: Toggle the mute button for Phone and Facetime calls using a Flipswitch. Compatible with iOS9.x
+Name: MuteCallFlipSwitch
+
+Package: com.rob311.nocc
+Version: 1.2.0-20
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 992
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./deb/NoCC/com.rob311.nocc_1.2.0-20_iphoneos-arm.deb
+Size: 689514
+MD5sum: c1e7e67239f4729926f2629940b8a21c
+SHA1: 5656f118f59136aa58253125d9a8c8e2ce9450ca
+SHA256: 4d1a0475222145ce019f7e76b905aceb32bbd94d243083ac0eeeb5a40e4abd63
+Section: Tweaks
+Homepage: http://cydia.rob311.com/
+Description: No Control Center. Ever. Useful if you hate convience.
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/NoCC/depiction.php
+Name: NoCC
+
+Package: com.rob311.nocc
+Version: 1.3.0-47
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 1280
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./deb/NoCC/com.rob311.nocc_1.3.0-47_iphoneos-arm.deb
+Size: 702060
+MD5sum: 2e3896a4c14d1525ae18fc7b3a258523
+SHA1: a0c616beaf5c194ba7fe694d26cb255971106b4c
+SHA256: 8d6d4544095a51a3f2a1f0c32c6f27fee55584b5bf4ba081a262ac5c1b15e2ff
+Section: Tweaks
+Homepage: http://cydia.rob311.com/
+Description: No Control Center. Ever. Useful if you hate convenience. Compatible with iOS 7 - 9.
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/NoCC/depiction.php
+Name: NoCC
+
+Package: com.rob311.nofbmarketplace
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/NoFBMarketplace/com.rob311.nofbmarketplace_0.0.1_iphoneos-arm.deb
+Size: 4962
+MD5sum: eda0fc4b084110ddde3d2642046bd013
+SHA1: 19a5cb12cfb5f50994c04b5aec7232568f6b6cdd
+SHA256: 92697621c4d12a315dc49ad363385d1ec767125b160c60b8c0636adf4b8e9555
+Section: Tweaks
+Description: Remove the Marketplace tab in the Facebook App.
+Author: rob311 <rob@rob311.com>
+Name: NoFBMarketplace
+
+Package: com.rob311.nofbmarketplace
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/NoFBMarketplace/com.rob311.nofbmarketplace_0.0.2_iphoneos-arm.deb
+Size: 5124
+MD5sum: adfb3f20b36664a1dc72242811ac9215
+SHA1: a10115237280bce11e66961366a579e052fe425a
+SHA256: 74e7d29d53be841c8912778793adab208b13f6a4d72e40b48f7072c5dcb36bb7
+Section: Tweaks
+Description: Remove the Marketplace and Video tabs in the Facebook App.
+Author: rob311 <rob@rob311.com>
+Name: NoFBMarketplace
+
+Package: com.rob311.nofolderbackgroundradius
+Version: 0.1.0-213
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 948
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/com.rob311.nofolderbackgroundradius_0.1.0-213_iphoneos-arm.deb
+Size: 639640
+MD5sum: f3584b80b844ee79520ad14004878d74
+SHA1: 343c1e5ab2c631d1fcb3e0ea96869e225bff2f55
+SHA256: 94079f7b4bcb92b6e80ab0a22eb0332dab98dc44e3f36ad7538c61f074a33a42
+Section: Tweaks
+Homepage: http://cydia.rob311.com/
+Description: Removes the blur and corresponding invisible rounded box from folders giving a cleaner look.
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/nofolderbackgroundradius/depiction.php
+Name: NoFolderBackgroundRadius
+
+Package: com.rob311.onethumb
+Version: 1.9.1-54
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 2088
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/Activator/OneThumb/com.rob311.onethumb_1.9.1-54_iphoneos-arm.deb
+Size: 404522
+MD5sum: 7dbb18a6d7dcc1ddf405ea7b7939e08a
+SHA1: 344c7dfbe5a045e43710e976a753a7457f1c48d5
+SHA256: 08b2cd49817e7de90075850ef10394d1f7f0986f79bd278c97ed1db02175349e
+Section: Tweaks
+Description: The Universal Thumbs Up/Down for streaming radio. With OneThumb you can assign one Activator gesture to thumbs up (or down) the current song. Supported Players: *Amazon Music With Prime *Google Play Music *iHeartRadio *iTunes Radio *Pandora. *Rhapsody *Songza *Spotify *YouTube Music Compatible with iOS 7-9.0.2.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.onethumb.like/icon-small.png
+Name: OneThumb
+
+Package: com.rob311.onethumb
+Version: 1.9.1-75
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 2088
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/Activator/OneThumb/com.rob311.onethumb_1.9.1-75_iphoneos-arm.deb
+Size: 402986
+MD5sum: 09d795a7b2600fd37b5b48596748af58
+SHA1: ceca9c52375f7897f6518e8a36f6738629d01fc9
+SHA256: d95c58c58683246c25cc46650d8a818d732317c647fcd17c34ac9801aaa4abac
+Section: Tweaks
+Description: The Universal Thumbs Up/Down for streaming radio. With OneThumb you can assign one Activator gesture to thumbs up (or down) the current song. Supported Players: *Amazon Music With Prime *Google Play Music *iHeartRadio *iTunes Radio *Pandora. *Rhapsody *Songza *Spotify *YouTube Music Compatible with iOS 7-9.0.2.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.onethumb.like/icon-small.png
+Name: OneThumb
+
+Package: com.rob311.onethumb
+Version: 1.9.1-80
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 2088
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/Activator/OneThumb/com.rob311.onethumb_1.9.1-80_iphoneos-arm.deb
+Size: 403310
+MD5sum: 1d1e7f921377601f3204f801b673a894
+SHA1: 8e66de3ce69a9aeda21689471e7ad31eab31c28b
+SHA256: b9ecde3c6624c0af69bbf382ab701fc6ebd009d5183cdbe86bb2d6ad2b9c2f91
+Section: Tweaks
+Description: The Universal Thumbs Up/Down for streaming radio. With OneThumb you can assign one Activator gesture to thumbs up (or down) the current song. Supported Players: *Amazon Music With Prime *Google Play Music *iHeartRadio *iTunes Radio *Pandora. *Rhapsody *Songza *Spotify *YouTube Music Compatible with iOS 7-9.0.2.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.onethumb.like/icon-small.png
+Name: OneThumb
+
+Package: com.rob311.onethumb
+Version: 2.1.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 2152
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/Activator/OneThumb/com.rob311.onethumb_2.1.2-1+debug_iphoneos-arm.deb
+Size: 337122
+MD5sum: c29bc4efd0424e8a37beab5959b83521
+SHA1: 8b7ca5f5f90028ab2f00bf1f7501e6d07089368f
+SHA256: 0acd7648f51764d9ea658b40ee870a7c1b226aa4e68bfb2acbf4b976176c0050
+Section: Tweaks
+Description: The Universal Thumbs Up/Down for streaming radio. With OneThumb you can assign one Activator gesture to thumbs up (or down) the current song. Supported Players: *Amazon Music With Prime *Google Play Music *iHeartRadio *iTunes Radio *Pandora. *Rhapsody *Spotify *YouTube Music Compatible with iOS 7-9.0.2.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.onethumb.like/icon-small.png
+Name: OneThumb
+
+Package: com.rob311.onethumb
+Version: 2.1.3-5+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 2152
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/Activator/OneThumb/com.rob311.onethumb_2.1.3-5+debug_iphoneos-arm.deb
+Size: 338078
+MD5sum: 21b12315f482f7953621092526486ea6
+SHA1: 6aaf17cd4408578f9a9c405a1255d0aad275ae56
+SHA256: 46e6c61b9888291dc4577e6fe58535c483c535d63711c00bd1c7fb0cab30d489
+Section: Tweaks
+Description: The Universal Thumbs Up/Down for streaming radio. With OneThumb you can assign one Activator gesture to thumbs up (or down) the current song. Supported Players: *Amazon Music With Prime *Google Play Music *iHeartRadio *iTunes Radio *Pandora. *Rhapsody *Spotify *YouTube Music Compatible with iOS 7-9.0.2.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.onethumb.like/icon-small.png
+Name: OneThumb
+
+Package: com.rob311.onethumb
+Version: 2.1.4-1+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 2152
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/Activator/OneThumb/com.rob311.onethumb_2.1.4-1+debug_iphoneos-arm.deb
+Size: 337998
+MD5sum: d7fed3f61f49180faf5097e423d009d3
+SHA1: 4e748c5761afb8b30b0401b8cfceb61fe4ce1365
+SHA256: 2e1ae38f761dad79ae40e766bc07b196224a45befde01c1fa419bed01afa218f
+Section: Tweaks
+Description: The Universal Thumbs Up/Down for streaming radio. With OneThumb you can assign one Activator gesture to thumbs up (or down) the current song. Supported Players: *Amazon Music With Prime *Google Play Music *iHeartRadio *iTunes Radio *Pandora. *Rhapsody *Spotify *YouTube Music Compatible with iOS 7-9.0.2.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.onethumb.like/icon-small.png
+Name: OneThumb
+
+Package: com.rob311.onethumb
+Version: 2.1.5-18+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 2272
+Depends: mobilesubstrate, firmware (>= 5.0), libactivator, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/Activator/OneThumb/com.rob311.onethumb_2.1.5-18+debug_iphoneos-arm.deb
+Size: 337774
+MD5sum: c40d5943747e8dcf9df2d342075401f2
+SHA1: 7c678d5f456bb88ba2e55258c635d7108b782b88
+SHA256: 3d5b82df72fef7eaf2cce6bb20cc5ed6e1b3d9c098f77c7b22bc8a6138acd72f
+Section: Tweaks
+Description: The Universal Thumbs Up/Down for streaming radio. With OneThumb you can assign one Activator gesture to thumbs up (or down) the current song. Supported Players: *Amazon Music With Prime *Deezer *Google Play Music *iHeartRadio *iTunes Radio *Pandora. *Rhapsody *Spotify *YouTube Music Compatible with iOS 7-10.2.
+Author: rob311 <rob@rob311.com>
+Icon: file:///Library/Activator/Listeners/com.rob311.onethumb.like/icon-small.png
+Name: OneThumb
+
+Package: com.rob311.pflibcolorpickerexample
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 316
+Depends: mobilesubstrate, firmware (>= 6.0), org.thebigboss.libcolorpicker
+Filename: ./deb/com.rob311.pflibcolorpickerexample_0.0.1-1_iphoneos-arm.deb
+Size: 101498
+MD5sum: 0d015f8505f24689cb2bf7c409832106
+SHA1: 663a4ade9786051a4e8267fa6bbcfc5296a8d3cc
+SHA256: 95bb6301e4de486925339110ec4a746889e7528286aee72be27044adc876a34c
+Section: Tweaks
+Description: A working example of libcolopicker.
+Author: rob311 <rob@rob311.com>
+Name: PFLibColorPickerExample
+
+Package: com.rob311.playnice
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/playNice/com.rob311.playnice_0.0.1_iphoneos-arm.deb
+Size: 87968
+MD5sum: f190e50e162ed916b6fae2cf62933ae8
+SHA1: d1d96ff3e34f39324f74bf9e161f9d33d7883761
+SHA256: 8fa30d74513a8f55db0f47e6b519c2d5e891314218467b858a525c6681fb65e9
+Section: Tweaks
+Description: Color the Now Playing section of Google Play Music using the current song's album art.
+Author: rob311 <rob@rob311.com>
+Name: PlayNice
+
+Package: com.rob311.postman
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Installed-Size: 244
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/Postman/com.rob311.postman_0.0.1-2_iphoneos-arm.deb
+Size: 11666
+MD5sum: 639efb3520c93a320837a0d5cf4c8a04
+SHA1: 28e96451beec8ffd09ca4dec218d6c7fdd4a11a6
+SHA256: 642dcd0b0e9b603b180f572b49de6196c4679f21cd6d182cf06d760cb249594c
+Section: Tweaks
+Description: Manually Check for mail in the stock Mail app.
+Author: rob311
+Name: Postman
+
+Package: com.rob311.postman
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Installed-Size: 288
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/Postman/com.rob311.postman_0.0.1-3_iphoneos-arm.deb
+Size: 21508
+MD5sum: 3df5617b7831a1e02c03b2d1e72ba7d8
+SHA1: 45b981e715e5326daf955ff2f3259f4d4e0657c3
+SHA256: cd5cf9a3360e86272319f3867f3a3d1c097ae0c6c4241b86c2b182350ebcaa05
+Section: Tweaks
+Description: Manually Check for mail in the stock Mail app.
+Author: rob311
+Name: Postman
+
+Package: com.rob311.postman
+Version: 0.1.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 292
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/Postman/com.rob311.postman_0.1.0-6+debug_iphoneos-arm.deb
+Size: 23684
+MD5sum: ce6acfdba0eef13a6baf66d17ebe546e
+SHA1: d32c543ef1846cd705b728181568d6f06f48d4d3
+SHA256: 5d700b3149d5cacbb769d3eaaf21f4e24a8d433fb5ffed7e0738fd5fb730fe0d
+Section: Tweaks
+Description: Manually Check for mail in the stock Mail app.
+Author: rob311 <rob@rob311.com>
+Name: Postman
+
+Package: com.rob311.procrastinator
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 452
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./deb/Procrastinator/com.rob311.procrastinator_1.0.0-3_iphoneos-arm.deb
+Size: 160254
+MD5sum: 46d16b5711d259dca2892b8b294e67c4
+SHA1: 7ca3e0e0ad134d21fa6200972ae96f16dd52da95
+SHA256: 980f1d6cace7b5e294a8d7a835c1f07cac862ccbf8179becc35f876e730d7a8a
+Section: Tweaks
+Homepage: http://cydia.rob311.com/
+Description: Have a lot of stuff to do? Are you easily distracted by your smart device? Save yourself from yourself with Procrastinator. Features *Block apps based on Category *Application Blacklist * Application Whitelist *Flipswitch Integration *arm64 support
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/procrastinator/depiction.php
+Icon: http://cydia.rob311.com/tweaks/procrastinator/ProcrastinatorSettings@2x.png
+Name: Procrastinator
+
+Package: com.rob311.procrastinator
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 308
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./deb/Procrastinator/com.rob311.procrastinator_1.1.0-1_iphoneos-arm.deb
+Size: 70016
+MD5sum: 74be89da45df5404e9657563249b16de
+SHA1: 3655d8a6ecf22dfc7c2dc65dea597253e945ba31
+SHA256: be0de84022c893f74689d2b1c72588398b8d4f3954352975b7371fbbfa0ee5f3
+Section: Tweaks
+Homepage: http://cydia.rob311.com/
+Description: Have a lot of stuff to do? Are you easily distracted by your smart device? Save yourself from yourself with Procrastinator. Features *Block apps based on Category *Application Blacklist * Application Whitelist *Flipswitch Integration *arm64 support
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/procrastinator/depiction.php
+Icon: http://cydia.rob311.com/tweaks/procrastinator/ProcrastinatorSettings@2x.png
+Name: Procrastinator
+
+Package: com.rob311.procrastinator
+Version: 1.1.0-3
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./deb/Procrastinator/com.rob311.procrastinator_1.1.0-3_iphoneos-arm.deb
+Size: 74598
+MD5sum: af3a0fd924527e00053edbf5acc6c464
+SHA1: 3f90ed7037d289e1ab82334f74b32d874a7607d3
+SHA256: 0c618e7a722ed9881065f07594a548a85b78816094af28cb0ddd497078a72967
+Section: Tweaks
+Homepage: http://cydia.rob311.com/
+Description: Have a lot of stuff to do? Are you easily distracted by your smart device? Save yourself from yourself with Procrastinator. Features *Block apps based on Category *Application Blacklist * Application Whitelist *Flipswitch Integration *arm64 support
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/procrastinator/depiction.php
+Icon: http://cydia.rob311.com/tweaks/procrastinator/ProcrastinatorSettings@2x.png
+Name: Procrastinator
+
+Package: com.rob311.procrastinator
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 452
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./deb/Procrastinator/com.rob311.procrastinator_1.3.1_iphoneos-arm.deb
+Size: 56188
+MD5sum: 9b124817e47e8540bfe58815d49cc38b
+SHA1: 0191526885cf44b9905f0699cec0ca76bea7b0c4
+SHA256: a3f53b2891e21bec74fbdb3c088ec27f0dd116cd7083d25c4a49b12d432cbdff
+Section: Tweaks
+Homepage: http://cydia.rob311.com/
+Description: iOS 7 - 11. Have a lot of stuff to do? Are you easily distracted by your smart device? Save yourself from yourself with Procrastinator. Features *Block apps based on Category *Application Blacklist * Application Whitelist *Flipswitch Integration *arm64 support
+Author: rob311 <rob@rob311.com>
+Depiction: http://cydia.rob311.com/tweaks/procrastinator/depiction.php
+Icon: http://cydia.rob311.com/tweaks/procrastinator/ProcrastinatorSettings@2x.png
+Name: Procrastinator
+
+Package: com.rob311.quicksiritomusicapp
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 5.0), com.skumarspace.quicksiri
+Filename: ./deb/com.rob311.quicksiritomusicapp_0.0.1-1_iphoneos-arm.deb
+Size: 5090
+MD5sum: 751507b2624523f965473de149bb4345
+SHA1: 02bdd0cd54787df2fef53f91b7156f33cf018b4c
+SHA256: 5472382bb2287565dd17aef744c3ab541d772d03927b2720774f085cee514283
+Section: Tweaks
+Description: QuickSiriToMusicApp takes the now playing song information from whatever app you're using and replaces the 1st three questions in QuickSiri with: Artist, Album and Song Title. Now when you trigger QuickSiri it asks Siri to play the current artist/album/or title in the Music App.
+Author: rob311 <rob@rob311.com>
+Name: QuickSiriToMusicApp
+
+Package: com.rob311.removeccbrightnessbackgroundblur
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./deb/com.rob311.removeccbrightnessbackgroundblur_0.0.1-1_iphoneos-arm.deb
+Size: 4160
+MD5sum: 51ed1a0d1421d9f5e1f912a473ac2495
+SHA1: 1f3e480cce58f45f02c169b6398eaaaf8aec7194
+SHA256: b11bbfbfc9268fa976eb44d22e88f29139df5603b7e1474843036326322fe138
+Section: Tweaks
+Description: Remove the background blur from the brightness section in the control center. Compatible with iOS 8-9.x.
+Author: rob311 <rob@rob311.com>
+Name: RemoveCCBrightnessBackgroundBlur
+
+Package: com.rob311.sorrylowbattery
+Version: 1.2.0-22
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 1248
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/SorryLowBattery/com.rob311.sorrylowbattery_1.2.0-22_iphoneos-arm.deb
+Size: 767924
+MD5sum: 79371ed171667da42a13ce6ecbe8b22d
+SHA1: bdbce9e4e09979b7270d2c4d3710e21d8be888de
+SHA256: 1da3f707692890fea306f071e98275759b1f95e77e5ebe2b0ade2b2e9d53bd74
+Section: Tweaks
+Description: Do you have a hard time saying no to people that ask to borrow your phone? Now you can say, "Sorry, Low Battery." SorryLowBattery allows you to set a fake battery percentage from within the Settings.app. Then enable the toggle within settings or the convenient Flipswitch. SorryLowBattery fakes the statusbar Battery, Percentage sign and Lockscreen battery charging image. For ultimate sneakiness, you can hold down on the Flipswitch to present a low battery alert.
+Author: rob311 <rob@rob311.com>
+Name: SorryLowBattery
+
+Package: com.rob311.sorrylowbattery
+Version: 1.2.1-98
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 1496
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/SorryLowBattery/com.rob311.sorrylowbattery_1.2.1-98_iphoneos-arm.deb
+Size: 788544
+MD5sum: 3887d0bd02c6d9b53960ea1c65d3da4f
+SHA1: cf6e9090b8bb13aa8b8d18a62242e354f985b421
+SHA256: 626fb1614b2f1b211868ada2e7c5cf89caf0cb889164e221b3ad401da7e9a76b
+Section: Tweaks
+Description: Do you have a hard time saying no to people that ask to borrow your phone? Now you can say, "Sorry, Low Battery." SorryLowBattery allows you to set a fake battery percentage from within the Settings.app. Then enable the toggle within settings or the convenient Flipswitch. SorryLowBattery fakes the statusbar Battery, Percentage sign and Lockscreen battery charging image. For ultimate sneakiness, you can hold down on the Flipswitch to present a low battery alert.
+Author: rob311 <rob@rob311.com>
+Name: SorryLowBattery
+
+Package: com.rob311.sorrylowbattery
+Version: 1.3.0-8+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 1544
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/SorryLowBattery/com.rob311.sorrylowbattery_1.3.0-8+debug_iphoneos-arm.deb
+Size: 764948
+MD5sum: 7c599a7eb8fc683a91494bbe656676d4
+SHA1: a25507c86ba2d72a9f38295e616fa2358e4d2491
+SHA256: 50d614b8c9c3ab9eb898b39dcaa6389576e06748739a04b12495c7a36ced385d
+Section: Tweaks
+Description: Do you have a hard time saying no to people that ask to borrow your phone? Now you can say, "Sorry, Low Battery." SorryLowBattery allows you to set a fake battery percentage from within the Settings.app. Then enable the toggle within settings or the convenient Flipswitch. SorryLowBattery fakes the statusbar Battery, Percentage sign and Lockscreen battery charging image. For ultimate sneakiness, you can hold down on the Flipswitch to present a low battery alert.
+Author: rob311 <rob@rob311.com>
+Name: SorryLowBattery
+
+Package: com.rob311.sorrylowbattery
+Version: 1.3.1-31+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 1532
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/SorryLowBattery/com.rob311.sorrylowbattery_1.3.1-31+debug_iphoneos-arm.deb
+Size: 764404
+MD5sum: b4a6c028f23da7aa2f48fd7b4def1ca3
+SHA1: 6dad64efac41d93f6f6deb978a9b81219f721c0a
+SHA256: f21c0626d6cfb1e45ddb10ec5afc9b4cf84b9786a15156bab4718efbe2d11f31
+Section: Tweaks
+Description: Do you have a hard time saying no to people that ask to borrow your phone? Now you can say, "Sorry, Low Battery." SorryLowBattery allows you to set a fake battery percentage from within the Settings.app. Then enable the toggle within settings or the convenient Flipswitch. SorryLowBattery fakes the statusbar Battery, Percentage sign and Lockscreen battery charging image. For ultimate sneakiness, you can hold down on the Flipswitch to present a low battery alert.
+Author: rob311 <rob@rob311.com>
+Name: SorryLowBattery
+
+Package: com.rob311.sorrylowbattery
+Version: 1.4.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 1496
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/SorryLowBattery/com.rob311.sorrylowbattery_1.4.1-1_iphoneos-arm.deb
+Size: 753412
+MD5sum: e6d2d9e979657c8aadbd46734f11bba1
+SHA1: b1ec429bd558e8ec107135ab0397dc7b854c9c27
+SHA256: 1d111327030f0fec1f2440575f6290d7ca4f4ae75c54da877697a9cad679361d
+Section: Tweaks
+Description: Do you have a hard time saying no to people that ask to borrow your phone? Now you can say, "Sorry, Low Battery." SorryLowBattery allows you to set a fake battery percentage from within the Settings.app. Then enable the toggle within settings or the convenient Flipswitch. SorryLowBattery fakes the statusbar Battery, Percentage sign and Lockscreen battery charging image. For ultimate sneakiness, you can hold down on the Flipswitch to present a low battery alert.
+Author: rob311 <rob@rob311.com>
+Name: SorryLowBattery
+
+Package: com.rob311.spyspoofer
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/com.rob311.spyspoofer_0.0.1-1_iphoneos-arm.deb
+Size: 6190
+MD5sum: 64f843f12a4b6b929a63278930de19dd
+SHA1: 3f4cc55f8fcb0ad8544458e848fe4cf7e9d7d37b
+SHA256: 19585fe3b02b66a5ba357405946c1234edc94f8673e8711d8948be5636139c98
+Section: Tweaks
+Description: Who's watching the watchers?
+Author: rob311 <rob@rob311.com>
+Name: SpySpoofer
+
+Package: com.rob311.sshmediacontrols
+Version: 0.3.0-41
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 280
+Depends: mobilesubstrate
+Conflicts: com.rob311.sshvol
+Filename: ./deb/SSHMediaControlls/com.rob311.sshmediacontrols_0.3.0-41_iphoneos-arm.deb
+Size: 61462
+MD5sum: de2f5932705e9be75d4027579f24d7b9
+SHA1: 14d37971d058d54703390a494a963875ed3efab5
+SHA256: 6c97b78980222511ed84b3b433fde730f256dea586f397be4d216e8c4bb1dc58
+Section: Utilities
+Homepage: http://cydia.rob311.com
+Description: Allows you to control your media, volume and telephone over SSH. Usage: SSH into your device. On the command line type: media and your command ex "media vol+", "media next" or "media title". Type media -h for a full list of commands.
+Author: rob311 <rob@rob311.com>
+Name: SSHMediaControls
+
+Package: com.rob311.sshmediacontrols
+Version: 0.3.2-10
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 332
+Depends: mobilesubstrate
+Conflicts: com.rob311.sshvol
+Filename: ./deb/SSHMediaControlls/com.rob311.sshmediacontrols_0.3.2-10_iphoneos-arm.deb
+Size: 69638
+MD5sum: edb236aebcb6dc116b1d52dd83466597
+SHA1: 9a309845535abc8b1d761bf8c7b2dd9dd5585dc3
+SHA256: c955436ccf55a7049712d5430e137eeab6f7ea250308764ffec37225a8c5a2c5
+Section: Utilities
+Homepage: http://cydia.rob311.com
+Description: Allows you to control your media, volume and telephone over SSH. Usage: SSH into your device. On the command line type: media and your command ex "media vol+", "media next" or "media title". Type media -h for a full list of commands.
+Author: rob311 <rob@rob311.com>
+Name: SSHMediaControls
+
+Package: com.rob311.sshmediacontrols
+Version: 0.3.2-14+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Conflicts: com.rob311.sshvol
+Filename: ./deb/SSHMediaControlls/com.rob311.sshmediacontrols_0.3.2-14+debug_iphoneos-arm.deb
+Size: 64348
+MD5sum: 671d2f278262e3e831b24b1157eece14
+SHA1: 4de626a88435e10aa57bfaa36bc55c29084f3471
+SHA256: 43cda4855d7d93ddeaa1cd53618b71afb8eccf9b867457cc32dfb9e5130dbead
+Section: Utilities
+Homepage: http://cydia.rob311.com
+Description: Allows you to control your media, volume and telephone over SSH. Usage: SSH into your device. On the command line type: media and your command ex "media vol+", "media next" or "media title". Type media -h for a full list of commands.
+Author: rob311 <rob@rob311.com>
+Name: SSHMediaControls
+
+Package: com.rob311.sshmediacontrols
+Version: 0.3.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Conflicts: com.rob311.sshvol
+Filename: ./deb/SSHMediaControlls/com.rob311.sshmediacontrols_0.3.3-1+debug_iphoneos-arm.deb
+Size: 64498
+MD5sum: be24eebf8f52bb9069d7b23fb2987441
+SHA1: 81b6ba4bde68dec630017ef89c8c09c5e8b51ea9
+SHA256: fa7a38e8c7793803993fdf70f2f589a5b9dd2ba1b66309e50728c006bdff5032
+Section: Utilities
+Homepage: http://cydia.rob311.com
+Description: Allows you to control your media, volume and telephone over SSH. Usage: SSH into your device. On the command line type: media and your command ex "media vol+", "media next" or "media title". Type media -h for a full list of commands.
+Author: rob311 <rob@rob311.com>
+Name: SSHMediaControls
+
+Package: com.rob311.sshmediacontrols
+Version: 0.3.3-43+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Conflicts: com.rob311.sshvol
+Filename: ./deb/SSHMediaControlls/com.rob311.sshmediacontrols_0.3.3-43+debug_iphoneos-arm.deb
+Size: 66468
+MD5sum: 8a89b5bac57dba205c7643a3af55e26e
+SHA1: 304df40940c1d8dd79623686a0767e6c930ab831
+SHA256: a5b843d078ea0fd508330de47464bec0b2c4a25c275d459f32e73c83509cd273
+Section: Utilities
+Homepage: http://cydia.rob311.com
+Description: Allows you to control your media, volume and telephone over SSH. Usage: SSH into your device. On the command line type: media and your command ex "media vol+", "media next" or "media title". Type media -h for a full list of commands.
+Author: rob311 <rob@rob311.com>
+Name: SSHMediaControls
+
+Package: com.rob311.sshmediacontrols
+Version: 0.3.3-47+debug
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 480
+Depends: mobilesubstrate
+Conflicts: com.rob311.sshvol
+Filename: ./deb/SSHMediaControlls/com.rob311.sshmediacontrols_0.3.3-47+debug_iphoneos-arm.deb
+Size: 68470
+MD5sum: 2de1c3148a2808e774a80022d38556ba
+SHA1: 864e5648455b0391003fce17e7d74fac32a35983
+SHA256: d248649dff6dc2aecf6f7a62dd7476aff0dba1301d934f6e9506bf202bfdde23
+Section: Utilities
+Homepage: http://cydia.rob311.com
+Description: Allows you to control your media, volume and telephone over SSH. Usage: SSH into your device. On the command line type: media and your command ex "media vol+", "media next" or "media title". Type media -h for a full list of commands.
+Author: rob311 <rob@rob311.com>
+Name: SSHMediaControls
+
+Package: com.rob311.unlockstatusbartimefix
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/UnlockStatusBarTimeFix/com.rob311.unlockstatusbartimefix_0.0.1-1_iphoneos-arm.deb
+Size: 5772
+MD5sum: 43714e73f06e4ffb5837fb03314a3f15
+SHA1: 0cfa805e7ee007b140266ba6b40a38352ab30f10
+SHA256: 37ee1b625464b3c79b170cc7433a93e112a22a516e328f4c25bca416e7d63157
+Section: Tweaks
+Description: Fixes the missing statusbar clock on the homescreen after unlocking your device.
+Author: rob311 <rob@rob311.com>
+Name: UnlockStatusBarTimeFix
+
+Package: com.rob311.unlockstatusbartimefix
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/UnlockStatusBarTimeFix/com.rob311.unlockstatusbartimefix_0.0.1-2_iphoneos-arm.deb
+Size: 5824
+MD5sum: 6adc8a2f2a9e47546d43a4f046de22d5
+SHA1: 17cbe533fb4f8a1d0f4440026f80ca9d3fc3e1f7
+SHA256: 6571d183345b262c69706e4d2fccf3893f64829a1259be82ef33bc9d22de8bf8
+Section: Tweaks
+Description: Fixes the missing statusbar clock on the homescreen after unlocking your device.
+Author: rob311 <rob@rob311.com>
+Name: UnlockStatusBarTimeFix
+
+Package: com.rob311.unlockstatusbartimefix
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./deb/UnlockStatusBarTimeFix/com.rob311.unlockstatusbartimefix_0.0.1-3_iphoneos-arm.deb
+Size: 5748
+MD5sum: 8e0574acb9045f294ec97dd5a421b45d
+SHA1: 71a23b5c7cf122b43309f81f8a292999a5d94304
+SHA256: 321a648e924f5ad20873834f8494dc3ba16c6fda232eb0b2bcc0b3bfa8ade102
+Section: Tweaks
+Description: Fixes the missing statusbar clock on the homescreen after unlocking your device.
+Author: rob311 <rob@rob311.com>
+Name: UnlockStatusBarTimeFix
+
+Package: com.rob311.unlockstatusbartimefix
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./deb/UnlockStatusBarTimeFix/com.rob311.unlockstatusbartimefix_0.0.1-4_iphoneos-arm.deb
+Size: 5480
+MD5sum: b6aae98aa9b115e55d1103f19ae03f3c
+SHA1: 16c318b33c3ef0ceb83c8e995331e4dd5423bc7f
+SHA256: c4d5b52de7539b8bc476dc2178e91fee6c5235ab39bb47fac18caf4575fc2808
+Section: Tweaks
+Description: Fixes the missing statusbar clock on the homescreen after unlocking your device.
+Author: rob311 <rob@rob311.com>
+Name: UnlockStatusBarTimeFix
+
+Package: com.rob311.volskip11
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/Volskip11/com.rob311.volskip11_0.0.2-1_iphoneos-arm.deb
+Size: 4508
+MD5sum: 08d07d0787d127a9d692bb4db031a3e2
+SHA1: 7621b7f0e441824c125984b72e8d7a949e8b8560
+SHA256: 54b99ac46e44f45d470099af7738a2b4c5b91f0fbfdfedfdb78f0a551f352a0f
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons.
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rob311.volskip11
+Version: 0.0.2-2
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/Volskip11/com.rob311.volskip11_0.0.2-2_iphoneos-arm.deb
+Size: 4526
+MD5sum: 1b338b4b981fbf07eec28dfd2534e111
+SHA1: 72c89c4ce967acf79dd9350a3bb3b45b872a93c0
+SHA256: f989b7efa62a13bb30b21009f35959acbe82366bd3ff48bd910f2fb6bdcbba20
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons. Play/Pause by holding both Volume Buttons.
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rob311.volskip11
+Version: 0.0.2-9
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/Volskip11/com.rob311.volskip11_0.0.2-9_iphoneos-arm.deb
+Size: 4940
+MD5sum: 0acac869194f26315ce1dbbb0a40ccf5
+SHA1: ec83a8a26cd8a9e2b9252c3151f74602f6013459
+SHA256: 988aa695dbe1b16ba8902554772bd63bf00a6452dd7be9a1f893b850f6ec3c67
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons. Play/Pause by holding both Volume Buttons.
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rob311.volskip11
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/Volskip11/com.rob311.volskip11_0.0.3-1_iphoneos-arm.deb
+Size: 7560
+MD5sum: b9497768a50858f7d00588a3418b7af2
+SHA1: 547ad66aa72c5a449e7290b3e716b1b19ee9b374
+SHA256: 60e9b851c136bf9780acb2a62d6e4202b10666844599d92dd4847da40bed79b0
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons. Play/Pause by holding both Volume Buttons. Home + Volume buttons override Volskip11. Lock + Volume Up = Max Volume, Lock + Volume Down = Min Volume (Ringer)/ Mute (Media). Should work with All 11.x.x
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rob311.volskip11
+Version: 0.0.3-3
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/Volskip11/com.rob311.volskip11_0.0.3-3_iphoneos-arm.deb
+Size: 7734
+MD5sum: 5745720cf3e737cfa2a0c574b926e45e
+SHA1: dadc44e445a57ffa66505557134a58d31164fd0d
+SHA256: 071c06c82f9b86791035671e10dd46ba041c09205bb2dadb685d6001b9284452
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons. Play/Pause by holding both Volume Buttons. Home + Volume buttons override Volskip11. Lock + Volume Up = Max Volume, Lock + Volume Down = Min Volume (Ringer)/ Mute (Media). Should work with All 11.x.x
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rob311.volskip11
+Version: 0.0.3-31
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/Volskip11/com.rob311.volskip11_0.0.3-31_iphoneos-arm.deb
+Size: 11650
+MD5sum: df1469ab13a9a464bc036d13e0ab7c42
+SHA1: fed9b6220ada27907571c71c8c57c278e3a3d19a
+SHA256: 85702828159160c29b5ee796dc71caa09f1b62ac407f69ed298d86f9ef1dc9c6
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons. Play/Pause by holding both Volume Buttons. Non-X devices have extra functions. Home + Volume buttons override Volskip11. Lock + Volume Up = Max Volume, Lock + Volume Down = Min Volume (Ringer)/ Mute (Media). Works with All 11.x.x and 12.x.x
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rob311.volskip11
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./deb/Volskip11/com.rob311.volskip11_0.0.4-1_iphoneos-arm.deb
+Size: 11650
+MD5sum: 1a241fedc3a425a42b9a759a8ff7cb23
+SHA1: 2d576beb60184d2906ed2799724deb57878bdfe6
+SHA256: 86bf6faae551e3e9e7697f2192502f741a3829f0be11180b40553b44490c9cd9
+Section: Tweaks
+Description: Skip tracks by holding the Volume buttons. Play/Pause by holding both Volume Buttons. Non-X devices have extra functions. Home + Volume buttons override Volskip11. Lock + Volume Up = Max Volume, Lock + Volume Down = Min Volume (Ringer)/ Mute (Media). Works with All 11.x.x and 12.x.x
+Author: rob311 <rob@rob311.com>
+Name: VolSkip11
+
+Package: com.rob311.volumepresets
+Version: 1.0.0-41
+Architecture: iphoneos-arm
+Maintainer: rob311 <rob@rob311.com>
+Installed-Size: 612
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/Activator/com.rob311.volumepresets_1.0.0-41_iphoneos-arm.deb
+Size: 169692
+MD5sum: a9b5fe5dd9d6253b33aa1884f75b6db2
+SHA1: 03864cbce69951de92a0fb5b068119649994038c
+SHA256: 2e4ea10b52f84fcd0a743417492ea434b99743058f736f93e299373e56e60879
+Section: Tweaks
+Description: Volume level presets for your media. Using Activator, you can set your volume level to 0%, 25%, 50%, 75% or 100%. You can also customize 2 presets.
+Author: rob311 <rob@rob311.com>
+Name: Volume Presets for Activator
+

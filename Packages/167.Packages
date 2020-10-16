@@ -1,0 +1,321 @@
+Package: com.dunkston.cctimex
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.cctimex.deb
+Size: 4256
+MD5sum: e37b9992f34a57d25b8a4bb95b0e544b
+SHA1: 4cabac5af16d8f88ccb108bff81b15e3b7aa5bf0
+SHA256: b0bef998f17a7c2d10400d596c834196ee08dbaf8670744620f4982956a095dc
+Section: Tweaks
+Description: Shows the time in the control center on iPhone X
+Author: dunkston
+Name: CCTimeX
+
+Package: com.dunkston.censorsender
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.censorsender.deb
+Size: 11238
+MD5sum: eec69e96a144134e1eb5ebdc7855ede5
+SHA1: 3c9a7788a63cbbce6cf5806877d099d754c3fabd
+SHA256: cb14a2d969d1925c1809324d8e1f09b63d6364ec63ff3cb2ada6c215e5934902
+Section: Tweaks
+Description: Censors the sender in your notifications
+Author: dunkston
+Name: CensorSender
+
+Package: com.dunkston.circleicons
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.circleicons.deb
+Size: 7532
+MD5sum: d9e0ca801704496993e3ff2ba4530218
+SHA1: a88f6f7f2f43228ed5973e731886742c5b8c3979
+SHA256: 0ba65aa5f967dd723c34f78cbdf0ff48dd2ad5f9748c3b100b61893c22aa1aef
+Section: Tweaks
+Description: Transforms your app icons into circles!
+Author: dunkston
+Name: Circle Icons
+
+Package: com.dunkston.dndflash
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.dndflash.deb
+Size: 3918
+MD5sum: db6b2c1f6871192a67dd7d2782209256
+SHA1: a9aa7aa1c4164f89dc64cf18fbfef5131ac31a33
+SHA256: 39be51d624f7515991c4604c3c05d8aa7b31793d0d892696c00cc26a6f11e267
+Section: Tweaks
+Description: LED Flash when DND turns on
+Author: dunkston
+Name: DNDFlash
+
+Package: com.dunkston.fastcam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.fastcam.deb
+Size: 7460
+MD5sum: 200a86897ae342d1d40b0132440794d9
+SHA1: 0e930bc77675c0b3a7ea5802e93c9415989ebc47
+SHA256: 0fc8bc38dece8fab322606507d695a651b96a6b9ed1aba68dcfc9f13eac01553
+Section: Tweaks
+Description: Quickly take photos by 3D-Touching on the Camera app. Two-finger touch to take a phot
+Author: dunkston
+Name: FastCam
+
+Package: com.dunkston.holdtoclear
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.holdtoclear.deb
+Size: 3528
+MD5sum: b25071180f2f3f06a6b96885e9db91d6
+SHA1: 6c437da881388dc782b5ed09b70e0e8b8e768271
+SHA256: 4c36e9df842cadbdce79acfe37db2829b5be481304ee424960d0a68ee6dadd21
+Section: Tweaks
+Description: Hold the "Clear" button to clear all notifications
+Author: dunkston
+Name: HoldToClear
+
+Package: com.dunkston.lsreplacecam
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 124
+Depends: mobilesubstrate, applist
+Filename: ./debs/com.dunkston.lsreplacecam.deb
+Size: 5378
+MD5sum: c7e818d9202185227039d53e544b2df7
+SHA1: 9539629bb92ac0c635df6587a4280a871288fea3
+SHA256: 43c117a4762e5d0e5617c1da7d0bd4a7b267523d6a8d7f2ac2f5b4da3c1290d8
+Section: Tweaks
+Description: Replace the Camera Page on the Lock Screen with Any App
+Author: dunkston
+Name: LSReplaceCam
+
+Package: com.dunkston.muteflash
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.muteflash.deb
+Size: 2942
+MD5sum: 0b847498b03eedd451819f4c9130030f
+SHA1: d9d54daa91fdc562798802cbb0a5002154b2a426
+SHA256: cf13ecffac9c6c1fa130a348cdd7ef708a1e4ba50898006e62bae189d3677f70
+Section: Tweaks
+Description: Toggle your flashlight with the mute switch
+Author: dunkston
+Name: MuteFlash
+
+Package: com.dunkston.notimask
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 252
+Depends: mobilesubstrate, applist
+Filename: ./debs/com.dunkston.notimask.deb
+Size: 8492
+MD5sum: fd2535bf1368643240d561ac90182213
+SHA1: 1f39931a5f9ba1fbe87f7d8179d41a8117ae2151
+SHA256: 7eea96875416581b50d71ad7cbb4b0f4eecd4bce82156471b3623433656fe367
+Section: Tweaks
+Description: Disguise your notifications
+Author: dunkston
+Name: NotiMask
+
+Package: com.dunkston.nox
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 308
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.nox.deb
+Size: 29922
+MD5sum: adac1dbf21fec63d8bf051f0fe48537e
+SHA1: 627cbb2c873032a59bced5f19775cc3555d0eabb
+SHA256: 3474d9b9355366be90f97810dfa53c9e06c8b526057d06ab7cbda1462f1a3f66
+Section: Tweaks
+Description: Better OLED Notifications
+Author: dunkston
+Name: Nox
+
+Package: com.dunkston.pulsechargex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.pulsechargex.deb
+Size: 3822
+MD5sum: 45edd95f69b861a999e34331d7cd3eb3
+SHA1: 971406d448797c0a293964ee2c81e268810fea5c
+SHA256: 8ae2d7746918ec746c48eb1c1c01978b5fa6379e4d0f99c02d6c51774cb159b0
+Section: Tweaks
+Description: ChargePulse on iPhone X
+Author: dunkston
+Name: PulseChargeX
+
+Package: com.dunkston.setupsaver
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.setupsaver.deb
+Size: 13546
+MD5sum: 3759715c63f1cb44433990984e61ab8b
+SHA1: 73cc51983d191857d70bb1739ab59f609dae1707
+SHA256: 72e96b6299859aeaa6f23f63c269c9b6b21c091f7eb9a1f95419d8218fc7dbde
+Section: Tweaks
+Description: Save your tweak settings as custom setups
+Author: dunkston
+Name: SetupSaver
+
+Package: com.dunkston.statusdnd
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.statusdnd.deb
+Size: 12772
+MD5sum: 5155226455b65637eca1536142d8873f
+SHA1: 74cbfe83b9f15df523c19f06cdeab112ce31d956
+SHA256: 0cb0c3dea3b82f05903f814e3056bf57e452e644c68bb49c327621be2a5dda3b
+Section: Tweaks
+Description: Displays DND status behind the time
+Author: dunkston
+Name: StatusDND
+
+Package: com.dunkston.statusvol
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.statusvol.deb
+Size: 14760
+MD5sum: 22f8b599d4d62a114bb6f39040f2652b
+SHA1: 18a0db898cda802aea0e06f5f748f2c7c16b0d59
+SHA256: 0e40e582a2ae3bbab521e64e4953c5de9f02612660b098badab61ea201dff980
+Section: Tweaks
+Description: Shows the volume in the status bar
+Author: dunkston
+Name: StatusVol
+
+Package: com.dunkston.streamcam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.streamcam.deb
+Size: 10656
+MD5sum: 19bbebc9afb6e5b7495f673a5277a149
+SHA1: 645beebf7a4c08d9ec54275ce693db282a99714c
+SHA256: 2e69cc445645a0201fa7d49933bc91cb7e1c5b3616f9a1d9e0adaeaf2ebbed62
+Section: Tweaks
+Description: Shows a floating selfie cam
+Author: dunkston
+Name: StreamCam
+
+Package: com.dunkston.tapspotlight
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.tapspotlight.deb
+Size: 4578
+MD5sum: e9240b0ac9be99d3fab20be39ad829c1
+SHA1: 1443f8bd1231dfe36c737cc4a126ac8078f61767
+SHA256: 7a9cda2559dd82e3f0171857167d47c6f5b2c5e74cb6f3180081547e43db3171
+Section: Tweaks
+Description: Double tap on the Home Bar to invoke Spotlight
+Author: dunkston
+Name: TapSpotlight
+
+Package: com.dunkston.tapspotlight
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 152
+Pre-Depends: com.spark.libsparkapplist
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.dunkston.tapspotlight.midnightchips.deb
+Size: 7886
+MD5sum: 8b18d83d59dc61b4576963d61c1fed7a
+SHA1: 596dc20d52d40acaf23fc2259e7a3892bd346d3e
+SHA256: 82f14701eb682514df3e7bd3e95b88c45c157d8bbfdf0378ba5355f72740ba8a
+Section: Tweaks
+Description: Double tap on the Home Bar to invoke Spotlight
+Author: dunkston, MidnightChips
+Name: TapSpotlight
+
+Package: com.dunkston.taptapls
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.taptapls.deb
+Size: 10090
+MD5sum: 1a1b3b041c7ad54b120d90c6f02e96d7
+SHA1: 745956a7f03ab76daffb5c482bae112e9377c237
+SHA256: 1afb4096600a122907b8cc65e04f2186fde585024deaaead69ed1e90bbc4db82
+Section: Tweaks
+Description: Tap the lock screen to perform actions
+Author: dunkston
+Name: TapTapLS
+
+Package: com.dunkston.themednotificationfix
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.themednotificationfix.deb
+Size: 5726
+MD5sum: f42a6ceed7bc1305dfd96729140f63c6
+SHA1: 9a510e953dd2439047e13b82f55a6eb41c66b98f
+SHA256: 57dee6fec256747fc188f9622fa50365beb0f2d5984d0f78c7d8846278a66ef1
+Section: Tweaks
+Description: Makes your notifications display themed icons instead of stock ones
+Author: dunkston
+Name: Themed Notification Fix
+
+Package: com.dunkston.volumeunlock
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.dunkston.volumeunlock.deb
+Size: 9144
+MD5sum: d3290a9b6bb7fcf11d0df5c92f7fb38a
+SHA1: 36208ac1a844a885ec235137062a1b572c8a6d80
+SHA256: de4473fc8a5fe7916683bf5a5cac73be38b48cee27d490cf6a8f21a3cd0fe464
+Section: Tweaks
+Description: Unlock your phone with the volume buttons
+Author: dunkston
+Name: VolumeUnlock
+

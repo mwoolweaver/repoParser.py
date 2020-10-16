@@ -1,0 +1,297 @@
+Package: com.fpt.airflip
+Version: 0.0.2-2+debug
+Section: Addons (Flipswitch)
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Filename: ./debs/airflip.deb
+Size: 74292
+Installed-Size: 216
+MD5sum: f0888456501ec2bc9e422cfd1bb6de34
+Description: An airdrop flip switch
+Name: airflip
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.airflip
+
+Package: com.fpt.albumpicker
+Version: 1.0.0-21+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/albumpicker.deb
+Size: 41820
+Installed-Size: 220
+MD5sum: 25e9d232370ade1c1cea966315deca62
+Description: Save photos in albums from camera.
+Name: AlbumPicker
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.albumpicker
+
+Package: com.fpt.bettertextselection
+Version: 1.1.1-3+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/bettertextselection.deb
+Size: 8896
+Installed-Size: 168
+MD5sum: d7e8b27252ea0ef6e5426515c14bc3a8
+Description: Fixes the default text selection. Specifically, it stops iOS jumping to the end of paragraphs when selecting text. It should apply to all applications that use WebKit.
+Name: BetterTextSelection
+Author: Frozen Penguin
+
+Package: com.fpt.colorgrabber
+Version: 0.0.1-31
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/colorgrabber.deb
+Size: 63392
+Installed-Size: 284
+MD5sum: 9998ab69b5afee91c044b745476fcc21
+Description: Colourise keyboard prediction bar grabber/tab
+Name: ColorGrabber
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.colorgrabber
+
+Package: com.fpt.divorce
+Version: 1.0.2-1+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/divorce.deb
+Size: 10862
+Installed-Size: 168
+MD5sum: d30f8cb8ec1c28ac7367e357a709f300
+Description: Separate album name and artist name on CC.
+Name: Divorce
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.divorce
+
+Package: com.fpt.dontcorrectme
+Version: 0.0.1-16
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/dontcorrectme.deb
+Size: 61878
+Installed-Size: 284
+MD5sum: 76f95c24a2b8c469829db44565648bb0
+Description: Choose languages to disable autocorrection for.
+Name: DontCorrectMe
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.dontcorrectme
+
+Package: com.fpt.emojisuggest
+Version: 1.2.1-4
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/emojisuggest.deb
+Size: 134004
+Installed-Size: 600
+MD5sum: 4de30a981fd0fcf79de11b43eae334a1
+Description: Emojis in prediction bar.
+Name: EmojiSuggest
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.emojisuggest
+
+Package: com.fpt.heartthrob
+Version: 1.0.0-22+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/heartthrob.deb
+Size: 29176
+Installed-Size: 184
+MD5sum: f15e129d119fbfbef03850217565fc7c
+Description: Add double tap to favourite to photos app. Zoom changed to triple tap.
+Name: Heart Throb
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.heartthrob
+
+Package: com.fpt.lesscontrol
+Version: 1.0.4-1+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/lesscontrol.deb
+Size: 26932
+Installed-Size: 176
+MD5sum: b061fd9cedaced9d0645257d2d3c39d0
+Description: Merges CC pages and removes airplay and night shift.
+Name: LessControl
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.lesscontrol
+
+Package: com.fpt.messagefilter
+Version: 1.0.1-1+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/messagefilter.deb
+Size: 78276
+Installed-Size: 360
+MD5sum: 4b5286f4cc2269d998c62f50d58072e3
+Description: Blacklist and whitelist words for certain conversations.
+Name: MessageFilter
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.messagefilter
+
+Package: com.fpt.miracle
+Version: 1.0.0-161+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/miracle.deb
+Size: 32280
+Installed-Size: 172
+MD5sum: 33881bc6f3628861897742e1be75bfe1
+Description: Turn messages with bible verses into links.
+Name: Miracle
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.miracle
+
+Package: com.fpt.onehanded
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/onehanded.deb
+Size: 57634
+Installed-Size: 268
+MD5sum: bdeb01909d8df0155d887c2770f2f432
+Description: Enables built-in one-handed keyboard. Swipe left or right to activate.
+Name: OneHanded
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.onehanded
+
+Package: com.fpt.predictionshortcuts
+Version: 1.6.1
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/predictionshortcuts.deb
+Size: 118638
+Installed-Size: 592
+MD5sum: d03cda0432269181023efd1cbc2a2c3a
+Description: Shortcuts above the keyboard.
+Name: PredictionShortcuts
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.predictionshortcuts
+
+Package: com.fpt.privatemessage
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/privatemessage.deb
+Size: 13880
+Installed-Size: 172
+MD5sum: e0f8f39627c096af4f81077650fae430
+Description: Double tap on a message to lock it with Touch ID.
+Name: PrivateMessage
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.privatemessage
+
+Package: com.fpt.protectdetails
+Version: 1.0.1-1+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/protectdetails.deb
+Size: 11460
+Installed-Size: 172
+MD5sum: 93c077da1d8b95b3baf074c529773c67
+Description: Protect details in messages app with touch ID.
+Name: ProtectDetails
+Author: Frozen Penguin
+
+Package: com.fpt.shrinkray
+Version: 1.0.2-3+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/shrinkray.deb
+Size: 12898
+Installed-Size: 172
+MD5sum: 1160568fde77c92aaaa1fb70c693b79b
+Description: Shrink empty space on horseshoe.
+Name: Shrinkray
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.shrinkray
+
+Package: com.fpt.softtimer
+Version: 1.0.4-10+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/softtimer.deb
+Size: 1363608
+Installed-Size: 1976
+MD5sum: 3cf105f808e3d31a823bb7f78443768a
+Description: Automatic reminder to keep you on time. Phrases triggered in messaging apps will start a timer on the lock screen.
+Name: Soft Timer
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.softtimer
+
+Package: com.fpt.spotty
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/spotty.deb
+Size: 72068
+Installed-Size: 412
+MD5sum: 14c2f4805d0eb2bea0787b1f3429de97
+Description: Adds album art to the playlist view on Spotfiy.
+Name: Spotty
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.spotty
+
+Package: com.fpt.tabcount
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/tabcount.deb
+Size: 9056
+Installed-Size: 168
+MD5sum: 18bd1b315efdde6265b2bf01abe4fb9a
+Description: Show number of tabs in Safari
+Name: TabCount
+Author: Frozen Penguin
+
+Package: com.fpt.thumbtack
+Version: 1.0.1-1+debug
+Section: Tweaks
+Maintainer: Frozen Penguin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/thumbtack.deb
+Size: 26254
+Installed-Size: 180
+MD5sum: ba9c963d311c29b505ac725cde68eca5
+Description: Pin notes with long press.
+Name: Thumbtack
+Author: Frozen Penguin
+Depiction: https://frozen-penguin.github.io/depictions/?p=com.fpt.thumbtack
+

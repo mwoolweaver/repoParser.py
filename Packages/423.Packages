@@ -1,0 +1,60 @@
+Package: com.tylercasson.fourier
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tyler Casson <tgcasson+fourier@gmail.com>
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./downloads/com.tylercasson.fourier_0.0.1_iphoneos-arm.deb
+Size: 71152
+MD5sum: f7cd22f5c619cbdec83a2d628fdf0fa0
+SHA1: 52d7d3832e8f769acedf07242dedb5da469f9ac6
+SHA256: d9881e2c6756a928ca7c07287cdac471806afd19b9989fad288a0adb41266dbb
+Section: Tweaks
+Homepage: https://repo.tylercasson.com/Depictions/fourier/fourier.html
+Description: Music app waveforms for locally stored songs
+Tag: purpose::extension
+Author: Tyler Casson <tgcasson+fourier@gmail.com>
+Depiction: https://repo.tylercasson.com/Depictions/fourier/fourier.html
+Name: Fourier
+
+Package: com.tylr.mobius
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Tyler Casson <tgcasson+mobius@gmail.com>
+Installed-Size: 280
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Conflicts: com.tylr.wraparound
+Breaks: com.tylr.wraparound (<< 1.0.1-5~)
+Replaces: com.tylr.wraparound (<< 1.0.1-5~)
+Provides: com.tylr.wraparound
+Filename: ./downloads/com.tylr.mobius_1.2.4_iphoneos-arm.deb
+Size: 65950
+MD5sum: ebfafbbe393c0821d779b2e4250717be
+SHA1: 75a954f22eef6764297c40447a082578f218352c
+SHA256: f2b4a216a05eb91066be087b0116e0a367d93e2cf03082fcdedd0e0e3a0f7cc5
+Section: Tweaks
+Homepage: https://repo.tylercasson.com/Depictions/mobius/mobius.html
+Description: Scroll infinitely through your SpringBoard pages! Works in folders, too!
+Tag: purpose::extension
+Author: Tyler Casson <tgcasson+mobius@gmail.com>
+Depiction: https://repo.tylercasson.com/Depictions/mobius/mobius.html
+Icon: file:///Library/PreferenceBundles/MobiusPreferences.bundle/Mobius.png
+Name: Mobius
+
+Package: com.tylr.wraparound
+Version: 1.0.1-5
+Architecture: iphoneos-arm
+Maintainer: Tyler Casson <tgcasson@gmail.com>
+Depends: com.tylr.mobius
+Filename: ./downloads/com.tylr.wraparound_1.0.1-5_iphoneos-arm.deb
+Size: 1494
+MD5sum: 602f0e2206eb3a0e00fc7990531aac09
+SHA1: d3043f3b95939058c14140bcba432ead94dde902
+SHA256: c2e7a28b842ba5feaff0ef4b92f4ff045e68273a5c2165beaa6bdf27bb097b07
+Section: Packaging
+Homepage: http://repo.tylercasson.com/Depictions/mobius/mobius.html
+Description: Wraparound -> Mobius Transitional Package. Butter.
+Tag: role::dummy
+Author: Tyler Casson <tgcasson@gmail.com>
+Name: Mobius Transitional
+

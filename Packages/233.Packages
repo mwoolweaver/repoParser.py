@@ -1,0 +1,38 @@
+Package: de.j-gessner.dumpdecrypted
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Installed-Size: 88
+Depends: class-dump
+Filename: debs//de.j-gessner.dumpdecrypted_0.0.1-1_iphoneos-arm.deb
+Size: 6884
+MD5sum: c87375ce3c007262e306f6bf3a89e7d5
+Section: Development
+Description: dumpdecrypted by Stefan Esser. Usage: run dumpdecrypted from the command line. DISCLAIMER: This tool is only meant for security research purposes, not for application crackers. Copyright 2011 Stefan Esser.
+Name: dumpdecrypted
+Author: Jonas Gessner
+
+Package: de.j-gessner.dyld-decache
+Version: 0.0.1
+Architecture: iphoneos-arm
+Installed-Size: 240
+Filename: debs//de.j-gessner.dyld-decache_0.0.1_iphoneos-arm.deb
+Size: 80010
+MD5sum: 0d0cd0a39daded07f8d1662277b5a6c3
+Section: Development
+Description: dyld_decache by KennyTM.
+Name: dyld_decache
+Author: Jonas Gessner
+
+Package: de.j-gessner.nocarrier
+Version: 0.9
+Architecture: iphoneos-arm
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs//de.j-gessner.nocarrier_0.9_iphoneos-arm.deb
+Size: 4190
+MD5sum: 030e6aabd22fc8959b311ade163cbdeb
+Section: Tweaks
+Description: Completely remove the Carrier Logo from the status bar. No options to configure.
+Name: NoCarrier
+Author: Jonas Gessner
+

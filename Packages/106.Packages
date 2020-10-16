@@ -1,0 +1,16 @@
+Package: me.cam.doubletake
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: Cam
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/me.cam.doubletake_0.0.1-b1+debug_iphoneos-arm.deb
+Size: 5532
+MD5sum: 39ba50660907482299ca94eba5734980
+SHA1: faea6dddb361d82a0b546dbfdd3b8ce5ee9d8a80
+SHA256: 6c77014b700cb16a2bd1a1795599aa8410c25e086650b14236fbf8eb535efa7a
+Section: Tweaks
+Description: Double Check Who You're Messaging
+Author: Cam
+Name: DoubleTake12
+

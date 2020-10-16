@@ -1,0 +1,9 @@
+Origin: iakd's Repo
+Label: iakd's Repo
+Suite: stable
+Version: 1.0
+Codename: iakd
+Architectures: iphoneos-arm
+Components: main
+Description: iakd's Repo
+MD5Sum:

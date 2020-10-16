@@ -1,0 +1,8 @@
+Label: MartinsZar
+Origin: MartinsZar
+Version: 1.0
+Description: My Beta and Extras iOS Repository
+Components: main
+Architectures: iphoneos-arm
+Suite: stable
+Codename: ios

@@ -1,0 +1,13 @@
+Origin: JoshTV
+Label: JoshTV Repo
+Suite: stable
+Version: 2.0
+Codename: JoshTV
+Architectures: darwin-arm64, appletvos-arm64
+Components: main
+Description: An Apple TV repository made by @Joshblah555 and @Shineybear75.
+Icon: http://joshtv.net/icon/CydiaIcon.png
+Date: Sat, 10 Oct 2020 19:10:52 +0000
+MD5Sum:
+ e4ab896b38d92fa32863595f853c79f9 52305 Packages
+ 301fd1fa8489db3af38db236260da01c 12768 Packages.bz2

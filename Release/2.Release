@@ -1,0 +1,8 @@
+Origin: David Goldman's Repo
+Label: David Goldman's Repo
+Suite: stable
+Version: 1.0
+Codename: astronomia
+Architectures: iphoneos-arm
+Components: main
+Description: David Goldman's Repo

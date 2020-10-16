@@ -1,0 +1,15 @@
+Package: com.ntdark.instagramshowlikes
+Name: Instagram Show Likes
+Section: Tweaks
+Maintainer: Ntdark
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: /debs/com.ntdark.instagramshowlikes.deb
+Size: 7242
+MD5sum: 298f599776c36c5ee55c0623bbd3b424
+SHA1: d01d2c2501aeefead44395419bfcf69b4844bad5
+SHA256: a9d5ebcc7e133e07d2bf256c3df17af37c37d895ec3c9a3a92d1ecb37f14efa1
+Description: Make Instagram show number of likes of posts 
+Author: Ntdark (Original Flex patch by freitasrod)
+Installed-Size: 152

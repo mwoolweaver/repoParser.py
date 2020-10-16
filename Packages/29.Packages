@@ -1,0 +1,237 @@
+Package: com.laxus.candycrush
+Version: 1.172.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: mobilesubstrate
+Filename: ./debs/com.laxus.candycrush.deb
+Size: 2344102
+MD5sum: e4e59543ae7857ce1bb06e999aeb6762
+SHA1: 8b69edace4b9d40846f3db927d7fc5b8107373bc
+SHA256: a151977b1b41163341a19a0dd15c09a57f11c8aa85d76cba38cd6c0b7e8b1b4b
+Section: Tweaks
+Homepage: https://iosgods.com
+Description: Candy Crush Saga iGMM Cheats by Laxus for iOSGods.com!
+Author: Laxus
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.laxus.candycrush
+Name: Candy Crush Saga Cheats
+
+Package: com.laxus.duolingo
+Version: 6.62.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: mobilesubstrate
+Filename: ./debs/com.laxus.duolingo.deb
+Size: 2342272
+MD5sum: 7e813a8ed2bc89292ae6d99579208f22
+SHA1: c3a74584d8a277012929006db71d4f08347893a7
+SHA256: 039845beb683f53c3219000a32c603edd8968c6ae59c27e6b28be65c83db13de
+Section: Cheats
+Homepage: https://iosgods.com
+Description: Duolingo iGMM Cheats by Laxus for iOSGods.com!
+Author: Laxus
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.laxus.duolingo
+Name: Duolingo Cheats
+
+Package: com.neinzedd9.confidentialproprietary
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.neinzedd9.confidentialandproprietary.deb
+Size: 13476
+MD5sum: c975bd5ebc9a6bc9474864aa3da1bd28
+SHA1: a33e4dd7ee6a629e82f7eb143a4563558e922f0a
+SHA256: 5b4185010bf13ae780244a7bda4ab1b4c6c74b1d440e0fca6293f96d1e565a57
+Section: Tweaks
+Description: Add cool text to your iDevice's lock screen.
+Author: NeinZedd9
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.neinzedd9.confidentialproprietary
+Name: Confidential & Proprietary
+
+Package: com.pheux.fixrandomresprings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: com.bingner.plutil, firmware (>= 12.0)
+Filename: ./debs/com.pheux.fixrandomresprings.deb
+Size: 1206
+MD5sum: 8e8b36e91a1e603cd68be7d05af50e71
+SHA1: 490080be42959887c804cc5900212a9f084cd97c
+SHA256: 279aa40a94f3e242fcbcf96ebd58433b77af1cb4f9a6eee98f9c418d082e2a70
+Section: Tools
+Description: Increases SpringBoard allowable memory as much as possible to prevent SpringBoard crashes and stop random resprings. I found the fix and told skitty, who originally wrote this script. To revert changes, simply uninstall this.
+Author: Pheux
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.pheux.fixrandomresprings
+Name: Fix Random Resprings
+
+Package: com.ryank43.Conference
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader, com.ryank43.madrid, firmware (>=11.0)
+Filename: ./debs/com.ryank43.conference.deb
+Size: 4246
+MD5sum: 8d8747d91afdafcf38dfcaad42fc7014
+SHA1: 41e6609766264db0f8b40e4b2e09a1e183a28073
+SHA256: 48c9941f9c6df002a9e7e2772c9af6fd617712ce48ed4fee9ccf8b27fc234125
+Section: Internal Bundles (iOS 11)
+Homepage: https://appleconnect.apple.com
+Description: Install ConferenceInternalSettings.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.conference
+Name: Conference
+
+Package: com.ryank43.Deckard
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader, firmware (>=10.0)
+Filename: ./debs/com.ryank43.deckard.deb
+Size: 1336
+MD5sum: 5a2c69b95528b0341bf53060a03086b8
+SHA1: f2a1a39e8255df627c0b5e1b80eb8c65a705125e
+SHA256: 29c21d3f229b688544a9762ef906f46049ee7833c0b6d45565cfb21d2757ec9b
+Section: Internal Bundles (iOS 10)
+Homepage: https://appleconnect.apple.com
+Description: Install WelcomeKitInternalSettings.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.deckard
+Name: Deckard
+
+Package: com.ryank43.InternalAd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader
+Filename: ./debs/com.ryank43.internalad.deb
+Size: 2386
+MD5sum: 683cfab68de598e1c991ec7a77fb1759
+SHA1: ca70fad7c65c86dea69f12d2393d9bb04b916b6a
+SHA256: b6dca180384077378b8792e68ee30ece32036146caf1490023ea2c5be66bb82f
+Section: Internal Bundles (iOS 11)
+Homepage: https://appleconnect.apple.com
+Description: Install iAdInternalSettings.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.internalad
+Name: Internal Ad
+
+Package: com.ryank43.InternalHealth
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader, firmware (<<11.0), firmware (>=9.0)
+Filename: ./debs/com.ryank43.internalhealth.deb
+Size: 17238
+MD5sum: 25967632d054590080a23df3ed605714
+SHA1: 3ce35c14a350accfb242682dbec2e262d7d0d926
+SHA256: bdec5a897bee54c0b44ee3010cff3ef0f0b36ecc0aa245888bb5a53aef9307cf
+Section: Internal Bundles (iOS 10)
+Homepage: https://appleconnect.apple.com
+Description: Install HealthInternalSettings. iOS 10 compatible only.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.internalhealth
+Name: InternalHealth
+
+Package: com.ryank43.Madrid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: com.ryank43.Conference, preferenceloader, firmware (>=11.0)
+Filename: ./debs/com.ryank43.madrid.deb
+Size: 4480
+MD5sum: 3e52f19fde14a22daab4d65a4dea7586
+SHA1: 52cb69748cb815d77862c9f2af8b097473e67d93
+SHA256: 6eb37a238ce37a54c613c7d6a5d236561842955b9f391e04e8c0b510e8fca5df
+Section: Internal Bundles (iOS 11)
+Homepage: https://appleconnect.apple.com
+Description: Install MadridInternalSettings.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.madrid
+Name: Madrid
+
+Package: com.ryank43.MediaDebugging
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader, firmware (<<11.0), firmware (>=9.0)
+Filename: ./debs/com.ryank43.mediadebugging.deb
+Size: 21042
+MD5sum: efd64659e304b0982096d62c843de061
+SHA1: 62de8115a01d6dedeb7b96b639d0edfde8d24a1e
+SHA256: 35bf5869cb0d0ffb8522bc23258aefc465c192df02f12f2cdcee7c56d6b5aa71
+Section: Internal Bundles (iOS 10)
+Homepage: https://appleconnect.apple.com
+Description: Install MediaAppsInternalSettings.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.mediadebugging
+Name: Media Debugging
+
+Package: com.ryank43.Nina
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader, firmware (= 5.0)
+Filename: ./debs/com.ryank43.nina.deb
+Size: 11427552
+MD5sum: 5f8f432655c97fd463aa5494b97a9311
+SHA1: 0f52daca20161b3c13239dc8b5d69e3b03c3d952
+SHA256: 52c74dd549a747d1deb23ca2a19ba71e4a07502ecc5c9ac3708f83fc805e09a3
+Section: Internal Bundles (iOS 5)
+Homepage: https://appleconnect.apple.com
+Description: Install several legacy preference bundles that configure internal settings on iOS 5.0.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.nina
+Name: Nina
+
+Package: com.ryank43.hiddensettings
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader (>= 2.2.2)
+Filename: ./debs/com.ryank43.hiddensettings.deb
+Size: 14210
+MD5sum: 861925f0beb3ba29f888aabb6177a34a
+SHA1: 0b6b766c59dedeadc0e8dc144659e247c2cf4ff8
+SHA256: 235b4ff66712b4cf04a9db7851541d353c50e3114be43097216449a2f70ec901
+Section: Tweaks
+Homepage: appleconnect.apple.com
+Description: Preference pane to configure settings deep within iOS.
+Author: Ryan Kovatch
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.hiddensettings
+Name: Hidden Settings
+
+Package: com.ryank43.measure
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Depends: preferenceloader, firmware (>=12.0)
+Filename: ./debs/com.ryank43.measure.deb
+Size: 4184
+MD5sum: 27fe807873bdb5724ad4d2dfe4b3032b
+SHA1: bfd017cbe0ad949751cc55bbfef529707381f195
+SHA256: 255c7aa99c61000e6fd608c27a22ceb666c88b4aec6f270a8c6b9892432c7226
+Section: Internal Bundles (iOS 12)
+Homepage: https://appleconnect.apple.com
+Description: Install MeasureInternalSettings.
+Author: Ryan Kovatch <ryanjkovatch@gmail.com>
+Depiction: https://3xpl0itz.github.io/depictions/?p=com.ryank43.measure
+Name: MeasureInternalSettings
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: 3xpl0itz
+Installed-Size: 742
+Depends: firmware (>=11.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64.deb
+Size: 210340
+MD5sum: 843f7dff0bf7f4e9c22dc9b355615eb8
+SHA1: 589c4fb51cb1848a4ae837312fcaa4a86207ea94
+SHA256: 6ca7c1a7608ce7d572c0f067ec798ea02ea1fb2663cf8cdb648241f896abc71b
+Section: Applications
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Depiction: https://3xpl0itz.github.io/depictions/?p=ru.domo.cocoatop64
+Name: CocoaTop
+

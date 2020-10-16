@@ -1,0 +1,628 @@
+Package: com.section9jb.datameter
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: Section9JB <section9new@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/com.section9jb.datameter.deb
+Size: 243572
+MD5sum: d57e7b60c49b60dd07c81db6fa5a84af
+SHA1: 298f29750c55a2d718f76b655c9f72fafcf7112d
+SHA256: 08d9968d5f6a92e2f477af3ef420fc736944b51b624c6e1ee88898be5ada5341
+Section: Addons (NotificationCenter)
+Description: DataMeter for iOS 7-12 Notification Center
+Tag: compatible::ios12
+Author: Section9 <section9new@gmail.com>
+Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.datameter
+Name: DataMeter (iOS 7-12)
+
+Package: com.section9jb.ezrespring
+Version: 1.2-debug3
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Depends: mobilesubstrate, com.section9jb.silo
+Filename: ./debs/com.section9jb.ezrespring.deb
+Size: 7500
+MD5sum: 6f0bb555aa396fe0966ce0511785c74f
+SHA1: 09d79d102edfe75d11288a06abe03f38d5c637ad
+SHA256: c95d15b521b8e4841258334f4b5f6199c37292b8ace16591058c778f98216acb
+Section: Addons
+Description: A Respring button for your Control Center. Uses Silo to Run
+Author: Section9
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.ezrespring
+Name: EzRespring
+
+Package: com.section9jb.jooxpremium
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.section9jb.jooxpremium.deb
+Size: 58180
+MD5sum: 07a67ded9f63f9fda0c4d117bc59e825
+SHA1: 8220f4cf8eef2d584eb5dbd0f2610f05388665d8
+SHA256: e080ec6ace43e3d2e40698fd78710809efd7c4f29ae08b9b03e3f40d4e67928e
+Section: Utilities (Hack)
+Description: VIP Music, Download songs and listen to them Offline (320kbps) HI-FI, DTS Expired 2063, Enjoy Music!
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.jooxpremium
+Name: JOOX Premium
+
+Package: com.section9jb.silo
+Version: 1.0.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.section9jb.silo.deb
+Size: 5364
+MD5sum: 586a8ca86730423a98c662e0ffd93dd2
+SHA1: 6d31dbdc71a0d275c38f51b4e413e9f108bf370b
+SHA256: 9100b05e76bf51122450fdd7fb3b713bd118a33212981275b30f851a8c7852ad
+Section: Addons
+Description: Allows Reordering of all the CC Modules and for Developers to add their own
+Author: iOS Creatix
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.silo
+Name: Silo
+
+Package: com.section9jb.tsprotector8
+Version: 1.2.0-20k
+Architecture: iphoneos-arm
+Maintainer: Redenfire <redenfire@gmail.com>
+Depends: firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb, kr.typostudio.tsprotector8.ft
+Filename: ./debs/com.section9jb.tsprotector8.deb
+Size: 108504
+MD5sum: 6058248ba8c4617e70fbd23ac1a080db
+SHA1: a8bd6cda8da81139dba389c289adbb2e1f28e71d
+SHA256: 76d23fc1e2e1ca47857939598fff9702357c131f8b31a263fb6689a0cd78ef7d
+Section: Utilities (Hack)
+Description: Protect system from suspicious apps
+Author: Section9JB <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.tsprotector8
+Name: tsProtector 8+ (iOS 9 & 8)
+
+Package: com.section9jb.zeppelins9
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.zeppelins9.deb
+Size: 15116
+MD5sum: 8042f709ef7856bd7d5b05142d0c3d0c
+SHA1: 91d146538ae407f7b77fa2fba68d1e59a14f418a
+SHA256: cb26e48be4b2e95314dd3fe50fe29c80e55091b9b9145afda144908172606768
+Section: Addons (Zeppelin)
+Description: Section9 Logo for Zeppelin By Section9
+Author: Section9 <section9new@gmail.com>
+Name: Section9 Zeppelin
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.zeppelins9
+Sponsor: Section9JB <https://www.section9jb.com/>
+
+Package: com.section9jb.KodchasalBold
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.KotchasalBold.deb
+Size: 2602552
+MD5sum: d07a26e7277350cc459fd838ce931409
+SHA1: e850cf28613d05ef0cc80c2ef2e9ce8cb93b695a
+SHA256: e6e75ba61e0b368dc829f9aea944e3baee13e30d8ff248ad921b61cc569f086b
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: Kodchasal Bold for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.KodchasalBold
+Name: Kodchasal Bold for BytaFont
+
+Package: com.section9jb.KodchasalBoldPlus
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.KotchasalBoldPlus.deb
+Size: 2639512
+MD5sum: 36ebffb4e90bec1cf84572a5c209c864
+SHA1: a9a8daf6d16c7bae2d0931b9e1f260d655d27839
+SHA256: 22c2c300106cdd2cbb9603f29ef7904f655034d8a9f155e780edfc058d064294
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: Kodchasal BoldPlus for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.KodchasalBoldPlus
+Name: Kodchasal BoldPlus for BytaFont
+
+Package: com.section9jb.KodchasalRegular
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.KodchasalRegular.deb
+Size: 2354576
+MD5sum: 978cd8f0054a91d1da0ee20cf9c823b2
+SHA1: d7e07bf26462050e807481947fe1cc0958512cd8
+SHA256: 5208e4df33788b141f7bc19635831f369cb71b18401a88fd41640671180be771
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: Kodchasal Regular for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.KodchasalRegular
+Name: Kodchasal Regular for BytaFont
+
+Package: com.section9jb.ThaiSmile
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.ThaiSmile.deb
+Size: 3398336
+MD5sum: ccd1ecbf7b7291dfbd732f03763168d9
+SHA1: a2f392701460b7aecc801f1d36a2d36458f878a5
+SHA256: 31c7c622e38f81280c10234048ecb6571e8d3f12823ee51a0aff985397daf8e2
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: ThaiSmile for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.ThaiSmile
+Name: ThaiSmile for BytaFont
+
+Package: com.section9jb.boonjot
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.boonjot.deb
+Size: 2245684
+MD5sum: 78d79f3e430966b3d80e90009d40a53b
+SHA1: 222d2e7366c717d714a416a4b11f3869067cdbdd
+SHA256: f88874a06120ae1026aed4bd38559835cb25d9eec046bf8c20f8b4b0cef579aa
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: Boonjot for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.boonjot
+Name: Boonjot for BytaFont
+
+Package: com.bytafont.bytafont3
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Depends: firmware (>= 11), unzip, mobilesubstrate
+Filename: ./debs/com.bytafont.bytafont3_3.5.deb
+Size: 779640
+MD5sum: ce5fc79edb29efd057568d7a10e5beb5
+SHA1: 64aef98f883279c93c1611eabc29d03ab44af72a
+SHA256: d9dd82962695ce0fa427d6586b86ca44f643c7de90a028992cd4d2892afdd0c5
+Section: System
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Author: BytaFont.com <info@bytafont.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.bytafont.bytafont3
+Name: BytaFont 3 (iOS11-12)
+
+Package: com.section9jb.Mahaniyom
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.mahaniyom.deb
+Size: 2642908
+MD5sum: cd27991e12c60aea3176d99d91e066ee
+SHA1: e21e38e94c445472c1241d5b94961d5577c2b252
+SHA256: 8cb0dfa9409f4ee721c1bb0b25010997237aee92411409a71928af0226f12a57
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: Mahaniyom for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Mahaniyom
+Name: Mahaniyom for BytaFont
+
+Package: com.section9jb.MixMiize
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.mixmiize.deb
+Size: 2831488
+MD5sum: 1a5573c0d062a7b2eec6cc34c4ad408d
+SHA1: 3299fd4990219e3948507097b6470f79fd93a69a
+SHA256: 3570b0930ae1cbe0414c10fe0fc15be2803251c852e66102edab309c3a424a27
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: MixMiize for BytaFont (iOS11-12) by Section9&Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.MixMiize
+Name: MixMiize for BytaFont
+
+Package: com.section9jb.RSU
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.rsu.deb
+Size: 2874380
+MD5sum: db5686f3541a9d9f8828e8d440d866eb
+SHA1: fd8a88b88ee06f5f56a79a432e71ac0f0b33e7a8
+SHA256: 71a5df498b5286c3592fceedc2c172029e09c121de0408d89e67abfb92cc3df5
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: RSU for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.RSU
+Name: RSU for BytaFont
+
+Package: com.section9jb.RTELAO
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.RTELAO.deb
+Size: 19208
+MD5sum: e17f8200bcf0b7ef37da5e2f20a22745
+SHA1: 0181387c0b62c8e7d1f534d976ec4056a2e8e36f
+SHA256: bbcff07e5226e45d27c14d00a3daa8dac06b89b2f08812b68246027db5383fb9
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: RTE LAO Contrast for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.RTELAO
+Name: RTE LAO Contrast for BytaFont
+
+Package: com.section9jb.Original12
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.Original12.deb
+Size: 1498380
+MD5sum: f9eab7575cbc3927bd8bd89e829d3f45
+SHA1: 7d4922f186e08492f4b82efd46c05fa0527d03e7
+SHA256: 7bedfdad215cc2642485986c34721b627bd223dbba60eb3dc0b491822515f992
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: OriginalFonts iOS11-12 for BytaFont by Section9
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Original12
+Name: OriginalFonts for BytaFont
+
+Package: com.section9jb.SanamDeklen
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.SanamDeklen.deb
+Size: 2431344
+MD5sum: 0283ee3c747601db08943b5cd972417b
+SHA1: b2afc59c8b4ae202ca58f0463a2651b3f3b2d8c2
+SHA256: df767239138ebeabe11647cebc47c27a748e39a72b78d0d7fd09ef2b29affa43
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: SanamDeklen for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.SanamDeklen
+Name: SanamDeklen for BytaFont
+
+Package: com.section9jb.Sukhumvit7
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Section9 <section9new@gmail.com>
+Filename: ./debs/com.section9jb.Sukhumvit7.deb
+Size: 2379328
+MD5sum: 5bafdb1cf28a0b3e021a78b572a25ad1
+SHA1: 8ffb066e7d06aa6cdcdd9baee604caefece117fb
+SHA256: 96e1316314210174a31fff49b190ce2e998ad230144d79102c151c853fde73b5
+Section: Fonts (BytaFont iOS11-12)
+Homepage: https://www.section9jb.com/
+Description: Sukhumvit7 for BytaFont (iOS11-12) by Miniza
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Sukhumvit7
+Name: Sukhumvit7 for BytaFont
+
+Package: com.section9jb.Anakotmai
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Anakotmai.deb
+Size: 2301840
+MD5sum: 05cff6df5a64e77db2e881fdda210dbf
+Description: Anakotmai for BytaFont (iOS11-12) by Miniza
+Name: Anakotmai for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Anakotmai
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Tletle
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Tletle.deb
+Size: 2452960
+MD5sum: cfcbf3670a14df919d45773e9f3d2456
+Description: Tletle for BytaFont (iOS11-12) by Miniza
+Name: Tletle for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Tletle
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.LIPGOZFollowers
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.LIPGOZFollowers.deb
+Size: 2430852
+MD5sum: 683964fcef86a0cdd36e178de137ea5e
+Description: LIPGOZFollowers for BytaFont (iOS11-12) by Miniza
+Name: LIPGOZFollowers for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.LIPGOZFollowers
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.LIPGOZLekzii
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.LIPGOZLekzii.deb
+Size: 2445860
+MD5sum: af1240a6ad5fe1d634f629eebbc9f995
+Description: LIPGOZLekzii for BytaFont (iOS11-12) by Miniza
+Name: LIPGOZLekzii for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.LIPGOZLekzii
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Lomoor
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Lomoor.deb
+Size: 2435128
+MD5sum: 2b312f7edc0467086de942c6941edbde
+Description: Lomoor for BytaFont (iOS11-12) by Miniza
+Name: Lomoor for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Lomoor
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Neeno1
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Neeno1.deb
+Size: 2367232
+MD5sum: bd3ca7c3d74bc6e93c87d1f6f7ded63c
+Description: Neeno1 for BytaFont (iOS11-12) by Miniza
+Name: Neeno1 for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Neeno1
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Neeno2
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Neeno2.deb
+Size: 2558704
+MD5sum: b3de2a10d0a13bf837710cd45e5b910f
+Description: Neeno2 for BytaFont (iOS11-12) by Miniza
+Name: Neeno2 for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Neeno2
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Neeno3
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Neeno3.deb
+Size: 2599668
+MD5sum: c0518f84a2d1f390ad708c9181ee671c
+Description: Neeno3 for BytaFont (iOS11-12) by Miniza
+Name: Neeno3 for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Neeno3
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Nithan
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Nithan.deb
+Size: 2376668
+MD5sum: c04b087251ab36366fa7b877bd26088e
+Description: Nithan for BytaFont (iOS11-12) by Miniza
+Name: Nithan for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Nithan
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.PeachPlay
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.PeachPlay.deb
+Size: 2338804
+MD5sum: 7d4701436f88c787856b01b0b8551386
+Description: PeachPlay for BytaFont (iOS11-12) by Miniza
+Name: PeachPlay for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.PeachPlay
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.NongAor
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.NongAor.deb
+Size: 2429872
+MD5sum: 476ff4b49d0e8b4e9f47d8ed99c18298
+Description: NongAor for BytaFont (iOS11-12) by Miniza
+Name: NongAor for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.NongAor
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.PSPimpdeed
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.PSPimpdeed.deb
+Size: 2398596
+MD5sum: 6e0eeccf0e0a38b8661113ae4e571156
+Description: PSPimpdeed for BytaFont (iOS11-12) by Miniza
+Name: PSPimpdeed for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.PSPimpdeed
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Wannee
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Wannee.deb
+Size: 2496464
+MD5sum: 3a17b23e19b2caebcc109f04f1571544
+Description: Wannee for BytaFont (iOS11-12) by Miniza
+Name: Wannee for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Wannee
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Wansika
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Wansika.deb
+Size: 2386464
+MD5sum: 620ceb4d9a9316613b28968191e98e34
+Description: Wansika for BytaFont (iOS11-12) by Miniza
+Name: Wansika for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Wansika
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.sf+sukhumvit
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.sf+sukhumvit.deb
+Size: 2355272
+MD5sum: 20b39c3e35e22fd4bdd194acfc144e96
+Description: San francisco(EN) / Sukhumvit(TH) for BytaFont (iOS11-12) by Miniza
+Name: Sf+Sukhumvit for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.sfsukhumvit
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.tLUhuatoo0
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.tLUhuatoo0.deb
+Size: 2470744
+MD5sum: 18d437d8525f58f8285a33b69ce2ca1b
+Description: tLUhuatoo0 for BytaFont (iOS11-12) by Miniza
+Name: tLUhuatoo0 for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.tLUhuatoo0
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.KPlusBypass
+Version: 1.0.0
+Section: Addons
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.KPlusBypass.deb
+Size: 2652
+MD5sum: 18de5ad6e7ae10579a6fb3e3bb58d573
+Description: KPlus Version 5.1.4+ Bypass by Baw_Appie
+Name: KPlusBypass for iOS12
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.KPlusBypass
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Thanapo
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Thanapo.deb
+Size: 2342724
+MD5sum: 8d8f748196881646b1b8ef6124010064
+Description: Thanapo for BytaFont (iOS11-12) by Miniza
+Name: Thanapo for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Thanapo
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.RSUOriginal
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.RSUOriginal.deb
+Size: 2591088
+MD5sum: 9f38fae5d796c190abfc88cbad1c0dab
+Description: RSUOriginal for BytaFont (iOS11-12) by Miniza
+Name: RSUOriginal for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.RSUOriginal
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Eakkamai
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Eakkamai.deb
+Size: 2319312
+MD5sum: a7b69e0a8b2d6fb71beb37eaec30d35b
+Description: Eakkamai for BytaFont (iOS11-12) by Miniza
+Name: Eakkamai for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Eakkamai
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.BytaFontsThaiPack
+Version: 1.0.0
+Section: Fonts (BytaFont TweakMode)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.BytaFontsThaiPack.deb
+Size: 536248
+MD5sum: f4ee8f26198fd4b7a7974ea08b182aee
+Description: BytaFontsThaiPack for BytaFont (TweakMode) by Miniza
+Name: BytaFonts Thai Pack
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.BytaFontsThaiPack
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.LittleStat0506
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.LittleStat0506.deb
+Size: 2393488
+MD5sum: c7f97f5f675dd8991393d1b81872a2af
+Description: LittleStat0506 for BytaFont (iOS11-12) by Miniza
+Name: LittleStat0506 for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.LittleStat0506
+Homepage: https://www.section9jb.com/
+
+Package: com.section9jb.Mali
+Version: 1.0.0
+Section: Fonts (BytaFont iOS11-12)
+Maintainer: Section9 <section9new@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.section9jb.Mali.deb
+Size: 2344164
+MD5sum: e97fac76c1e90e1dc9cc1b9ce5162705
+Description: Mali for BytaFont (iOS11-12) by Miniza
+Name: Mali for BytaFont
+Author: Section9 <section9new@gmail.com>
+Depiction: https://repo.section9jb.com/depictions/?p=com.section9jb.Mali
+Homepage: https://www.section9jb.com/

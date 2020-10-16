@@ -1,0 +1,32 @@
+Package: com.seriousm4x.batteryxii
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: SeriousM4x
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.seriousm4x.batteryxii.deb
+Size: 394280
+MD5sum: a3229d35aaa651dd7314a15655f38a45
+SHA1: bbe47d117ecd15f2f1bd041622f57c400346247f
+SHA256: b6a353e0c7aac13ce327d917b2566506168b9b9e8edfd731da0387fef5f1e711
+Section: Themes
+Description: Apple pencil like battery status
+Author: SeriousM4x
+Depiction: https://seriousm4x.github.io/repo/depictions/?p=com.seriousm4x.batteryxii
+Name: BatteryXII for XenHTML
+
+Package: com.seriousm4x.swipeup
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: SeriousM4x
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.seriousm4x.swipeup.deb
+Size: 1752
+MD5sum: 97ad84e70db7106f5b42694ce20cd3cd
+SHA1: 1d1041f30a2bb312026c32282475735e05092bb1
+SHA256: 0e4fd33a532384a03d679c7c86bfd1fc019bb4d0f30e90b93bbf6f0fe93101e2
+Section: Themes
+Description: Puts a little "swipe up to unlock" badge to your lockscreen
+Author: SeriousM4x
+Depiction: https://seriousm4x.github.io/repo/depictions/?p=com.seriousm4x.swipeup
+Name: SwipeUp for XenHTML
+

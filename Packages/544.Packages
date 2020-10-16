@@ -1,0 +1,16 @@
+Package: com.noctisglasesy3z.trpmod
+Filename: Files/noctisglases/com.noctisglasesy3z.trpmod_4.0.0-1_iphoneos-arm.deb
+Name: Noctis Glasses
+Version: 4.0.0-1
+Section: Tweaks
+Priority: optional
+Depends: com.laughingquoll.noctis, ws.hbang.common
+Architecture: iphoneos-arm
+Description: [ADDED iOS 10 Noctis 1.6.2-1.9.0.2 Support] Noctis Glasses is an additional free Addon for Noctis! It can be used without the 'DarkMode' but to install this Add-On you must purchase Noctis first. This Add-On (when enabled) turns off the blur from Dock, Notifications, Widgets, Spotlight Search, Folder Icons, 3D Touch, Dialer, Call Screen so Noctis has a clean look on your iDevice. (Added all three modes to Widgets, Dock.. etc)
+Homepage: https://twitter.com/y3z0n 
+Author: Y3Z0N <jasonbreezy@icloud.com>
+Maintainer: Y3Z0N <jasonbreezy@icloud.com>
+Size: 114878
+MD5sum: c13e8d4095aa4c124eec62b7148379ec
+
+

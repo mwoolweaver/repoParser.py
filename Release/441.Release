@@ -1,0 +1,9 @@
+Origin: rudikelly's repo
+Label: rudikelly's repo
+Suite: stable
+Version: 1.0
+Codename: rudikelly
+Architectures: iphoneos-arm
+Components: main
+Description: rudikelly's cydia repo
+MD5Sum:

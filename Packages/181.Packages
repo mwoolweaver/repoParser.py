@@ -1,0 +1,128 @@
+Package: com.fiercedeity-productions.battery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
+Filename: deb/battery-1.0.0.deb
+Size: 70228
+MD5sum: 6ee2fd49f3cb06a10dc8fa82b9722221
+SHA1: 07bda4a64e0f8fd2e1902a0647dc47807d5b894d
+SHA256: 6b0062989bf7f0f1960fe4cf7a6fdcc48e40406c7fc7483c78d6935395487c3e
+Section: Lockscreen
+Homepage: http://fiercedeity-productions.github.io/repo
+Description: Minimalistic battery display.
+Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo/package?battery
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png
+Name: Battery
+
+Package: com.fiercedeity-productions.battery
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
+Filename: deb/battery-1.0.1.deb
+Size: 70236
+MD5sum: c4a7f71a198e11acab05fcbfb30f61eb
+SHA1: 4366424234b1c026ba85dee8774b510ccfebdbee
+SHA256: 823ea0468c2e1cfa71d50df2a6c1f036a686097f719ed5e3ee02267066105cc0
+Section: Lockscreen
+Homepage: http://fiercedeity-productions.github.io/repo
+Description: Minimalistic battery display.
+Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo/package?battery
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png
+Name: Battery
+
+Package: com.fiercedeity-productions.iridium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
+Filename: deb/iridium-1.0.0.deb
+Size: 225436
+MD5sum: a514cb0dc14fecda495ac6d18ba28cfd
+SHA1: 5313665b989384ef3589e63141f9a949f5c93a31
+SHA256: 5c629a558258e9ab7f46d972c159bef3945821d6eebdbf81b4c1382b04976a2c
+Section: Lockscreen
+Homepage: http://fiercedeity-productions.github.io/repo
+Description: The most beautiful lockscreen clock
+ The most beautiful lockscreen clock you'll ever come across.
+ Make your lockscreen beautiful with this minimalistic and customizable lockscreen clock -- complete with a weather display and date, perfectly typeset and optimized for quick glancing, and available completely for free!
+Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo/package?iridium
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png
+Name: Iridium
+
+Package: com.fiercedeity-productions.iridium
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
+Filename: deb/iridium-1.0.1.deb
+Size: 299040
+MD5sum: 9fecf927b1a5bd7f354190e6ab07298b
+SHA1: 6f70b7b3c5f572f8f641ef3c128f6de6bcfacf01
+SHA256: d4309adffbbf62456ef967ca3d6b70fd022b71dba6fa870002fdfb66dff1de4b
+Section: Lockscreen
+Homepage: http://fiercedeity-productions.github.io/repo
+Description: The most beautiful lockscreen clock
+ The most beautiful lockscreen clock you'll ever come across.
+ Make your lockscreen beautiful with this minimalistic and customizable lockscreen clock -- complete with a weather display and date, perfectly typeset and optimized for quick glancing, and available completely for free!
+Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo/package?iridium
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png
+Name: Iridium
+
+Package: com.fiercedeity-productions.repoicons
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Filename: deb/repoicons-1.0.0.deb
+Size: 3252
+MD5sum: 24016b3014da019a777ed5e6cba71975
+SHA1: 539d48d4fdc738f6c06b8274a033e03f0e5f4d72
+SHA256: e3f680482c4ba59e3ea06df9eb26f926f5b1549d1451526d5e67cb7b10230fe2
+Section: Miscellaneous
+Homepage: http://fiercedeity-productions.github.io/repo
+Description: Repository Icons
+Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo/package?icons
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo.png
+Name: James Yu's Repo Icons
+
+Package: com.junesiphone.xeninfo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: deb/xeninfo-1.0.deb
+Size: 25334
+MD5sum: 3d77cd0825a650114d5c0d6a40993d91
+SHA1: e1042990757416e3a088ec56e8ed49621eeb3fcf
+SHA256: 0e168d3838e079cecada191b3b8d11707dd7c2d428c457780b862af924ff507c
+Section: Addons (Tweaks)
+Description: Music, Weather, and battery info for XenHTML
+Tag: cydia::paid
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/xeninfo
+Name: XenInfo
+
+Package: com.junesiphone.xeninfo
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: Junes <junesgraphics@gmail.com>
+Installed-Size: 564
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: deb/xeninfo-2.0.6.deb
+Size: 115132
+MD5sum: 3a7c9ec94aa18b008d187af6146a7a2f
+SHA1: b501c4825ac1258691f8aed7673b42b4c1764539
+SHA256: 22321cac6cd87e64044156552ad7c0ce1fc4951f51cd447b00edea5e6efe9ef1
+Section: Addons (Tweaks)
+Description: Music, Weather, and battery info for XenHTML
+Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
+Depiction: https://fiercedeity-productions.github.io/repo/package?xeninfo
+Name: XenInfo
+

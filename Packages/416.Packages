@@ -1,0 +1,33 @@
+Package: com.kurrtandsquiddy.powerup
+Version: 1.1
+Section: Tweaks
+Maintainer: Kurrt, Squiddy
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, grep
+Architecture: iphoneos-arm
+Filename: ./debs/com.kurrtandsquiddy.powerup_1.1_iphoneos-arm.deb
+Size: 90408
+Installed-Size: 708
+MD5sum: c1ab596ed1aa8d18df253c8ef9ce8628
+Description: Speed up charging.
+Name: PowerUp
+Author: Kurrt, Squiddy
+Homepage: https://kurrt.com/repo/PowerUp/
+Depiction: https://kurrt.com/repo/PowerUp/
+Icon: https://kurrt.com/repoassets/img/powerup.png
+
+Package: com.squidkingdom.bop
+Version: 1.0
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.squidkingdom.bop_1.0_iphoneos-arm.deb
+Size: 26086
+Installed-Size: 312
+MD5sum: f41f5f33e94fcb1c8b5d7c33285bbc36
+Description: Control music on your device using the hardware buttons.
+Name: Bop
+Author: Brady Holland <oskiekid@gmail.com>
+Homepage: https://repo.squidkingdom.com/depictions/bop.html
+Depiction: https://repo.squidkingdom.com/depictions/bop.html
+Icon: https://repo.squidkingdom.com/depictions/build/Icon-Small@3x.png
+

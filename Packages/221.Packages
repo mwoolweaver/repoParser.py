@@ -1,0 +1,224 @@
+Package: net.nerd.iNDS
+Version: 1.10.5
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 25242
+Filename: debs/net.nerd.iNDS_1.10.5_iphoneos-arm.deb
+Size: 8450944
+MD5sum: dd52692b96d0a7404a2c2bbf245931c4
+SHA1: 9e7f3260b76fd9ff368729a8f9b190ceadf17c41
+SHA256: c6363a8816122da832f0e5a0f3f3c5c6df8c185a27ea709e986ff4f5d62cab88
+
+Package: net.nerd.iNDS
+Version: 1.10.4
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 25242
+Filename: debs/net.nerd.iNDS_1.10.4_iphoneos-arm.deb
+Size: 8450784
+MD5sum: 8c8069ede803b04f8cc0016bf8b83915
+SHA1: ad193796e6fb8067c3b7794b6913e8f49b704cdb
+SHA256: d3c600e66a33ebe65072eebb4bd8bc17ca29af7d740315e0acdf4626ea1f7f2e
+
+Package: net.nerd.iNDS
+Version: 1.10.2
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 59674
+Filename: debs/net.nerd.iNDS_1.10.2_iphoneos-arm.deb
+Size: 15785936
+MD5sum: ada6cbb02f2e89bbff383d92312c6f86
+SHA1: 069ca61db6031547cabdb08f9343d3710df37269
+SHA256: 4e5be1b04672d44dba713763ab5687e2ac49a750a686d828fa11fabab4a9f738
+
+Package: net.nerd.iNDS
+Version: 1.10.1
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 59675
+Filename: debs/net.nerd.iNDS_1.10.1_iphoneos-arm.deb
+Size: 15790024
+MD5sum: 6391c77f1a8888eca04e5ad76678b191
+SHA1: 51446536cbbb937b1cf400ec3821ffcb32f03b0d
+SHA256: 9d969ce4199fb3d6c26ebf722786295ba4e652ebf81178bd07d3dc7a3df43c93
+
+Package: net.nerd.iNDS
+Version: 1.10.0
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 59601
+Filename: debs/net.nerd.iNDS_1.10.0_iphoneos-arm.deb
+Size: 15767464
+MD5sum: 586f8022f0314f4a7898a4049b89783d
+SHA1: a75f139f7c40b6a85c5e8526170101de04a0cf0b
+SHA256: adb9bd83cd108fb62d7ee6495ed0d11af940b8f91c832895ce7a89ff24b332d2
+
+Package: net.nerd.iNDS
+Version: 1.9.2
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 61108
+Filename: debs/net.nerd.iNDS_1.9.2_iphoneos-arm.deb
+Size: 15976872
+MD5sum: 73cc694aa750005e9a2b2c25977d1c92
+SHA1: 39ae857ffb15709e48f866cb75444f35c0c1d5f5
+SHA256: 77bfb99eb40d2e7a71847b281dbcd18cc3a6a49c8f70f4cdb5c98b87228b4b76
+
+Package: net.nerd.iNDS
+Version: 1.9.1
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 61160
+Filename: debs/net.nerd.iNDS_1.9.1_iphoneos-arm.deb
+Size: 15995118
+MD5sum: 77600ccd27074cbe5884424ce3a4e242
+SHA1: c89ad1a8a1d7e93938eb45f0e49e156a18450ec9
+SHA256: 14e16793a831ca88020505dabbe968cea96a426e3cc113f20b74c699a7a6cab0
+
+Package: net.nerd.iNDS
+Version: 1.9.0
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 61160
+Filename: debs/net.nerd.iNDS_1.9.0_iphoneos-arm.deb
+Size: 15995144
+MD5sum: 30174c480de56baec29a32bb21af6cc3
+SHA1: bc670b256544ecd3fb329385df5a7f7c5ebc3392
+SHA256: 3f4e3fe64c7a99893ffc136a3ac65a674714aceaaf350875e0a64ec5b486efef
+
+Package: net.nerd.iNDS
+Version: 1.8.3
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 19001
+Filename: debs/net.nerd.iNDS_1.8.3_iphoneos-arm.deb
+Size: 6608694
+MD5sum: c9890de5e6cbc8aca0351250f7592f6d
+SHA1: 5207bf3f25905a412ac21c08e709792fb176b63c
+SHA256: 9dac8da334a86dcf558e386634c31f73c55e2ae6d8e245e68fbf35eae8c62b86
+
+Package: net.nerd.iNDS
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 19000
+Filename: debs/net.nerd.iNDS_1.8.2_iphoneos-arm.deb
+Size: 6608484
+MD5sum: f09c7fb77b79f50a14d6fb7c8dd12671
+SHA1: c6704cf5b6483deec14f3e97b8e7d5dfdf59862a
+SHA256: 54aeffd12e2b5588c44b129e6330bac4ad9d6d426e657cccdfa29b41ce4d717e
+
+Package: net.nerd.iNDS
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 18999
+Filename: debs/net.nerd.iNDS_1.8.1_iphoneos-arm.deb
+Size: 6605984
+MD5sum: f36067679c2b1ede0d3c4e98228a6f46
+SHA1: ae6f58e956a14784a17fb04a47e204e210972951
+SHA256: 613b8b20d68281bf1238e48a0bdd185a354c26e29b2fdbfb35f829f663947a58
+
+Package: net.nerd.iNDS
+Version: 1.10.3
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 24131
+Filename: debs/net.nerd.iNDS_1.10.3_iphoneos-arm.deb
+Size: 8048376
+MD5sum: 5601a8936f0d3df5230ebc9168bab333
+SHA1: 825346833e936b56e1dad4fbc15ad1daa092d5f5
+SHA256: 021dc07a0698bd0cd6705f7bddcb7a649c89bcd763f43681f24408c7ad73554f
+
+Package: net.nerd.iNDS
+Version: 1.10.6
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 25084
+Filename: debs/net.nerd.iNDS_1.10.6_iphoneos-arm.deb
+Size: 8410078
+MD5sum: 295e354f1239235ef148f71bf4312317
+SHA1: 1c5ae80fad609605e6f3a70cb3900d5f84457820
+SHA256: a17f28be91651068b5adfe8aae45af663129467694314876babf57c8daa54ff8
+
+Package: net.nerd.iNDS
+Version: 1.10.7
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Name: iNDS
+Homepage: https://inds.nerd.net
+Author: iNDS Team <inds@nerd.net>
+Section: Games
+Installed-Size: 25084
+Filename: debs/net.nerd.iNDS_1.10.7_iphoneos-arm.deb
+Size: 8410136
+MD5sum: b205abd66963d617681dc8b3bb00e072
+SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
+SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
+

@@ -1,0 +1,17 @@
+Package: io.github.repo.move
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby <super.cat.rabbit@gmail.com>
+Installed-Size: 1
+Depends: mobilesubstrate
+Filename: debs/io.github.repo.move_1.0_iphoneos-arm.deb
+Size: 1024
+MD5sum: 80eac57e5895c45aea9517d0835ac9c3
+SHA1: e813e4024b826c3bf420a76b750b6cb26ada3b43
+SHA256: 229cd1e5a8ba8edaafcfada2b9cdaadfef53743267ac98eb2e5928145865ec58
+Section: 其他
+Description: 请勿安装，源已迁移
+Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
+Depiction: http://apt.sutuplu.com
+Name: 本源已迁移至apt.sutuplus.com
+

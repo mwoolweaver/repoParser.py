@@ -1,0 +1,8 @@
+Origin: Jonas Gessner's Repo
+Label: Jonas Gessner
+Suite: stable
+Version: 1.0
+Codename: JonasGessner
+Architectures: iphoneos-arm
+Components: main
+Description: All sorts of packages by Jonas Gessner and others.

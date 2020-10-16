@@ -1,0 +1,63 @@
+Package: co.shuga.silicatest
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Shuga  <parcility_repotest@shuga.co>
+Depends: firmware (>=10)
+Filename: ./pkg/co.shuga.silicatest.deb
+Size: 830
+MD5sum: d61ead964b3f03717ce5aa115158e79e
+SHA1: 5b5189cae0267949f7ce52a207a4e80229571887
+SHA256: 6921117e8c5e931775a71de7c323015e31988920ed78d052275b30e174b37fdd
+Section: Depiction reference
+Homepage: https://shuga.co/
+Description: Open this package in Sileo or Parcility.
+Author: Shuga  <parcility_repotest@shuga.co>
+Depiction: http://repotest.shuga.co/depiction/web/co.shuga.silicatest.html
+Icon: http://repotest.shuga.co/assets/co.shuga.silicatest/icon.png
+Moderndepiction: http://repotest.shuga.co/depiction/native/co.shuga.silicatest.json
+Name: Sileo Native Depition Test
+Sileodepiction: http://repotest.shuga.co/depiction/native/co.shuga.silicatest.json
+Tags: compatible_min::ios10, compatible_max::ios19, cydia::commercial
+
+Package: co.shuga.silicatest.aboose
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Shuga  <parcility_repotest@shuga.co>
+Depends: firmware (>=10)
+Filename: ./pkg/co.shuga.silicatest.aboose.deb
+Size: 838
+MD5sum: 5b6eaf4e8317db5ed01203b424a11c31
+SHA1: 156a1675b0919b4bf4d6fef2011e8707cf216703
+SHA256: f269659aa4c6dd5034bd3d314e660e1dd0fdf099369097642b49df16f4ad92fc
+Section: Depiction reference
+Homepage: https://shuga.co/
+Description: Open this package in Sileo or Parcility.
+Author: Shuga  <parcility_repotest@shuga.co>
+Depiction: http://repotest.shuga.co/depiction/web/co.shuga.silicatest.aboose.html
+Icon: http://repotest.shuga.co/assets/co.shuga.silicatest.aboose/icon.png
+Moderndepiction: http://repotest.shuga.co/depiction/native/co.shuga.silicatest.aboose.json
+Name: Native Depition Abuse
+Sileodepiction: http://repotest.shuga.co/depiction/native/co.shuga.silicatest.aboose.json
+Tags: compatible_min::ios10, compatible_max::ios19, cydia::commercial
+
+Package: co.shuga.silicatest.abooseTab
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Shuga  <parcility_repotest@shuga.co>
+Depends: firmware (>=10)
+Filename: ./pkg/co.shuga.silicatest.abooseTab.deb
+Size: 850
+MD5sum: b4c8622137291bf75745dfb79e9e146f
+SHA1: 49e1e31af8c1288932499f1e5d8ceabf2e243db0
+SHA256: 4f90cd98dbea6057e89c53c37b68eb41fa6e8e75d8cb5f9e0a32374407559448
+Section: Depiction reference
+Homepage: https://shuga.co/
+Description: Open this package in Sileo or Parcility.
+Author: Shuga  <parcility_repotest@shuga.co>
+Depiction: http://repotest.shuga.co/depiction/web/co.shuga.silicatest.abooseTab.html
+Icon: http://repotest.shuga.co/assets/co.shuga.silicatest.abooseTab/icon.png
+Moderndepiction: http://repotest.shuga.co/depiction/native/co.shuga.silicatest.abooseTab.json
+Name: Native Depition Abuse (but with tabs)
+Sileodepiction: http://repotest.shuga.co/depiction/native/co.shuga.silicatest.abooseTab.json
+Tags: compatible_min::ios10, compatible_max::ios19, cydia::commercial
+

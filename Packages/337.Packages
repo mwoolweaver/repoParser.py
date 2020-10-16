@@ -1,0 +1,50 @@
+Package: com.onelesslagger.mojistatus
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: OneLessLagger
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.onelesslagger.mojistatus_1.0-5_iphoneos-arm.deb
+Size: 27346
+MD5sum: d664c68a5a9107480120e90560741c97
+SHA1: c9b52a822390e11b4008048927a302de5c4cbfdb
+SHA256: 616c52a67ec6c348581efb72c3582a6b8a8cd63211e50d0aa1e7e4fea0a5fb37
+Section: Tweaks
+Description: Customize statusbar text with emojis or custom text!
+Author: OneLessLagger
+Depiction: https://onelesslagger.github.io/repo/depictions/?p=com.onelesslagger.mojistatus
+Name: MojiStatus
+
+Package: com.onelesslagger.mojistatus
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: OneLessLagger
+Installed-Size: 336
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis, preferenceloader
+Filename: ./debs/com.onelesslagger.mojistatus_1.1_iphoneos-arm.deb
+Size: 30148
+MD5sum: 0c80bbd7c07f9d3224c0a25ad8b00ad2
+SHA1: 2d4e44bd0f0cc729505d7743d1420521fcc0d71a
+SHA256: 8e84151cc22329168275b209a41ce444378ebb629493d73f39869a253bbe68c9
+Section: Tweaks
+Description: Customize statusbar text with emojis or custom text!
+Author: OneLessLagger
+Depiction: https://onelesslagger.github.io/repo/depictions/?p=com.onelesslagger.mojistatus
+Name: MojiStatus
+
+Package: com.onelesslagger.percentnotify
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: OneLessLagger
+Installed-Size: 348
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis, preferenceloader, net.limneos.libbulletin
+Filename: ./debs/com.onelesslagger.percentnotify_1.0.0_iphoneos-arm.deb
+Size: 37994
+MD5sum: 5093723ae0754826c1e732b6f1c6f89b
+SHA1: ae0fe51b3259e9a407d1d001826f30a54253c801
+SHA256: 1927f0291fd5ad14be111f027b5ca7741308bb4a4c4f83bd9429a6ea12c89f29
+Section: Tweaks
+Description: Customize to receive battery alerts for your iPhone or AirPod.
+Author: OneLessLagger
+Name: PercentNotify
+

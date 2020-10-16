@@ -1,0 +1,28 @@
+Architecture: iphoneos-arm
+Author: iPhonConcept
+Depiction: http://iphonconcept.com/repo/depiction/?package=com.yourepo.jerem10.iphonconcept
+Description: Thème compatible iPhone 4,4s,5,5s,6,6s,6+,6s+ iPad et iPod ( Marche avec le tweak iconBundles gratuit sur la source de Bigboss ) à activer dans Winterboard ou Anemone
+Filename: ./debs/iphonconcept_iphoneos-arm.deb
+MD5sum: 2b8dcb8aafcd72c01159a7e127bd2049
+Name: iPhonConcept
+Package: com.yourepo.jerem10.iphonconcept
+SHA1: 34c04dbce5c7962f3c70c2b23b6fff9d8bf81199
+SHA256: dd22b3fcdb21e499b63ad9665ee47267506ff19d9ffbad3cef16c155637167ed
+Section: Themes
+Size: 3228146
+Version: 1.1
+
+Architecture: iphoneos-arm
+Author: iPhonConcept
+Depiction: http://iphonconcept.com/repo/depiction/?package=com.yourepo.jerem10.iphonconcept-zeppelin
+Description: Marche avec le tweak Zeppelin ( gratuit sur la source de Bigboss ) remplace le logo de votre opérateur par celui du site iPhonConcept
+Filename: ./debs/iphonconcept-zeppelin_iphoneos-arm.deb
+MD5sum: a721dbd43fd1f54d72a77f73685b2d85
+Name: iPhonConcept-Zeppelin
+Package: com.yourepo.jerem10.iphonconcept-zeppelin
+SHA1: 44a8ed7bc6ca4f6d4fa827004612ce72630c23b1
+SHA256: 6af5f323eb73a3b5e52644d32956c213c068a5c10fb1346c46228e4aa24d91ea
+Section: Themes
+Size: 3852
+Version: 1.0
+

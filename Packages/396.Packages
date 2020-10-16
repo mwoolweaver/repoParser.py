@@ -1,0 +1,128 @@
+Package: ca.menushka.faceidforhiddenphotos
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 200
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: /package/ca.menushka.faceidforhiddenphotos.deb
+Size: 5068
+MD5sum: 95d90b268d15476a0b8f85ff5ed23f6b
+SHA1: 24eabfa8572f682609edafd432ddfd03dc7c2ccc
+SHA256: 3e21e5bd9872f5f200bcf04987fb45e92e47fcdfe24a8c19cfd8b0f1d7ba2039
+Section: Tweaks
+Homepage: https://menushka.ca
+Description: Secure your hidden photos with Face ID
+Author: Menushka Weeratunga
+Depiction: https://repo.menushka.ca/depictions/ca.menushka.faceidforhiddenphotos.html
+Icon: https://repo.menushka.ca/assets/ca.menushka.faceidforhiddenphotos/icon.png
+Moderndepiction: https://repo.menushka.ca/depictions/ca.menushka.faceidforhiddenphotos.json
+Name: FaceID For Hidden Photos
+Sileodepiction: https://repo.menushka.ca/depictions/ca.menushka.faceidforhiddenphotos.json
+
+Package: ca.menushka.hideyourapps
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 328
+Depends: mobilesubstrate, applist, ws.hbang.common (>= 1.13), ca.menushka.menushkaprefs
+Filename: /package/ca.menushka.hideyourapps.deb
+Size: 30892
+MD5sum: 2639323098f7a4819fa03859d3bdb440
+SHA1: fa678428fd63b8579e6d6e0ed79bf096f8ee7379
+SHA256: f062dce229bca2347118276553464301ec42a59264a2c4fd44dcf4163a4a3a29
+Section: Tweaks
+Homepage: https://menushka.ca
+Description: Hide apps on your springboard
+Author: Menushka Weeratunga and Blake Boxberger
+Depiction: https://repo.menushka.ca/depictions/ca.menushka.hideyourapps.html
+Icon: https://repo.menushka.ca/assets/ca.menushka.hideyourapps/icon.png
+Moderndepiction: https://repo.menushka.ca/depictions/ca.menushka.hideyourapps.json
+Name: HideYourApps
+Sileodepiction: https://repo.menushka.ca/depictions/ca.menushka.hideyourapps.json
+
+Package: ca.menushka.menushkaprefs
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader, firmware (<< 12.0) | preferenceloader (>> 2.2.3), com.rpetrich.rocketbootstrap
+Filename: /package/ca.menushka.menushkaprefs.deb
+Size: 55984
+MD5sum: 2d2e3cdf70829bd6652023a8929a512a
+SHA1: 82bebd359a8f849188db752579fd742a1c0cb814
+SHA256: 649dbdb0a66849a25478e7a6f406f096c4f95b5ef5ef436db2e2e18c8babe1e5
+Section: System
+Homepage: https://menushka.ca
+Description: A library for preferences in all my tweaks
+Tag: role::developer
+Author: Menushka Weeratunga
+Depiction: https://repo.menushka.ca/depictions/ca.menushka.menushkaprefs.html
+Icon: https://repo.menushka.ca/assets/ca.menushka.menushkaprefs/icon.png
+Moderndepiction: https://repo.menushka.ca/depictions/ca.menushka.menushkaprefs.json
+Name: MenushkaPrefs
+Sileodepiction: https://repo.menushka.ca/depictions/ca.menushka.menushkaprefs.json
+
+Package: ca.menushka.notificationsync
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 504
+Depends: mobilesubstrate, applist, ca.menushka.menushkaprefs (>= 1.2.2), net.limneos.libbulletin
+Filename: /package/ca.menushka.notificationsync.deb
+Size: 46524
+MD5sum: 2d2f633a6179c3a978af97c0a0ed8a3e
+SHA1: f1e739842eb93f180a5b5dfe99eafbd2527913ca
+SHA256: 7cb68ab1918e205d4dca92c233fa777483f20e69de9157a2058110f5a834d995
+Section: Tweaks
+Homepage: https://menushka.ca
+Description: Send your iOS notifications to your desktop
+Tag: cydia::commercial
+Author: Menushka Weeratunga
+Depiction: https://repo.menushka.ca/depictions/ca.menushka.notificationsync.html
+Icon: https://repo.menushka.ca/assets/ca.menushka.notificationsync/icon.png
+Moderndepiction: https://repo.menushka.ca/depictions/ca.menushka.notificationsync.json
+Name: NotificationSync
+Sileodepiction: https://repo.menushka.ca/depictions/ca.menushka.notificationsync.json
+
+Package: ca.menushka.onenotify
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 496
+Depends: mobilesubstrate, applist, ca.menushka.menushkaprefs (>= 1.2.2)
+Filename: /package/ca.menushka.onenotify.deb
+Size: 23636
+MD5sum: 3a7508d7e93722801d98a37441858d5c
+SHA1: b94e38e3aa9f836c8e0831d81df5f06b35ccbce3
+SHA256: 4307484db601fee7705843efd7d4827200676e1209b033e8196612b9098e0436
+Section: Tweaks
+Homepage: https://menushka.ca
+Description: Always see your notification on your lockscreen
+Author: Menushka Weeratunga
+Depiction: https://repo.menushka.ca/depictions/ca.menushka.onenotify.html
+Icon: https://repo.menushka.ca/assets/ca.menushka.onenotify/icon.png
+Moderndepiction: https://repo.menushka.ca/depictions/ca.menushka.onenotify.json
+Name: OneNotify
+Sileodepiction: https://repo.menushka.ca/depictions/ca.menushka.onenotify.json
+
+Package: ca.menushka.spinthatrecord
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Installed-Size: 332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), ca.menushka.menushkaprefs
+Filename: /package/ca.menushka.spinthatrecord.deb
+Size: 23988
+MD5sum: a386b14541c9c8c9385a73d409f649f2
+SHA1: 239fbd2200127712159db92df533591daa8a4d2e
+SHA256: 9ac84fcb5ff73a43af18a2ab4a4258afdec0b96da6dc975b804df8271202105b
+Section: Tweaks
+Homepage: https://menushka.ca
+Description: Make your Spotify album art transform into a spinning record
+Author: Menushka Weeratunga
+Depiction: https://repo.menushka.ca/depictions/ca.menushka.spinthatrecord.html
+Icon: https://repo.menushka.ca/assets/ca.menushka.spinthatrecord/icon.png
+Moderndepiction: https://repo.menushka.ca/depictions/ca.menushka.spinthatrecord.json
+Name: SpinThatRecord
+Sileodepiction: https://repo.menushka.ca/depictions/ca.menushka.spinthatrecord.json
+

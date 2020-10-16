@@ -1,0 +1,7 @@
+Origin: Burrit0z Beta Repository
+Label: Burrit0z Beta Repository
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Beta Repository for Burrit0z tweaks

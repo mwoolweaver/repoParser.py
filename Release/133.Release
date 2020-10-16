@@ -1,0 +1,17 @@
+Origin: iOS WebStack
+Label: iOS WebStack
+Suite: stable
+Version: 2.0.5
+Architectures: iphoneos-arm
+Components: main
+Description:- The One Tap Solution -
+Date: Sat, 12 Sep 2015 19:40:59 UTC
+MD5Sum:
+ 7c2e16509b8c33f1185872e083636330           105858 Packages
+ 736de35918ba774b1a62f127e14354b8            24353 Packages.gz
+SHA1:
+ 57c29df5ecc15b94faf7556ac63059873fb5643b           105858 Packages
+ 86f96a0163514c4d5df46f9ecf5c42276b4b73e2            24353 Packages.gz
+SHA256:
+ f37e40273ff9eb5446364454b8c485e79172c0734c415914cd19289e3e173ffb           105858 Packages
+ 8ddb9be42203e24cb0311a44aea5c5c323f317c8a927391a3f3acbb4dafe0a83            24353 Packages.gz

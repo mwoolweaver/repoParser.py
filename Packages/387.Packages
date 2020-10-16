@@ -1,0 +1,1152 @@
+Package: dev.eskimo.binarypasscode
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.0.1_iphoneos-arm.deb
+Size: 42112
+Installed-Size: 460
+MD5sum: 7a628f607e9a756ffeb6bf5a465128ce
+SHA256: 73e8bbdf3ad92b840d99cf40cebe7ab4f6e957edc07d02030586493644afe788
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryPasscode
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.0.2_iphoneos-arm.deb
+Size: 44858
+Installed-Size: 460
+MD5sum: b9deeb7656e71953c5861d0d059641ce
+SHA256: 5be041cd49b7ac643d421748dc536e66cfabc531c6e673e7f41fea99d7115226
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryNumpad
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.0.5_iphoneos-arm.deb
+Size: 34972
+Installed-Size: 460
+MD5sum: 19e6e9a3e11b5d2d8944fd1771decea9
+SHA256: b34a2efbeb97e5979969d296f0feb612fc80bebe744fdf18d3d685e945a00e9f
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryNumpad
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.2_iphoneos-arm.deb
+Size: 318698
+Installed-Size: 724
+MD5sum: 422eb94d0323461d9b8a96616e31e63b
+SHA256: 142fe7fcd9eb1c68dbd74bda87bcebaaa872517e3525939a4bd2a9fbedf348f5
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryNumpad
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.2.1_iphoneos-arm.deb
+Size: 317762
+Installed-Size: 724
+MD5sum: 6e40f29d1280ebdb801d8409ebd043e8
+SHA256: e98f41e8fd3e62211699647e8d1bc057a5012fe2519b3f2a3c6ef2dee531d593
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryNumpad
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.0.0_iphoneos-arm.deb
+Size: 8188
+Installed-Size: 200
+MD5sum: 7470a5ee3e840edb8219a82ed7bb11af
+SHA256: da98e739cf2fea53dd9eb5266e3d9ea1d56278e99a1788a0c2af9c25c0785f88
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryPasscode
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.1_iphoneos-arm.deb
+Size: 35384
+Installed-Size: 460
+MD5sum: 3d41a69d53ec6df04bd638228d49905a
+SHA256: 17051405010c670ab32b43f7411b702e151a69b172824dcd2b7d5f58b0ee9e4b
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryNumpad
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.3_iphoneos-arm.deb
+Size: 319758
+Installed-Size: 728
+MD5sum: 9114a1b1718105a63b5800c828d08ee8
+SHA256: a26312b280bbe128f183c4245edb18b7e2cc5219f6ad088d6aa94b15d2a34905
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryNumpad
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.binarypasscode
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.binarypasscode_1.0.4_iphoneos-arm.deb
+Size: 46050
+Installed-Size: 460
+MD5sum: 49075ad0332d5692128b8662ac49fd0b
+SHA256: 1eac45bb779744a3ab5165e50df4072be47d5f5bbd8ab8fca2787903f348c9f2
+Description: Replace passcode button numbers with pretty dots
+Name: BinaryNumpad
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.binarypasscode
+
+Package: dev.eskimo.codescrambler12
+Version: 1.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.codescrambler12_1.1_iphoneos-arm.deb
+Size: 36794
+Installed-Size: 460
+MD5sum: 748a3aff7ee71123cea388e8f5702305
+SHA256: 34e8c9c80aebd08c8e9e6c81b738f9c6fe1ed85e3483860f1c2e7b215dc823ae
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-12)
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.codescrambler12
+
+Package: dev.eskimo.codescrambler12
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.codescrambler12_1.2.1_iphoneos-arm.deb
+Size: 318116
+Installed-Size: 724
+MD5sum: 43f5d310188e01435d650b40f64af4d5
+SHA256: 770fa3662b728b9eb3346ecbff24ffbd7062faa97a2bf24492903013a2f4f411
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-13)
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.codescrambler12
+
+Package: dev.eskimo.codescrambler12
+Version: 1.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.codescrambler12_1.2_iphoneos-arm.deb
+Size: 318174
+Installed-Size: 724
+MD5sum: d0577eea4dbb78dfdbaec3cfb846b9e7
+SHA256: ba682420f776243841fd3bc010b28971df178910c93d0a67e3b941daba85dbab
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-12)
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.codescrambler12
+
+Package: dev.eskimo.codescrambler12
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.codescrambler12_1.0.2_iphoneos-arm.deb
+Size: 46184
+Installed-Size: 460
+MD5sum: 6da8e072851f94cae2707582566d5702
+SHA256: c8b56d64130b3620848f56f253e44e238f2a4e3aad07e7e62db4f0dcdd498043
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-12)
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.codescrambler12
+
+Package: dev.eskimo.codescrambler12
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.codescrambler12_1.0.1_iphoneos-arm.deb
+Size: 46656
+Installed-Size: 460
+MD5sum: 57bfa26b4a8826ff53b0f52e6b8c72d3
+SHA256: 7259e933068dc15f41a74668976319e68901417ff61344b07a9697af8a5e69b2
+Description: Random ordered passcode buttons
+Name: CodeScrambler 12
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.codescrambler12
+
+Package: dev.eskimo.codescrambler12
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 10.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.codescrambler12_1.0.0_iphoneos-arm.deb
+Size: 38904
+Installed-Size: 332
+MD5sum: f703cc953272c0b16dc9cdd13f1b412c
+SHA256: c7f7e92e498598830962e0a4e7b2f83dfc6a9721dd9b23839e37dd4247b16956
+Description: Random ordered passcode buttons
+Name: CodeScrambler 12
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.codescrambler12
+
+Package: dev.eskimo.codescrambler12
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.codescrambler12_1.0.3_iphoneos-arm.deb
+Size: 46174
+Installed-Size: 460
+MD5sum: dc4cb73dee01c122914a6c6307ed531c
+SHA256: 22b8f4df2d263b27e82bd4a462ae08e89b62b0d896044b74271ded6226988e0f
+Description: Random ordered passcode buttons
+Name: CodeScrambler (7-12)
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.codescrambler12
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.1.2_iphoneos-arm.deb
+Size: 70058
+Installed-Size: 504
+MD5sum: a46b5ee1b74141e05a53b414cc970c87
+SHA256: 4fb94a14d76f452793d48ffd458bbc3f19b5c4f91e4bb370cfb5558d4e68878b
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.1.8
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.1.8_iphoneos-arm.deb
+Size: 69774
+Installed-Size: 476
+MD5sum: c7208cef36b42d3cb61510ab1dfa05b7
+SHA256: fe1a6f1cb6578591da0ca6b65c07aa667f2e1c046d6f7f5a5eb77269e34c9f96
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.0.0_iphoneos-arm.deb
+Size: 68076
+Installed-Size: 504
+MD5sum: 3965c1dffef107e0cf492ff892a35e09
+SHA256: afaa18fbb477f2eeb7cb7e70f50eb8762932ede27841132007d520600335b517
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.2_iphoneos-arm.deb
+Size: 52840
+Installed-Size: 480
+MD5sum: 70d9a9512f5c8d4105b66640b7299c13
+SHA256: 11334f8b3dd5ad0420df67a30f4884c4e0afcf3b18ad3afabebcbc23f13abffe
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.7
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.7_iphoneos-arm.deb
+Size: 320902
+Installed-Size: 872
+MD5sum: e735b7f93ec77a2426f6767ba49b4eec
+SHA256: 971bf19036010e7c2d85a05c7cfe74c6993dc8d4780262e97e91adc413501d25
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.6
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.6_iphoneos-arm.deb
+Size: 320618
+Installed-Size: 872
+MD5sum: 6e5ee5f91c4b91d5335fe15ec32c14a0
+SHA256: 3b89492ed1abe9a124c9d7cc3da9dd2ff202f328f4fa636899d2c296faa7f556
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.1.7
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.1.7_iphoneos-arm.deb
+Size: 68040
+Installed-Size: 476
+MD5sum: 0efe6b592faffb877569175e4dd6c7b7
+SHA256: 079d8ba1d8c54192659b5a1901bc3ab63471e16f631dd991db27cfdbffea86cb
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.4.1_iphoneos-arm.deb
+Size: 58454
+Installed-Size: 752
+MD5sum: 61c87a68fe8d8c70e6d45867ed2ae844
+SHA256: 6688b570f2ea252a4d415b3afc932e86def03fdcb86ec97786bf3bedfc11ae5d
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.0.3_iphoneos-arm.deb
+Size: 68014
+Installed-Size: 504
+MD5sum: eb03a4c5c85e649bdb902e22d8013855
+SHA256: 49b7b9196f132c9710a1ca9b869c7f873282fb39f2a4126330e73d0ec546c760
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.6.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.6.1_iphoneos-arm.deb
+Size: 320558
+Installed-Size: 872
+MD5sum: 97c5029988a3c97c67f672420414e54a
+SHA256: 8b6bc7621f615f0013a2d04f4acd73f44903f7c4ac733f5dcc93b179383cc5f3
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.1_iphoneos-arm.deb
+Size: 68478
+Installed-Size: 504
+MD5sum: b188da18d52fd9675033f5016055afb0
+SHA256: 7f591c7e6b287d1aa92bda3ae7225e4f91b16e741e5280e0f6990fb8478080a8
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.8
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.8_iphoneos-arm.deb
+Size: 321554
+Installed-Size: 872
+MD5sum: 5e2e71d774c062f9495e90eef1923e42
+SHA256: c1e0d3d89665eba25f7ec331832f340bc3976b4b2ab93abcfd4cb160eda44264
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.0.2_iphoneos-arm.deb
+Size: 68106
+Installed-Size: 504
+MD5sum: e43d82fbaf2d2ee02c99925d0611503e
+SHA256: ca817bf9a78a33433489e8fdbb6ffeff6253b542a7c43670d7fe9d19d500d710
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.3_iphoneos-arm.deb
+Size: 58146
+Installed-Size: 752
+MD5sum: 12b3ddf6f5583dee1c6e7edf631d6b13
+SHA256: 66268e86a633ccc0cccb943b61631c213e25f04878a3b2fc8a323bcffcf80c2c
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.5
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.5_iphoneos-arm.deb
+Size: 59172
+Installed-Size: 752
+MD5sum: 895d0809c1bbf85aa033b253297f2342
+SHA256: 4b914299c93c73b82be51b0b5ad9abe65852f228399cb431354c759be07ffd18
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.1.5_iphoneos-arm.deb
+Size: 70298
+Installed-Size: 536
+MD5sum: ac6dc88911dc1f77e0e01d96285330b3
+SHA256: 4a5ef10c4262a18dfb9f3787010dfe33d0de08358b302955f6aeaf4d928fbfa1
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.1.4_iphoneos-arm.deb
+Size: 70230
+Installed-Size: 536
+MD5sum: 58271b4d6379e4772fd503a053990630
+SHA256: eb902e218961ff159d5591d8440856a618e78f47a98633282a440f6c3197a958
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.4
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.4_iphoneos-arm.deb
+Size: 58478
+Installed-Size: 752
+MD5sum: c561d0e813bb5d3fc4eb157a05f01e1b
+SHA256: c5b87534ae2183f0b1e833e7bd7504a9b0835406543a2b3a3e00d2c4a2b40566
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,libcolorpicker,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.0.1_iphoneos-arm.deb
+Size: 68088
+Installed-Size: 504
+MD5sum: 53cc60be587cce247b32624c8a42e948
+SHA256: ef79c1760c72e3e4f07f7dd1fb94fc4f350ca55fa4947707108fc825133f239a
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homebarmediaprogress
+Version: 1.1.6
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homebarmediaprogress_1.1.6_iphoneos-arm.deb
+Size: 69652
+Installed-Size: 476
+MD5sum: 0ba01bbb3673d6dc6b637e1ff0f1bf75
+SHA256: edf8c0750605f02a9ff757acb4b0d8c9c6d684bf69aa25f2e8eb0d1aa1c8e24d
+Description: Media progress displayed on your Home Bar
+Name: HomeBarMediaProgress
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homebarmediaprogress
+
+Package: dev.eskimo.homescreenappsettings
+Version: 1.0
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 10.1.1)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homescreenappsettings_1.0_iphoneos-arm.deb
+Size: 7380
+Installed-Size: 140
+MD5sum: b9bb589ae763310ec429100e304d37f4
+SHA256: 40eb73bf4e93c2b8bcc1a7a75225d0e9e12efea9950512ed6025e309958a37a5
+Description: 3D Touch shortcut on homescreen app icons to get to the Settings.app page for that app
+Name: HomeScreenAppSettings
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homescreenappsettings
+
+Package: dev.eskimo.homescreenappsettings
+Version: 1.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 10.1.1)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.homescreenappsettings_1.1_iphoneos-arm.deb
+Size: 8446
+Installed-Size: 140
+MD5sum: b164f1363242c4b6074bca941f506659
+SHA256: 48870ddd7370600ec2e3c44394bc39d541e3f7010dc888222abb68d24ac969ac
+Description: 3D Touch shortcut on homescreen app icons to get to the Settings.app page for that app
+Name: HomeScreenAppSettings
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.homescreenappsettings
+
+Package: dev.eskimo.hyundaibypass
+Version: 1.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.hyundaibypass_1.2_iphoneos-arm.deb
+Size: 3238
+Installed-Size: 200
+MD5sum: afd41d1339a50a854eade52cfb3fb6ef
+SHA256: 2eb58f3d020bc12578df7902a6774efa6899176389aa722eb485c63fedeaf578
+Description: Jailbreak detection bypass for Hyundai apps
+Name: HyundaiBypass
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.hyundaibypass
+
+Package: dev.eskimo.hyundaibypass
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.hyundaibypass_1.0.0_iphoneos-arm.deb
+Size: 2382
+Installed-Size: 136
+MD5sum: abb90c3dfab0457067ed597980c528de
+SHA256: 77a341c617441f142b68b3199bda25348028379d74b36200d7d211b35309d52e
+Description: Jailbreak detection bypass for the MyHyundai app
+Name: HyundaiBypass
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.hyundaibypass
+
+Package: dev.eskimo.hyundaibypass
+Version: 1.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.hyundaibypass_1.1_iphoneos-arm.deb
+Size: 3046
+Installed-Size: 152
+MD5sum: 3fee13734af07e522283b45f0e93fd8f
+SHA256: 3561e00bab29c7b149ee73a0fb813e744d512d79079926156ee3fbc20210814b
+Description: An awesome MobileSubstrate tweak!
+Name: HyundaiBypass
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.hyundaibypass
+
+Package: dev.eskimo.labelless
+Version: 1.0
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 13)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.labelless_1.0_iphoneos-arm.deb
+Size: 2630
+Installed-Size: 168
+MD5sum: 215549c07191868b8b10d63efde85a55
+SHA256: ada262241c5c1c4cb1cdbb47a4077b9404558daa80c177f3e12f8a994de7fdee
+Description: Removes the labels from the buttons on the bottom of any app using UITabBar
+Name: Labelless
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.labelless
+
+Package: dev.eskimo.labelless
+Version: 1.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,firmware(>= 13)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.labelless_1.1_iphoneos-arm.deb
+Size: 2922
+Installed-Size: 168
+MD5sum: 670161dc88c74b6c3319f15e9e2e2036
+SHA256: 3c3a7bdbbb8e4d51383f22552c1fb5dfd65f5288f46725b1ef5726b3f9fd9841
+Description: Removes the labels from the buttons on the bottom of any app using UITabBar
+Name: Labelless
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.labelless
+
+Package: dev.eskimo.shutthefuckupaboutupdatingfrombeta
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.shutthefuckupaboutupdatingfrombeta_1.0.2_iphoneos-arm.deb
+Size: 3396
+Installed-Size: 200
+MD5sum: 8b0f32e5cfa695c8bcd9985a01141cb8
+SHA256: 7cdab79048bc4cafdc08b70f6e5c260c298f79fb50fb9aa4bff35b9ba7c885cf
+Description: Remove beta alerts
+Name: ShutTheFuckUpAboutUpdatingFromBeta
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.shutthefuckupaboutupdatingfrombeta
+
+Package: dev.eskimo.shutthefuckupaboutupdatingfrombeta
+Version: 1.0.0-3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.shutthefuckupaboutupdatingfrombeta_1.0.0-3_iphoneos-arm.deb
+Size: 3184
+Installed-Size: 200
+MD5sum: eea638b3872bd715887013d408aec4c2
+SHA256: dd2b91323520d0861e5927b38004690fe4aebb306986f20b21043aedd1d3a781
+Description: Apple is fucking obnoxious sometimes.
+Name: ShutTheFuckUpAboutUpdatingFromBeta
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.shutthefuckupaboutupdatingfrombeta
+
+Package: dev.eskimo.shutthefuckupaboutupdatingfrombeta
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.shutthefuckupaboutupdatingfrombeta_1.0.1_iphoneos-arm.deb
+Size: 3388
+Installed-Size: 200
+MD5sum: 1c131c97d6b7156f04e895599b4001c2
+SHA256: a1ccdb29f45f4bdcbe5d51d61efc79de7a076e23b139414aafae216dabebdd44
+Description: Apple is fucking obnoxious sometimes.
+Name: ShutTheFuckUpAboutUpdatingFromBeta
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.shutthefuckupaboutupdatingfrombeta
+
+Package: dev.eskimo.t9dialer
+Version: 1.10
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.10_iphoneos-arm.deb
+Size: 325336
+Installed-Size: 656
+MD5sum: 4163775d821e08819fde299185aa7c28
+SHA256: e1cf47234dc4adf076656007c578cc82f7ec1ff7a92683f8b3f9271198f04ce0
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.8.3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.8.3_iphoneos-arm.deb
+Size: 326216
+Installed-Size: 656
+MD5sum: 5bac402b3431243a860fc04ee6062894
+SHA256: 40e30d5d855668fb221133d75261f54750d0375e656d4e04931c58e4b632f34f
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.11.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.11.2_iphoneos-arm.deb
+Size: 325776
+Installed-Size: 656
+MD5sum: fc27ccfa21d3f73c244ff9ff287b5e22
+SHA256: 589513bfb9411f41d27db83f886e68a2d9fdd8efe5a3f1125c97b4623a67ec8c
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.5
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.5_iphoneos-arm.deb
+Size: 43208
+Installed-Size: 392
+MD5sum: 5f10c683599d4f3a227e7a8246e483c7
+SHA256: be9a67b75502d7c52aff55254993c8b9e7e1971eeb9110ad9987759384b412e1
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.8.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.8.1_iphoneos-arm.deb
+Size: 326218
+Installed-Size: 656
+MD5sum: 3b46baf37464e6eb8a6be568b395aa33
+SHA256: c3cbeff60c5671885ca01a8d4918e3ddfa1f981a2baf869705b8dd86d65ac43a
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.4
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.4_iphoneos-arm.deb
+Size: 42578
+Installed-Size: 392
+MD5sum: 37b9713a0508b279d251048ba1ae3846
+SHA256: 330b6891e7ec2f2c87b4219efed19da99c723bdf99feef68d3c43e54a6e70144
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.4.1_iphoneos-arm.deb
+Size: 49438
+Installed-Size: 392
+MD5sum: ffcaf66b2cd6169128f7e441c48d56bc
+SHA256: 6f07ec213fcf39e777fee8dbfd2b91b055a8d55bffe76bae7f5d38ffc576f652
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.3_iphoneos-arm.deb
+Size: 47148
+Installed-Size: 376
+MD5sum: 307f7db3dbdd78dde0b4a071812a3a95
+SHA256: ff0d5af38b14089f5f64230be2434b7817d2859c5a8532c58891d706e8dc41e8
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.14
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.14_iphoneos-arm.deb
+Size: 327096
+Installed-Size: 656
+MD5sum: 9a4a36a5c5dd16deedfa867ec7cc0556
+SHA256: 8df957b06fc65dc2c803c7bba57187bc1554924ae2f60d5bc31da8f5b1de71cc
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.8.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.8.2_iphoneos-arm.deb
+Size: 326226
+Installed-Size: 656
+MD5sum: 074c88fdc8322c0a49b35fc9e45e9115
+SHA256: df49e97339f185f2426138f753a4752d6105289820520b0f25a77fd4b10dbce8
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.9.1_iphoneos-arm.deb
+Size: 324608
+Installed-Size: 656
+MD5sum: 6b1a87eb424335afaa0f8e9fb1b6d63c
+SHA256: 22ca774de81269424af9b18df3a3e368d8d9ef5efbeeec631f1f8efa7e02b5ce
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.6
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.6_iphoneos-arm.deb
+Size: 43538
+Installed-Size: 392
+MD5sum: 4afb22bd7608cc6f81fc2c3ce2e40d89
+SHA256: 8afc65f8368a3bb6f7a8d9f39745fe8b10c74826c1a8795e84fef681e1ac21a4
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.12
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.12_iphoneos-arm.deb
+Size: 326056
+Installed-Size: 660
+MD5sum: 4a4696111e2f926c70d2dbe38f249080
+SHA256: 44cbdd0796507486db3657d91022df8037c3f026bfb9b362c65108c5a48e24ba
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.10.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.10.1_iphoneos-arm.deb
+Size: 325276
+Installed-Size: 656
+MD5sum: 1399d96087b7c28c1aa41d218bd8ee99
+SHA256: 1b30f0d5b9b413a3185f714ba03b4891dc39e54846d2f5de658fa29b26602a69
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.11
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.11_iphoneos-arm.deb
+Size: 325662
+Installed-Size: 656
+MD5sum: 6b09d6f4f3106597a9791dc756c4c71d
+SHA256: 33dfb99ed388bfbe6c76e64bb685f14482e0e380e7c094d2929d92dcd52d78de
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.9.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.9.2_iphoneos-arm.deb
+Size: 324766
+Installed-Size: 656
+MD5sum: 36374359bec3b5c75515e227a6c3cb4f
+SHA256: 37cdcd5de356c9935b72ba59ce9f846d8cc6c04ab688a7cd896a43d1abb47901
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.11.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.11.1_iphoneos-arm.deb
+Size: 325694
+Installed-Size: 656
+MD5sum: b1fa5ea0514769af8f4de2c534cc0d1a
+SHA256: 7707f9a0122ae5e7163f72b67cd9cb07bad9ae5b3e1d4999c19bda17fae3e565
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.3.1_iphoneos-arm.deb
+Size: 47292
+Installed-Size: 376
+MD5sum: d147c4f0be1de4032da755003afaec5b
+SHA256: 1f5bfb631b4d89481fa31dc52617711ca5fe04636c9f26f0711d922ff7eb63f8
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.8
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.8_iphoneos-arm.deb
+Size: 50132
+Installed-Size: 392
+MD5sum: 9ddb3de5928fc7bb2bcd861d155e120a
+SHA256: 13e846a378d39ca60da582fc4e7ab7042a10d5546977a0ef484e73c347d8dddb
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.9
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.9_iphoneos-arm.deb
+Size: 326314
+Installed-Size: 656
+MD5sum: 2ee0695f484a3bf8847d5899ea862305
+SHA256: 3c8c94a913899186435891cf7be4eacd49762403d8b69258e1919189f430353d
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.7
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,me.nepeta.libcolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.7_iphoneos-arm.deb
+Size: 45426
+Installed-Size: 392
+MD5sum: 67d8aee2809e84f459bd505333b4b063
+SHA256: 7c1aee58384f77a3c102e26c46216faaaa1ce5e031b00d5cfcff3b00ce3ba6ac
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11.1.2)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.2_iphoneos-arm.deb
+Size: 21510
+Installed-Size: 140
+MD5sum: 3178be6aa817401151168127beb69d66
+SHA256: ee8a3786716e96b983e4d30fb8404c584fe7a97c322f692c870f2bba28cb0252
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.3.3_iphoneos-arm.deb
+Size: 49938
+Installed-Size: 376
+MD5sum: 31487451e29e084928a0c9140bc63ebc
+SHA256: 55ed5026d4436d0bdab95ab691af0d46637b0009c98fa41bb114f84210c4f5f6
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.3.2_iphoneos-arm.deb
+Size: 49752
+Installed-Size: 376
+MD5sum: d7088196ae49a50243c92b07690138d1
+SHA256: e5b4155d5f370826d64fe3593322748744f528fcbd7ee398db320d6580034c3b
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.t9dialer
+Version: 1.13
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.t9dialer_1.13_iphoneos-arm.deb
+Size: 326602
+Installed-Size: 656
+MD5sum: 579b42bcb17db2de8b5d4469d9022096
+SHA256: 70be209e6abf6fbfc25be773a5f375a2d38f51f097eeff734210500f41e7354a
+Description: Add T9 support to the Phone app
+Name: T9Dialer
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.t9dialer
+
+Package: dev.eskimo.vpnstatus
+Version: 1.0
+Section: Tweaks
+Maintainer: Jordan Koch <me@jordanko.ch>
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker,firmware(>= 12.1)
+Architecture: iphoneos-arm
+Filename: /debs/dev.eskimo.vpnstatus_1.0_iphoneos-arm.deb
+Size: 305490
+Installed-Size: 596
+MD5sum: b0896380477d10753f102ee8e85e7dac
+SHA256: aacad53be83b352cc0fce71fe587cda564706325df74d51819093130180f568b
+Description: Indication of VPN status by changing WiFi/Cellular bar color
+Name: VPNStatus
+Author: Jordan Koch <me@jordanko.ch>
+Depiction: https://repo.eskimo.dev/depiction/dev.eskimo.vpnstatus
+

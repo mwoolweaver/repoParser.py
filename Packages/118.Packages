@@ -1,0 +1,19 @@
+Package: com.chris.matteterm
+Name: MatteTerm
+Version: 1.4.2
+Section: Terminal Support
+Depends: coreutils, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: debs//apps/com.chris.matteterm.deb
+Size: 1190422
+MD5sum: 8599bbbfdfa1c8eb3330f8cd5c278ab3
+SHA1: a915cc87491f3c045666f2ca44aeaf5f370e3927
+SHA256: f7c2d5a31ae348d6aee1e7cd2ae7c66fd91c91f2a089862269e5a3a89e654a2c
+Description: The best mobile terminal emulator ever!
+ Initial code base and project from White Terminal by @CodeHex. Reworked and updated into 
+Author: ChrisOSX <chrisosx.repo@gmail.com>
+Sponsor: ChrisOSX <https://chrisosx.github.io/>
+Maintainer: ChrisOSX <chrisosx.repo@gmail.com>
+Depiction: https://chrisosx.github.io/depictions/com.chris.matteterm/matteTermIndex.html
+Icon: file:///Applications/MatteTerm.app/MatteIcon.png
+

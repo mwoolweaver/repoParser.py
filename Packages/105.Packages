@@ -1,0 +1,130 @@
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub.deb
+Size: 8947392
+MD5sum: e7de78b877f3902f809e03a31fdc0414
+SHA1: cc54deef19d1d9d718990ca895c07b2bfca96afd
+SHA256: a0dff6f9fb4d9839be4d79d155baeaa1d3c57e4ceea99b4b3eaa12408c2688fc
+Section: Applications
+Description: An "adult entertainment" app centered around a great UI.
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.2.deb
+Size: 9399392
+MD5sum: 092505a38ab6aa9ea5190685ac7d567c
+SHA1: cdd0ac6e902e5027a1c55dfee532b9d39269ccff
+SHA256: d7c9fe83d9fe1938686d3eba749d7b85865c96dc5239383d11030c46d3e5e1e5
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.3.deb
+Size: 9453576
+MD5sum: bc88371903eef68c91d145cb508c4233
+SHA1: ef7d43573547b540d58999db0ce3d34c4071a86e
+SHA256: b8c24c4bc234260181734eac48c1562b119613e9221c3a1431a55b878d38c514
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.3-1.deb
+Size: 9452340
+MD5sum: fe57f4fa419aa4515161b599158297e2
+SHA1: a34af7e905c57ebd30cff32d0698ca3db9099c86
+SHA256: afae037f27703c946d12cc3870d8635a18fe37e18c623abeb4ea96d001a73ad7
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.3-2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.3-2.deb
+Size: 10897448
+MD5sum: 387c8d2e152c21d1e9e3a6779427a32b
+SHA1: cbc7cceffacf4fb5877343243ed1392621b62e31
+SHA256: ffe053e0d274d35b39aab5134ee73b341a3768881405c58bb433c58de651e390
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.4.deb
+Size: 9361712
+MD5sum: f5065fe4e1a5a40b4ebf02e1ce8238ae
+SHA1: c1db3b5c1b68661d6328e7ed5db210b5bbc6e13e
+SHA256: 994c678fb8406c548002b2f299b276b2363ceb874e015882ffa742dfd9b134d9
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.4-2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.4-2.deb
+Size: 9363396
+MD5sum: a4054cd0ebb3e7990540d6efdd200ea9
+SHA1: 51aad0372c2e7ae695ad72b7843800b0c32f960f
+SHA256: 07a0ce9a01ff43450d030dd250502528382a9b093e3bad9fa90ab7b7658bfa70
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.Hot-Tub
+Version: 0.0.5-beta1
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: ./debs/HotTub_0.0.5-b1.deb
+Size: 9984288
+MD5sum: 758d136969f3fe4bdaa13b9f6a182183
+SHA1: 6060669dd7ad0eb5b4f9fddf1d1141f34c7c7986
+SHA256: 95991e78e01799e00facba323acef993b001e628f5c552429323b0b963ba0282
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.c1d3r.MessageHeadsXI
+Version: 3.0~b2
+Architecture: iphoneos-arm
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.7~beta2), applist
+Filename: ./debs/MessageHeadsXI.deb
+Size: 1945754
+MD5sum: f400ebd8c9f01b4ec07f84f41c6a7e53
+SHA1: 9eb8f45b10036a3c484b8be5c146adfc233c2b20
+SHA256: d38e247f7052ffceb351c79d9ce22247e5b295501dd94dfd92c6f77e13d796af
+Section: Tweaks
+Priority: optional
+Description: Floating Facebook style chatheads for your favorite apps!
+Author: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.MessageHeadsXI
+Dev: c1d3r
+Name: ChatHeads
+

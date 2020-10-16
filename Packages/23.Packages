@@ -1,0 +1,124 @@
+Package: com.spiritoflogic.aeternum.hives.ios10
+Version: 1.0.0.0
+Section: Entertainment
+Maintainer: SpiritOfLogic <support@aeternum.at>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5015), preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: com.spiritoflogic.aeternum, com.spiritoflogic.aeternum.hives, org.coolstar.classicfolders, com.adamseiter.spotlightbegone
+Replaces: com.spiritoflogic.aeternum, com.spiritoflogic.aeternum.hives
+Architecture: iphoneos-arm
+Filename: .//aeternum.hives.ios10_1.0.0.0.deb
+Size: 455162
+MD5sum: 295a2afe927cc753a273f847cf84c248
+Description: Apple Watch UI App-Grouping SpringBoard replacement with Dock,Spotlight,Icon Rearranging,Deleting Apps,fast iWatch Interface Animations,many PreferenceLoader Settings,Winterboard support,Activator for on/off
+depiction: http://www.aeternum.at/cydia/aeternum_hives_ios10/
+icon: file:///Library/PreferenceBundles/Aeternum.bundle/Icon.png
+sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+homepage: http://www.aeternum.at/
+author: SpiritOfLogic <support@aeternum.at>
+dev: spiritoflogic
+name: Aeternum Hives 10
+
+Package: com.spiritoflogic.itouchsecure.ios10
+Version: 1.0.0.3
+Section: Security
+Maintainer: SpiritOfLogic <support@itouchsecure.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: com.spiritoflogic.itouchsecure, com.spiritoflogic.itouchsecure.ios8, com.spiritoflogic.itouchsecure.ios9
+Replaces: com.spiritoflogic.itouchsecure, com.spiritoflogic.itouchsecure.ios8, com.spiritoflogic.itouchsecure.ios9
+Architecture: iphoneos-arm
+Filename: .//itouchsecure.ios10_1.0.0.3.deb
+Size: 298828
+MD5sum: 4128714d88f641d12301efa404148bf1
+Description: Touch ID Password Autofill everywhere - Finger print sensor (TouchID/Biometric  Home Button) scanning for secure login authorization/protection of passwords in Safari, Apps - Security Authentication Tweak
+depiction: http://www.itouchsecure.com/cydia/itouchsecure.ios10/
+icon: file:///Library/PreferenceBundles/iTouchSecure.bundle/Icon.png
+sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+homepage: http://www.itouchsecure.com/
+author: SpiritOfLogic <support@itouchsecure.com>
+dev: spiritoflogic
+name: iTouchSecure 10
+
+Package: com.spiritoflogic.ncunify
+Version: 1.1.3.2
+Section: Productivity
+Maintainer: SpiritOfLogic <support@unify-tweak.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5015), preferenceloader, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: .//ncunify_1.1.3.2.deb
+Size: 255502
+MD5sum: 72f68b032c9f010554cbcfe6f81e4e58
+Description: Notifications Grouped by App at LockScreen/NotificationCenter sorted by app or by time-received, SpringBoard notifications organized into sections, many options via PreferenceLoader settings
+depiction: http://www.unify-tweak.com/cydia/unify/
+icon: file:///Library/PreferenceBundles/Unify.bundle/Icon.png
+sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+homepage: http://www.unify-tweak.com/
+author: SpiritOfLogic <support@unify-tweak.com>
+dev: spiritoflogic
+name: Unify
+
+Package: com.spiritoflogic.reflectrix
+Version: 0.9.7.1
+Section: Productivity
+Maintainer: SpiritOfLogic <support@reflectrix.com>
+Depends: firmware (>= 8.0), mobilesubstrate, cydia, com.rpetrich.rocketbootstrap
+Conflicts: com.spiritoflogic.reflectrix.app, com.spiritoflogic.reflectrix.addon
+Replaces: com.spiritoflogic.reflectrix.app, com.spiritoflogic.reflectrix.addon
+Architecture: iphoneos-arm
+Filename: .//reflectrix_full_0.9.7.1.deb
+Size: 3264026
+MD5sum: cc24710111b9f1790aa4a22c313b1dcd
+Description: Top Charts, Featured in Cydia like on App Store - Find the best Tweaks! Jailbreak app ranking,featured,free,paid,trending,latest,newest,most popular,AppStoreSpring BoardPreferenceLoaderSettingsWinterboardThemeActivatorActionNoCrack
+depiction: http://www.reflectrix.com/cydia/reflectrix/
+icon: file:///Applications/Reflectrix.app/Icon.png
+sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+tag: purpose::uikit, role::enduser
+homepage: http://www.reflectrix.com/
+author: SpiritOfLogic <support@reflectrix.com>
+dev: spiritoflogic
+name: Reflectrix
+
+Package: com.spiritoflogic.reflectrix.addon
+Version: 0.9.7.1
+Section: Addons (Cydia)
+Maintainer: SpiritOfLogic <support@reflectrix.com>
+Depends: firmware (>= 8.0), mobilesubstrate, cydia, com.rpetrich.rocketbootstrap
+Conflicts: com.spiritoflogic.reflectrix, com.spiritoflogic.reflectrix.app
+Replaces: com.spiritoflogic.reflectrix, com.spiritoflogic.reflectrix.app
+Architecture: iphoneos-arm
+Filename: .//reflectrix_addon_0.9.7.1.deb
+Size: 1302908
+MD5sum: c23b5041fa8c0fb7fbf0b97ef2c6f747
+Description: Top Charts, Featured in Cydia like on App Store - Find the best Tweaks! Jailbreak app ranking,featured,free,paid,trending,latest,newest,most popular,AppStoreSpring BoardPreferenceLoaderSettingsWinterboardThemeActivatorActionNoCrack
+depiction: http://www.reflectrix.com/cydia/reflectrix_addon/
+icon: file:///Applications/Reflectrix.app/Icon.png
+sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+tag: purpose::extension, role::enduser
+homepage: http://www.reflectrix.com/
+author: SpiritOfLogic <support@reflectrix.com>
+dev: spiritoflogic
+name: Reflectrix (Cydia only)
+
+Package: com.spiritoflogic.reflectrix.app
+Version: 0.9.7.1
+Section: Packaging
+Maintainer: SpiritOfLogic <support@reflectrix.com>
+Depends: firmware (>= 8.0), mobilesubstrate, cydia, com.rpetrich.rocketbootstrap
+Conflicts: com.spiritoflogic.reflectrix, com.spiritoflogic.reflectrix.addon
+Replaces: com.spiritoflogic.reflectrix, com.spiritoflogic.reflectrix.addon
+Architecture: iphoneos-arm
+Filename: .//reflectrix_app_0.9.7.1.deb
+Size: 3263310
+MD5sum: 6174190c2f660f3f62c97a27b05dee37
+Description: Top Charts, Featured Packages like on App Store - Find the best Tweaks! Jailbreak app ranking,featured,free,paid,trending,latest,newest,most popular,AppStoreSpring BoardPreferenceLoaderSettingsWinterboardThemeActivatorActionNoCrack
+depiction: http://www.reflectrix.com/cydia/reflectrix_app/
+icon: file:///Applications/Reflectrix.app/Icon.png
+sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+tag: purpose::uikit, role::enduser
+homepage: http://www.reflectrix.com/
+author: SpiritOfLogic <support@reflectrix.com>
+dev: spiritoflogic
+name: Reflectrix (App only)
+

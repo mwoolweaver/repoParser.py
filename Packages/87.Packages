@@ -1,0 +1,180 @@
+Package: me.apptapp.installer
+Version: 5.0.3-1
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 11.0)
+Filename: ./debs/Installer_5031.deb
+Size: 24113852
+MD5sum: b2bd44a6a0345a683bdfc0628f945308
+SHA1: 9159770f814116012bde743cd784dc8eb98951fc
+SHA256: 49ae0772286b5186fb60b3ea953b3d3845b4f433ce25f5fd27e0a56861f6db6f
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.2.3
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/Installer_5024.deb
+Size: 23778588
+MD5sum: 559fddc0d089ba686e2b233dc2430447
+SHA1: 7e38c9245df0db12f9e87bff8a2dde15eed7cdcc
+SHA256: 5a33a79f05ce16b28b2318713e148e3e07390a652eeb8f7df078d20e0fa31334
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.3
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/Installer_503.deb
+Size: 24100058
+MD5sum: 77e32ab66098564a2aa6e49f574a3e6e
+SHA1: c85e054bf8c9da4636e977b9e80260378c0f0b51
+SHA256: 27b51a4a334bc56faf984157d64cc2e0c9589972751ab17e7792b81312694b23
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0rc12-5
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 9.0)
+Filename: ./debs/Installer_500.deb
+Size: 30451956
+MD5sum: d969768b56e2b2056e44b1b878b30b7b
+SHA1: 4a022d2a20474c83319f242faf00269969956d47
+SHA256: c7cce4a7d270661d86f272128a367f9a194a502db9dbc9203afd6bed935a730b
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.1.1
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/Installer_5011.deb
+Size: 28330844
+MD5sum: d671104ffbc4056c8e69255275e4f2f7
+SHA1: 22afbd8a297e3ace36feb85ee54ded2e98794a02
+SHA256: 3460ed71039b42c0a0479fee11d11a31cf30e57074388ec0accd929258bafdc4
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.1
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/Installer_501.deb
+Size: 28238468
+MD5sum: bb31f0ac1060827be2153191edf63f2b
+SHA1: bf11587e378faa389080bb537e2dfeaf8bf3c3f8
+SHA256: 563bf22cfd8aafe037d988ad42b7cc0bb8cd82b62172a0b3c51911e661edfbf6
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.2.1
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/Installer_5021.deb
+Size: 28384608
+MD5sum: db2380558ebdc1ea2c2f7064a3b1c5ed
+SHA1: 32e3acab79fd672dd44f4acd0349125e49ee2fa0
+SHA256: 9376ca676a343e3d4744b61fe3f88d6aea4033a2527e4f9b20467f17ad0952e3
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.3-3
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 11.0)
+Filename: ./debs/Installer_5033.deb
+Size: 24128860
+MD5sum: eefd64f2cffe18ca1b8fed42d743be40
+SHA1: 7000d183073d5fb45401e0539b8d9d4a28ab4526
+SHA256: e3936da56a3f4d3f733cab56f07e5029d7be8caa3fa7bc3ba9887fe3a99897fe
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.2
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/Installer_502.deb
+Size: 23750338
+MD5sum: 507e7fbe6a1f0432957b8c12f3773177
+SHA1: 89477e8dd231a7b43cfea14f82eeab6285d74a6a
+SHA256: 1adac2ff3ce33be9e4bc93d3d75d883f0a0fe3082d422542c52e057355bd9c63
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: me.apptapp.installer
+Version: 5.0.2.2
+Architecture: iphoneos-arm
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 10.0)
+Filename: ./debs/Installer_5022.deb
+Size: 28384594
+MD5sum: 4678185d34acd68ad0843fd46085616c
+SHA1: a972a0705f46c3dcbab0fa741ed9ae6300c95b3b
+SHA256: f5c70f585da5c863e0bd3adba873543f5b63171cdc3e3650d68b74103dc55a17
+Section: Packaging
+Description: The fastest package manager built specifically for iOS!
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Sileodepiction: https://apptapp.me/repo/installer.json
+

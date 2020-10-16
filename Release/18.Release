@@ -1,0 +1,19 @@
+Origin: nullpixel's Repo
+
+Label: nullpixel's Repo
+
+Suite: stable
+
+Version: 1.0
+
+Codename: dslk
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: stuff
+
+MD5Sum:
+d5387f1b8998451700c6c2283db25ec3 3853 Packages
+36c3715e9aa80267858f9dc8709be371 1580 Packages.bz2

@@ -1,0 +1,325 @@
+Package: me.lightmann.aeaea
+Version: 1.0.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader
+Conflicts: me.lightmann.transparentnotif, me.lightmann.clearwidgets
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.aeaea_1.0.0.1_iphoneos-arm.deb
+Size: 333150
+Installed-Size: 708
+MD5sum: d06b33b20a3b736b13c38dcd2e5d4f24
+SHA1: 5a603c75369021d1600bb04e193621bbce03af1f
+SHA256: 06e248b0ab6bf8d3cc1baec64ce1915a31ef725b566d2bd8313b549a7ee028f4
+Description: Cleans up notification banners and widget platters.
+Name: Aeaea
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.aeaea
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.aeaea.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.aeaea.png
+
+Package: me.lightmann.aeaea
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader
+Conflicts: me.lightmann.transparentnotif, me.lightmann.clearwidgets
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.aeaea_1.0.0_iphoneos-arm.deb
+Size: 333056
+Installed-Size: 708
+MD5sum: f5f993abc60dd7bc780e9b25ac05cd90
+SHA1: 88177b3fbfe37872e7eda2b07adf97dc64897546
+SHA256: 5071a6776fd1e75edb1c36eb3afeb120ff597b8bf05231219558e3a93a51c648
+Description: Cleans up notification banners and widget platters.
+Name: Aeaea
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.aeaea
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.aeaea.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.aeaea.png
+
+Package: me.lightmann.msgswap
+Version: 2.0.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.msgswap_2.0.0.1_iphoneos-arm.deb
+Size: 12390
+Installed-Size: 140
+MD5sum: 4038ec0590652595c24a35fa1ceafdc2
+SHA1: 5564aee997824e5e913d6e63a227d973868e1aa4
+SHA256: 7c99927b7d6bc54760ac2d10fb74b20ca4f65972a250d224a2f9598c796ce388
+Description: A more accessible way to send photos in iMessage.
+Name: MsgSwap
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.msgswap.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.msgswap.png
+
+Package: me.lightmann.msgswap
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.msgswap_2.0.1_iphoneos-arm.deb
+Size: 12186
+Installed-Size: 136
+MD5sum: 700f4d08b8b2510e3de85657be9d549f
+SHA1: af6b13e72fca305d1935c8c4865d52ba6f5fca83
+SHA256: 9bde267da7b5a020520812ad8f9569b00ebb5617cf69873b64ba4cc09a1a6ab5
+Description: A more accessible way to send photos in iMessage.
+Name: MsgSwap
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.msgswap.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.msgswap.png
+
+Package: me.lightmann.msgswap
+Version: 2.0.2.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.msgswap_2.0.2.1_iphoneos-arm.deb
+Size: 11864
+Installed-Size: 132
+MD5sum: f76ab42bcc368ddcb6ea11c6391407a8
+SHA1: 823e874b91a1662a50be77d6c1359249fb1b4db8
+SHA256: cc51b8a290e42cbedda6830b09d07df155fe0912ba4442511f0d1572d4d6388b
+Description: A more accessible way to send photos in iMessage.
+Name: MsgSwap
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.msgswap.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.msgswap.png
+
+Package: me.lightmann.msgswap
+Version: 2.0.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.msgswap_2.0.2_iphoneos-arm.deb
+Size: 12048
+Installed-Size: 136
+MD5sum: 4d3df1e0f5d3b41d893f32c5c694cee1
+SHA1: 702733e9034022e943d01dd0636d6f4673fc2613
+SHA256: 3daba5a5dd9067448035dd6d7bd9a76b755e7b5c6cb702916bf60afe7987798f
+Description: A more accessible way to send photos in iMessage.
+Name: MsgSwap
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.msgswap.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.msgswap.png
+
+Package: me.lightmann.quorra
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.0_iphoneos-arm.deb
+Size: 14160
+Installed-Size: 168
+MD5sum: 60f3a77166205ee515898994afba8b2d
+SHA1: 27e3fbae72056122e04ee3764a3920f4904f3af7
+SHA256: dabc2fb4255208da8fa374e923d06da2c17ccaecaa81683f01846613591ce3d4
+Description: Purpose: to help the User
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.quorra.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.quorra.png
+
+Package: me.lightmann.quorra
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.1_iphoneos-arm.deb
+Size: 18230
+Installed-Size: 168
+MD5sum: 4fa5ceb7adb0092fddbd4f2f26193f13
+SHA1: 8b2603dced962e8d804f8f787230f362c4e07ca9
+SHA256: 912e43d146ba9d074c1fc4dfaf78e134376a14b6a602b456a3e10c0e6c83142d
+Description: Purpose: to help the User
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.quorra.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.quorra.png
+
+Package: me.lightmann.quorra
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.2_iphoneos-arm.deb
+Size: 15078
+Installed-Size: 168
+MD5sum: 7a9d152f5b6403391e6204c2c47a0e36
+SHA1: 2270b59c720f41ff86cce28fdd1621f4caca0018
+SHA256: 08cefc46bc9ad91f8b08cc06cc8021b66c93b21b8d73fa9f2d583d42b57cda70
+Description: Purpose: to help the User
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.quorra.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.quorra.png
+
+Package: me.lightmann.quorra
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.3_iphoneos-arm.deb
+Size: 33602
+Installed-Size: 336
+MD5sum: e102c6ac69615ea389b337e5b6f0d8cc
+SHA1: 8629bf1875fa4ae28c64aa401003961dbf4e8e5f
+SHA256: bc121a3f910cf7a4c755b1014f2e4db2b18f21edf642d209394136ca42b82768
+Description: Purpose: to help the User
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.quorra.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.quorra.png
+
+Package: me.lightmann.stripecount
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.stripecount_1.0.2_iphoneos-arm.deb
+Size: 4936
+Installed-Size: 136
+MD5sum: 17d1b05881a66f93cc4d36fcb4fb3da2
+SHA1: 66f005dfc3f5f226c500b339007d94f5d7860f19
+SHA256: 041992bf77da926223603ea0e2d8731407ee787a85aa6bf33fcaa743366e7dd9
+Description: For Zebra - See the number of installed packages at a glance.
+Name: StripeCount
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.stripecount.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.stripecount.png
+
+Package: me.lightmann.texttime
+Version: 1.0.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.texttime_1.0.0.1_iphoneos-arm.deb
+Size: 34416
+Installed-Size: 236
+MD5sum: fbc48e58ad354fae9519cce72b1079f0
+SHA1: c15dedf5e1df54898ca3d7479a060ce9e486b393
+SHA256: 6781e0435d81a4cae440e1ed5b4656682bf17c6b1be1089c0591d8ef4c1803f7
+Description: Display the time as text!
+Name: TextTime
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.texttime
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.texttime.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.texttime.png
+
+Package: me.lightmann.texttime
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.texttime_1.0.0_iphoneos-arm.deb
+Size: 38798
+Installed-Size: 236
+MD5sum: 39feed733f5405e1a610d8642b95292a
+SHA1: 65d903fd7d151d1cc687d7995210771a447e62f0
+SHA256: a83869a47f6577840583f948fb72c008cf5ad57c530a940e0c8d10ca08024917
+Description: Display the time as text!
+Name: TextTime
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.texttime
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.texttime.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.texttime.png
+
+Package: me.lightmann.vinyl
+Version: 1.0.7.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7.1_iphoneos-arm.deb
+Size: 316122
+Installed-Size: 672
+MD5sum: 2188bd6f764b9e91c5e5c208bd4f9f2f
+SHA1: 1b297ce967b131164bae6f2f398a85d820b80478
+SHA256: 804fb068528cbb9e38a52bbf6fdb302c348280a051b94f03451dcb1db7b97ed0
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.vinyl.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.vinyl.png
+
+Package: me.lightmann.vinyl
+Version: 1.0.7.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7.2_iphoneos-arm.deb
+Size: 316356
+Installed-Size: 672
+MD5sum: 4fa1082b8ab658b05ab0e1a5c98fda48
+SHA1: 26d23f090f3800327ef9887a843d6dbfa137456a
+SHA256: 0fcece99d2dc216928a2c38f8e09595cb8419a25fd156ce3a47b799fd8f7ca7a
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.vinyl.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.vinyl.png
+
+Package: me.lightmann.vinyl
+Version: 1.0.7.3
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7.3_iphoneos-arm.deb
+Size: 320692
+Installed-Size: 664
+MD5sum: cfa98f118e535e4749437d52ae27946b
+SHA1: deb47ae15902f9226665ab89b2d8aa8a226563dd
+SHA256: 617abce7713afb01ab514f180a3dc55c879f17572332e783e0cd31bf0252524a
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.vinyl.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.vinyl.png
+
+Package: me.lightmann.vinyl
+Version: 1.0.7
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7_iphoneos-arm.deb
+Size: 316260
+Installed-Size: 672
+MD5sum: c75b3368df4f465416f5049b3e78fea2
+SHA1: bf406c5d55313542403831aa82d9e09e7ff9edb9
+SHA256: 77a0a15740549e5e0036cbad1c846f94d4f6699f1cc6680d345fdccb74d7e25a
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+SileoDepiction: https://usrlightmann.github.io/sileodepictions/me.lightmann.vinyl.json
+Icon: https://usrlightmann.github.io/assets/icons/me.lightmann.vinyl.png
+

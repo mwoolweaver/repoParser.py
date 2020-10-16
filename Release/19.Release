@@ -1,0 +1,14 @@
+Origin: PixelOmer's Repo
+Label: PixelOmer's Repo
+Suite: stable
+Version: 1.0.3
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+MD5Sum:
+  f460d88cc9b0c64856cf34fe68758b03 21504 Packages
+  280a4f986b62201df0389f61395a4e25 6840 Packages.bz2
+SHA256:
+  f4008cea7cae594785cfef4fabde338b4107b15869b452b6123689bc740142e1 21504 Packages
+  c748a239facd4d794887c75e59982f0def1a629e07449c535ec9c799423f18e1 6840 Packages.bz2
+

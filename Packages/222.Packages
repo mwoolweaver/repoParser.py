@@ -1,0 +1,120 @@
+Package: me.jjolano.alertdismiss
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: ./pkg/me.jjolano.alertdismiss.deb
+Size: 25240
+MD5sum: 2282ea8ff09e382807e1aa3399996d8d
+SHA1: a0d8427704e3e458e1ed7c373d1ff236c58e1ffc
+SHA256: d7ad8fa1edf908499c807075ee62b947cd1b329300d0dc12cdf79171e69f2fb1
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Add a Force Dismiss button to any UIAlertController.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.alertdismiss.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+Name: AlertDismiss
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+
+Package: me.jjolano.lowpowercharging
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=9.0), mobilesubstrate
+Filename: ./pkg/me.jjolano.lowpowercharging.deb
+Size: 8424
+MD5sum: d10dd80f99277bbf745d8bb1d9b5a421
+SHA1: 110700edb5b91680e7719349527ed766ba5efbb2
+SHA256: 2fc7585c421c660e9afeedaba1d5f5fe3b336156e2ebb8d73d8586b692699b36
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Enables Low Power Mode automatically when charging.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.lowpowercharging.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.lowpowercharging/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.lowpowercharging.json
+Name: LowPowerCharging
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.lowpowercharging.json
+
+Package: me.jjolano.lowpowerlock
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=9.0), mobilesubstrate
+Filename: ./pkg/me.jjolano.lowpowerlock.deb
+Size: 8544
+MD5sum: 70c8084f3425175ee22c768843b688be
+SHA1: 76016831dd299803ddac3cf079f4fd89a2a708b7
+SHA256: 3d6ba7b27640981866fac0e27d0bd2cf68f9dbccd5b4f7af08c11924aa942413
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Enables Low Power Mode automatically while your device is locked.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.lowpowerlock.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.lowpowerlock/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.lowpowerlock.json
+Name: LowPowerLock
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.lowpowerlock.json
+
+Package: me.jjolano.lowpowertweaks
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=9.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./pkg/me.jjolano.lowpowertweaks.deb
+Size: 28960
+MD5sum: 2d67fae8a541f915ba7d482678e10069
+SHA1: 1f03036b00c7453d271f4ad28d6433a87c985c61
+SHA256: 35b63cb1a3f7020727e63355c7602ef9369378975f79e9cf2fa9e9facdfec566
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Selectively disable tweaks while Low Power Mode is enabled.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.lowpowertweaks.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.lowpowertweaks/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.lowpowertweaks.json
+Name: LowPowerTweaks
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.lowpowertweaks.json
+
+Package: me.jjolano.nofolderbadge
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate
+Filename: ./pkg/me.jjolano.nofolderbadge.deb
+Size: 6698
+MD5sum: cb54cb3e80385e7e9989a153ba3fe206
+SHA1: f4511c1eeddb307bdafd40f65bda52f2d895a5d6
+SHA256: e954f42eda859583b3b1a9c77cfa422efb681a5f08278bfa066a2d6fe7f9872c
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Removes badges from folders.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.nofolderbadge.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.nofolderbadge/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.nofolderbadge.json
+Name: NoFolderBadge
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.nofolderbadge.json
+
+Package: me.jjolano.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./pkg/me.jjolano.shadow.deb
+Size: 250054
+MD5sum: 05ae8facd56cc46b72837c4e95145874
+SHA1: 390069d1be05fec40d119f554faf26655688df92
+SHA256: 9235941ea8fbe40adde9a172701e9a381b65111e13291147f070698477da6d25
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: A lightweight general jailbreak detection bypass.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+Name: Shadow
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+
