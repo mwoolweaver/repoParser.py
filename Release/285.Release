@@ -1,6 +1,0 @@
-Origin: machport Repo
-Label: machport
-Version: 1
-Architectures: iphoneos-arm
-Components: main
-Description: The APT repo for machport.

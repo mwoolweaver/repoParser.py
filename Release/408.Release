@@ -1,8 +1,0 @@
-Origin: Raffer's Repo
-Label: Raffer's Cydia Repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: rafferli.com/repo 

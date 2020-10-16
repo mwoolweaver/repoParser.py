@@ -1,8 +1,0 @@
-Origin: heft johnson
-Label: heftjohnson.github.io
-Suite: stable
-Version: 1.6.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: a farm

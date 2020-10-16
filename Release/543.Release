@@ -1,8 +1,0 @@
-Origin: Person's Repo
-Label: Person's Repo
-Suite: stable
-Version: 1.0
-Codename: xxthepersonxrepo
-Architectures: iphoneos-arm
-Components: main
-Description: Person's Cydia Repository

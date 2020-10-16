@@ -1,8 +1,0 @@
-Origin: moyashi repository
-Label: moyashi repository
-Suite: stable
-Version: 0.1
-Codename: experimental
-Architectures: iphoneos-arm
-Components: main
-Description: Experimental Repository for iPhone

@@ -1,9 +1,0 @@
-Origin: Midcoreboot's Repo
-Label: Midcoreboot's Repo
-Suite: stable
-Version: 1.0
-Codename: Midcoreboot
-Architectures: iphoneos-arm
-Components: main
-Description: Midcoreboot's Repo
-MD5Sum:

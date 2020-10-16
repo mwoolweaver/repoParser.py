@@ -1,8 +1,0 @@
-Origin: Lint's Repository 
-Label: lint.github.io/repo
-Suite: stable
-Version: 1.0
-Codename: lint
-Architectures: iphoneos-arm
-Components: main
-Description: Lint's Cydia Repository

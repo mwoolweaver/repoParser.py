@@ -1,8 +1,0 @@
-Origin:Add->http://repo.bonventre.ch
-Label:Add->http://repo.bonventre.ch
-Suite: stable
-Version: 0.1
-Codename: myrepo
-Architectures: iphoneos-arm
-Components: main
-Description:Add->http://repo.bonventre.ch

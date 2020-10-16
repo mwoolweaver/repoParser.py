@@ -1,8 +1,0 @@
-Origin: Dezqo's Repository
-Label: Dezqo's Repo
-Suite: stable
-Version: 0.5
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: This is my personal repo, I host all of my packages here.

@@ -1,8 +1,0 @@
-Origin: Tony Ciroussel repo
-Label: Tony Ciroussel repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Stable/Beta/Alpha repo for testing.

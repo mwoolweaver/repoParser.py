@@ -1,8 +1,0 @@
-Origin: Packetfahrer Repo
-Label: Packetfahrer´s Repo
-Suite: stable
-Version: 1.0
-Codename: Packetfahrer
-Architectures: iphoneos-arm
-Components: main
-Description: Packetfahrer´s Cydia Repository

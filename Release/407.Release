@@ -1,7 +1,0 @@
-Origin: quiprr
-Label: quiprr
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Description: Repo where I host my personal work.

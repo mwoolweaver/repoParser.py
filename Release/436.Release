@@ -1,8 +1,0 @@
-Origin: RossDarker's Repo
-Label: RossDarker's Repo
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Codename: rossrepo
-Description: RossDarker's Cydia Repository

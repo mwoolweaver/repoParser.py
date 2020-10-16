@@ -1,8 +1,0 @@
-Origin: Mootjeuh's Repository
-Label: Mootjeuh's Repo
-Suite: stable
-Version: 1.0
-Codename: tangelo
-Architectures: iphoneos-arm
-Components: main
-Description: Experimental and minor update releases

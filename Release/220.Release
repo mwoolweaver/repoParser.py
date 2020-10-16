@@ -1,7 +1,0 @@
-Origin: Matchstic
-Label: Matchstic
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Description: Repository for my tweaks; some private beta stuff can also be found here, but cannot be installed if I don't have your UDID.

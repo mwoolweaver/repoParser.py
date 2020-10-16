@@ -1,8 +1,0 @@
-Origin: DozeNZB's Repo
-Label: nzbUnity's repo for beta releases
-Suite: stable
-Version: 0.9
-Codename: tangelo
-Architectures: iphoneos-arm
-Components: main
-Description: nzbUnity's repo for beta releases

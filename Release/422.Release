@@ -1,9 +1,0 @@
-Origin: Twickd
-Label: Twickd
-Suite: stable
-Version: 2.0
-Codename: twickdrepo
-Architectures: iphoneos-arm
-Components: main
-Description: Welcome Home!
-Acquire-By-Hash: yes

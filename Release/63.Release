@@ -1,8 +1,0 @@
-Origin: ARX8x's repo
-Label: ARX8x
-Suite: stable
-Version: 1.0
-Codename: xNinja
-Architectures: iphoneos-arm
-Components: main
-Description: mobilesubstrate tweaks

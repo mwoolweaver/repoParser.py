@@ -1,8 +1,0 @@
-Origin: ridn
-Label: ridn beta repo
-Suite: stable
-Version: 1.0
-Codename: stable
-Architectures: darwin-arm
-Components: main
-Description: Beta software from ridn

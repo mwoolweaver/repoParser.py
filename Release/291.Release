@@ -1,8 +1,0 @@
-Origin: MaskMan's Repo
-Label: MaskMan's Official Repo
-Suite: stable
-Version: 1.3
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: MaskMan's official repo

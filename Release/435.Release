@@ -1,9 +1,0 @@
-Origin: RKO1195 repo
-Label: RKO1195 repo
-Suite: stable
-Version: 1.0
-Codename: RKO1195
-Architectures: iphoneos-arm
-Components: main
-Description: Free public repo for iOS themes, widgets and other cool stuff.
-SHA256: 

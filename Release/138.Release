@@ -1,8 +1,0 @@
-Origin: Fay.io Dev
-Label: Fay.io dev repo
-Suite: stable
-Version: 1.0
-Codename: fayrepo
-Architectures: iphoneos-arm
-Components: main
-Description: Dev builds from Fay.io

@@ -1,8 +1,0 @@
-Origin: projectblue
-Label: ashenyx-projectblue
-Suite: stable
-Version: 0.9
-Codename: blue
-Architectures: iphoneos-arm
-Components: main
-Description: Ashenyx Cydia Repository(projectblue)

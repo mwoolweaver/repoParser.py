@@ -1,8 +1,0 @@
-Origin: Skylar's APT Repo
-Label: Skylar's APT Repo
-Suite: stable 
-Version: 1.0
-Codename: hack
-Architectures: iphoneos-arm 
-Components: main
-Description: Skylar's APT Repository with leet hacker scripts

@@ -1,8 +1,0 @@
-Origin: Ivano Bilenchi's Beta Repo
-Label: Ivano Bilenchi's Beta Repo
-Suite: stable
-Version: 1.0
-Codename: stable
-Architectures: iphoneos-arm
-Components: main
-Description: Ivano Bilenchi's beta Cydia repository.

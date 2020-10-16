@@ -1,9 +1,0 @@
-Origin: Simalary Studios Beta Repo
-Label: Simalary Studios Beta Repo
-Suite: stable
-Version: 1.0
-Codename: SSBR
-Architectures: iphoneos-arm
-Components: main
-Description: Beta repo for Simalary Studios
-MD5Sum:

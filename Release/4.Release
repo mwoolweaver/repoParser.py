@@ -1,8 +1,0 @@
-Origin: rio-doro (beta)
-Label: rio-doro (beta) 
-Suite: stable
-Version: 1.0
-Codename: rio-doro beta repo
-Architectures: iphoneos-arm
-Components: main
-Description: my personal repository with public beta releases

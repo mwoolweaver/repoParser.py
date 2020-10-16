@@ -1,8 +1,0 @@
-Origin: Mu
-Label: Mu Tweaks
-Suite: stable
-Version: 1.0
-Codename: Mu_Tweaks
-Architectures: iphoneos-arm
-Components: main
-Description: Mu's Cydia Repository

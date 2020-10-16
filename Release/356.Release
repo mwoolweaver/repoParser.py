@@ -1,8 +1,0 @@
-Origin: Pr0crustes
-Label: Pr0crustes
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: The one and only Pr0crustes cydia repo.

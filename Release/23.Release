@@ -1,8 +1,0 @@
-Origin: SpiritOfLogic Beta Repo
-Label: SpiritOfLogic Betas
-Suite: stable
-Version: 0.9
-Codename: tangelo
-Architectures: iphoneos-arm
-Components: main
-Description: Beta Versions of Unify, Reflectrix, PhotoAlbums+, iTouchSecure, PwnTunes, Aeternum (Hives)

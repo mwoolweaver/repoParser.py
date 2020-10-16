@@ -1,8 +1,0 @@
-Origin: Kunderscore's Repo
-Label: Kunderscore
-Suite: beta
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: tweaks for testing

@@ -1,8 +1,0 @@
-Origin: midey's repo
-Label: mideydev
-Suite: stable
-Version: 1.0
-Codename: mideydev
-Architectures: iphoneos-arm
-Components: main
-Description: tweaks that scratch itches

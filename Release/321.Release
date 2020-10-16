@@ -1,9 +1,0 @@
-Origin: nahum365 repo
-Label: nahum365’s repo
-Suite: stable
-Version: 0.9
-Codename: tangelo
-Architectures: iphoneos-arm
-Components: main
-Description: Nahum365’s repo.
-Icon: file://Cydiaicon.png

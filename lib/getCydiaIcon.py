@@ -1,6 +1,6 @@
 from lib.getRepoFile import get, exceptions
 
-import PIL
+import shutil
 
 def getCydiaIcon(repoURL):
 
@@ -10,9 +10,16 @@ def getCydiaIcon(repoURL):
     for url in repoURL:
         cydiaIconURL = url + "/CydiaIcon.png"
         try:
-            checkCydiaIcon = get(cydiaIconURL, headers={"User-Agent":"Debian APT-HTTP/1.3 (2.1.10)"}, timeout=2)
+            checkCydiaIcon = get(cydiaIconURL, headers={"User-Agent":"Debian APT-HTTP/1.3 (2.1.10)"}, stream=True)
 
             if checkCydiaIcon.status_code == 200:
+                
+                checkCydiaIcon.raw.decode_content = True
+                fileToSaveTo = "CydiaIcon/" + str(repoURL.index(url)) + ".CydiaIcon.png"
+        
+                with open(fileToSaveTo, 'wb') as f:
+                    shutil.copyfileobj(checkCydiaIcon.raw, f)
+                
                 cydiaIcons.append([cydiaIconURL, repoURL.index(url)])
                 print ('\033[K  {0} Found {1} CydiaIcon.png {2}\r'.format((repoURL.index(url)+1), url, checkCydiaIcon.status_code), end='')
             else:

@@ -1,8 +1,0 @@
-Origin: iCraze's Repo
-Label: iCraze's Repo
-Suite: stable
-Version: 1.0
-Codename: iCraze's Repo
-Architectures: iphoneos-arm
-Components: main
-Description: My APT Repository For Some Of My Random Tweaks.

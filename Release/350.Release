@@ -1,9 +1,0 @@
-Origin: Pikabu Repo
-Label: Pikabu Repo
-Suite: stable
-Version: 1.0
-Codename: Pikabu
-Architectures: iphoneos-arm
-Components: main
-Description: Pikabu Repo
-MD5Sum:

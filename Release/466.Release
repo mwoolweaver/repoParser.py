@@ -1,8 +1,0 @@
-Origin: sk8r Repo
-Label: sk8r
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Public Cydia repository of sk8r

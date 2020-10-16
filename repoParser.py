@@ -1,11 +1,36 @@
 from datetime import datetime
-import shutil
+from time import sleep
 
 from lib.getLists import getLists
 from lib.getRelease import findDUPrelease
 from lib.getPackages import getPackages
 from lib.getCydiaIcon import getCydiaIcon, get
 
+import os
+import glob
+
+Pfiles = glob.glob(r'Packages/*.Packages')
+Rfiles = glob.glob(r'Release/*')
+CIfiles = glob.glob(r'CydiaIcon/*')
+
+
+for a in Pfiles:
+    try:
+        os.unlink(a)
+    except OSError as e:
+        print("Error: %s : %s" % (a, e.strerror))
+for b in Rfiles:
+    try:
+        os.unlink(b)
+    except OSError as e:
+        print("Error: %s : %s" % (b, e.strerror))
+for c in CIfiles:
+    try:
+        os.unlink(c)
+    except OSError as e:
+        print("Error: %s : %s" % (c, e.strerror))
+
+print ("Deleted old data.")
 startTime = datetime.now()
 
 # Where we source our repo list from
@@ -157,16 +182,6 @@ print (" ")
 print ("Successfully wrote " + str(len(packagesURL)) + " Packages files.")
 print (" ")
 
-for icon in iconsPNG:
-    if icon != None:
-        checkCydiaIcon = get(icon[0], headers={"User-Agent":"Debian APT-HTTP/1.3 (2.1.10)"}, stream=True)
-        checkCydiaIcon.raw.decode_content = True
-        fileToSaveTo = "CydiaIcon/" + str(icon[1]) + ".CydiaIcon.png"
-        
-        with open(fileToSaveTo, 'wb') as f:
-            shutil.copyfileobj(checkCydiaIcon.raw, f)
-    else:
-        continue
 
 print (" ")
 print ("Successfully wrote " + str(len(iconsPNG)) + " Cydia Icons.")

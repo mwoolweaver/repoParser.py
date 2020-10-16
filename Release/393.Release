@@ -1,8 +1,0 @@
-Origin: Kristapa repozitorijs
-Label: Kristaps
-Suite: stable
-Version: 2.0
-Codename: zuparepo
-Architectures: iphoneos-arm
-Components: main
-Description: Kristapa iOS uzlabojumi

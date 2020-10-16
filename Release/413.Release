@@ -1,8 +1,0 @@
-Origin: Samplasion's Repo
-Label: Samplasion's Repo
-Suite: stable
-Version: 1.0
-Codename: cookie
-Architectures: iphoneos-arm
-Components: main
-Description: Samplasion's repository for beta stuff

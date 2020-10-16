@@ -1,8 +1,0 @@
-Origin: Patrick Knauf's repo
-Label: patrickknauf.com/repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Archived repo

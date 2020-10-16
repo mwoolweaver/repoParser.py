@@ -1,8 +1,0 @@
-Origin: S0MECoder’s Repo
-Label: S0MECoder
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: My personal repository for whatever I want other people to have.

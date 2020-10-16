@@ -1,8 +1,0 @@
-Origin: ichitaso repository
-Label: ichitaso
-Suite: stable
-Version: 1.0
-Codename: ichitaso
-Architectures: iphoneos-arm 
-Components: main
-Description: ichitaso's repository
